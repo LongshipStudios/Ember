@@ -1,7 +1,4 @@
-/// @description Movement
-// You can write your code in this editor
-
-// Keys
+// Movement
 
 	//Move up key pressed?
 	upKeyPressed = keyboard_check(ord("W"));
@@ -15,45 +12,20 @@
 	//Move right key pressed?
 	rightKeyPressed = keyboard_check(ord("D"));
 	
-
-// Movement
-
-	// Move up
-	if upKeyPressed
-		{
-			//if (place_meeting(x, y - (spd+height), par_walkable) && 
-			//	!place_meeting(x, y - spd, par_collidable))
-				{
-					y -= spd;
-				}
-		}
+	var xDir = rightKeyPressed - leftKeyPressed;
+	var yDir = downKeyPressed - upKeyPressed;
 	
-	// Move down
-	if downKeyPressed
-		{
-		//	if (place_meeting(x, y + (spd+height), par_walkable) &&
-		//		!place_meeting(x, y + spd, par_collidable))
-			{
-				y += spd;
-			}
-		}
-		
-	// Move left
-	if leftKeyPressed
-		{
-		//	if (place_meeting(x - (spd+width), y, par_walkable) &&
-		//		!place_meeting(x - spd, y, par_collidable))
-				{
-					x -= spd;
-				}
-		}
-		
-	// Move right	
-	if rightKeyPressed
-		{
-		//	if (place_meeting(x + (spd+width), y, par_walkable) &&
-		//		!place_meeting(x + spd, y, par_collidable))
-				{
-					x += spd;
-				}
-		}
+	if(upKeyPressed || leftKeyPressed || downKeyPressed || rightKeyPressed)
+	{
+		moveDir = point_direction(0,0,xDir,yDir);
+	
+		xMove = lengthdir_x(spd,moveDir);
+		yMove = lengthdir_y(spd,moveDir);
+	
+		x += xMove;
+		y += yMove;
+	}
+	else
+	{
+		moveDir = noone;
+	}
