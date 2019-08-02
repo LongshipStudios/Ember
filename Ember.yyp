@@ -239,19 +239,19 @@
             }
         },
         {
-            "Key": "c06e9884-102b-4e89-9496-8a29cef201d3",
-            "Value": {
-                "id": "d77d61bf-9c6d-4871-8ca4-d1d87b5c46d1",
-                "resourcePath": "views\\c06e9884-102b-4e89-9496-8a29cef201d3.yy",
-                "resourceType": "GMFolder"
-            }
-        },
-        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "6a301c84-ca61-4170-9bbc-a47fc6aee1b1",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "d00d7391-87e1-4d94-be2a-1ab11a7c724d",
+            "Value": {
+                "id": "6d490bc4-b2b5-48ec-b183-c6a2943b1b3a",
+                "resourcePath": "views\\d00d7391-87e1-4d94-be2a-1ab11a7c724d.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
