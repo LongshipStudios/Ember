@@ -3,4 +3,4 @@
 
 instance_create_layer(x,y,layer,obj_saw_trap_saw);
 
-alarm[0] = room_speed * 3;
+alarm[0] = room_speed * 6;
