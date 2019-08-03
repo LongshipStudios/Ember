@@ -138,7 +138,7 @@
             "Key": "16cbb02f-e6fc-41f5-a138-ffdde3561e4c",
             "Value": {
                 "id": "acc67670-0ed3-402e-ae83-e3dc3d9fef58",
-                "resourcePath": "sprites\\sprite11\\sprite11.yy",
+                "resourcePath": "sprites\\spr_tile_terrain\\spr_tile_terrain.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -417,7 +417,7 @@
         {
             "Key": "4741f1e2-c3dc-4d20-9819-e7b640316de1",
             "Value": {
-                "id": "043d6592-3e9f-488f-be08-1ab63d6eb7a4",
+                "id": "5a626bf9-3da1-485c-8212-c5900ff5c894",
                 "resourcePath": "objects\\obj_saw_trap_saw\\obj_saw_trap_saw.yy",
                 "resourceType": "GMObject"
             }

@@ -49,7 +49,8 @@ else
 	spdRampTimer = clamp(spdRampTimer - delta_time_sec, 0, spdRampDownSpd);
 	var actualspeed = lerp(0, spd, spdRampTimer/spdRampDownSpd);
 	
-	lightOn = true;
+	//lightOn = true;
+	lightOn = false;
 }
 
 moveDir = point_direction(0,0,xDir,yDir);
