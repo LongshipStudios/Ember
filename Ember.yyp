@@ -1186,7 +1186,7 @@
             "Key": "e6f5f567-b829-445f-b85a-a23e964a58a2",
             "Value": {
                 "id": "339eac44-d381-4bbf-bbc2-196aa863e0c5",
-                "resourcePath": "sounds\\sound3\\sound3.yy",
+                "resourcePath": "sounds\\snd_circular_saw\\snd_circular_saw.yy",
                 "resourceType": "GMSound"
             }
         },
