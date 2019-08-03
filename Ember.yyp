@@ -138,7 +138,7 @@
             "Key": "3ad87d41-b344-40f5-b64e-22dd47be657b",
             "Value": {
                 "id": "a841218b-8fa0-4441-83de-e8d5da02e122",
-                "resourcePath": "objects\\object14\\object14.yy",
+                "resourcePath": "objects\\obj_water_pit\\obj_water_pit.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -250,7 +250,7 @@
             "Key": "6e4de651-f8de-4abf-a9bc-ea87332f0223",
             "Value": {
                 "id": "9122ed87-c1ad-44c4-a20f-7975da16d5c5",
-                "resourcePath": "objects\\object16\\object16.yy",
+                "resourcePath": "objects\\obj_pipe\\obj_pipe.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -562,7 +562,7 @@
             "Key": "f73aac07-1e37-46bb-ac24-10c9046f0b7c",
             "Value": {
                 "id": "cc2f8586-a0e9-4a8c-b10d-66159bf5affe",
-                "resourcePath": "objects\\object18\\object18.yy",
+                "resourcePath": "objects\\obj_enemy_big_shadow\\obj_enemy_big_shadow.yy",
                 "resourceType": "GMObject"
             }
         },
