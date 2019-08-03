@@ -5,6 +5,21 @@ if( !surface_exists(surf) ){
     surf = surface_create(room_width,room_height);
 }
 
+//New lighting system! Old one's down below if we need to resurrect it.
+surface_set_target(surf);
+draw_set_color(c_black);
+draw_rectangle(0,0,room_width,room_height,false);
+surface_reset_target();
+
+scr_render_light_rad(x,y,rad);
+
+scr_render_light_rad(50,50,100);
+
+draw_set_alpha(1);
+draw_surface(surf,0,0);
+//draw_surface_ext(surf,0,0,1,1,0,0,1);
+
+/**
 var lx = x;
 var ly = y;
 var tileSize = 32;
@@ -54,6 +69,8 @@ surface_reset_target();
 
 shader_set(shd_light);
 shader_set_uniform_f( LightPosRadius, lx,ly,rad,0.0 );
+
+//draw_circle_colour(lx,ly,rad, c_orange, c_black, false);
 draw_surface_ext(surf,0,0,1,1,0,0,0.0000001);
 shader_reset();
 
