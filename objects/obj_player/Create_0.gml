@@ -4,7 +4,7 @@ rad = 180;
 //Movement variables
 spd = 200;
 spdRampUpSpd = 0.7; //time in seconds to max speed
-spdRampDownSpd = 0.3; //time in seconds from max to 0 speed
+spdRampDownSpd = 0.05; //time in seconds from max to 0 speed
 spdRampTimer = 0; //timer veriable for spdRamp
 moveDir = 0;
 xDir = 0;
@@ -43,5 +43,5 @@ fireSound = audio_play_sound(snd_roaring_fire,120,true);
 
 if (gamepad_is_supported() && gamepad_is_connected(0))
 {
-	gamepad_set_axis_deadzone(0, 0.15);
+	gamepad_set_axis_deadzone(0, 0.1);
 }
