@@ -82,7 +82,7 @@
             "Key": "06d74113-c642-40cd-9bed-4cb2d9dabf80",
             "Value": {
                 "id": "6d8c1a63-0f1d-40cf-b70e-1893e18414e6",
-                "resourcePath": "sprites\\sprite19\\sprite19.yy",
+                "resourcePath": "sprites\\spr_player_walk\\spr_player_walk.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -162,7 +162,7 @@
             "Key": "18c99aff-789a-483e-909e-33633015e325",
             "Value": {
                 "id": "fa49cca9-cedb-4b2e-9ef0-e117f99e16df",
-                "resourcePath": "sprites\\sprite18\\sprite18.yy",
+                "resourcePath": "sprites\\spr_player_idle_loop\\spr_player_idle_loop.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -234,7 +234,7 @@
             "Key": "24cc4cd3-2e5a-4510-bee2-8a2181608895",
             "Value": {
                 "id": "7f825670-3ca1-426e-a054-1cd630e9dfd2",
-                "resourcePath": "sprites\\sprite15\\sprite15.yy",
+                "resourcePath": "sprites\\spr_shadow_idle\\spr_shadow_idle.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -994,7 +994,7 @@
             "Key": "bc92abd7-0034-4945-88c3-63b07895e56f",
             "Value": {
                 "id": "e5f7269b-f2a5-47ac-a42a-a7d3036fde7f",
-                "resourcePath": "sprites\\spr_enemy_shadow\\spr_enemy_shadow.yy",
+                "resourcePath": "sprites\\spr_shadow_grow\\spr_shadow_grow.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1162,7 +1162,7 @@
             "Key": "debd9153-7c31-4c76-8b70-b537982768f5",
             "Value": {
                 "id": "b13452a9-f20d-47f6-a416-5871c18c39d8",
-                "resourcePath": "sprites\\sprite17\\sprite17.yy",
+                "resourcePath": "sprites\\spr_player_idle_start\\spr_player_idle_start.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1314,7 +1314,7 @@
             "Key": "f867d17c-3cbd-4570-90e4-02057a8b2fcf",
             "Value": {
                 "id": "d31616ff-f6d2-46ca-9db6-caff7c3ae344",
-                "resourcePath": "sprites\\sprite16\\sprite16.yy",
+                "resourcePath": "sprites\\spr_shadow_proximity\\spr_shadow_proximity.yy",
                 "resourceType": "GMSprite"
             }
         },
