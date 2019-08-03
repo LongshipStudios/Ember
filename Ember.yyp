@@ -215,6 +215,14 @@
             }
         },
         {
+            "Key": "1df8209d-b629-4277-8528-27befaa2e020",
+            "Value": {
+                "id": "7bfaf764-4ca9-4d8f-88cd-34435741f00b",
+                "resourcePath": "fonts\\credit_font_body\\credit_font_body.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "1e6a633c-aa0e-475f-a09e-88bfa0a0eaf6",
             "Value": {
                 "id": "388eaed2-72d7-4917-85ec-28384cccfd50",
@@ -1255,6 +1263,14 @@
             }
         },
         {
+            "Key": "d815ff53-a35e-47f3-bd15-399c241a69be",
+            "Value": {
+                "id": "4e17002a-c5ab-49c9-b886-837c44a1081a",
+                "resourcePath": "fonts\\credit_font_header\\credit_font_header.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "dcb0d103-ef03-40f9-8239-960cd6e0d238",
             "Value": {
                 "id": "7eb80840-9779-43ab-935b-ab75757f2be1",
@@ -1298,7 +1314,7 @@
             "Key": "e4bbfc52-3ac0-463a-8044-c9776e170e63",
             "Value": {
                 "id": "92608358-2109-481d-b6d0-50a40e177122",
-                "resourcePath": "rooms\\room15\\room15.yy",
+                "resourcePath": "rooms\\credits\\credits.yy",
                 "resourceType": "GMRoom"
             }
         },
