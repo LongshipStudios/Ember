@@ -410,7 +410,7 @@
             "Key": "4445b962-11f4-4446-b50f-49b77af71084",
             "Value": {
                 "id": "d0726c21-d064-4081-a681-f8a465d4724c",
-                "resourcePath": "objects\\object21\\object21.yy",
+                "resourcePath": "objects\\obj_controller_death\\obj_controller_death.yy",
                 "resourceType": "GMObject"
             }
         },
