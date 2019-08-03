@@ -24,6 +24,8 @@ if(upKeyPressed || leftKeyPressed || downKeyPressed || rightKeyPressed)
 	
 	xMove = round(lengthdir_x(spd,moveDir));
 	yMove = round(lengthdir_y(spd,moveDir));
+	
+	lightOn = false;
 }
 else
 {
@@ -32,6 +34,8 @@ else
 	
 	xMove = 0;
 	yMove = 0;
+	
+	lightOn = true;
 }
 
 //Do move

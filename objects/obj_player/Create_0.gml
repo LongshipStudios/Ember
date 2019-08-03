@@ -10,6 +10,9 @@ yMove = 0;
 var l = layer_get_id("Tiles_Collision");
 tilemap_collision = layer_tilemap_get_id(l);
 
+//Whether the light is on or not
+lightOn = true;
+
 //Sprite bbox stuff (have to adjust for offset)
 sprBBoxLeft = sprite_get_bbox_left(sprite_index) - sprite_get_xoffset(sprite_index);
 sprBBoxRight = sprite_get_bbox_right(sprite_index) - sprite_get_xoffset(sprite_index);
@@ -27,3 +30,5 @@ VBuffer = vertex_create_buffer();
 surf = -1;
 
 LightPosRadius = shader_get_uniform(shd_light,"u_fLightPositionRadius");
+
+fireSound = audio_play_sound(snd_roaring_fire,120,true);

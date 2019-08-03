@@ -1,10 +1,10 @@
-if (obj_player.lightOn == true)
+if (lightOn == false)
 {
 	//obj_player.LightPosRadius.visible = true;
-	audio_stop_sound(snd_roaring_fire);
+	audio_sound_gain(fireSound, 0, 200);
 }
 else
 {
 	//obj_player.LightPosRadius.visible = false;
-	audio_play_sound(snd_roaring_fire,10,true);
+	audio_sound_gain(fireSound, 1, 200);
 }
