@@ -50,11 +50,12 @@ for(var yy=starty;yy<=endy;yy++)
 }
 vertex_end(VBuffer);    
 vertex_submit(VBuffer,pr_trianglelist,-1);
+
+
+
 surface_reset_target();
 
 shader_set(shd_light);
 shader_set_uniform_f( LightPosRadius, lx,ly,rad,0.0 );
 draw_surface_ext(surf,0,0,1,1,0,0,0.0000001);
 shader_reset();
-
-draw_self();
