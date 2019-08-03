@@ -7,7 +7,6 @@ if( !surface_exists(surf) ){
 
 var lx = x;
 var ly = y;
-var rad = 180;
 var tileSize = 32;
 var tilemap = tilemap_collision;
 

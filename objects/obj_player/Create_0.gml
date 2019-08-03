@@ -1,6 +1,9 @@
 //Stats
 spd = 5;
 
+//Default light radius
+rad = 180;
+
 //Movement variables
 moveDir = 0;
 xMove = 0;
