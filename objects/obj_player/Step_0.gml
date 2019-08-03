@@ -2,6 +2,9 @@
 delta_time_sec = delta_time/1000000;
 movementInput = false;
 
+xMove = 0;
+yMove = 0;
+
 //Keyboard Movement
 upKeyPressed = keyboard_check(ord("W")) || keyboard_check(vk_up);
 leftKeyPressed = keyboard_check(ord("A")) || keyboard_check(vk_left);
@@ -17,11 +20,11 @@ if (gamepad_is_supported() && gamepad_is_connected(0))
 	rightKeyPressed = rightKeyPressed || gamepad_button_check(0, gp_padr);
 }
 
-//set xDir yDir if gamepad sticks are used
-if (gamepad_is_supported() && gamepad_is_connected(0))
+//set xMove yMove if gamepad sticks are used
+if (gamepad_is_supported() && gamepad_is_connected(0) && (gamepad_axis_value(0, gp_axislh) != 0 || gamepad_axis_value(0, gp_axislv) != 0 || gamepad_axis_value(0, gp_axisrh) != 0 || gamepad_axis_value(0, gp_axisrv) != 0))
 {
-	xDir = clamp(gamepad_axis_value(0, gp_axislh) + gamepad_axis_value(0, gp_axisrh), -1, 1);
-	yDir = clamp(gamepad_axis_value(0, gp_axislv) + gamepad_axis_value(0, gp_axisrv), -1, 1);
+	xDir = gamepad_axis_value(0, gp_axislh) + gamepad_axis_value(0, gp_axisrh);
+	yDir = gamepad_axis_value(0, gp_axislv) + gamepad_axis_value(0, gp_axisrv);
 	movementInput = true;
 }
 
@@ -39,7 +42,7 @@ if(movementInput)
 	spdRampTimer = clamp(spdRampTimer + delta_time_sec, 0, spdRampUpSpd);
 	var actualspeed = lerp(0, spd, spdRampTimer/spdRampUpSpd);
 	
-	lightOn = false;
+	lightOn = true;
 }
 else
 {
@@ -53,6 +56,6 @@ moveDir = point_direction(0,0,xDir,yDir);
 xMove = round(lengthdir_x(actualspeed,moveDir) * delta_time_sec);
 yMove = round(lengthdir_y(actualspeed,moveDir) * delta_time_sec);
 
-//Do move
+//Do move*/
 scr_move_collide();
 scr_player_senses_controller();
