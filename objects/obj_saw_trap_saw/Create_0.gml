@@ -9,4 +9,4 @@ emitter = audio_emitter_create();
 audio_emitter_position(emitter,x,y,0)
 audio_emitter_falloff(emitter,10,20,1);
 
-audio_play_sound_on(emitter, snd_circular_saw, false, 10);
+audio_play_sound_on(emitter, snd_circular_saw, false, 100);
