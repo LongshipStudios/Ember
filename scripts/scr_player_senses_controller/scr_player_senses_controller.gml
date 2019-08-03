@@ -7,7 +7,7 @@ if (lightOn == false)
 	audio_sound_gain(fireSound, 0, 100);
 	
 	//Increases volume of all directional/binaural sounds
-	if(instance_exists(obj_manager_audio)) { obj_manager_audio.fade = clamp(obj_manager_audio.fade-1000, 0, 10000) }
+	if(instance_exists(obj_manager_audio)) { obj_manager_audio.fade = clamp(obj_manager_audio.fade-100000, 0, 1000000) }
 }
 else
 {
@@ -15,5 +15,5 @@ else
 	audio_sound_gain(fireSound, 1, 200);
 	
 	//Decreases volume of all directional/binaural sounds
-    if(instance_exists(obj_manager_audio)) { obj_manager_audio.fade = clamp(obj_manager_audio.fade+1000, 0, 10000) }
+    if(instance_exists(obj_manager_audio)) { obj_manager_audio.fade = clamp(obj_manager_audio.fade+100000, 0, 1000000) }
 }

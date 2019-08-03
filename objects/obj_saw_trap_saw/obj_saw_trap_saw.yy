@@ -25,7 +25,17 @@
             "m_owner": "4741f1e2-c3dc-4d20-9819-e7b640316de1"
         },
         {
-            "id": "5f7b742d-f97b-42fa-ad79-e1667e4c1931",
+            "id": "ee1dfda0-5edc-4fdf-b61b-4f0eb8905f78",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "4741f1e2-c3dc-4d20-9819-e7b640316de1"
+        },
+        {
+            "id": "9f063f7d-de37-4c63-95de-3d4327eed15b",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
@@ -43,7 +53,7 @@
     "physicsDensity": 0.5,
     "physicsFriction": 0.2,
     "physicsGroup": 0,
-    "physicsKinematic": false,
+    "physicsKinematic": false,````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
     "physicsLinearDamping": 0.1,
     "physicsObject": false,
     "physicsRestitution": 0.1,
