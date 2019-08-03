@@ -32,3 +32,8 @@ surf = -1;
 LightPosRadius = shader_get_uniform(shd_light,"u_fLightPositionRadius");
 
 fireSound = audio_play_sound(snd_roaring_fire,120,true);
+
+if (gamepad_is_supported() && gamepad_is_connected(0))
+{
+	gamepad_set_axis_deadzone(0, 0.15);
+}
