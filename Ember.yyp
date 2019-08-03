@@ -594,7 +594,7 @@
             "Key": "5f57d28d-c759-43e4-81bd-e7f028929122",
             "Value": {
                 "id": "0e79463f-4eea-448c-8071-f3051dc3ce96",
-                "resourcePath": "scripts\\script3\\script3.yy",
+                "resourcePath": "scripts\\scr_player_senses_controller\\scr_player_senses_controller.yy",
                 "resourceType": "GMScript"
             }
         },
