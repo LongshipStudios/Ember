@@ -554,7 +554,7 @@
             "Key": "58063f0b-f176-4633-9470-03d6eb6e7e2a",
             "Value": {
                 "id": "e9a837f8-067d-48fb-8646-02a6dfb85378",
-                "resourcePath": "sprites\\sprite24\\sprite24.yy",
+                "resourcePath": "sprites\\spr_tut_controller\\spr_tut_controller.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -690,7 +690,7 @@
             "Key": "702e9a5a-09bd-4591-b0ad-140b02aae5f4",
             "Value": {
                 "id": "620a9faa-e269-4ade-8c3b-cbba6e107ae3",
-                "resourcePath": "objects\\obj_tut_WASD\\obj_tut_WASD.yy",
+                "resourcePath": "objects\\obj_tut_movement\\obj_tut_movement.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -1218,7 +1218,7 @@
             "Key": "d4e2d174-9460-40a3-9285-91fd22c1219c",
             "Value": {
                 "id": "48a37757-e797-43d7-be6e-16471cc7ec68",
-                "resourcePath": "sprites\\spr_tut_WASD\\spr_tut_WASD.yy",
+                "resourcePath": "sprites\\spr_tut_keyboard\\spr_tut_keyboard.yy",
                 "resourceType": "GMSprite"
             }
         },
