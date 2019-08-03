@@ -1,4 +1,11 @@
-/// @description Collide with Player
-// You can write your code in this editor
-
-room_restart();
+if(instance_exists(obj_controller_death))
+{
+	with(obj_controller_death)
+	{
+		if(!flag_game_end)
+		{
+			alarm[1] = 1;
+			flag_game_end = true;
+		}
+	}
+}

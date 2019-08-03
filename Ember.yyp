@@ -58,7 +58,7 @@
             "Key": "02def415-5b4c-4530-9a3f-04ea103c324c",
             "Value": {
                 "id": "89aed40f-4c5c-4730-be09-f2664e124b12",
-                "resourcePath": "sprites\\sprite20\\sprite20.yy",
+                "resourcePath": "sprites\\spr_shadow_flee\\spr_shadow_flee.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -82,7 +82,7 @@
             "Key": "06d74113-c642-40cd-9bed-4cb2d9dabf80",
             "Value": {
                 "id": "6d8c1a63-0f1d-40cf-b70e-1893e18414e6",
-                "resourcePath": "sprites\\sprite19\\sprite19.yy",
+                "resourcePath": "sprites\\spr_player_walk\\spr_player_walk.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -162,7 +162,7 @@
             "Key": "18c99aff-789a-483e-909e-33633015e325",
             "Value": {
                 "id": "fa49cca9-cedb-4b2e-9ef0-e117f99e16df",
-                "resourcePath": "sprites\\sprite18\\sprite18.yy",
+                "resourcePath": "sprites\\spr_player_idle_loop\\spr_player_idle_loop.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -234,7 +234,7 @@
             "Key": "24cc4cd3-2e5a-4510-bee2-8a2181608895",
             "Value": {
                 "id": "7f825670-3ca1-426e-a054-1cd630e9dfd2",
-                "resourcePath": "sprites\\sprite15\\sprite15.yy",
+                "resourcePath": "sprites\\spr_shadow_idle\\spr_shadow_idle.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -346,7 +346,7 @@
             "Key": "3ad0aa1a-fc18-4caa-82ef-dbbc16d0c410",
             "Value": {
                 "id": "cd6cd165-aa44-4ebd-ad52-33a3c30980d4",
-                "resourcePath": "scripts\\script5\\script5.yy",
+                "resourcePath": "scripts\\scr_enemy_state_controller\\scr_enemy_state_controller.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -410,7 +410,7 @@
             "Key": "4445b962-11f4-4446-b50f-49b77af71084",
             "Value": {
                 "id": "d0726c21-d064-4081-a681-f8a465d4724c",
-                "resourcePath": "objects\\object21\\object21.yy",
+                "resourcePath": "objects\\obj_controller_death\\obj_controller_death.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -610,7 +610,7 @@
             "Key": "62e9ac1e-9c2b-4376-ae87-30a0b23abfd8",
             "Value": {
                 "id": "c0742ce0-c42f-4720-a1ea-bc39c48ac4fb",
-                "resourcePath": "sprites\\sprite14\\sprite14.yy",
+                "resourcePath": "sprites\\spr_shadow_attack\\spr_shadow_attack.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -994,7 +994,7 @@
             "Key": "bc92abd7-0034-4945-88c3-63b07895e56f",
             "Value": {
                 "id": "e5f7269b-f2a5-47ac-a42a-a7d3036fde7f",
-                "resourcePath": "sprites\\spr_enemy_shadow\\spr_enemy_shadow.yy",
+                "resourcePath": "sprites\\spr_shadow_grow\\spr_shadow_grow.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1042,7 +1042,7 @@
             "Key": "c66676fc-e8ac-493d-9723-3fc4bc3da84d",
             "Value": {
                 "id": "79730308-67ae-47d4-9760-dbbe70bee53b",
-                "resourcePath": "sprites\\sprite31\\sprite31.yy",
+                "resourcePath": "sprites\\spr_pitfall_trap\\spr_pitfall_trap.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1162,7 +1162,7 @@
             "Key": "debd9153-7c31-4c76-8b70-b537982768f5",
             "Value": {
                 "id": "b13452a9-f20d-47f6-a416-5871c18c39d8",
-                "resourcePath": "sprites\\sprite17\\sprite17.yy",
+                "resourcePath": "sprites\\spr_player_idle_start\\spr_player_idle_start.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1282,7 +1282,7 @@
             "Key": "f5f5a5f6-9ba2-4bc4-aa88-84e990978da4",
             "Value": {
                 "id": "2e4c4c20-e2ea-4620-b8c0-45864d0ab5c1",
-                "resourcePath": "objects\\object20\\object20.yy",
+                "resourcePath": "objects\\obj_pitfall_trap\\obj_pitfall_trap.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -1314,7 +1314,7 @@
             "Key": "f867d17c-3cbd-4570-90e4-02057a8b2fcf",
             "Value": {
                 "id": "d31616ff-f6d2-46ca-9db6-caff7c3ae344",
-                "resourcePath": "sprites\\sprite16\\sprite16.yy",
+                "resourcePath": "sprites\\spr_shadow_proximity\\spr_shadow_proximity.yy",
                 "resourceType": "GMSprite"
             }
         },
