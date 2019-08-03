@@ -143,20 +143,7 @@
             }
         },
         {
-<<<<<<< HEAD
             "Key": "4f2c0eac-c5ab-49ab-96f5-0de2aacb3da2",
-=======
-
-            "Key": "4e544cdf-1fda-4e8a-9f6b-01ab7975b4b2",
-            "Value": {
-                "id": "afe5d9d9-0cae-450a-a63b-ab4556cf2426",
-                "resourcePath": "sprites\\sprite4\\sprite4.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-          "Key": "4f2c0eac-c5ab-49ab-96f5-0de2aacb3da2",
->>>>>>> parent of 99a6685... Restore to prior to merge
             "Value": {
                 "id": "bf832174-4e25-40da-939a-3a26c6430e3e",
                 "resourcePath": "views\\4f2c0eac-c5ab-49ab-96f5-0de2aacb3da2.yy",
