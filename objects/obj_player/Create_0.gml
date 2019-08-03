@@ -1,10 +1,15 @@
-//Stats
-spd = 500;
-
 //Movement variables
+spd = 300;
+spdRampUpSpd = 0.7; //time in seconds to max speed
+spdRampDownSpd = 0.3; //time in seconds from max to 0 speed
+spdRampTimer = 0; //timer veriable for spdRamp
 moveDir = 0;
+xDir = 0;
 xMove = 0;
+yDir = 0;
 yMove = 0;
+movementInput = 0;
+delta_time_sec = 0;
 
 //Grab the id for the collision tile layer
 var l = layer_get_id("Tiles_Collision");
