@@ -14,3 +14,4 @@ enemy_state = states.idle;
 //Radius to transition to next set of animations.
 tasty_rad = 200;
 attack_rad = 50;
+
