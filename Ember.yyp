@@ -106,7 +106,7 @@
             "Key": "0917cff2-15d2-4642-95eb-a0b540f87212",
             "Value": {
                 "id": "951a92d8-2d54-40ad-bfbe-6bbeaed4e6f7",
-                "resourcePath": "sprites\\sprite29\\sprite29.yy",
+                "resourcePath": "sprites\\spr_tut_oneSense\\spr_tut_oneSense.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -226,7 +226,7 @@
             "Key": "210e0f64-4162-4fc9-997b-9c893aa7f39e",
             "Value": {
                 "id": "797d3650-78a8-4015-821a-c716ce4e8b77",
-                "resourcePath": "objects\\object27\\object27.yy",
+                "resourcePath": "objects\\obj_tut_firefly\\obj_tut_firefly.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -298,7 +298,7 @@
             "Key": "2d383c70-dad9-4994-a41a-6490f7683712",
             "Value": {
                 "id": "d5b7844d-ad8b-4f3e-8d22-02a1bdcc261e",
-                "resourcePath": "sprites\\sprite27\\sprite27.yy",
+                "resourcePath": "sprites\\spr_tut_firefly\\spr_tut_firefly.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -618,7 +618,7 @@
             "Key": "699bb3eb-bc21-482f-a792-44b0ed4938c1",
             "Value": {
                 "id": "af1f6255-51d1-4a22-9132-abdf265b2d65",
-                "resourcePath": "objects\\object24\\object24.yy",
+                "resourcePath": "objects\\par_tut_messages\\par_tut_messages.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -634,7 +634,7 @@
             "Key": "702e9a5a-09bd-4591-b0ad-140b02aae5f4",
             "Value": {
                 "id": "620a9faa-e269-4ade-8c3b-cbba6e107ae3",
-                "resourcePath": "objects\\object25\\object25.yy",
+                "resourcePath": "objects\\obj_tut_WASD\\obj_tut_WASD.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -650,7 +650,7 @@
             "Key": "7850eb77-2e99-48fd-9000-8f0f53289308",
             "Value": {
                 "id": "d5e0942b-5857-4cc3-9c12-4aaae3c028c5",
-                "resourcePath": "objects\\object29\\object29.yy",
+                "resourcePath": "objects\\obj_tut_oneSense\\obj_tut_oneSense.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -802,7 +802,7 @@
             "Key": "9b855457-d315-4298-9fef-8cae59ce6351",
             "Value": {
                 "id": "03b2a6cf-6395-49ac-b15e-5b576930759a",
-                "resourcePath": "objects\\object26\\object26.yy",
+                "resourcePath": "objects\\obj_tut_traps\\obj_tut_traps.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -1002,7 +1002,7 @@
             "Key": "c06c9b9e-4f1c-4f6e-ae34-336ffaa3b186",
             "Value": {
                 "id": "20e16911-e733-418e-a03d-8e7d2965fea6",
-                "resourcePath": "objects\\object28\\object28.yy",
+                "resourcePath": "objects\\obj_tut_tarboi\\obj_tut_tarboi.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -1114,7 +1114,7 @@
             "Key": "d4e2d174-9460-40a3-9285-91fd22c1219c",
             "Value": {
                 "id": "48a37757-e797-43d7-be6e-16471cc7ec68",
-                "resourcePath": "sprites\\sprite25\\sprite25.yy",
+                "resourcePath": "sprites\\spr_tut_WASD\\spr_tut_WASD.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1274,7 +1274,7 @@
             "Key": "f4469c74-a3c4-41cc-aa2b-cd2234d7551e",
             "Value": {
                 "id": "19a9fef9-1a2c-4810-8750-2a48fa1b180f",
-                "resourcePath": "sprites\\sprite26\\sprite26.yy",
+                "resourcePath": "sprites\\spr_tut_traps\\spr_tut_traps.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1346,7 +1346,7 @@
             "Key": "fa5feb1f-540d-45e0-a2b8-f76945c0f430",
             "Value": {
                 "id": "da3e73f7-03a3-4292-aebd-136efd4b1d78",
-                "resourcePath": "sprites\\sprite28\\sprite28.yy",
+                "resourcePath": "sprites\\spr_tut_tarboi\\spr_tut_tarboi.yy",
                 "resourceType": "GMSprite"
             }
         },
