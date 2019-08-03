@@ -1,4 +1,4 @@
-/// @description Show when moving
+/// @description Insert description here
 // You can write your code in this editor
 
 fadeDist = 64;

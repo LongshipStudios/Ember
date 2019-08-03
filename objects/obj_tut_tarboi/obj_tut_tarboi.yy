@@ -4,11 +4,20 @@
     "mvc": "1.0",
     "name": "obj_tut_tarboi",
     "eventList": [
-        
+        {
+            "id": "0865c072-b243-4abb-83b5-43f10f1472f1",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "c06c9b9e-4f1c-4f6e-ae34-336ffaa3b186"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "00000000-0000-0000-0000-000000000000",
+    "parentObjectId": "699bb3eb-bc21-482f-a792-44b0ed4938c1",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
