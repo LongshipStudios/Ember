@@ -82,7 +82,7 @@
             "Key": "059b9c9c-3b58-4c8a-a788-7ebd4434c6e8",
             "Value": {
                 "id": "ea6a0282-8eca-4ad1-8ed8-75a2b06f6037",
-                "resourcePath": "shaders\\shader1\\shader1.yy",
+                "resourcePath": "shaders\\shd_new_light\\shd_new_light.yy",
                 "resourceType": "GMShader"
             }
         },
@@ -178,7 +178,7 @@
             "Key": "18e90ca0-cd8a-49cc-9e1a-91fc6cf8b926",
             "Value": {
                 "id": "22e01f33-40f1-4147-ad35-52972119724f",
-                "resourcePath": "scripts\\script12\\script12.yy",
+                "resourcePath": "scripts\\scr_render_light_rad\\scr_render_light_rad.yy",
                 "resourceType": "GMScript"
             }
         },
