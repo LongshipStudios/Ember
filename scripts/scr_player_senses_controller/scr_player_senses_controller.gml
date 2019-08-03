@@ -1,6 +1,5 @@
 ///Fades light and sound based on player movement
 
-	
 //Player is moving, so turn off light and fire sounds, increase general volume.
 if (lightOn == false)
 {
