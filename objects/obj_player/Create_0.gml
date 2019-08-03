@@ -1,5 +1,5 @@
 //Stats
-spd = 5;
+spd = 500;
 
 //Movement variables
 moveDir = 0;
