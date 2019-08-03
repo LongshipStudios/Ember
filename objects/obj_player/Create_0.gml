@@ -1,5 +1,5 @@
 //Stats
-spd = 500;
+spd = 200;
 
 //Default light radius
 rad = 180;
