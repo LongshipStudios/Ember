@@ -58,7 +58,7 @@
             "Key": "02def415-5b4c-4530-9a3f-04ea103c324c",
             "Value": {
                 "id": "89aed40f-4c5c-4730-be09-f2664e124b12",
-                "resourcePath": "sprites\\sprite20\\sprite20.yy",
+                "resourcePath": "sprites\\spr_shadow_flee\\spr_shadow_flee.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -346,7 +346,7 @@
             "Key": "3ad0aa1a-fc18-4caa-82ef-dbbc16d0c410",
             "Value": {
                 "id": "cd6cd165-aa44-4ebd-ad52-33a3c30980d4",
-                "resourcePath": "scripts\\script5\\script5.yy",
+                "resourcePath": "scripts\\scr_enemy_state_controller\\scr_enemy_state_controller.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -610,7 +610,7 @@
             "Key": "62e9ac1e-9c2b-4376-ae87-30a0b23abfd8",
             "Value": {
                 "id": "c0742ce0-c42f-4720-a1ea-bc39c48ac4fb",
-                "resourcePath": "sprites\\sprite14\\sprite14.yy",
+                "resourcePath": "sprites\\spr_shadow_attack\\spr_shadow_attack.yy",
                 "resourceType": "GMSprite"
             }
         },
