@@ -538,7 +538,7 @@
             "Key": "54bac1ef-9c43-4a9f-8271-386753d2ea6f",
             "Value": {
                 "id": "4a8a85af-0b0e-4bc1-ac07-86b8b4b26a22",
-                "resourcePath": "sprites\\sprite23\\sprite23.yy",
+                "resourcePath": "sprites\\spr_tut_torches\\spr_tut_torches.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -770,7 +770,7 @@
             "Key": "8752d024-6c5e-47c0-bbf7-b915f0559e7c",
             "Value": {
                 "id": "b8e70cea-0318-44c8-8aaf-89ce04fea0da",
-                "resourcePath": "objects\\object23\\object23.yy",
+                "resourcePath": "objects\\obj_tut_torches\\obj_tut_torches.yy",
                 "resourceType": "GMObject"
             }
         },
