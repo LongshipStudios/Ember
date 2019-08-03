@@ -10,6 +10,7 @@ upKeyPressed = keyboard_check(ord("W")) || keyboard_check(vk_up);
 leftKeyPressed = keyboard_check(ord("A")) || keyboard_check(vk_left);
 downKeyPressed = keyboard_check(ord("S")) || keyboard_check(vk_down);
 rightKeyPressed = keyboard_check(ord("D")) || keyboard_check(vk_right);
+lanternDimPressed = keyboard_check(vk_space);
 
 //Add up gamepad dpad if present
 if (gamepad_is_supported() && gamepad_is_connected(0))
@@ -18,6 +19,7 @@ if (gamepad_is_supported() && gamepad_is_connected(0))
 	leftKeyPressed = leftKeyPressed || gamepad_button_check(0, gp_padl);
 	downKeyPressed = downKeyPressed || gamepad_button_check(0, gp_padd);
 	rightKeyPressed = rightKeyPressed || gamepad_button_check(0, gp_padr);
+	lanternDimPressed = lanternDimPressed || gamepad_button_check(0, gp_face1);
 }
 
 //set xMove yMove if gamepad sticks are used
@@ -49,7 +51,14 @@ else
 	spdRampTimer = clamp(spdRampTimer - delta_time_sec, 0, spdRampDownSpd);
 	var actualspeed = lerp(0, spd, spdRampTimer/spdRampDownSpd);
 	
-	lightOn = true;
+	if(lanternDimPressed)
+	{
+		lightOn = false;
+	}
+	else
+	{
+		lightOn = true;
+	}
 }
 
 moveDir = point_direction(0,0,xDir,yDir);
