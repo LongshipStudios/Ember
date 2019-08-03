@@ -22,8 +22,6 @@ if(upKeyPressed || leftKeyPressed || downKeyPressed || rightKeyPressed)
 	//Get the combined direction and assign movement values based on that
 	moveDir = point_direction(0,0,xDir,yDir);
 	
-	lightOn = false;
-	
 	xMove = round(lengthdir_x(spd,moveDir));
 	yMove = round(lengthdir_y(spd,moveDir));
 }
@@ -34,8 +32,6 @@ else
 	
 	xMove = 0;
 	yMove = 0;
-	
-	lightOn = true;
 }
 
 //Do move
