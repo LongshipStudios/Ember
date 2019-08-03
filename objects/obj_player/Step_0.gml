@@ -1,16 +1,16 @@
 //// Movement
 
 //Move up key pressed?
-upKeyPressed = keyboard_check(ord("W"));
+upKeyPressed = keyboard_check(ord("W")) || keyboard_check(vk_up);
 	
 //Move left key pressed?
-leftKeyPressed = keyboard_check(ord("A"));
+leftKeyPressed = keyboard_check(ord("A")) || keyboard_check(vk_left);
 	
 //Move down key pressed?
-downKeyPressed = keyboard_check(ord("S"));
+downKeyPressed = keyboard_check(ord("S")) || keyboard_check(vk_down);
 	
 //Move right key pressed?
-rightKeyPressed = keyboard_check(ord("D"));
+rightKeyPressed = keyboard_check(ord("D")) || keyboard_check(vk_right);
 
 //Get the x and y motion directions from input
 var xDir = rightKeyPressed - leftKeyPressed;
