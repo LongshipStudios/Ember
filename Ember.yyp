@@ -138,7 +138,7 @@
             "Key": "16cbb02f-e6fc-41f5-a138-ffdde3561e4c",
             "Value": {
                 "id": "acc67670-0ed3-402e-ae83-e3dc3d9fef58",
-                "resourcePath": "sprites\\sprite11\\sprite11.yy",
+                "resourcePath": "sprites\\spr_tile_terrain\\spr_tile_terrain.yy",
                 "resourceType": "GMSprite"
             }
         },
