@@ -7,18 +7,17 @@ if( !surface_exists(surf) ){
 
 var lx = x;
 var ly = y;
-//var tileSize = 32;
-//var tilemap = tilemap_collision;
+var tileSize = 32;
+var tilemap = tilemap_shadowcaster;
 
-//var startx = floor((lx-rad)/tileSize);
-//var endx = floor((lx+rad)/tileSize);
-//var starty = floor((ly-rad)/tileSize);
-//var endy = floor((ly+rad)/tileSize);
+var startx = floor((lx-rad)/tileSize);
+var endx = floor((lx+rad)/tileSize);
+var starty = floor((ly-rad)/tileSize);
+var endy = floor((ly+rad)/tileSize);
 
 surface_set_target(surf);
 draw_clear_alpha(0,0);
 
-/**
 vertex_begin(VBuffer, VertexFormat);
 for(var yy=starty;yy<=endy;yy++)
 {
@@ -50,7 +49,7 @@ for(var yy=starty;yy<=endy;yy++)
     }
 }
 vertex_end(VBuffer);    
-vertex_submit(VBuffer,pr_trianglelist,-1);*/
+vertex_submit(VBuffer,pr_trianglelist,-1);
 surface_reset_target();
 
 shader_set(shd_light);
