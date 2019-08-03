@@ -15,15 +15,3 @@ sprBBoxLeft = sprite_get_bbox_left(sprite_index) - sprite_get_xoffset(sprite_ind
 sprBBoxRight = sprite_get_bbox_right(sprite_index) - sprite_get_xoffset(sprite_index);
 sprBBoxBottom = sprite_get_bbox_bottom(sprite_index) - sprite_get_yoffset(sprite_index);
 sprBBoxTop = sprite_get_bbox_top(sprite_index) - sprite_get_yoffset(sprite_index);
-
-///init shadow casting
-vertex_format_begin();
-vertex_format_add_position();
-vertex_format_add_color();
-VertexFormat = vertex_format_end();
-
-VBuffer = vertex_create_buffer();
-
-surf = -1;
-
-LightPosRadius = shader_get_uniform(shd_light,"u_fLightPositionRadius");

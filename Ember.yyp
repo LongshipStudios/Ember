@@ -47,14 +47,6 @@
             }
         },
         {
-            "Key": "0e86b0b3-e001-41f6-b21e-6b1638037f66",
-            "Value": {
-                "id": "cf4ca43f-6ed9-4bb5-a399-88aed69132da",
-                "resourcePath": "views\\0e86b0b3-e001-41f6-b21e-6b1638037f66.yy",
-                "resourceType": "GMFolder"
-            }
-        },
-        {
             "Key": "15888595-a0dc-4f0c-b440-9707c45a287d",
             "Value": {
                 "id": "5e1e72c9-6b07-454f-adce-6c619b78386b",
@@ -199,14 +191,6 @@
             }
         },
         {
-            "Key": "86808dc9-8e5d-4cd5-b87e-b2e4fbe56daf",
-            "Value": {
-                "id": "81c206cc-f77f-4cff-aded-3ca33658b3cf",
-                "resourcePath": "scripts\\src_sign_test\\src_sign_test.yy",
-                "resourceType": "GMScript"
-            }
-        },
-        {
             "Key": "8c2f13fc-2215-4ec5-96c4-e12d21208e12",
             "Value": {
                 "id": "a6091392-dbf7-490e-9c75-3e766bcff169",
@@ -326,13 +310,6 @@
                 "resourceType": "GMRoom"
             }
         },
-            "Key": "c201b962-75ea-4f9b-a6ac-c40bef9b7c59",
-            "Value": {
-                "id": "dbefbc31-ea84-42fd-91b2-ae0e926e54da",
-                "resourcePath": "shaders\\shd_light\\shd_light.yy",
-                "resourceType": "GMShader"
-            }
-        },
         {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
@@ -405,18 +382,9 @@
                 "resourceType": "GMSound"
             }
         }
-            "Key": "f86d7ee3-3bdd-4fb7-abfd-5cc403aaf2a3",
-            "Value": {
-                "id": "7498fbab-ec3d-4f50-b0fc-e5c6b37a7aa8",
-                "resourcePath": "scripts\\scr_light_shadow\\scr_light_shadow.yy",
-                "resourceType": "GMScript"
-            }
-        }
     ],
     "script_order": [
-        "15888595-a0dc-4f0c-b440-9707c45a287d",
-        "f86d7ee3-3bdd-4fb7-abfd-5cc403aaf2a3",
-        "86808dc9-8e5d-4cd5-b87e-b2e4fbe56daf"
+        "15888595-a0dc-4f0c-b440-9707c45a287d"
     ],
     "tutorial": ""
 }
