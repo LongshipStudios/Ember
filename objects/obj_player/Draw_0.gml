@@ -16,9 +16,6 @@ var endx = floor((lx+rad)/tileSize);
 var starty = floor((ly-rad)/tileSize);
 var endy = floor((ly+rad)/tileSize);
 
-draw_set_color(c_yellow);
-draw_rectangle(startx*tileSize,starty*tileSize, endx*tileSize,endy*tileSize, true);  
-
 surface_set_target(surf);
 draw_clear_alpha(0,0);
 
