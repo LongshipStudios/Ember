@@ -40,3 +40,4 @@ else
 
 //Do move
 scr_move_collide();
+scr_player_senses_controller();
