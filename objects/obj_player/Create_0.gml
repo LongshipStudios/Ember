@@ -17,6 +17,7 @@ delta_time_sec = 0;
 //Grab the id for the collision tile layer
 var l = layer_get_id("Tiles_Collision");
 tilemap_collision = layer_tilemap_get_id(l);
+tilemap_shadowcaster = layer_tilemap_get_id(layer_get_id("Tiles_Shadowcaster"));
 
 //Whether the light is on or not
 lightOn = true;
