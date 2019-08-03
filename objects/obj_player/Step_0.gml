@@ -39,8 +39,8 @@ if(xDir != 0 || yDir!= 0)
 	//Get the combined direction and assign movement values based on that
 	moveDir = point_direction(0,0,xDir,yDir);
 	
-	xMove = round(lengthdir_x(spd,moveDir));
-	yMove = round(lengthdir_y(spd,moveDir));
+	xMove = round(lengthdir_x(spd,moveDir) * delta_time/1000000);
+	yMove = round(lengthdir_y(spd,moveDir) * delta_time/1000000);
 	
 	lightOn = false;
 }
