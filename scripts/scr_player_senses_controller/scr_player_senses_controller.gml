@@ -3,7 +3,7 @@
 //Player is moving, so turn off light and fire sounds, increase general volume.
 if (lightOn == false)
 {
-	obj_player.rad  = max(0,rad-50);
+	obj_player.rad  = max(min_light_rad,rad-50);
 	audio_sound_gain(fireSound, 0, 100);
 	
 	//Increases volume of all directional/binaural sounds
@@ -11,7 +11,7 @@ if (lightOn == false)
 }
 else
 {
-	obj_player.rad = min(180,rad+10);
+	obj_player.rad = min(max_light_rad,rad+10);
 	audio_sound_gain(fireSound, 1, 200);
 	
 	//Decreases volume of all directional/binaural sounds
