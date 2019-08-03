@@ -4,13 +4,16 @@
 if (lightOn == false)
 {
 	obj_player.rad  = max(0,rad-50);
-	audio_sound_gain(fireSound, 0, 200);
-	//TODO: Gain on all other sounds increase
+	audio_sound_gain(fireSound, 0, 100);
+	
+	//Increases volume of all directional/binaural sounds
+	if(instance_exists(obj_manager_audio)) { obj_manager_audio.fade = clamp(obj_manager_audio.fade-1000, 0, 10000) }
 }
 else
 {
 	obj_player.rad = min(180,rad+10);
 	audio_sound_gain(fireSound, 1, 200);
-	//TODO: Gain on all other sounds decrease
-
+	
+	//Decreases volume of all directional/binaural sounds
+    if(instance_exists(obj_manager_audio)) { obj_manager_audio.fade = clamp(obj_manager_audio.fade+1000, 0, 10000) }
 }

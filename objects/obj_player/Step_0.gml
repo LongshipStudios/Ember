@@ -1,4 +1,6 @@
 //// Movement
+delta_time_sec = delta_time/1000000;
+movementInput = false;
 
 //Keyboard Movement
 upKeyPressed = keyboard_check(ord("W")) || keyboard_check(vk_up);
@@ -15,15 +17,12 @@ if (gamepad_is_supported() && gamepad_is_connected(0))
 	rightKeyPressed = rightKeyPressed || gamepad_button_check(0, gp_padr);
 }
 
-//Get the x and y motion directions from input
-var xDir = 0;
-var yDir = 0;
-
 //set xDir yDir if gamepad sticks are used
 if (gamepad_is_supported() && gamepad_is_connected(0))
 {
 	xDir = clamp(gamepad_axis_value(0, gp_axislh) + gamepad_axis_value(0, gp_axisrh), -1, 1);
 	yDir = clamp(gamepad_axis_value(0, gp_axislv) + gamepad_axis_value(0, gp_axisrv), -1, 1);
+	movementInput = true;
 }
 
 //overwrite xDir yDir if binary Inputs are used
@@ -31,29 +30,28 @@ if (rightKeyPressed || leftKeyPressed || downKeyPressed || upKeyPressed)
 {
 	xDir = rightKeyPressed - leftKeyPressed;
 	yDir = downKeyPressed - upKeyPressed;
+	movementInput = true;
 }
 
 //If we have inputs
-if(xDir != 0 || yDir!= 0)
+if(movementInput)
 {
-	//Get the combined direction and assign movement values based on that
-	moveDir = point_direction(0,0,xDir,yDir);
-	
-	xMove = round(lengthdir_x(spd,moveDir) * delta_time/1000000);
-	yMove = round(lengthdir_y(spd,moveDir) * delta_time/1000000);
+	spdRampTimer = clamp(spdRampTimer + delta_time_sec, 0, spdRampUpSpd);
+	var actualspeed = lerp(0, spd, spdRampTimer/spdRampUpSpd);
 	
 	lightOn = false;
 }
 else
 {
-	//If there are no inputs, we aren't moving
-	moveDir = noone;
-	
-	xMove = 0;
-	yMove = 0;
+	spdRampTimer = clamp(spdRampTimer - delta_time_sec, 0, spdRampDownSpd);
+	var actualspeed = lerp(0, spd, spdRampTimer/spdRampDownSpd);
 	
 	lightOn = true;
 }
+
+moveDir = point_direction(0,0,xDir,yDir);
+xMove = round(lengthdir_x(actualspeed,moveDir) * delta_time_sec);
+yMove = round(lengthdir_y(actualspeed,moveDir) * delta_time_sec);
 
 //Do move
 scr_move_collide();
