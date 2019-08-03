@@ -36,15 +36,15 @@ Bdy = _By + Bdy * len;
 
 
 // now build a quad
-vertex_position(_vb, _Ax,_Ay);
-vertex_argb(_vb, $ff000000);
-vertex_position(_vb, _Bx,_By);
-vertex_argb(_vb, $ff000000);
+//vertex_position(_vb, _Ax,_Ay);
+//vertex_argb(_vb, $ff000000);
+//vertex_position(_vb, _Bx,_By);
+//vertex_argb(_vb, $ff000000);
 vertex_position(_vb, Adx,Ady);
 vertex_argb(_vb, $ff000000);
 
-vertex_position(_vb, _Bx,_By);
-vertex_argb(_vb, $ff000000);
+//vertex_position(_vb, _Bx,_By);
+//vertex_argb(_vb, $ff000000);
 vertex_position(_vb, Adx,Ady);
 vertex_argb(_vb, $ff000000);
 vertex_position(_vb, Bdx,Bdy);
