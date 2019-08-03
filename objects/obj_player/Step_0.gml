@@ -11,26 +11,28 @@ downKeyPressed = keyboard_check(ord("S"));
 	
 //Move right key pressed?
 rightKeyPressed = keyboard_check(ord("D"));
-	
+
+//Get the x and y motion directions from input
 var xDir = rightKeyPressed - leftKeyPressed;
 var yDir = downKeyPressed - upKeyPressed;
-	
+
+//If we have inputs
 if(upKeyPressed || leftKeyPressed || downKeyPressed || rightKeyPressed)
 {
+	//Get the combined direction and assign movement values based on that
 	moveDir = point_direction(0,0,xDir,yDir);
 	
-	xMove = lengthdir_x(spd,moveDir);
-	yMove = lengthdir_y(spd,moveDir);
+	xMove = round(lengthdir_x(spd,moveDir));
+	yMove = round(lengthdir_y(spd,moveDir));
 }
 else
 {
+	//If there are no inputs, we aren't moving
 	moveDir = noone;
+	
+	xMove = 0;
+	yMove = 0;
 }
 
-var bboxSide = 0;
-	
-if(xMove > 0) bboxSide = bbox_right; else bboxSide = bbox_left;
-if(tilemap_get_at_pixel(tilemap_collision,bboxSide+xMove,bbox_top) != 0)
-	
-x += xMove;
-y += yMove;
+//Do move
+scr_move_collide();
