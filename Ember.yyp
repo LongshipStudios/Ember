@@ -98,7 +98,7 @@
             "Key": "08dd9e05-aa20-438a-882b-9e746254570d",
             "Value": {
                 "id": "53920e5b-ceb1-4990-ae16-4b1eb4602a80",
-                "resourcePath": "sprites\\sprite13\\sprite13.yy",
+                "resourcePath": "sprites\\spr_tile_terrain3\\spr_tile_terrain3.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -194,7 +194,7 @@
             "Key": "1ddb5886-a92b-4935-b8ce-1112ef92b026",
             "Value": {
                 "id": "4875c4ae-ba41-460f-bf3e-9db0b3b24fde",
-                "resourcePath": "tilesets\\tileset2\\tileset2.yy",
+                "resourcePath": "tilesets\\ts_floor2\\ts_floor2.yy",
                 "resourceType": "GMTileSet"
             }
         },
@@ -530,7 +530,7 @@
             "Key": "58d0115a-443e-46f3-8f13-9b994bb7b4e0",
             "Value": {
                 "id": "ee67c9d6-8286-4c87-b4a9-9226b15e481b",
-                "resourcePath": "sprites\\sprite12\\sprite12.yy",
+                "resourcePath": "sprites\\spr_tile_terrain2\\spr_tile_terrain2.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -978,7 +978,7 @@
             "Key": "b9ce1c25-486d-423d-a217-2a8aa00e0334",
             "Value": {
                 "id": "fb55739f-f3d7-4695-a1cc-50f9cde2fa89",
-                "resourcePath": "tilesets\\tileset3\\tileset3.yy",
+                "resourcePath": "tilesets\\ts_floor3\\ts_floor3.yy",
                 "resourceType": "GMTileSet"
             }
         },
