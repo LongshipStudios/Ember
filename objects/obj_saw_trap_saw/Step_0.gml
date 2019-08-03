@@ -1,1 +1,1 @@
-audio_emitter_position(emitter,x,y,0)
+audio_emitter_position(emitter,x,y,0);
