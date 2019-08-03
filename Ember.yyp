@@ -183,6 +183,14 @@
             }
         },
         {
+            "Key": "86808dc9-8e5d-4cd5-b87e-b2e4fbe56daf",
+            "Value": {
+                "id": "ef79cffd-e0f8-42f0-9721-87ed10c93428",
+                "resourcePath": "scripts\\src_sign_test\\src_sign_test.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "891fe28a-2fc3-4660-82b2-bef180a7c0ab",
             "Value": {
                 "id": "d0872c98-9b19-4420-b4e2-9226577f1533",
@@ -303,6 +311,14 @@
             }
         },
         {
+            "Key": "c201b962-75ea-4f9b-a6ac-c40bef9b7c59",
+            "Value": {
+                "id": "a483ec92-4190-426d-bfc7-2b78a3b930af",
+                "resourcePath": "shaders\\shd_light\\shd_light.yy",
+                "resourceType": "GMShader"
+            }
+        },
+        {
             "Key": "c7932eb8-514a-4163-a191-434f3f90ef74",
             "Value": {
                 "id": "274a6b46-091c-4ad6-8f49-d5d1ab9539f0",
@@ -375,6 +391,14 @@
             }
         },
         {
+            "Key": "f86d7ee3-3bdd-4fb7-abfd-5cc403aaf2a3",
+            "Value": {
+                "id": "efe39f6a-0a44-40fe-9eb5-6d14f2a5ad4d",
+                "resourcePath": "scripts\\scr_light_shadow\\scr_light_shadow.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "fcfe0cf9-1ae3-4153-832c-09f5370a6420",
             "Value": {
                 "id": "f177f381-1388-4d22-a873-b8e71b0f53c1",
@@ -384,7 +408,9 @@
         }
     ],
     "script_order": [
-        "15888595-a0dc-4f0c-b440-9707c45a287d"
+        "15888595-a0dc-4f0c-b440-9707c45a287d",
+        "f86d7ee3-3bdd-4fb7-abfd-5cc403aaf2a3",
+        "86808dc9-8e5d-4cd5-b87e-b2e4fbe56daf"
     ],
     "tutorial": ""
 }
