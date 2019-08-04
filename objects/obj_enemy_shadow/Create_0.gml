@@ -15,6 +15,9 @@ enemy_state = states.idle;
 tasty_rad = 250;
 attack_rad = 60;
 
+//Closest targetable instance
+closest_nom = noone;
+
 //Sprite bbox stuff (have to adjust for offset)
 sprBBoxLeft = sprite_get_bbox_left(sprite_index) - sprite_get_xoffset(sprite_index);
 sprBBoxRight = sprite_get_bbox_right(sprite_index) - sprite_get_xoffset(sprite_index);
