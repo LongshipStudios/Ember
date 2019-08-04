@@ -29,7 +29,7 @@ if (gamepad_is_supported() && gamepad_is_connected(0))
 	leftKeyPressed = leftKeyPressed || gamepad_button_check(0, gp_padl);
 	downKeyPressed = downKeyPressed || gamepad_button_check(0, gp_padd);
 	rightKeyPressed = rightKeyPressed || gamepad_button_check(0, gp_padr);
-	lanternDimPressed = lanternDimPressed || gamepad_button_check(0, gp_face1);
+	lanternDimPressed = lanternDimPressed || gamepad_button_check(0, gp_face1) || gamepad_button_check(0, gp_face2) || gamepad_button_check(0, gp_face3) || gamepad_button_check(0, gp_face4);
 }
 
 //set xMove yMove if gamepad sticks are used
@@ -100,7 +100,7 @@ switch(sprite_index)
 	case spr_player_walk_front: //Add other walks here
 	if(!lightOn && movementInput)
 	{
-		 sprite_index = walk_anim_array[round(moveDir) mod 4]; //Gets the correct walk anim for the move direction
+		 sprite_index = walk_anim_array[clamp(round(moveDir/90),0,3)]; //Gets the correct walk anim for the move direction
 	}
 	else
 	{
@@ -118,7 +118,7 @@ switch(sprite_index)
 	case spr_player_walk_up: //Add other walks here
 	if(!lightOn && movementInput)
 	{
-		 sprite_index = walk_anim_array[round(moveDir) mod 4]; //Gets the correct walk anim for the move direction
+		 sprite_index = walk_anim_array[clamp(round(moveDir/90),0,3)]; //Gets the correct walk anim for the move direction
 	}
 	else
 	{
@@ -136,7 +136,7 @@ switch(sprite_index)
 	case spr_player_walk_left: //Add other walks here
 	if(!lightOn && movementInput)
 	{
-		 sprite_index = walk_anim_array[round(moveDir) mod 4]; //Gets the correct walk anim for the move direction
+		 sprite_index = walk_anim_array[clamp(round(moveDir/90),0,3)]; //Gets the correct walk anim for the move direction
 	}
 	else
 	{
@@ -154,7 +154,7 @@ switch(sprite_index)
 	case spr_player_walk_right: //Add other walks here
 	if(!lightOn && movementInput)
 	{
-		 sprite_index = walk_anim_array[round(moveDir) mod 4]; //Gets the correct walk anim for the move direction
+		 sprite_index = walk_anim_array[clamp(round(moveDir/90),0,3)]; //Gets the correct walk anim for the move direction
 	}
 	else
 	{
@@ -212,7 +212,7 @@ switch(sprite_index)
 	case spr_player_idle_exit:
 	if(!lightOn && movementInput)
 	{
-		sprite_index = walk_anim_array[round(moveDir) mod 4]; //Gets the correct walk anim for the move direction
+		sprite_index = walk_anim_array[clamp(round(moveDir/90),0,3)]; //Gets the correct walk anim for the move direction
 	}
 	else
 	{
@@ -231,7 +231,7 @@ switch(sprite_index)
 	case spr_player_idle_dark:
 	if(!lightOn && movementInput)
 	{
-		sprite_index = walk_anim_array[round(moveDir) mod 4]; //Gets the correct walk anim for the move direction
+		sprite_index = walk_anim_array[clamp(round(moveDir/90),0,3)]; //Gets the correct walk anim for the move direction
 	}
 	else
 	{
