@@ -1,7 +1,7 @@
 //Default light radius
 rad = 250;
 min_light_rad = 50;
-max_light_rad = 250;
+max_light_rad = 150;
 //Movement variables
 spd = 200;
 spdRampUpSpd = 0.7; //time in seconds to max speed
