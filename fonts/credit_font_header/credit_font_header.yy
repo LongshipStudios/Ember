@@ -15,14 +15,14 @@
         {
             "Key": 32,
             "Value": {
-                "id": "b74aa579-0d1f-40a3-a838-fb88124928c5",
+                "id": "0fcf35f8-ef99-41e1-9b1e-138515c79224",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 32,
-                "h": 73,
+                "h": 80,
                 "offset": 0,
-                "shift": 14,
-                "w": 14,
+                "shift": 15,
+                "w": 15,
                 "x": 2,
                 "y": 2
             }
@@ -30,1426 +30,1426 @@
         {
             "Key": 33,
             "Value": {
-                "id": "8d53e462-c52a-4138-b5cd-74b689e9ae63",
+                "id": "f19f389c-dc5b-4dc5-9c32-7cc8036fd2fe",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 33,
-                "h": 73,
+                "h": 80,
                 "offset": 3,
-                "shift": 15,
-                "w": 9,
-                "x": 292,
-                "y": 227
+                "shift": 16,
+                "w": 10,
+                "x": 61,
+                "y": 330
             }
         },
         {
             "Key": 34,
             "Value": {
-                "id": "34fc2d25-a0d6-4873-b6e1-ce2b67c98e0b",
+                "id": "1a3bdbba-33a1-4860-8125-fa4164b61d59",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 34,
-                "h": 73,
+                "h": 80,
                 "offset": 3,
-                "shift": 23,
-                "w": 17,
-                "x": 273,
-                "y": 227
+                "shift": 26,
+                "w": 19,
+                "x": 40,
+                "y": 330
             }
         },
         {
             "Key": 35,
             "Value": {
-                "id": "0ee86bbd-7fec-46a9-811e-af73df1debd5",
+                "id": "6401215e-c8c8-447f-a997-29593b108068",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 35,
-                "h": 73,
+                "h": 80,
                 "offset": 1,
-                "shift": 34,
-                "w": 32,
-                "x": 239,
-                "y": 227
+                "shift": 38,
+                "w": 36,
+                "x": 2,
+                "y": 330
             }
         },
         {
             "Key": 36,
             "Value": {
-                "id": "940c0e0d-e465-4320-bb4c-513b7fe44aea",
+                "id": "2d37fdc7-567e-4f69-b482-d5d8863e461f",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 36,
-                "h": 73,
-                "offset": 2,
-                "shift": 30,
-                "w": 26,
-                "x": 211,
-                "y": 227
+                "h": 80,
+                "offset": 3,
+                "shift": 34,
+                "w": 28,
+                "x": 456,
+                "y": 248
             }
         },
         {
             "Key": 37,
             "Value": {
-                "id": "125d2c10-9870-48c5-abec-a191a6095aea",
+                "id": "54d744d9-7950-4caf-8924-918dd7765a73",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 37,
-                "h": 73,
+                "h": 80,
                 "offset": 2,
-                "shift": 46,
-                "w": 42,
-                "x": 167,
-                "y": 227
+                "shift": 51,
+                "w": 47,
+                "x": 407,
+                "y": 248
             }
         },
         {
             "Key": 38,
             "Value": {
-                "id": "c6e35541-dfa4-46a4-bb12-333222547fdb",
+                "id": "7d7b7e14-a92b-4466-8b64-c95c46eb4386",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 38,
-                "h": 73,
+                "h": 80,
                 "offset": 2,
-                "shift": 39,
-                "w": 38,
-                "x": 127,
-                "y": 227
+                "shift": 44,
+                "w": 42,
+                "x": 363,
+                "y": 248
             }
         },
         {
             "Key": 39,
             "Value": {
-                "id": "915780c0-b2ce-496b-a84a-b609181a6dfe",
+                "id": "29791296-f369-478c-a735-8e10633469cd",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 39,
-                "h": 73,
+                "h": 80,
                 "offset": 3,
-                "shift": 13,
-                "w": 7,
-                "x": 118,
-                "y": 227
+                "shift": 14,
+                "w": 8,
+                "x": 353,
+                "y": 248
             }
         },
         {
             "Key": 40,
             "Value": {
-                "id": "a71bd692-4a47-4ead-b3d4-a831152a1f51",
+                "id": "fe1f2ac7-a10e-4875-ac62-9c8fc1663a5d",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 40,
-                "h": 73,
+                "h": 80,
                 "offset": 2,
-                "shift": 17,
-                "w": 14,
-                "x": 102,
-                "y": 227
+                "shift": 19,
+                "w": 15,
+                "x": 336,
+                "y": 248
             }
         },
         {
             "Key": 41,
             "Value": {
-                "id": "f151c18a-8fc2-4fe3-9ab4-1a15e5e36157",
+                "id": "1b9362b1-73f9-4e86-8f87-3a932367a961",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 41,
-                "h": 73,
+                "h": 80,
                 "offset": 1,
-                "shift": 17,
-                "w": 14,
-                "x": 86,
-                "y": 227
+                "shift": 19,
+                "w": 16,
+                "x": 318,
+                "y": 248
             }
         },
         {
             "Key": 42,
             "Value": {
-                "id": "4fd57e0b-c4b9-406c-93f1-66681faacd24",
+                "id": "cecd5bb6-b22f-49f1-bfce-48474108d16d",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 42,
-                "h": 73,
-                "offset": 1,
-                "shift": 29,
-                "w": 27,
-                "x": 303,
-                "y": 227
+                "h": 80,
+                "offset": 2,
+                "shift": 32,
+                "w": 29,
+                "x": 73,
+                "y": 330
             }
         },
         {
             "Key": 43,
             "Value": {
-                "id": "03ed28e1-cddd-4435-aca0-fab8e2610ce7",
+                "id": "9e55a786-649a-4106-b83b-100eba03c5e7",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 43,
-                "h": 73,
+                "h": 80,
                 "offset": 2,
-                "shift": 30,
-                "w": 26,
-                "x": 58,
-                "y": 227
+                "shift": 34,
+                "w": 29,
+                "x": 287,
+                "y": 248
             }
         },
         {
             "Key": 44,
             "Value": {
-                "id": "64f4b86e-5a69-44fb-aa98-38699feeb465",
+                "id": "15381c13-bb73-4a30-8d91-c5d67663dfc0",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 44,
-                "h": 73,
+                "h": 80,
                 "offset": 1,
-                "shift": 14,
-                "w": 10,
-                "x": 19,
-                "y": 227
+                "shift": 16,
+                "w": 11,
+                "x": 244,
+                "y": 248
             }
         },
         {
             "Key": 45,
             "Value": {
-                "id": "b8ac7060-4acb-47a0-95ec-d789edce0fa2",
+                "id": "fba6bf1b-e4ff-41bd-8a37-88844ec2f2ec",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 45,
-                "h": 73,
-                "offset": 1,
-                "shift": 17,
+                "h": 80,
+                "offset": 2,
+                "shift": 19,
                 "w": 15,
-                "x": 2,
-                "y": 227
+                "x": 227,
+                "y": 248
             }
         },
         {
             "Key": 46,
             "Value": {
-                "id": "b7acce45-5084-4322-b1be-86a1a6156689",
+                "id": "1c80af55-7ebe-4ba1-8157-538f08548282",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 46,
-                "h": 73,
+                "h": 80,
                 "offset": 3,
-                "shift": 15,
-                "w": 9,
-                "x": 500,
-                "y": 152
+                "shift": 16,
+                "w": 10,
+                "x": 215,
+                "y": 248
             }
         },
         {
             "Key": 47,
             "Value": {
-                "id": "a93c1984-88a7-45f2-873c-b3ad34199406",
+                "id": "76bc4f8a-754f-4a23-80f5-ccd9a685e57b",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 47,
-                "h": 73,
+                "h": 80,
                 "offset": 0,
-                "shift": 21,
-                "w": 21,
-                "x": 477,
-                "y": 152
+                "shift": 23,
+                "w": 23,
+                "x": 190,
+                "y": 248
             }
         },
         {
             "Key": 48,
             "Value": {
-                "id": "3204bd22-811d-4834-8fdd-5d545ccb5a85",
+                "id": "c1bfd36c-5bee-4544-b694-3510500c666b",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 48,
-                "h": 73,
+                "h": 80,
                 "offset": 2,
-                "shift": 30,
-                "w": 26,
-                "x": 449,
-                "y": 152
+                "shift": 34,
+                "w": 30,
+                "x": 158,
+                "y": 248
             }
         },
         {
             "Key": 49,
             "Value": {
-                "id": "052440bb-cd9e-47a5-afbd-0ef0be5da140",
+                "id": "9929b0df-fa63-4959-8c5f-dac51363c92a",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 49,
-                "h": 73,
-                "offset": 3,
-                "shift": 30,
-                "w": 18,
-                "x": 429,
-                "y": 152
+                "h": 80,
+                "offset": 4,
+                "shift": 34,
+                "w": 19,
+                "x": 137,
+                "y": 248
             }
         },
         {
             "Key": 50,
             "Value": {
-                "id": "0ebf77f5-2c5d-4993-8565-b8d9480e6b6e",
+                "id": "80b384f4-ff1d-4185-bc61-1aabae615ff3",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 50,
-                "h": 73,
+                "h": 80,
                 "offset": 2,
-                "shift": 30,
-                "w": 26,
-                "x": 401,
-                "y": 152
+                "shift": 34,
+                "w": 30,
+                "x": 105,
+                "y": 248
             }
         },
         {
             "Key": 51,
             "Value": {
-                "id": "7e518d72-d8ad-467c-af2d-8d3e2f05a7e5",
+                "id": "2cc61aa2-44d4-47ef-895a-34ea416d539e",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 51,
-                "h": 73,
+                "h": 80,
                 "offset": 2,
-                "shift": 30,
-                "w": 26,
-                "x": 373,
-                "y": 152
+                "shift": 34,
+                "w": 29,
+                "x": 74,
+                "y": 248
             }
         },
         {
             "Key": 52,
             "Value": {
-                "id": "f29c500f-483a-4d5d-9d05-bf77218a4ffa",
+                "id": "c4089b5a-a4e1-498f-a531-abe37694c2a1",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 52,
-                "h": 73,
+                "h": 80,
                 "offset": 1,
-                "shift": 30,
-                "w": 29,
-                "x": 342,
-                "y": 152
+                "shift": 34,
+                "w": 32,
+                "x": 40,
+                "y": 248
             }
         },
         {
             "Key": 53,
             "Value": {
-                "id": "313e397a-ff7a-4833-8eb9-8fcec145168b",
+                "id": "930a9151-38cc-4b66-aeaf-afca32f3dcfb",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 53,
-                "h": 73,
+                "h": 80,
                 "offset": 3,
-                "shift": 30,
-                "w": 25,
-                "x": 31,
-                "y": 227
+                "shift": 34,
+                "w": 28,
+                "x": 257,
+                "y": 248
             }
         },
         {
             "Key": 54,
             "Value": {
-                "id": "0c5518ac-9457-447f-a1c3-ae5bcd9cfdcd",
+                "id": "960883f0-df83-49f7-b0a1-dfd619594181",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 54,
-                "h": 73,
+                "h": 80,
                 "offset": 2,
-                "shift": 30,
-                "w": 27,
-                "x": 332,
-                "y": 227
+                "shift": 34,
+                "w": 30,
+                "x": 104,
+                "y": 330
             }
         },
         {
             "Key": 55,
             "Value": {
-                "id": "5d94dea1-b90b-40cd-926a-0adc5ae9d627",
+                "id": "298c2990-e24f-4a64-9abd-453b7637aceb",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 55,
-                "h": 73,
-                "offset": 1,
-                "shift": 30,
-                "w": 28,
-                "x": 361,
-                "y": 227
+                "h": 80,
+                "offset": 2,
+                "shift": 34,
+                "w": 30,
+                "x": 136,
+                "y": 330
             }
         },
         {
             "Key": 56,
             "Value": {
-                "id": "fc420922-2c31-478a-842b-6993671232b3",
+                "id": "b8702be3-0a29-44ad-81ba-373662c34a84",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 56,
-                "h": 73,
+                "h": 80,
                 "offset": 2,
-                "shift": 30,
-                "w": 26,
-                "x": 391,
-                "y": 227
+                "shift": 34,
+                "w": 30,
+                "x": 168,
+                "y": 330
             }
         },
         {
             "Key": 57,
             "Value": {
-                "id": "c199f789-7dcf-4a7e-ab55-759a2a8e6d45",
+                "id": "0d122b0e-555d-40b6-86e9-1da81d924def",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 57,
-                "h": 73,
+                "h": 80,
                 "offset": 2,
-                "shift": 30,
-                "w": 26,
-                "x": 2,
-                "y": 377
+                "shift": 34,
+                "w": 30,
+                "x": 307,
+                "y": 412
             }
         },
         {
             "Key": 58,
             "Value": {
-                "id": "0ecf140f-0694-4835-a9cb-86cbb40d20d2",
+                "id": "38a5a913-213d-451c-b6b0-b65a28f1a0a3",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 58,
-                "h": 73,
+                "h": 80,
                 "offset": 3,
-                "shift": 15,
-                "w": 9,
-                "x": 474,
-                "y": 302
+                "shift": 16,
+                "w": 10,
+                "x": 295,
+                "y": 412
             }
         },
         {
             "Key": 59,
             "Value": {
-                "id": "b4ece164-958b-4bd5-8a73-8ee237e2db3d",
+                "id": "368131b2-04db-4e98-8a44-fcd0d76958a8",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 59,
-                "h": 73,
+                "h": 80,
                 "offset": 1,
-                "shift": 15,
-                "w": 11,
-                "x": 461,
-                "y": 302
+                "shift": 16,
+                "w": 12,
+                "x": 281,
+                "y": 412
             }
         },
         {
             "Key": 60,
             "Value": {
-                "id": "01ce9ce5-a7b3-44e0-b23d-d6a34e5eee1e",
+                "id": "391d5c71-50b2-483f-bf3e-14a0886666c7",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 60,
-                "h": 73,
+                "h": 80,
                 "offset": 2,
-                "shift": 30,
-                "w": 26,
-                "x": 433,
-                "y": 302
+                "shift": 34,
+                "w": 29,
+                "x": 250,
+                "y": 412
             }
         },
         {
             "Key": 61,
             "Value": {
-                "id": "2c0e2d20-be30-46e0-8ce8-7ac7ec194d77",
+                "id": "72d7a526-4d92-4d90-b344-7c69b4f8adbf",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 61,
-                "h": 73,
+                "h": 80,
                 "offset": 2,
-                "shift": 30,
-                "w": 26,
-                "x": 405,
-                "y": 302
+                "shift": 34,
+                "w": 29,
+                "x": 219,
+                "y": 412
             }
         },
         {
             "Key": 62,
             "Value": {
-                "id": "bb9a21a2-5c66-409e-8b00-1f14a8f8f72f",
+                "id": "34e7f07f-3cc2-4531-bbd0-d3f443a454ec",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 62,
-                "h": 73,
+                "h": 80,
                 "offset": 2,
-                "shift": 30,
-                "w": 26,
-                "x": 377,
-                "y": 302
+                "shift": 34,
+                "w": 29,
+                "x": 188,
+                "y": 412
             }
         },
         {
             "Key": 63,
             "Value": {
-                "id": "f6010c0d-1db1-4082-9b11-a96cf75b8074",
+                "id": "66e6f34c-a6c2-413e-aae6-1efadb4e284b",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 63,
-                "h": 73,
+                "h": 80,
                 "offset": 0,
-                "shift": 24,
-                "w": 23,
-                "x": 352,
-                "y": 302
+                "shift": 27,
+                "w": 26,
+                "x": 160,
+                "y": 412
             }
         },
         {
             "Key": 64,
             "Value": {
-                "id": "0835a1f2-e560-4c8c-b87d-9d93fb4b27b3",
+                "id": "d9119aa0-56da-4bd2-8c99-548866670187",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 64,
-                "h": 73,
-                "offset": 2,
-                "shift": 48,
-                "w": 43,
-                "x": 307,
-                "y": 302
+                "h": 80,
+                "offset": 3,
+                "shift": 53,
+                "w": 47,
+                "x": 111,
+                "y": 412
             }
         },
         {
             "Key": 65,
             "Value": {
-                "id": "5301682c-7acd-42f6-b3be-1f5612ee48b1",
+                "id": "e260ed44-8881-427b-87f3-2df666da0afb",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 65,
-                "h": 73,
+                "h": 80,
                 "offset": 0,
-                "shift": 35,
-                "w": 36,
-                "x": 269,
-                "y": 302
+                "shift": 39,
+                "w": 39,
+                "x": 70,
+                "y": 412
             }
         },
         {
             "Key": 66,
             "Value": {
-                "id": "654c6302-40c7-4b93-a8a9-995c98260f94",
+                "id": "e5069914-d8f3-495a-8bd4-a657912a3612",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 66,
-                "h": 73,
+                "h": 80,
                 "offset": 5,
-                "shift": 35,
-                "w": 28,
-                "x": 239,
-                "y": 302
+                "shift": 39,
+                "w": 31,
+                "x": 37,
+                "y": 412
             }
         },
         {
             "Key": 67,
             "Value": {
-                "id": "e4ebc6fc-fe31-4396-b7ea-2d686c9be25b",
+                "id": "fdb8922e-f9ad-4e54-8eba-abb7261cb205",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 67,
-                "h": 73,
+                "h": 80,
                 "offset": 3,
-                "shift": 34,
-                "w": 29,
-                "x": 208,
-                "y": 302
+                "shift": 37,
+                "w": 33,
+                "x": 2,
+                "y": 412
             }
         },
         {
             "Key": 68,
             "Value": {
-                "id": "3f005e06-d71f-47af-9ef5-e3deac4ddb00",
+                "id": "cba65e96-f2c3-444a-975c-e012f1303ada",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 68,
-                "h": 73,
+                "h": 80,
                 "offset": 5,
-                "shift": 39,
-                "w": 31,
-                "x": 175,
-                "y": 302
+                "shift": 43,
+                "w": 35,
+                "x": 467,
+                "y": 330
             }
         },
         {
             "Key": 69,
             "Value": {
-                "id": "b59dbcd1-9953-4a72-974e-79e011aeb62b",
+                "id": "06a4c2e7-0b51-43fa-9721-50e20ca61132",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 69,
-                "h": 73,
+                "h": 80,
                 "offset": 5,
-                "shift": 30,
-                "w": 22,
-                "x": 151,
-                "y": 302
+                "shift": 33,
+                "w": 25,
+                "x": 440,
+                "y": 330
             }
         },
         {
             "Key": 70,
             "Value": {
-                "id": "f0685d1b-abde-4fa6-b7f1-2bc03729f067",
+                "id": "e6eb39bb-7051-4902-bc88-3a01a5d2bf4d",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 70,
-                "h": 73,
+                "h": 80,
                 "offset": 5,
-                "shift": 28,
-                "w": 22,
-                "x": 127,
-                "y": 302
+                "shift": 31,
+                "w": 25,
+                "x": 413,
+                "y": 330
             }
         },
         {
             "Key": 71,
             "Value": {
-                "id": "687b68bc-17a5-472a-8120-fbdcaf9cacef",
+                "id": "04ba80b9-1b5a-4ef8-9dc3-c44682815cbb",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 71,
-                "h": 73,
+                "h": 80,
                 "offset": 3,
-                "shift": 38,
-                "w": 32,
-                "x": 93,
-                "y": 302
+                "shift": 43,
+                "w": 36,
+                "x": 375,
+                "y": 330
             }
         },
         {
             "Key": 72,
             "Value": {
-                "id": "997afb8b-a9da-4aaa-baae-0d70abe3c7fa",
+                "id": "6397bb5e-a200-49fe-8a0f-f081351db94b",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 72,
-                "h": 73,
+                "h": 80,
                 "offset": 5,
-                "shift": 40,
-                "w": 30,
-                "x": 61,
-                "y": 302
+                "shift": 44,
+                "w": 34,
+                "x": 339,
+                "y": 330
             }
         },
         {
             "Key": 73,
             "Value": {
-                "id": "84d579e4-c57f-4d0c-82ce-6c1750544ddb",
+                "id": "495e65f2-bbb5-4cfe-9582-846e408e0846",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 73,
-                "h": 73,
+                "h": 80,
                 "offset": 5,
-                "shift": 16,
-                "w": 7,
-                "x": 52,
-                "y": 302
+                "shift": 18,
+                "w": 8,
+                "x": 329,
+                "y": 330
             }
         },
         {
             "Key": 74,
             "Value": {
-                "id": "566be42a-1007-4966-9410-43b9efde9af8",
+                "id": "8edcdfce-401b-428e-93cc-0485dd839221",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 74,
-                "h": 73,
+                "h": 80,
                 "offset": -5,
-                "shift": 16,
-                "w": 17,
-                "x": 33,
-                "y": 302
+                "shift": 18,
+                "w": 18,
+                "x": 309,
+                "y": 330
             }
         },
         {
             "Key": 75,
             "Value": {
-                "id": "e75c87f1-bd38-4c59-aa8d-0a03c7675291",
+                "id": "2a23ffc7-07bf-49f7-a61c-2cdaf137b99c",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 75,
-                "h": 73,
+                "h": 80,
                 "offset": 5,
-                "shift": 34,
-                "w": 29,
-                "x": 2,
-                "y": 302
+                "shift": 38,
+                "w": 33,
+                "x": 274,
+                "y": 330
             }
         },
         {
             "Key": 76,
             "Value": {
-                "id": "b563885e-0cab-4d87-a44b-5835c7c77014",
+                "id": "e6b378cd-ef5b-4970-a385-7817b0da0d4c",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 76,
-                "h": 73,
+                "h": 80,
                 "offset": 5,
-                "shift": 29,
-                "w": 23,
-                "x": 460,
-                "y": 227
+                "shift": 32,
+                "w": 26,
+                "x": 246,
+                "y": 330
             }
         },
         {
             "Key": 77,
             "Value": {
-                "id": "62b7d7d5-fb08-4b4b-b18a-85e3cdfeaecd",
+                "id": "a8d8d5d1-1afc-47e7-9085-3dfe7f4fd20c",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 77,
-                "h": 73,
+                "h": 80,
                 "offset": 5,
-                "shift": 49,
-                "w": 39,
-                "x": 419,
-                "y": 227
+                "shift": 54,
+                "w": 44,
+                "x": 200,
+                "y": 330
             }
         },
         {
             "Key": 78,
             "Value": {
-                "id": "ae693df2-8cf6-49e8-a6dd-128a43acfc9d",
+                "id": "b4d6b00b-f566-465e-b141-2ca6cfd09d5f",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 78,
-                "h": 73,
+                "h": 80,
                 "offset": 5,
-                "shift": 42,
-                "w": 32,
-                "x": 308,
-                "y": 152
+                "shift": 46,
+                "w": 36,
+                "x": 2,
+                "y": 248
             }
         },
         {
             "Key": 79,
             "Value": {
-                "id": "4a63c130-a105-4198-adf9-91fbe51ae242",
+                "id": "5088f47e-af55-4bec-b33e-5b41ca473604",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 79,
-                "h": 73,
+                "h": 80,
                 "offset": 3,
-                "shift": 42,
-                "w": 36,
-                "x": 270,
-                "y": 152
+                "shift": 46,
+                "w": 40,
+                "x": 442,
+                "y": 166
             }
         },
         {
             "Key": 80,
             "Value": {
-                "id": "d4f4cca9-0983-409e-9bee-4e350449225f",
+                "id": "3cce4273-bb9c-4799-9d64-6d1ce3b339ea",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 80,
-                "h": 73,
+                "h": 80,
                 "offset": 5,
-                "shift": 33,
-                "w": 26,
-                "x": 242,
-                "y": 152
+                "shift": 36,
+                "w": 29,
+                "x": 411,
+                "y": 166
             }
         },
         {
             "Key": 81,
             "Value": {
-                "id": "8de1ccad-d381-48de-b755-053b3d240e22",
+                "id": "902b7c51-1f34-4a28-8d81-bfaec8cfb8e6",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 81,
-                "h": 73,
+                "h": 80,
                 "offset": 3,
-                "shift": 42,
-                "w": 36,
-                "x": 108,
-                "y": 77
+                "shift": 46,
+                "w": 40,
+                "x": 193,
+                "y": 84
             }
         },
         {
             "Key": 82,
             "Value": {
-                "id": "c60106ea-d460-4a7f-b07c-46313aacce4b",
+                "id": "205109f7-5008-4224-9f34-d2d45283eb9c",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 82,
-                "h": 73,
+                "h": 80,
                 "offset": 5,
-                "shift": 34,
-                "w": 29,
-                "x": 61,
-                "y": 77
+                "shift": 38,
+                "w": 33,
+                "x": 142,
+                "y": 84
             }
         },
         {
             "Key": 83,
             "Value": {
-                "id": "430cff82-f848-45bd-8c16-d8859ad3fc79",
+                "id": "9ad98a5d-b00a-4d7d-81d4-fc17b54d9934",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 83,
-                "h": 73,
+                "h": 80,
                 "offset": 2,
-                "shift": 29,
-                "w": 25,
-                "x": 34,
-                "y": 77
+                "shift": 32,
+                "w": 28,
+                "x": 112,
+                "y": 84
             }
         },
         {
             "Key": 84,
             "Value": {
-                "id": "068ae9ff-02bf-4561-8a83-36a7f961a944",
+                "id": "645f57a4-bf67-45e0-a687-4e5291b9cf7a",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 84,
-                "h": 73,
+                "h": 80,
                 "offset": 0,
-                "shift": 30,
-                "w": 30,
-                "x": 2,
-                "y": 77
+                "shift": 33,
+                "w": 33,
+                "x": 77,
+                "y": 84
             }
         },
         {
             "Key": 85,
             "Value": {
-                "id": "677917a9-7224-422c-aca3-e900ff659fc0",
+                "id": "9491e07c-4e22-4574-b043-6c4acf900b7f",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 85,
-                "h": 73,
-                "offset": 4,
-                "shift": 39,
-                "w": 31,
-                "x": 475,
-                "y": 2
+                "h": 80,
+                "offset": 5,
+                "shift": 44,
+                "w": 34,
+                "x": 41,
+                "y": 84
             }
         },
         {
             "Key": 86,
             "Value": {
-                "id": "2ee5425e-8a7e-4850-8270-662212477b80",
+                "id": "c956390a-41cf-4e18-a696-37e8e4728cb4",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 86,
-                "h": 73,
+                "h": 80,
                 "offset": 0,
-                "shift": 33,
-                "w": 33,
-                "x": 440,
-                "y": 2
+                "shift": 37,
+                "w": 37,
+                "x": 2,
+                "y": 84
             }
         },
         {
             "Key": 87,
             "Value": {
-                "id": "2b75bafe-548a-4d31-bbc6-adda3fd5d637",
+                "id": "f7648469-21c8-4911-a489-e46aeb213965",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 87,
-                "h": 73,
+                "h": 80,
                 "offset": 0,
-                "shift": 50,
-                "w": 50,
-                "x": 388,
+                "shift": 56,
+                "w": 56,
+                "x": 429,
                 "y": 2
             }
         },
         {
             "Key": 88,
             "Value": {
-                "id": "265ef2a2-aeb9-441f-9829-089e547f1230",
+                "id": "d1e165a6-32d0-47e6-a8dd-e504aa9516b7",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 88,
-                "h": 73,
+                "h": 80,
                 "offset": 0,
-                "shift": 33,
-                "w": 33,
-                "x": 353,
+                "shift": 37,
+                "w": 37,
+                "x": 390,
                 "y": 2
             }
         },
         {
             "Key": 89,
             "Value": {
-                "id": "f2ec7e55-b755-4615-94cf-32e7d675b769",
+                "id": "330090b8-3217-4ce6-8623-efb99a09c81f",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 89,
-                "h": 73,
+                "h": 80,
                 "offset": 0,
-                "shift": 31,
-                "w": 32,
-                "x": 319,
+                "shift": 35,
+                "w": 35,
+                "x": 353,
                 "y": 2
             }
         },
         {
             "Key": 90,
             "Value": {
-                "id": "4623271d-1a07-4d7e-879b-3aa494f306e2",
+                "id": "c64d4689-a0a4-4e54-8509-24f44305f050",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 90,
-                "h": 73,
+                "h": 80,
                 "offset": 1,
-                "shift": 30,
-                "w": 28,
-                "x": 289,
+                "shift": 34,
+                "w": 32,
+                "x": 319,
                 "y": 2
             }
         },
         {
             "Key": 91,
             "Value": {
-                "id": "02578d4c-4f5c-4780-abd1-2f6202280454",
+                "id": "2ca50228-7980-4a59-9f6d-54bd96295e14",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 91,
-                "h": 73,
-                "offset": 3,
-                "shift": 18,
+                "h": 80,
+                "offset": 4,
+                "shift": 19,
                 "w": 14,
-                "x": 92,
-                "y": 77
+                "x": 177,
+                "y": 84
             }
         },
         {
             "Key": 92,
             "Value": {
-                "id": "77553f90-4398-48d9-9453-26250e54112c",
+                "id": "1700d59a-cf91-440d-994a-80cff171c732",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 92,
-                "h": 73,
+                "h": 80,
                 "offset": 0,
-                "shift": 21,
-                "w": 21,
-                "x": 266,
+                "shift": 23,
+                "w": 23,
+                "x": 294,
                 "y": 2
             }
         },
         {
             "Key": 93,
             "Value": {
-                "id": "eef678ed-33da-4391-98fa-90315a8f84cf",
+                "id": "418e9922-a139-415e-9d73-258d35369221",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 93,
-                "h": 73,
+                "h": 80,
                 "offset": 1,
-                "shift": 18,
-                "w": 13,
-                "x": 227,
+                "shift": 19,
+                "w": 14,
+                "x": 252,
                 "y": 2
             }
         },
         {
             "Key": 94,
             "Value": {
-                "id": "9dbd3ac4-07a0-463e-9cea-96a53f915399",
+                "id": "7743588d-b314-4041-84e6-d29aed3d4fce",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 94,
-                "h": 73,
+                "h": 80,
                 "offset": 0,
-                "shift": 28,
-                "w": 28,
-                "x": 197,
+                "shift": 32,
+                "w": 31,
+                "x": 219,
                 "y": 2
             }
         },
         {
             "Key": 95,
             "Value": {
-                "id": "6f2a76e1-ff23-4624-baa8-d869605d4c4f",
+                "id": "9a7a6712-8efd-4197-a077-b6a4a5ec1ec1",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 95,
-                "h": 73,
+                "h": 80,
                 "offset": -1,
-                "shift": 23,
-                "w": 24,
-                "x": 171,
+                "shift": 25,
+                "w": 27,
+                "x": 190,
                 "y": 2
             }
         },
         {
             "Key": 96,
             "Value": {
-                "id": "3f39ebef-a30a-446e-b0e9-2aa9d7db1e7f",
+                "id": "2405af61-f0a5-4e60-8d19-3e001321f327",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 96,
-                "h": 73,
-                "offset": 9,
-                "shift": 31,
-                "w": 13,
-                "x": 156,
+                "h": 80,
+                "offset": 10,
+                "shift": 35,
+                "w": 15,
+                "x": 173,
                 "y": 2
             }
         },
         {
             "Key": 97,
             "Value": {
-                "id": "0ccd55ed-2be2-406d-b59a-a21118f7d9fc",
+                "id": "9a45427e-ca3f-4a71-a685-d710979707cd",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 97,
-                "h": 73,
+                "h": 80,
                 "offset": 2,
-                "shift": 31,
-                "w": 25,
-                "x": 129,
+                "shift": 34,
+                "w": 28,
+                "x": 143,
                 "y": 2
             }
         },
         {
             "Key": 98,
             "Value": {
-                "id": "235a807f-4094-4535-a299-36d2654c2cb6",
+                "id": "1fae21a4-a1e2-4dc6-97b8-70ade03ee752",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 98,
-                "h": 73,
+                "h": 80,
                 "offset": 4,
-                "shift": 33,
-                "w": 27,
-                "x": 100,
+                "shift": 37,
+                "w": 30,
+                "x": 111,
                 "y": 2
             }
         },
         {
             "Key": 99,
             "Value": {
-                "id": "5e32341f-c226-4455-9708-0a6f39d68b3f",
+                "id": "f0a9a329-ded5-47dd-b69a-0b6d09e98cce",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 99,
-                "h": 73,
+                "h": 80,
                 "offset": 2,
-                "shift": 26,
-                "w": 23,
-                "x": 75,
+                "shift": 29,
+                "w": 26,
+                "x": 83,
                 "y": 2
             }
         },
         {
             "Key": 100,
             "Value": {
-                "id": "a65471a1-ad5d-40ea-8144-7ff6131b3443",
+                "id": "6a350872-3ef4-419d-a042-6620e7243288",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 100,
-                "h": 73,
+                "h": 80,
                 "offset": 2,
-                "shift": 33,
-                "w": 27,
-                "x": 46,
+                "shift": 37,
+                "w": 30,
+                "x": 51,
                 "y": 2
             }
         },
         {
             "Key": 101,
             "Value": {
-                "id": "37bdbecf-f6ae-4d78-baa9-afa951f4aa31",
+                "id": "7c9983c0-1b80-4fc0-9a9d-3d479e76a792",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 101,
-                "h": 73,
+                "h": 80,
                 "offset": 2,
-                "shift": 31,
-                "w": 26,
-                "x": 18,
+                "shift": 34,
+                "w": 30,
+                "x": 19,
                 "y": 2
             }
         },
         {
             "Key": 102,
             "Value": {
-                "id": "23fa03f6-044e-4b47-8741-41546b7fadb0",
+                "id": "e9f175b8-5826-42f9-9665-171e71dc7f40",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 102,
-                "h": 73,
-                "offset": 0,
-                "shift": 19,
-                "w": 22,
-                "x": 242,
+                "h": 80,
+                "offset": 1,
+                "shift": 21,
+                "w": 24,
+                "x": 268,
                 "y": 2
             }
         },
         {
             "Key": 103,
             "Value": {
-                "id": "c920e6a5-1539-4949-bd78-1a02c10ebac3",
+                "id": "d78bd8bb-0fd7-4f65-bada-32c7e5137d59",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 103,
-                "h": 73,
+                "h": 80,
                 "offset": 0,
-                "shift": 29,
-                "w": 29,
-                "x": 146,
-                "y": 77
+                "shift": 33,
+                "w": 32,
+                "x": 235,
+                "y": 84
             }
         },
         {
             "Key": 104,
             "Value": {
-                "id": "9132268a-7fb4-4716-b663-312f4855708c",
+                "id": "b2c51a41-c340-48f7-9b05-3a31d1f8fce1",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 104,
-                "h": 73,
+                "h": 80,
                 "offset": 4,
-                "shift": 34,
-                "w": 26,
-                "x": 426,
-                "y": 77
+                "shift": 37,
+                "w": 29,
+                "x": 67,
+                "y": 166
             }
         },
         {
             "Key": 105,
             "Value": {
-                "id": "b6ca816d-8f6c-48a4-903d-84c8667fb8ee",
+                "id": "b18a76d2-8e95-4826-bdb4-aa375e034108",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 105,
-                "h": 73,
-                "offset": 3,
-                "shift": 15,
-                "w": 8,
-                "x": 177,
-                "y": 77
+                "h": 80,
+                "offset": 4,
+                "shift": 16,
+                "w": 9,
+                "x": 269,
+                "y": 84
             }
         },
         {
             "Key": 106,
             "Value": {
-                "id": "6f727841-9297-4b5a-a4ed-07b2b03de622",
+                "id": "96a75bbe-c8fe-49e2-a136-396388e23601",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 106,
-                "h": 73,
+                "h": 80,
                 "offset": -4,
-                "shift": 15,
-                "w": 15,
-                "x": 201,
-                "y": 152
+                "shift": 16,
+                "w": 17,
+                "x": 365,
+                "y": 166
             }
         },
         {
             "Key": 107,
             "Value": {
-                "id": "9b850a3c-f483-4503-b2a3-d8c03a3e93a5",
+                "id": "5e4052e0-5e47-4622-9dca-0a1114ed14a8",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 107,
-                "h": 73,
+                "h": 80,
                 "offset": 4,
-                "shift": 30,
-                "w": 27,
-                "x": 172,
-                "y": 152
+                "shift": 34,
+                "w": 30,
+                "x": 333,
+                "y": 166
             }
         },
         {
             "Key": 108,
             "Value": {
-                "id": "7fabef4d-b1c5-4446-b4e2-37dbafcd1d7e",
+                "id": "a9a9fbd1-df91-437a-b563-f7e2503e0ee0",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 108,
-                "h": 73,
+                "h": 80,
                 "offset": 4,
-                "shift": 15,
-                "w": 7,
-                "x": 163,
-                "y": 152
+                "shift": 16,
+                "w": 8,
+                "x": 323,
+                "y": 166
             }
         },
         {
             "Key": 109,
             "Value": {
-                "id": "32fb0e31-b159-4ba4-81c4-2ea9345bff3a",
+                "id": "8dddaa4e-03ea-4ad0-bdb1-6a04c2d0cbaa",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 109,
-                "h": 73,
+                "h": 80,
                 "offset": 4,
-                "shift": 51,
-                "w": 43,
-                "x": 118,
-                "y": 152
+                "shift": 56,
+                "w": 48,
+                "x": 273,
+                "y": 166
             }
         },
         {
             "Key": 110,
             "Value": {
-                "id": "ab45fd15-08b7-43ae-be1d-ba6f0aabaa37",
+                "id": "f1b8d727-3507-4aa7-8a81-43044cb20476",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 110,
-                "h": 73,
+                "h": 80,
                 "offset": 4,
-                "shift": 34,
-                "w": 26,
-                "x": 90,
-                "y": 152
+                "shift": 37,
+                "w": 29,
+                "x": 242,
+                "y": 166
             }
         },
         {
             "Key": 111,
             "Value": {
-                "id": "59bae9d8-8e34-45fd-afc6-07a665b457cb",
+                "id": "ff1dadb6-beeb-4527-98c5-8a1f91d429e2",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 111,
-                "h": 73,
+                "h": 80,
                 "offset": 2,
-                "shift": 32,
-                "w": 28,
-                "x": 60,
-                "y": 152
+                "shift": 36,
+                "w": 32,
+                "x": 208,
+                "y": 166
             }
         },
         {
             "Key": 112,
             "Value": {
-                "id": "9e727b27-ec8f-45c4-8a9a-d1aa4be664de",
+                "id": "fdb02e95-234d-4fd3-8094-3db52afb8119",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 112,
-                "h": 73,
+                "h": 80,
                 "offset": 4,
-                "shift": 33,
-                "w": 27,
-                "x": 31,
-                "y": 152
+                "shift": 37,
+                "w": 30,
+                "x": 176,
+                "y": 166
             }
         },
         {
             "Key": 113,
             "Value": {
-                "id": "370e7706-9540-443b-a8a6-0fff1df1fb04",
+                "id": "f3504482-f3a5-42b3-923f-64be623190bb",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 113,
-                "h": 73,
+                "h": 80,
                 "offset": 2,
-                "shift": 33,
-                "w": 27,
-                "x": 2,
-                "y": 152
+                "shift": 37,
+                "w": 30,
+                "x": 144,
+                "y": 166
             }
         },
         {
             "Key": 114,
             "Value": {
-                "id": "ec8346bf-5b82-4a45-af48-224cf46e62e7",
+                "id": "0cb8bbfc-b1f9-46d4-9f94-2d0fac80a25b",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 114,
-                "h": 73,
+                "h": 80,
                 "offset": 4,
-                "shift": 23,
-                "w": 18,
-                "x": 475,
-                "y": 77
+                "shift": 25,
+                "w": 21,
+                "x": 121,
+                "y": 166
             }
         },
         {
             "Key": 115,
             "Value": {
-                "id": "dd77f7a6-d818-418f-80fb-c7ab430dafab",
+                "id": "f0961356-6311-4922-bdae-5b417bc4e305",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 115,
-                "h": 73,
+                "h": 80,
                 "offset": 2,
-                "shift": 26,
-                "w": 22,
-                "x": 218,
-                "y": 152
+                "shift": 29,
+                "w": 25,
+                "x": 384,
+                "y": 166
             }
         },
         {
             "Key": 116,
             "Value": {
-                "id": "5693a5a4-6769-45bc-b58b-fe3b784f9148",
+                "id": "54b32e08-7cef-4c04-be59-93f26cf90e21",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 116,
-                "h": 73,
+                "h": 80,
                 "offset": 1,
-                "shift": 21,
-                "w": 19,
-                "x": 454,
-                "y": 77
+                "shift": 23,
+                "w": 21,
+                "x": 98,
+                "y": 166
             }
         },
         {
             "Key": 117,
             "Value": {
-                "id": "605ef42a-4bc3-4382-b2ca-bb5c0798993f",
+                "id": "4a98376c-b662-4b57-b7a3-06dbb3c45c1f",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 117,
-                "h": 73,
+                "h": 80,
                 "offset": 4,
-                "shift": 34,
-                "w": 26,
-                "x": 398,
-                "y": 77
+                "shift": 37,
+                "w": 29,
+                "x": 36,
+                "y": 166
             }
         },
         {
             "Key": 118,
             "Value": {
-                "id": "4f03bb8e-7167-4aa7-b32c-65f6ee330e1b",
+                "id": "aab55029-f7f2-4efb-adb1-5081faca7290",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 118,
-                "h": 73,
+                "h": 80,
                 "offset": 0,
-                "shift": 28,
-                "w": 29,
-                "x": 367,
-                "y": 77
+                "shift": 32,
+                "w": 32,
+                "x": 2,
+                "y": 166
             }
         },
         {
             "Key": 119,
             "Value": {
-                "id": "ccd5bfb7-b919-4dbf-bff4-d159912b544c",
+                "id": "a391eb6d-0a39-4dbb-b370-5d9736398826",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 119,
-                "h": 73,
+                "h": 80,
                 "offset": 0,
-                "shift": 43,
-                "w": 43,
-                "x": 322,
-                "y": 77
+                "shift": 48,
+                "w": 48,
+                "x": 429,
+                "y": 84
             }
         },
         {
             "Key": 120,
             "Value": {
-                "id": "3bd88c06-3574-4ff6-99f2-4a410e219335",
+                "id": "ca581f4b-5781-4d49-9468-1a50db703f74",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 120,
-                "h": 73,
+                "h": 80,
                 "offset": 0,
-                "shift": 29,
-                "w": 29,
-                "x": 291,
-                "y": 77
+                "shift": 33,
+                "w": 32,
+                "x": 395,
+                "y": 84
             }
         },
         {
             "Key": 121,
             "Value": {
-                "id": "1e3ab3b1-440c-424e-a589-812adadbe742",
+                "id": "094aff24-3b7f-4a6a-9ca6-237de1f0499e",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 121,
-                "h": 73,
+                "h": 80,
                 "offset": 0,
-                "shift": 28,
-                "w": 29,
-                "x": 260,
-                "y": 77
+                "shift": 32,
+                "w": 32,
+                "x": 361,
+                "y": 84
             }
         },
         {
             "Key": 122,
             "Value": {
-                "id": "9bb3603a-2583-4aeb-88cc-8913140f5178",
+                "id": "ac6fdc7d-9ef3-4df8-98da-d9896e807a57",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 122,
-                "h": 73,
+                "h": 80,
                 "offset": 1,
-                "shift": 25,
-                "w": 23,
-                "x": 235,
-                "y": 77
+                "shift": 28,
+                "w": 26,
+                "x": 333,
+                "y": 84
             }
         },
         {
             "Key": 123,
             "Value": {
-                "id": "99eda1f3-6a30-47e9-97fb-d9264e20ad9e",
+                "id": "58b0e0d3-31f9-4f7d-bc53-fd4751417310",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 123,
-                "h": 73,
+                "h": 80,
                 "offset": 1,
-                "shift": 20,
-                "w": 19,
-                "x": 214,
-                "y": 77
+                "shift": 23,
+                "w": 21,
+                "x": 310,
+                "y": 84
             }
         },
         {
             "Key": 124,
             "Value": {
-                "id": "5be78a75-b965-4ea6-978c-e2bde3985305",
+                "id": "b7ca0967-3783-42e0-a6d9-e05837df3572",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 124,
-                "h": 73,
-                "offset": 12,
-                "shift": 29,
-                "w": 5,
-                "x": 207,
-                "y": 77
+                "h": 80,
+                "offset": 13,
+                "shift": 33,
+                "w": 6,
+                "x": 302,
+                "y": 84
             }
         },
         {
             "Key": 125,
             "Value": {
-                "id": "81b84e62-5864-4c80-b9b7-20d987ca9677",
+                "id": "a2438e15-e34b-4a10-bd2b-633cb72ef61d",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 125,
-                "h": 73,
+                "h": 80,
                 "offset": 1,
-                "shift": 20,
-                "w": 18,
-                "x": 187,
-                "y": 77
+                "shift": 22,
+                "w": 20,
+                "x": 280,
+                "y": 84
             }
         },
         {
             "Key": 126,
             "Value": {
-                "id": "5987c11f-aa2e-4931-9690-0607f992f6f8",
+                "id": "1230d566-a266-40da-a857-eac1d2597d77",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 126,
-                "h": 73,
+                "h": 80,
                 "offset": 2,
-                "shift": 30,
-                "w": 26,
-                "x": 30,
-                "y": 377
+                "shift": 34,
+                "w": 29,
+                "x": 339,
+                "y": 412
             }
         },
         {
             "Key": 9647,
             "Value": {
-                "id": "fc5e6999-2f96-4792-9927-d8d0a39cc947",
+                "id": "93eeceb6-f677-43a8-a0d5-3163959879c5",
                 "modelName": "GMGlyph",
                 "mvc": "1.0",
                 "character": 9647,
-                "h": 73,
-                "offset": 10,
-                "shift": 32,
-                "w": 12,
-                "x": 58,
-                "y": 377
+                "h": 80,
+                "offset": 11,
+                "shift": 35,
+                "w": 14,
+                "x": 370,
+                "y": 412
             }
         }
     ],
@@ -1459,7 +1459,7 @@
     "italic": false,
     "kerningPairs": [
         {
-            "id": "3f8c0fc1-cb61-4e5a-870f-7fa22ea06ab1",
+            "id": "7932283a-338a-49a0-b7b2-a63edf8e7b9c",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -1467,7 +1467,7 @@
             "second": 65
         },
         {
-            "id": "aa2da3bb-cd22-4283-b974-d78939c1e84c",
+            "id": "b866cfc0-096b-4c34-a1ef-df07cd026fd5",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": 1,
@@ -1475,7 +1475,7 @@
             "second": 84
         },
         {
-            "id": "e60a085d-9252-4b28-b2bb-fb7dbbd0b045",
+            "id": "15bc491a-7a68-4a2e-8947-328499aaca1a",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": 1,
@@ -1483,7 +1483,7 @@
             "second": 86
         },
         {
-            "id": "5017b1fa-9574-4493-b6ee-177b9b9f48d6",
+            "id": "9e193940-2e5b-4dce-9ea8-e989c532bed6",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": 1,
@@ -1491,7 +1491,7 @@
             "second": 87
         },
         {
-            "id": "bbd606d0-e0a9-45f0-aa69-8e0d5953d6ff",
+            "id": "6d2b9ba6-464e-4315-8be8-2fe9a6febf7f",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": 1,
@@ -1499,7 +1499,7 @@
             "second": 89
         },
         {
-            "id": "098f5af3-e7c4-4072-b588-a489cd51265a",
+            "id": "d7cf2e3e-ca19-4a89-b282-66a91680e9d1",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -1507,31 +1507,31 @@
             "second": 97
         },
         {
-            "id": "003904c5-9222-4f47-8377-1bb689693881",
+            "id": "bb58320a-e563-4e29-8275-fa95349b0fb2",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 34,
             "second": 99
         },
         {
-            "id": "1517f4b3-b191-479e-9101-41a4cebbb860",
+            "id": "0c147191-24a2-43de-83af-902234497e48",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 34,
             "second": 100
         },
         {
-            "id": "15dea964-ee5a-49e6-a34a-dba46002822f",
+            "id": "84beb9a8-02c1-41ce-a5a2-dc01b75d667e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 34,
             "second": 101
         },
         {
-            "id": "18a73553-2012-4779-b1c0-cb7cf92b56fb",
+            "id": "93f2c530-242a-4aa4-9a25-9aca0b4decb4",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -1539,7 +1539,7 @@
             "second": 103
         },
         {
-            "id": "c34d331e-cd9d-4650-a5a7-117c9a724a9a",
+            "id": "2914ad1a-0272-4137-983d-50903c356932",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -1547,7 +1547,7 @@
             "second": 109
         },
         {
-            "id": "35226848-4288-4035-8f11-5914d1acf19b",
+            "id": "3a91f364-e443-4410-9313-549b49aa5e81",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -1555,15 +1555,15 @@
             "second": 110
         },
         {
-            "id": "f689d676-ae21-47a6-92e6-50174d011115",
+            "id": "3077fd7c-c101-454c-bfc8-046ecde55691",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 34,
             "second": 111
         },
         {
-            "id": "bf01df82-731d-4c17-a2c9-b67fed745a20",
+            "id": "7a983e84-28aa-4143-910c-28746aabf1e4",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -1571,15 +1571,15 @@
             "second": 112
         },
         {
-            "id": "f67fe445-ec2e-48b8-a48a-f7b3f2a83af6",
+            "id": "cd8ccf13-a786-4f53-8565-45af6f68496e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 34,
             "second": 113
         },
         {
-            "id": "696d5f27-10fc-42ac-9adb-20190184a118",
+            "id": "37ae62ae-c561-4ae0-a050-eef380ab2de1",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -1587,7 +1587,7 @@
             "second": 114
         },
         {
-            "id": "78fa85ba-b323-446b-8a8c-a4a033a8e014",
+            "id": "7138482b-05e2-4385-95f8-7a447aa22ae2",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -1595,7 +1595,7 @@
             "second": 115
         },
         {
-            "id": "a9ee5a77-738f-42fd-904e-b8b97a039d32",
+            "id": "65f62ef4-4999-4bbd-97fb-bdbbae55ea4b",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -1603,7 +1603,7 @@
             "second": 117
         },
         {
-            "id": "73eb8f67-f1d5-4640-8710-5c43c8f4912c",
+            "id": "a538d9d8-0b9c-4ff5-8b28-3a52a9926f17",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -1611,7 +1611,7 @@
             "second": 192
         },
         {
-            "id": "3ac0d7bc-3d98-4053-b160-8b634b8665be",
+            "id": "33634574-5d6b-44b2-b373-ec643165b3a4",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -1619,7 +1619,7 @@
             "second": 193
         },
         {
-            "id": "9f3b1228-6bce-483a-a674-b45265f05cb1",
+            "id": "01529337-d568-4df3-adb2-fd304cb73827",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -1627,7 +1627,7 @@
             "second": 194
         },
         {
-            "id": "13c0f5a1-b124-4e1f-ad18-0fe94646d601",
+            "id": "229ab7de-c4f4-4e12-90ae-0c89cb80c12e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -1635,7 +1635,7 @@
             "second": 195
         },
         {
-            "id": "68c38070-81ba-4019-8528-543744d7b07c",
+            "id": "9c286e89-9184-45fd-ada6-6671d2bb83ea",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -1643,7 +1643,7 @@
             "second": 196
         },
         {
-            "id": "e3c38f04-abba-4aca-b827-1af917cd9fe9",
+            "id": "86e99b8a-ee4c-4ebd-820b-a8f998259677",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -1651,7 +1651,7 @@
             "second": 197
         },
         {
-            "id": "3526126d-3b6d-4718-95a3-1dcab018aacb",
+            "id": "e6f71d6d-f925-40a7-8a4b-1c19374d296e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": 1,
@@ -1659,15 +1659,15 @@
             "second": 221
         },
         {
-            "id": "2eafabfd-6e46-494d-9a5f-85229a2b818b",
+            "id": "0071953a-2681-4cd3-b61d-8b005df7e3f1",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 34,
             "second": 224
         },
         {
-            "id": "629368e0-0eb3-48c8-b6e7-dffd5e1b5c32",
+            "id": "89c04612-0d92-4233-823c-f2b8d213b20d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -1675,7 +1675,7 @@
             "second": 225
         },
         {
-            "id": "a6512f41-8170-415d-9fee-c3feb815956f",
+            "id": "d695d092-489f-477d-a02d-9bdb9814ee41",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -1683,7 +1683,7 @@
             "second": 226
         },
         {
-            "id": "567d9ca9-b1a6-40a6-870b-de815ce0aeb9",
+            "id": "cf4d3540-d5c8-478a-bbc7-f4b006e08082",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -1691,7 +1691,7 @@
             "second": 227
         },
         {
-            "id": "98c113a2-9bfa-4aa6-89e8-f481017e56da",
+            "id": "eff6ce62-982d-45ac-87a6-939a11f33cfc",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -1699,7 +1699,7 @@
             "second": 228
         },
         {
-            "id": "9fc53190-e1f3-48b4-b9ed-397dba3ed82a",
+            "id": "3bf2adc2-7fc2-4bfc-9d5c-b3be8734173d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -1707,7 +1707,7 @@
             "second": 229
         },
         {
-            "id": "5455f8fb-7ff1-4bf1-8340-ea6bf8e70f12",
+            "id": "df96d17a-8bc2-4118-80aa-762860bde8ca",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -1715,95 +1715,95 @@
             "second": 230
         },
         {
-            "id": "a8cfd622-bd27-4a4f-b572-aeb9f3a396f9",
+            "id": "fb337ddf-b457-4276-b74e-b2a0ccd6cc66",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 34,
             "second": 231
         },
         {
-            "id": "43186b04-bb57-4077-9a22-1fb227d6c4b1",
+            "id": "edec7ab4-1c8e-46ee-bce5-5f393fd5c379",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 34,
             "second": 232
         },
         {
-            "id": "f379e6a4-51f9-4c2d-a35f-290a79675b95",
+            "id": "e7f1f5ae-9f71-40ef-bc72-e2b2df1a0f13",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 34,
             "second": 233
         },
         {
-            "id": "a1c38bc3-14b6-4ddc-bc5e-611367d20119",
+            "id": "0e3bcfe0-22d8-4271-aed1-83a577d2fb0a",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 34,
             "second": 234
         },
         {
-            "id": "0fe25c1d-b63e-458d-8965-5ecd5a4af69e",
+            "id": "99bba901-c7bd-4b67-b930-ce3a7b5661df",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 34,
             "second": 235
         },
         {
-            "id": "e06674a1-ebfc-4c9b-9c1e-89cca8166f30",
+            "id": "437345a5-1f62-4c5e-9bf8-ca9cf226a60d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 34,
             "second": 242
         },
         {
-            "id": "ec64bd40-cba5-4b8d-981c-6398f486b020",
+            "id": "c15b4573-947a-4c0c-bb8a-6128e3dba417",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 34,
             "second": 243
         },
         {
-            "id": "a217a9c2-cfb1-4b4e-9b9f-1424fda80eec",
+            "id": "6a68df4e-830b-4895-b8f6-0e270c645b52",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 34,
             "second": 244
         },
         {
-            "id": "a295e26f-3851-4364-9826-e1bda8500000",
+            "id": "8b645735-7a37-4f64-ad12-3a29f2565b1e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 34,
             "second": 245
         },
         {
-            "id": "5860f3f5-86d7-4df6-9f38-aa386eb97e18",
+            "id": "f56c7a8f-8e93-43d6-9438-385900e9883f",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 34,
             "second": 246
         },
         {
-            "id": "211dd690-f139-407d-baff-ab0e4f955a97",
+            "id": "8f56ccda-188b-4549-ae71-6a75680cf661",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 34,
             "second": 248
         },
         {
-            "id": "664a281e-c3fe-4b07-829d-a559fa759977",
+            "id": "59f3370f-c9c9-4abb-8316-f3bd4c2f39e0",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -1811,7 +1811,7 @@
             "second": 249
         },
         {
-            "id": "70b3c0ef-65ab-42b6-8de9-118ac690f11b",
+            "id": "68ea4c3f-89db-4c18-8ada-393cd07af32c",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -1819,7 +1819,7 @@
             "second": 250
         },
         {
-            "id": "0c5a2bd2-4585-4da8-9f3f-fb5465ebabf2",
+            "id": "b4349d01-f72c-4213-a822-efb75636e355",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -1827,7 +1827,7 @@
             "second": 251
         },
         {
-            "id": "76786e9a-6cc1-421b-90cc-c3d1e43a605c",
+            "id": "01f79775-962b-4a2f-ac75-3ed9218d4022",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -1835,7 +1835,7 @@
             "second": 252
         },
         {
-            "id": "a3bcb109-460f-4636-b10c-ff707d6da7c9",
+            "id": "4853dd96-4113-427f-b01c-60446de086a8",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -1843,7 +1843,7 @@
             "second": 256
         },
         {
-            "id": "14ec8c47-739b-4ed4-b38b-4f9bd8a9b7a4",
+            "id": "16c254ca-259b-49a7-924e-3df332a707f2",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -1851,7 +1851,7 @@
             "second": 257
         },
         {
-            "id": "c0388341-a745-4edf-944c-1e60cb062391",
+            "id": "713ae7ef-0193-4484-91db-f5d19ae7f8cc",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -1859,7 +1859,7 @@
             "second": 258
         },
         {
-            "id": "33e02d17-f670-472b-9670-d073f8fcf715",
+            "id": "1ea69c7a-821a-44f7-b1af-777f75b80fd6",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -1867,7 +1867,7 @@
             "second": 259
         },
         {
-            "id": "e2587955-c78f-4ecb-be15-df7e42cffc4a",
+            "id": "d14a18cc-10a8-4ec7-9b2c-f209019b8121",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -1875,7 +1875,7 @@
             "second": 260
         },
         {
-            "id": "76514022-5cb0-46c8-bd5e-8e5c91063051",
+            "id": "b9a0bc98-c9ca-4fd2-ac0e-37374b83163e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -1883,95 +1883,95 @@
             "second": 261
         },
         {
-            "id": "7e59e370-198d-4db9-96b9-9f3ccd46a079",
+            "id": "ddffa179-aef7-47a2-a827-d7006016aac2",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 34,
             "second": 263
         },
         {
-            "id": "da24ce94-604f-41fd-828c-eeb1aa5fc87c",
+            "id": "13ff3697-2103-40bc-bf74-b01eaa5ae111",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 34,
             "second": 265
         },
         {
-            "id": "e777fbff-ebb1-4ac4-be4e-5e39dfbdea6c",
+            "id": "6f8f1452-5d74-4e00-a624-76356e8853df",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 34,
             "second": 267
         },
         {
-            "id": "fa4b795e-2909-400a-bb08-16fd69482b1c",
+            "id": "d9bcebaf-afb5-46a8-8ff3-72d9d51f2d8d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 34,
             "second": 269
         },
         {
-            "id": "aae0744d-00bf-4cd3-bf13-5ed72b75b507",
+            "id": "973a775c-11ff-415f-a831-471554a9d439",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 34,
             "second": 271
         },
         {
-            "id": "76ccf796-6046-4eaf-a5b3-159078dc6b71",
+            "id": "6ac505cd-b6a8-4d7e-a2e9-f893e4526dc6",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 34,
             "second": 273
         },
         {
-            "id": "a43ce424-b424-4795-8a9b-44766720d9c8",
+            "id": "62e3b6d0-495b-4883-a180-cf511d087c7f",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 34,
             "second": 275
         },
         {
-            "id": "268c5433-4ac6-4eb4-aa53-e98b47567bb2",
+            "id": "e75c87bb-3083-41e2-a759-56d9075dc9d0",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 34,
             "second": 277
         },
         {
-            "id": "77211f51-db67-42be-9c8c-a6dde3b1382d",
+            "id": "9cde7d39-7e4d-4896-8880-41d862a1755c",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 34,
             "second": 279
         },
         {
-            "id": "ff0b9cfa-439e-45c2-bbeb-c79fa98e995b",
+            "id": "792d6d88-7330-4374-8234-0c7461b6f4dc",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 34,
             "second": 281
         },
         {
-            "id": "6dd615a2-9762-4ebc-b9bf-1645e11db4b8",
+            "id": "ffbec21d-7d78-4081-a5d8-58cfbd6882e1",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 34,
             "second": 283
         },
         {
-            "id": "549e56e2-50e0-49cf-9bd5-047e213f145a",
+            "id": "88bdb654-760a-4b53-a8b4-e9d3830bb3a1",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -1979,7 +1979,7 @@
             "second": 285
         },
         {
-            "id": "2d140246-44f4-4185-b6d5-dd6d86e53dd9",
+            "id": "6f671891-e30a-4dec-9d22-0d7a523a89a0",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -1987,7 +1987,7 @@
             "second": 287
         },
         {
-            "id": "b50c2ddb-042e-4cc6-935e-4e958e63ffaa",
+            "id": "3f7d3f5b-0e73-475c-8cfb-8a8e99c55a8b",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -1995,7 +1995,7 @@
             "second": 289
         },
         {
-            "id": "ce58e610-c330-435f-827a-24e77731b4ad",
+            "id": "c6a54c13-4be9-4c58-8980-e6d481fe4c8d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -2003,7 +2003,7 @@
             "second": 291
         },
         {
-            "id": "6de1e762-cbce-4721-b2ab-39d4d6d5cbc0",
+            "id": "8248ef26-c732-440c-a814-5111115d0708",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -2011,7 +2011,7 @@
             "second": 312
         },
         {
-            "id": "90a793be-7b78-4e66-865d-be011efa6a50",
+            "id": "dac582e4-963d-468a-9486-7ce9aa277e60",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -2019,7 +2019,7 @@
             "second": 324
         },
         {
-            "id": "2e1292a5-9988-4cf8-92f1-a3ee6d6510c2",
+            "id": "8ca1cc42-b55a-4fc6-9ff3-f95224289311",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -2027,7 +2027,7 @@
             "second": 326
         },
         {
-            "id": "d20bc1b9-c008-4383-a5ef-f508dd226abc",
+            "id": "75f0e017-f083-4c8e-8615-a491b494a4aa",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -2035,39 +2035,39 @@
             "second": 331
         },
         {
-            "id": "c77eee8f-a7a1-41de-b09c-a92293761f23",
+            "id": "be13f331-8517-4cc3-99f4-7c258585984b",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 34,
             "second": 333
         },
         {
-            "id": "7bbd4a6c-ae86-4164-8a3a-c0a21a508cb0",
+            "id": "07744378-f659-4e5f-98d0-ce7da0a0e1af",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 34,
             "second": 335
         },
         {
-            "id": "153eca7c-f18a-45e8-9017-7aff81e4e703",
+            "id": "709bbbad-f37c-4447-8b0b-1bb60b5fc3db",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 34,
             "second": 337
         },
         {
-            "id": "86b045bd-05b1-4106-8650-43312aa0e6b5",
+            "id": "90a70ad9-cf4a-4ea4-bcd7-bc737ffedf5e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 34,
             "second": 339
         },
         {
-            "id": "071c4398-4ce1-48d7-96f9-368cf7004980",
+            "id": "36a946f1-a885-4167-8772-520172b12f24",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -2075,7 +2075,7 @@
             "second": 341
         },
         {
-            "id": "da1fd8ea-49ea-41fe-9efb-859efa8cf2a6",
+            "id": "05a0fd81-c0b5-4802-b9f6-6d8d1fb0bd30",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -2083,7 +2083,7 @@
             "second": 343
         },
         {
-            "id": "76e9f3f5-ef9d-4efe-ac75-5584a30ff38e",
+            "id": "9e72c195-3842-4bbb-ac17-49dd26b70bc7",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -2091,7 +2091,7 @@
             "second": 347
         },
         {
-            "id": "a38075ce-af92-4cfe-9bca-fbcb720a0f43",
+            "id": "228caca5-1cc6-4799-85f2-85ffd2e0cb9c",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -2099,7 +2099,7 @@
             "second": 351
         },
         {
-            "id": "d0cd339d-32c5-4df4-8460-b98eb25f869b",
+            "id": "b93babae-5826-4ef5-ad7d-1228266cc6d5",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": 1,
@@ -2107,7 +2107,7 @@
             "second": 354
         },
         {
-            "id": "83bbf564-f12d-4bfe-9d92-cd021834cb62",
+            "id": "ac1d677e-ce4a-4c7c-96e6-d38202569bbd",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": 1,
@@ -2115,7 +2115,7 @@
             "second": 356
         },
         {
-            "id": "670ea833-2248-4f2e-ad87-dcad11c08770",
+            "id": "932f0992-834f-4865-b1f2-b7c3b24dab31",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -2123,7 +2123,7 @@
             "second": 361
         },
         {
-            "id": "e489226c-d157-4218-9e18-9528aa13c94b",
+            "id": "50491ea3-f02c-40b1-8d43-dfeb7e5056c1",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -2131,7 +2131,7 @@
             "second": 363
         },
         {
-            "id": "231856c5-2d48-4c3a-8b82-2ed419c07235",
+            "id": "d11d36fa-5ca7-40f3-9168-928d2ae9bfc4",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -2139,7 +2139,7 @@
             "second": 365
         },
         {
-            "id": "5b31d6a6-c1cd-4815-84d5-0e5c6ffa76f3",
+            "id": "badccdd7-b97a-45e4-8b09-eb496c5c622a",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -2147,7 +2147,7 @@
             "second": 367
         },
         {
-            "id": "59d11dd1-350d-4d91-8220-313a9a6a2ca9",
+            "id": "1e47f27f-73ad-472b-b77f-92d4b499219d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -2155,7 +2155,7 @@
             "second": 369
         },
         {
-            "id": "8d74d2f7-52dc-45d8-9c68-11937c243880",
+            "id": "a80696bb-f243-4d17-a188-fc929b5ea000",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -2163,7 +2163,7 @@
             "second": 371
         },
         {
-            "id": "f8444b0e-56ec-4cb1-a304-3bd653410a42",
+            "id": "19e28f9b-7d8c-4dcd-9ccc-537a72c2b4eb",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": 1,
@@ -2171,7 +2171,7 @@
             "second": 372
         },
         {
-            "id": "a1567e01-f495-441e-9c72-ef9d86e8ebd7",
+            "id": "4e37ce9f-3940-4d9e-ba6a-eef9deb4b67e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": 1,
@@ -2179,7 +2179,7 @@
             "second": 374
         },
         {
-            "id": "24e67e2f-1f40-419b-b7e0-4ac2f8f20ce0",
+            "id": "6672c520-cf69-47c2-a97d-ca2871c83b6e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": 1,
@@ -2187,15 +2187,15 @@
             "second": 376
         },
         {
-            "id": "3008c8cb-0654-4d67-80d3-db733d69c7e7",
+            "id": "07430ec7-5e6f-4c4f-abc7-8ddab8dbaaa6",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 34,
             "second": 417
         },
         {
-            "id": "5b338ef8-f65c-4643-8bb8-6ab79cfe907e",
+            "id": "5797b60b-7fa8-4713-b17b-eafb9ffe549b",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -2203,7 +2203,7 @@
             "second": 432
         },
         {
-            "id": "5ec63ab7-ebff-463f-b481-939c867c4c4c",
+            "id": "f924d633-f5ed-4ab4-b8b4-40455ef48940",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -2211,7 +2211,7 @@
             "second": 506
         },
         {
-            "id": "5b23ba67-d3b6-4f84-8608-cb2e5b94c950",
+            "id": "511866a4-ef8c-47bd-80d8-9f4ce75dff87",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -2219,7 +2219,7 @@
             "second": 507
         },
         {
-            "id": "0d43e2d0-4f7d-4325-abbf-10346b5f61b8",
+            "id": "50ca4609-6907-4a45-b893-626a9a041665",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -2227,15 +2227,15 @@
             "second": 509
         },
         {
-            "id": "e988d98b-98b7-4a84-a2f4-5519de6dcc2e",
+            "id": "1a4412bb-a754-4a14-9b2a-af1484c315c1",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 34,
             "second": 511
         },
         {
-            "id": "94b06a94-88ae-4840-9dc2-db276748c537",
+            "id": "1295e6b9-5014-4db2-9e4e-81939eb71248",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -2243,7 +2243,7 @@
             "second": 537
         },
         {
-            "id": "2e8bb283-cd5d-446a-892c-a0e779884fef",
+            "id": "a76bb862-76b4-4bba-8429-aed94e8b7adc",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": 1,
@@ -2251,7 +2251,7 @@
             "second": 538
         },
         {
-            "id": "2c153b59-6970-41b3-84df-0b94d7b08d74",
+            "id": "d0e029d0-be1d-406b-9ce7-b6fa97abc1ac",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -2259,7 +2259,7 @@
             "second": 902
         },
         {
-            "id": "67bcf880-0fb3-45ca-910e-14885530c2fe",
+            "id": "33c4f646-8fd6-4ea5-b8ee-f4164f990b66",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -2267,7 +2267,7 @@
             "second": 913
         },
         {
-            "id": "fb00c14f-6e19-4847-a3b1-b5a75d3ee172",
+            "id": "dacf8369-a534-40b0-a04d-247e154da244",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -2275,7 +2275,7 @@
             "second": 916
         },
         {
-            "id": "cb02a123-3c1b-4e24-b9b3-fa7e4a158ff6",
+            "id": "772472e4-fbf6-4c50-9b38-358d1c4ee870",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -2283,7 +2283,7 @@
             "second": 923
         },
         {
-            "id": "0b3e16c4-7a29-4175-be81-478fff23251a",
+            "id": "97393343-1cdc-4c0e-9d9c-39650e73cc7f",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -2291,7 +2291,7 @@
             "second": 940
         },
         {
-            "id": "078904b7-f162-4c90-8b71-21f1a52618a9",
+            "id": "6e845490-2b83-4f21-82c9-0c223695f067",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -2299,7 +2299,7 @@
             "second": 941
         },
         {
-            "id": "6464d1cc-5c1f-437d-ae2a-f84fe2f686d0",
+            "id": "e52ee850-66a2-4e7c-b322-88c78d0a5b5e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -2307,7 +2307,7 @@
             "second": 942
         },
         {
-            "id": "063aba36-b168-47c0-8e07-ffd76878aa35",
+            "id": "5a69f8ff-a3a3-4b09-b1de-01706dd78445",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -2315,7 +2315,7 @@
             "second": 945
         },
         {
-            "id": "f06c1580-8eb0-4bf1-90bb-b91989ffadc8",
+            "id": "299946ee-8e7e-46f3-ac42-9ca4bcd013fc",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -2323,7 +2323,7 @@
             "second": 948
         },
         {
-            "id": "5ccdf0c4-4289-4990-be76-7491ea079df8",
+            "id": "418d69a2-4939-4870-a673-42cd0093ffa9",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -2331,7 +2331,7 @@
             "second": 949
         },
         {
-            "id": "f223646f-999a-4360-a4f3-50edc8d658d7",
+            "id": "110f4201-da9b-4bfd-bc15-55998e856c66",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -2339,7 +2339,7 @@
             "second": 950
         },
         {
-            "id": "f9c9b9f2-0d5a-4b62-a89f-c5ec902e3e83",
+            "id": "2a8e17b2-43fd-4d53-be98-c14b05bf9d0d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -2347,7 +2347,7 @@
             "second": 951
         },
         {
-            "id": "fdbca3bc-4c48-4854-98ad-f9b886a93408",
+            "id": "23210d74-a676-4f97-9e08-92d7e13a4c70",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -2355,7 +2355,7 @@
             "second": 954
         },
         {
-            "id": "49eb513b-7906-4c51-9812-0b0a5e3424f2",
+            "id": "2ef524a4-d839-4746-a7fe-dea8e3a01624",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -2363,7 +2363,7 @@
             "second": 956
         },
         {
-            "id": "21140f71-1ce6-43e7-be93-91c2d5dd0f71",
+            "id": "aee084e5-eba4-490e-a53e-bd12936463d3",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -2371,7 +2371,7 @@
             "second": 959
         },
         {
-            "id": "debd1881-fabb-4fa6-9f38-18c821e90942",
+            "id": "0b20c012-4fe9-4338-93bb-fa127ea26b41",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -2379,7 +2379,7 @@
             "second": 961
         },
         {
-            "id": "8f3802c8-1bb9-4335-825f-7eaaae72d325",
+            "id": "99b7fcee-8108-4fd8-a482-a332e75bad42",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -2387,7 +2387,7 @@
             "second": 962
         },
         {
-            "id": "226cbc83-02b2-42be-88fa-0f14dc18a3be",
+            "id": "245bed29-b45e-492c-abfb-69de151b00f0",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -2395,7 +2395,7 @@
             "second": 963
         },
         {
-            "id": "cc4acb07-12c8-4849-b82f-20e9eb950047",
+            "id": "9a822e48-281b-41e0-88ba-d195684ce79a",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -2403,7 +2403,7 @@
             "second": 966
         },
         {
-            "id": "df796d10-f246-441d-b8e0-b6af45434a3e",
+            "id": "7fdbc8c0-0b1c-427d-a52a-0de15f2ba0cf",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -2411,15 +2411,15 @@
             "second": 972
         },
         {
-            "id": "294d66a9-01b0-47cb-9a50-aa232ec95f8a",
+            "id": "e8d97fc1-ec27-4ce0-aba9-21c83e34356a",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 34,
             "second": 1033
         },
         {
-            "id": "4b784e90-f30e-47f4-a112-7a3c604fe8ea",
+            "id": "600de8ec-0606-46db-a603-2b0beba2e707",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -2427,23 +2427,23 @@
             "second": 1040
         },
         {
-            "id": "a4f93cf9-4703-441f-9d0a-bfaeaca2be14",
+            "id": "29859873-484f-41bb-889f-9ae2c7107bdd",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 34,
             "second": 1044
         },
         {
-            "id": "bf2380ed-5bc1-45cd-bea7-329e19cb026c",
+            "id": "d23b1957-9961-4d46-85c2-6d46099b2b56",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 34,
             "second": 1051
         },
         {
-            "id": "44c143aa-b990-4cf8-9ce5-93b7e01a5d9d",
+            "id": "dbaf0722-d9ca-4d17-ab90-43583ed1e00e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -2451,7 +2451,7 @@
             "second": 1072
         },
         {
-            "id": "3d09cb28-a600-4b3d-ba16-8b53839e35a7",
+            "id": "45483406-0959-45ca-addc-e81ed06ba45b",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -2459,15 +2459,15 @@
             "second": 1076
         },
         {
-            "id": "ed855c13-624f-4115-859e-d23aef02a4f2",
+            "id": "58ffe10d-7af8-43f3-a55c-bfaf4c740ca1",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 34,
             "second": 1077
         },
         {
-            "id": "96e76a57-0dc5-4b07-a43d-71588f39baf5",
+            "id": "763c90f9-a447-453d-91d9-ae150bb34cb7",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -2475,55 +2475,55 @@
             "second": 1083
         },
         {
-            "id": "64fcb837-51c5-49a8-aa2e-a6e86026e1da",
+            "id": "1f44e290-f045-4e5a-b2f4-04b14b35fd1e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 34,
             "second": 1086
         },
         {
-            "id": "6165def0-39e2-40a6-b78e-db67e23b57f2",
+            "id": "5f7429da-f2d1-4091-9d73-bc75dee3c152",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 34,
             "second": 1089
         },
         {
-            "id": "cf05fa3d-ed1d-4b3e-97af-69a5decbb759",
+            "id": "13cb43ad-9167-4df9-b590-d118de5ec67f",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 34,
             "second": 1092
         },
         {
-            "id": "667f32db-17ba-4ae7-bc12-3c2fd3cefcc1",
+            "id": "5727a60f-8952-425b-8e03-7616188922bd",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 34,
             "second": 1104
         },
         {
-            "id": "87933a51-a070-4df3-bfc3-234cb9d2f3c3",
+            "id": "71f1318c-0b99-4b26-8704-156710fbbea0",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 34,
             "second": 1105
         },
         {
-            "id": "4ca4071f-af03-4eb5-9333-1b4eeb785529",
+            "id": "dc1dd029-1c8c-4db6-b13f-e493eeb0c9cd",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 34,
             "second": 1108
         },
         {
-            "id": "ecf85355-920f-4518-87bb-5a7d71c02f60",
+            "id": "47cf2d61-19d4-45dd-a5e0-e7293ce7ec59",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -2531,7 +2531,7 @@
             "second": 1109
         },
         {
-            "id": "11c2f941-8d8b-45d0-8ff7-79e6ceac70cc",
+            "id": "51d15f4b-4220-4dd7-9034-230f4ae3c726",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -2539,7 +2539,7 @@
             "second": 1113
         },
         {
-            "id": "9f83ac5f-0e9a-49d9-b2a7-a4ff2fe39a28",
+            "id": "5bd56616-a928-4c8d-af0e-a0aaccdd26b6",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -2547,7 +2547,7 @@
             "second": 1126
         },
         {
-            "id": "98c76ed4-efe2-44ce-959c-47616f1d68cb",
+            "id": "f47fef31-1b8e-4b2a-b20c-34f05ce95741",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -2555,7 +2555,7 @@
             "second": 1127
         },
         {
-            "id": "b1390cdd-88fd-46f5-b085-4410fa1e11ed",
+            "id": "483fa57f-d5c3-4274-9cf2-a03885cc98b0",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -2563,71 +2563,71 @@
             "second": 1137
         },
         {
-            "id": "7e5cb01d-d75f-495b-97f1-56f31b9bcd6e",
+            "id": "3b92f04f-9890-476e-a9b5-6a550655317c",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 34,
             "second": 1139
         },
         {
-            "id": "89b09625-62c0-4d4b-b173-7ca420ffd119",
+            "id": "a5bdce4c-a89d-4c57-82bd-1ea6d66758e2",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 34,
             "second": 1145
         },
         {
-            "id": "c705ebd5-25ec-42cb-8911-22ca8746e88b",
+            "id": "7ef367af-574d-4c36-8687-cdbfe17e2bcb",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 34,
             "second": 1147
         },
         {
-            "id": "e306358f-f9dd-499d-8cd7-03026fd46b1a",
+            "id": "20f5681c-2a41-44bc-adf1-090461f6e75f",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 34,
             "second": 1149
         },
         {
-            "id": "9546e1cc-8b06-4303-9c2d-9ac081a90fd5",
+            "id": "2965af57-9c18-44eb-8b5d-b289becda2bb",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 34,
             "second": 1153
         },
         {
-            "id": "031d53f5-8785-4f4c-8291-8755b0ac75f6",
+            "id": "c9951367-0304-4664-b6af-be20f23587b3",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 34,
             "second": 1193
         },
         {
-            "id": "715b3432-a8ee-494f-9352-ba5f2100d1be",
+            "id": "a66bf53c-fdac-44a2-86de-386486ee55d4",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 34,
             "second": 1195
         },
         {
-            "id": "6b2dabc1-7deb-406f-bcc5-5b1db6241ae9",
+            "id": "8e1b62ab-6a8c-4004-8368-46b561a7a377",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 34,
             "second": 1221
         },
         {
-            "id": "13402749-7eb3-4cfa-8901-17d986d15f97",
+            "id": "fe7a3e56-fd75-4a59-bdeb-dcf2fa7d414d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -2635,7 +2635,7 @@
             "second": 1222
         },
         {
-            "id": "690acd5b-3aa0-4b34-bc05-87a64cd1ba64",
+            "id": "5bab505c-d3ca-48f3-91f5-6dd1e592ddb0",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -2643,7 +2643,7 @@
             "second": 1232
         },
         {
-            "id": "0cb7c015-06fd-4691-86d6-d7370218d622",
+            "id": "d8e3cef2-f954-42c6-98ba-ee25e3c84e93",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -2651,7 +2651,7 @@
             "second": 1233
         },
         {
-            "id": "ad4b870f-3b2d-4182-ab0d-6daf1b17b0d4",
+            "id": "8acb518e-3a60-4cb4-bf42-93014518e228",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -2659,7 +2659,7 @@
             "second": 1234
         },
         {
-            "id": "e7fb3cb6-cc3d-4c9c-af2c-da1fa6112607",
+            "id": "65cce2bd-ab36-4292-b27d-7538a1d50ba1",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -2667,7 +2667,7 @@
             "second": 1235
         },
         {
-            "id": "82720ce0-3b0d-42a3-a944-14ffc4f24494",
+            "id": "1d7b9e63-8ea7-4f2f-ab73-aac493510cb6",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -2675,7 +2675,7 @@
             "second": 1236
         },
         {
-            "id": "72b857c4-1422-42b4-a285-8b822f49da83",
+            "id": "7b03579d-5135-425f-91b9-61c2139e1c60",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -2683,15 +2683,15 @@
             "second": 1237
         },
         {
-            "id": "0f573cbf-d809-44b2-befb-8cd9eaab085d",
+            "id": "95f5e024-7ad5-4bc6-990d-3e66d7fcd366",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 34,
             "second": 1239
         },
         {
-            "id": "8f55aab3-2bae-4717-b8be-1dbe2c0698bc",
+            "id": "6effbd50-71d1-488e-a2ad-54cdf6af2151",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -2699,7 +2699,7 @@
             "second": 1241
         },
         {
-            "id": "d069ae5f-8691-42a7-a9a1-ca3774211079",
+            "id": "d53e735a-d6db-4d89-90d6-46d618ed00bc",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -2707,31 +2707,31 @@
             "second": 1243
         },
         {
-            "id": "7e75ebee-43e4-4f3c-bb9e-537e3cae38bc",
+            "id": "b27f7239-a34c-4e4f-b651-3f7d05f3e55e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 34,
             "second": 1255
         },
         {
-            "id": "37fbaf07-69b4-482e-8e10-6bb23a2b53d9",
+            "id": "31372396-ca40-40a7-9bb0-609a0478e6fb",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 34,
             "second": 1257
         },
         {
-            "id": "13254bcb-b72e-467f-952b-0810faf2fd39",
+            "id": "28fafdb1-9ccf-4885-bc21-40df96327b47",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 34,
             "second": 1259
         },
         {
-            "id": "5355c262-4487-43cb-a45b-7aac71d44628",
+            "id": "8b5a887c-7da0-43ea-8c9e-12d5f7030fd5",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -2739,15 +2739,15 @@
             "second": 1280
         },
         {
-            "id": "1ebe47e2-d5fc-4ed5-8721-5895bb690c5b",
+            "id": "30142ff7-b2bf-427d-af5e-102a7939b9fc",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 34,
             "second": 1281
         },
         {
-            "id": "2fca4bc3-bfe7-47c9-b19f-f19be7db9ab1",
+            "id": "f7fe0a7c-99d2-49b6-8fd6-247ec1fb0755",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -2755,23 +2755,23 @@
             "second": 1282
         },
         {
-            "id": "674b5894-d52a-4a33-a36d-e43d14daed7c",
+            "id": "9896cef7-bc8e-430f-99f8-9c91541773ba",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 34,
             "second": 1283
         },
         {
-            "id": "b215c0c5-7345-488a-a475-d1b502521721",
+            "id": "5be876bc-aaf2-4195-a9f7-8e854c60dcae",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 34,
             "second": 1288
         },
         {
-            "id": "5bdfc6b0-cfab-4602-8e07-d8123b1d6947",
+            "id": "04499591-2b22-4683-89e2-b52bee643290",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -2779,31 +2779,31 @@
             "second": 1289
         },
         {
-            "id": "2af40503-2118-45dc-b10f-df9f8a094045",
+            "id": "7f1e0782-ed2c-423a-82d6-594c1c041fba",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 34,
             "second": 1293
         },
         {
-            "id": "36939429-8c15-4e39-9aec-d939a554d864",
+            "id": "00bdc6ea-33b3-473d-89dd-cd2fb486a0f8",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 34,
             "second": 1297
         },
         {
-            "id": "4e484f62-7c74-4079-97d5-fa1dd71aa2a9",
+            "id": "da50be8a-6055-44eb-986c-6690d2f9b263",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 34,
             "second": 1298
         },
         {
-            "id": "dd21b799-871c-4a6b-832a-9dddf1aacc32",
+            "id": "bfb2bc32-3335-4bb3-91c3-662515a19086",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -2811,7 +2811,7 @@
             "second": 1299
         },
         {
-            "id": "323bc55c-9317-4a3b-8e47-ae090990038d",
+            "id": "decd460d-a2e1-4cae-b20c-670dd9b65c86",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -2819,7 +2819,7 @@
             "second": 7680
         },
         {
-            "id": "ccc40eb7-6bb9-4ae1-a536-ed477a63e97a",
+            "id": "5987fd03-535e-485b-a4fe-0d09f321fa62",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -2827,7 +2827,7 @@
             "second": 7681
         },
         {
-            "id": "d5c90d93-82b3-4b02-9650-b903d9394bf9",
+            "id": "185553f8-adcd-4af7-a522-999d67167c80",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -2835,7 +2835,7 @@
             "second": 7743
         },
         {
-            "id": "58c723fb-d324-42d4-950d-32c6b13e2c4d",
+            "id": "0b389ebc-f6ae-49b6-8dd6-05857e75f1ed",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": 1,
@@ -2843,7 +2843,7 @@
             "second": 7808
         },
         {
-            "id": "d146adda-fac1-4744-9e42-ee30c64be108",
+            "id": "2c28086a-44d9-4433-8af8-6758ff6d3bd1",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": 1,
@@ -2851,7 +2851,7 @@
             "second": 7810
         },
         {
-            "id": "28bd9270-1e91-4aeb-97df-76c806b28147",
+            "id": "10079d75-bd78-4059-b984-04e048c6ce6a",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": 1,
@@ -2859,7 +2859,7 @@
             "second": 7812
         },
         {
-            "id": "f44cb4be-0a95-45a4-b053-302a32b4c73f",
+            "id": "5677fbde-5bdc-4f01-9a03-7112982655c1",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -2867,7 +2867,7 @@
             "second": 7840
         },
         {
-            "id": "51cab91b-afbf-4682-9e33-a2144945424c",
+            "id": "1aead11f-fdd5-424f-9e05-6674a1316f1c",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -2875,7 +2875,7 @@
             "second": 7841
         },
         {
-            "id": "52fb7666-d5f5-4c91-a9ae-e1d4c19861a7",
+            "id": "5e3ebdd9-f020-460b-8eeb-79373f09db19",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -2883,7 +2883,7 @@
             "second": 7842
         },
         {
-            "id": "61e371e9-b036-4f98-bea6-c71b6445fb37",
+            "id": "f89c243e-4228-4a23-a0c6-0c9b4490f6da",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -2891,7 +2891,7 @@
             "second": 7843
         },
         {
-            "id": "f9644f40-687c-4867-b3bc-e000caf7d935",
+            "id": "e101e571-4c4d-47d9-9760-a3dcd9d8445b",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -2899,7 +2899,7 @@
             "second": 7844
         },
         {
-            "id": "a5cf0339-495b-40db-91b9-6c075322fafe",
+            "id": "90f0887b-824e-44f2-a1cb-2ef06552dbd9",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -2907,7 +2907,7 @@
             "second": 7845
         },
         {
-            "id": "d5a53d15-b28c-4f4b-ba88-ecb236a5e8d0",
+            "id": "d0d4bec6-f5ea-4e11-a9f1-4b67556ea9a5",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -2915,7 +2915,7 @@
             "second": 7846
         },
         {
-            "id": "f66c68a1-7a97-48e2-827d-38bb469efcea",
+            "id": "3fc5b02d-4c59-49c9-8baf-26d76d58faa0",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -2923,7 +2923,7 @@
             "second": 7848
         },
         {
-            "id": "7baf9cc3-d5c8-4e76-9d08-f8d472927c4b",
+            "id": "b0bf6624-cefb-49fb-879f-2fe307e230a6",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -2931,7 +2931,7 @@
             "second": 7849
         },
         {
-            "id": "87f4fd5f-3f28-44e6-b36c-3e1db4779da6",
+            "id": "7f0c1506-2db6-4054-ac3b-e980a75d166c",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -2939,7 +2939,7 @@
             "second": 7850
         },
         {
-            "id": "717aa8b9-2213-4464-8688-01164a885740",
+            "id": "8123ae81-4d7d-4484-9d74-7eed7d31c9d6",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -2947,7 +2947,7 @@
             "second": 7851
         },
         {
-            "id": "2edf0edd-1645-4b36-84a7-dfa8f6800746",
+            "id": "20a8bca2-9ca4-41e8-8338-d13a8cb1f098",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -2955,7 +2955,7 @@
             "second": 7852
         },
         {
-            "id": "8c594639-032c-4179-bfee-fb093be10aac",
+            "id": "9a30bab9-3b8f-4b97-ba3c-c248e9a2b2e4",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -2963,7 +2963,7 @@
             "second": 7853
         },
         {
-            "id": "0da347c3-1b8c-4b7d-93cd-338fb78b994d",
+            "id": "52cdf0d9-dad3-4599-8fbc-bb7e020ee184",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -2971,7 +2971,7 @@
             "second": 7854
         },
         {
-            "id": "6e149e51-451d-4e01-853e-ea0252abe926",
+            "id": "e155aaea-8bf0-4459-b55e-735f62f8a855",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -2979,7 +2979,7 @@
             "second": 7855
         },
         {
-            "id": "26645f02-5af7-4bec-bc5d-ab323e15a37e",
+            "id": "88ed013b-659f-42c3-8e2a-bfad040ee5c2",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -2987,7 +2987,7 @@
             "second": 7856
         },
         {
-            "id": "86f4b046-7414-4de6-82cd-bca0c433e87e",
+            "id": "9f13660c-c12f-4948-94be-31812cf88931",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -2995,7 +2995,7 @@
             "second": 7857
         },
         {
-            "id": "c7a98597-9379-49ab-844f-e6ba15ff44a3",
+            "id": "77c59617-919d-49e5-8bdb-037ac15baf98",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -3003,7 +3003,7 @@
             "second": 7858
         },
         {
-            "id": "58bece2e-6272-4a5a-9be8-4a049a9ddf1e",
+            "id": "0ad48969-e715-4bdc-b089-bf4189e17e73",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -3011,7 +3011,7 @@
             "second": 7859
         },
         {
-            "id": "994a426f-5176-45b7-9fa7-22349dd6d275",
+            "id": "0072fff7-f4c3-4f3c-90e9-a139ac8368fb",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -3019,7 +3019,7 @@
             "second": 7860
         },
         {
-            "id": "96f443b6-a5a3-48ba-9e06-71a70ca63729",
+            "id": "e401d348-609d-4057-8bcd-7626af4e0fad",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -3027,7 +3027,7 @@
             "second": 7861
         },
         {
-            "id": "8d7a7ab5-5a42-46b5-bbfa-f027b54c7440",
+            "id": "d6ca7172-ad2b-4cae-966f-ca36c2037f34",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -3035,7 +3035,7 @@
             "second": 7862
         },
         {
-            "id": "e7f1f5f1-3420-44bc-b74f-e35cc6959968",
+            "id": "92bf4418-190d-43b3-807c-e5436260b62a",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -3043,151 +3043,151 @@
             "second": 7863
         },
         {
-            "id": "6e43b515-c279-4a48-8efb-8f9661b6fcbc",
+            "id": "43aaf9ac-cb2b-4c4e-abbb-fd435a5d5cc2",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 34,
             "second": 7865
         },
         {
-            "id": "cb4ee684-e66f-4c86-a0b8-b70c35cd6ebe",
+            "id": "8c51edd0-b917-468e-941c-efedca9a0be0",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 34,
             "second": 7867
         },
         {
-            "id": "d8abc643-19bf-4ed3-af84-8219c112c78a",
+            "id": "a750d798-3db1-4369-b04d-fece03e291f2",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 34,
             "second": 7869
         },
         {
-            "id": "8d77e062-51de-4a1e-aaa4-e9753be86a25",
+            "id": "0b417bf0-1078-431b-9616-6548daec869b",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 34,
             "second": 7871
         },
         {
-            "id": "865a4601-e01d-42c9-9f65-28bc5b588a7c",
+            "id": "f45cd289-5809-4c8c-be5f-14c643271caf",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 34,
             "second": 7875
         },
         {
-            "id": "7bd2d092-54a8-4f97-8f5f-dd7ef436a722",
+            "id": "2b2f57fa-fe66-45cb-8fce-33d0fda393e6",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 34,
             "second": 7877
         },
         {
-            "id": "765cc6d4-e0e9-42ad-b40c-7116e0f8eb81",
+            "id": "aa842e68-df94-402c-869e-a1d46a752a8d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 34,
             "second": 7879
         },
         {
-            "id": "f0891377-9c65-485e-89fa-857fe316784c",
+            "id": "178d2d86-ce54-4ce2-9f36-1d3f77ec4f9d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 34,
             "second": 7885
         },
         {
-            "id": "8d778870-4335-43ce-a38b-777736f49a02",
+            "id": "939496f6-4cb6-448c-9377-75829231fccd",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 34,
             "second": 7887
         },
         {
-            "id": "2646848c-1d89-4f28-800d-e7ba580b4089",
+            "id": "402fbecc-eff9-4b89-9416-4070be7b16f4",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 34,
             "second": 7889
         },
         {
-            "id": "2ad632a9-e4c1-4ec8-8612-023f57dba1cd",
+            "id": "1f7c3fef-d936-4ed0-b748-d4fab78b4676",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 34,
             "second": 7893
         },
         {
-            "id": "49b3e0ab-4600-4db3-a605-1768ab50d608",
+            "id": "d11b41f9-5ec9-47c1-aa77-3f8691628295",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 34,
             "second": 7895
         },
         {
-            "id": "9a66f38d-2500-4511-b608-0f79bbb59cfe",
+            "id": "6a38e879-bf35-45ad-9449-8ca23306499d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 34,
             "second": 7897
         },
         {
-            "id": "dd925f61-efd8-4d27-ac8a-29c5b11849db",
+            "id": "2384ec34-cd39-4bc6-a95f-6682ef009d1f",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 34,
             "second": 7899
         },
         {
-            "id": "6e3b2178-9810-4e31-b39b-90f353f81864",
+            "id": "d69678aa-422e-4990-844d-e1257b8c57ef",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 34,
             "second": 7901
         },
         {
-            "id": "6bfa0781-0ccb-4ff5-b534-70b4aa6100ba",
+            "id": "913483e7-1576-4ea8-8f83-6b490fdfec83",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 34,
             "second": 7903
         },
         {
-            "id": "78e305a5-f30b-4816-af18-a3b6d44f23b3",
+            "id": "d440c308-409c-4ab5-ba35-2626c6c8bd75",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 34,
             "second": 7905
         },
         {
-            "id": "1b735aec-e1ac-413b-a0fe-4d8cd80488cf",
+            "id": "6126dc12-bb03-4d12-b045-8dda2c80b237",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 34,
             "second": 7907
         },
         {
-            "id": "e0b401f0-17a0-44aa-934c-1936cf54f57f",
+            "id": "4d752979-ec9a-42f5-b8cf-24612643ae3f",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -3195,7 +3195,7 @@
             "second": 7909
         },
         {
-            "id": "079b422e-dfdd-47c7-a3b6-70d30901f710",
+            "id": "ce93191c-0ed6-4c19-ba67-671b41bb7df3",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -3203,7 +3203,7 @@
             "second": 7911
         },
         {
-            "id": "c879685b-f7c4-41dc-9b81-8efa80a4b316",
+            "id": "6945d085-df1c-4511-8390-c42c24e1d0cd",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -3211,7 +3211,7 @@
             "second": 7913
         },
         {
-            "id": "6a5a31b7-0e7f-45bc-aeb1-98ffb398cf2f",
+            "id": "7ba2b94f-9342-4a9b-9744-800e10d8ca4f",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -3219,7 +3219,7 @@
             "second": 7915
         },
         {
-            "id": "68895cd3-b07b-4b00-8148-1258859dbd63",
+            "id": "cbc3e88a-5898-40cb-8b45-b93729bce4b5",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -3227,7 +3227,7 @@
             "second": 7917
         },
         {
-            "id": "06639d0a-d402-4276-8cbb-14bdba17cb30",
+            "id": "2ee757f4-17ba-46ba-90c0-2053d42c6023",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -3235,7 +3235,7 @@
             "second": 7919
         },
         {
-            "id": "f01d1f91-ec33-4304-be5d-d2ec201f3e93",
+            "id": "8309b5a0-c8e4-43ad-8557-ab38e97ca23c",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -3243,7 +3243,7 @@
             "second": 7921
         },
         {
-            "id": "9daa5f8f-6a40-4bd0-8daa-7a48c1d555b3",
+            "id": "14d7ed60-5256-4ec0-b971-609c5396eef9",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": 1,
@@ -3251,7 +3251,7 @@
             "second": 7922
         },
         {
-            "id": "f9b520e5-90f7-4b31-8f53-71e199ce6c99",
+            "id": "ccb61b6f-102d-48a4-b6fb-7a801de34c50",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": 1,
@@ -3259,7 +3259,7 @@
             "second": 7924
         },
         {
-            "id": "4eab370d-9ed9-4ece-b330-176c853cc4ce",
+            "id": "dec5195a-d53d-4bf9-8dac-e86916f92047",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": 1,
@@ -3267,7 +3267,7 @@
             "second": 7926
         },
         {
-            "id": "5783645d-c0e8-4912-9ca4-515c8be542f8",
+            "id": "d8469918-c288-4465-b2c3-fdab7dadf144",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": 1,
@@ -3275,7 +3275,7 @@
             "second": 7928
         },
         {
-            "id": "fd955d5c-6c1c-46d4-9920-bed0fd25f494",
+            "id": "e7b8ab14-d045-406d-87b5-3268a39aa926",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -3283,7 +3283,7 @@
             "second": 65
         },
         {
-            "id": "1f43b166-a414-45f2-a050-408b4cb0a058",
+            "id": "c3ddf3b3-863f-47e0-b291-d5c1a6f811f8",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": 1,
@@ -3291,7 +3291,7 @@
             "second": 84
         },
         {
-            "id": "4a7d227f-15f8-4630-8763-4144a0f3d9a8",
+            "id": "c038d1d1-c376-422e-8947-b5888b4fc4ff",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": 1,
@@ -3299,7 +3299,7 @@
             "second": 86
         },
         {
-            "id": "a94aac6c-2fc7-466e-a27a-94acacd0b199",
+            "id": "685c4701-ebb2-4828-9108-2de131ef8c19",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": 1,
@@ -3307,7 +3307,7 @@
             "second": 87
         },
         {
-            "id": "74215ce1-bd04-42ab-9cb1-16489c987ab2",
+            "id": "c0124e44-28da-4f35-b065-e3373f9239d9",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": 1,
@@ -3315,7 +3315,7 @@
             "second": 89
         },
         {
-            "id": "80986ba4-10b8-42fa-862d-301fc30d5518",
+            "id": "fd92a54e-e885-4b47-b62d-cfd2c517964a",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -3323,31 +3323,31 @@
             "second": 97
         },
         {
-            "id": "2278817b-f133-4bc2-b184-008b343ca447",
+            "id": "0aaf73ff-b53d-4f9f-97f3-df8da1ce042c",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 39,
             "second": 99
         },
         {
-            "id": "332fe13c-5778-4500-851d-3585d8cc274a",
+            "id": "c017cad3-c3bb-44fc-8844-dea56334eb97",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 39,
             "second": 100
         },
         {
-            "id": "3d937d5a-8ccb-474c-b648-639a7990829a",
+            "id": "a8030616-0ac8-4209-ab4d-af843f9c4940",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 39,
             "second": 101
         },
         {
-            "id": "731217f3-5942-412e-b2de-2eaa90d1dac4",
+            "id": "fa822ac4-bafb-4252-ae4b-6ad0667ac9eb",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -3355,7 +3355,7 @@
             "second": 103
         },
         {
-            "id": "c3b1ae19-ff18-43e2-8313-430fd6cd102c",
+            "id": "04a3c3c5-8539-4b88-bc0a-f910fc03a657",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -3363,7 +3363,7 @@
             "second": 109
         },
         {
-            "id": "868c5c37-570f-4b77-a871-1503c5c48570",
+            "id": "7a385a57-f4ba-496e-b692-d590b55c2aa2",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -3371,15 +3371,15 @@
             "second": 110
         },
         {
-            "id": "6497ab99-3ea1-41f3-915c-8d21bc99f3c0",
+            "id": "5e67c5e5-057f-4edc-9540-b196544bff13",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 39,
             "second": 111
         },
         {
-            "id": "16e698ce-19f9-469e-8fe6-32a72aefa58e",
+            "id": "38e5f2fc-8419-4827-ab60-b191cec9d1b1",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -3387,15 +3387,15 @@
             "second": 112
         },
         {
-            "id": "2d67e898-a901-4e48-b642-a378015be36c",
+            "id": "59c2c745-b77e-49c5-8910-4127506cfcfb",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 39,
             "second": 113
         },
         {
-            "id": "795f9ce9-6b7b-486d-bcd0-f78355251a80",
+            "id": "c0ed4e4b-7e30-49b1-a91a-9e777b922370",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -3403,7 +3403,7 @@
             "second": 114
         },
         {
-            "id": "20567602-7688-40be-a06e-239ce7f3a865",
+            "id": "1c1f1607-ff1d-4927-849c-0e1e55288e72",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -3411,7 +3411,7 @@
             "second": 115
         },
         {
-            "id": "3eaf0de9-3dbb-4a92-9d81-7192c7b71e31",
+            "id": "f18001eb-a62a-460c-9660-d240af1b8355",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -3419,7 +3419,7 @@
             "second": 117
         },
         {
-            "id": "bf312f7c-dba0-44ec-a1bf-343b7ec4a8b0",
+            "id": "fd1d1fbd-2963-4989-bab6-fa8c32e012e8",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -3427,7 +3427,7 @@
             "second": 192
         },
         {
-            "id": "60469d7a-54cf-4fd9-b1fc-83d176ad6649",
+            "id": "55c0c5a4-1037-4db0-a9a8-78f8def08705",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -3435,7 +3435,7 @@
             "second": 193
         },
         {
-            "id": "d63546fb-a283-4d15-8cea-b2c204f090a5",
+            "id": "1500b42a-e13f-4086-bfff-8e5329025ab7",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -3443,7 +3443,7 @@
             "second": 194
         },
         {
-            "id": "7dcc8e2a-703d-4ef0-bfb5-670d1ef6a6e3",
+            "id": "e3e58ead-efc9-4e5e-b194-4e207c7c46a3",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -3451,7 +3451,7 @@
             "second": 195
         },
         {
-            "id": "150fe576-40a1-421d-bf98-97e6cddf1452",
+            "id": "80876a49-5cda-49cb-80e2-4af10d543ba1",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -3459,7 +3459,7 @@
             "second": 196
         },
         {
-            "id": "47c9f6f0-7398-440c-9172-14d1068278e3",
+            "id": "f60987da-de9d-4ef5-ac8e-8945a89710df",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -3467,7 +3467,7 @@
             "second": 197
         },
         {
-            "id": "0fb58034-9d3b-40db-82cb-d565f4a98f79",
+            "id": "1158d6dc-44df-484b-a559-c27a304d9e31",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": 1,
@@ -3475,15 +3475,15 @@
             "second": 221
         },
         {
-            "id": "b8ff435f-5c77-44d9-8df1-6ea41f7c1388",
+            "id": "5040e72c-a470-45bf-b45f-ab0f5244cfdf",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 39,
             "second": 224
         },
         {
-            "id": "ab379915-96cf-4740-9a04-c5093c647b83",
+            "id": "c3ea78e9-89c9-4f5f-b1ef-5c19fc98fc27",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -3491,7 +3491,7 @@
             "second": 225
         },
         {
-            "id": "d24236aa-09ee-4737-92dc-99279c3e640f",
+            "id": "71143537-3ff2-4cc8-a103-681c7c5f3359",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -3499,7 +3499,7 @@
             "second": 226
         },
         {
-            "id": "735fc9dd-63c7-400d-b002-4c0cdb216137",
+            "id": "5dd78e6b-cd44-4ff4-a8fb-254902d476af",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -3507,7 +3507,7 @@
             "second": 227
         },
         {
-            "id": "8ace65c3-60cc-44aa-8c1f-dce23bf76719",
+            "id": "4b6d992f-d697-41b8-b7d8-9acced854478",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -3515,7 +3515,7 @@
             "second": 228
         },
         {
-            "id": "de515527-9bef-4281-9bb0-8e09de32d6e9",
+            "id": "c56d1a3c-69a3-4fac-97f1-a0168028be6a",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -3523,7 +3523,7 @@
             "second": 229
         },
         {
-            "id": "d8b6d139-90bf-458d-b746-31364be9ce5d",
+            "id": "205cbcba-857f-42bb-8525-1147fec7fdd3",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -3531,95 +3531,95 @@
             "second": 230
         },
         {
-            "id": "a8896559-22ad-4d8a-a7a7-b5ca745bf430",
+            "id": "694f32c2-9451-4e96-8274-f160ffd2d5c9",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 39,
             "second": 231
         },
         {
-            "id": "38cc52a9-2e87-4b53-99ca-c14ed9e2ffd5",
+            "id": "5e13ba04-8b71-452c-8e46-f532b57cc691",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 39,
             "second": 232
         },
         {
-            "id": "bf88aac9-4fc2-4165-8525-28e326f81730",
+            "id": "ab767175-078c-4d19-9857-78147e59c3c4",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 39,
             "second": 233
         },
         {
-            "id": "70cd5711-3711-4e06-bffa-547dc3be5aa8",
+            "id": "c84f604d-5654-4577-a3af-65cf801bc249",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 39,
             "second": 234
         },
         {
-            "id": "3ba2f878-0aba-4f84-b6cf-a54b48ce48e9",
+            "id": "10690a0f-c34d-45d2-a65c-0ea05021f506",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 39,
             "second": 235
         },
         {
-            "id": "8341a28c-fbfc-4be8-a5e0-eb49276bdd35",
+            "id": "e73b390f-8928-459a-8c23-fd3e8e939e2a",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 39,
             "second": 242
         },
         {
-            "id": "6f2de264-404b-4228-bd68-7d4a9243d525",
+            "id": "e2955b43-97e3-48d5-9239-3901fa80aa65",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 39,
             "second": 243
         },
         {
-            "id": "c7a45406-08a8-428e-8eaf-54aec296c5b7",
+            "id": "6ba216e4-08b5-471d-ae29-487a5525a01b",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 39,
             "second": 244
         },
         {
-            "id": "4af8a659-3fec-4cb0-996f-e17fac3dba8e",
+            "id": "1580d74f-854d-451d-a6c8-e5255d34a01a",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 39,
             "second": 245
         },
         {
-            "id": "8e2e2dc6-8995-4b43-b40d-bb898edc2088",
+            "id": "f1589a20-b625-4926-99d2-2529a4cf6811",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 39,
             "second": 246
         },
         {
-            "id": "39ddf112-6d32-44b7-a195-a1b6dbf1704f",
+            "id": "655ef59f-47b7-4bbc-98be-751bbe417712",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 39,
             "second": 248
         },
         {
-            "id": "96079810-0f39-4b2d-b4e4-c15823934f8c",
+            "id": "5d46f5ac-10e1-4671-b221-3c56076426e0",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -3627,7 +3627,7 @@
             "second": 249
         },
         {
-            "id": "f998bf46-0fe2-4470-a271-10a027e5cdc2",
+            "id": "7faa3775-e3df-4821-bc1a-b7e66d6a9d77",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -3635,7 +3635,7 @@
             "second": 250
         },
         {
-            "id": "aff37a47-1f36-4659-99f3-11e7215d89fa",
+            "id": "b273bcb4-ba63-48e0-bf12-2bab1fc97358",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -3643,7 +3643,7 @@
             "second": 251
         },
         {
-            "id": "c9dc1b48-e385-4325-ba6b-4db67a774e41",
+            "id": "89cadf9d-d34e-474f-aaf6-970ee5edb8a0",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -3651,7 +3651,7 @@
             "second": 252
         },
         {
-            "id": "997f5c39-da56-4d8e-8fd9-25f9f2968b6d",
+            "id": "d512fb47-a3df-426d-93e7-ef74c5ecedea",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -3659,7 +3659,7 @@
             "second": 256
         },
         {
-            "id": "5c8de5d2-0391-4164-be6b-0697df2843a3",
+            "id": "fa62fd2d-9ef8-4c86-8b70-6a464f079d1b",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -3667,7 +3667,7 @@
             "second": 257
         },
         {
-            "id": "34962305-dd0b-4073-b8eb-6b490d34895a",
+            "id": "91d5ab41-2b8e-4300-a9ff-f26b09a501f7",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -3675,7 +3675,7 @@
             "second": 258
         },
         {
-            "id": "3ac133d9-f7ae-4404-a15e-26ac6fa323c6",
+            "id": "0bf14167-61eb-4c3d-9b6b-9489ab1cffad",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -3683,7 +3683,7 @@
             "second": 259
         },
         {
-            "id": "1bba0acd-1fd1-44c8-9cca-f9d041483fbb",
+            "id": "1579e8be-ae7c-4c0d-a1c4-2a80b324e384",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -3691,7 +3691,7 @@
             "second": 260
         },
         {
-            "id": "f9eb9a2a-c2f7-45af-87ae-94a7fcc6d8cb",
+            "id": "e2772fea-c171-4f08-87e4-4272d9409cc6",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -3699,95 +3699,95 @@
             "second": 261
         },
         {
-            "id": "687ce6b5-caaa-48ef-97b4-ae4dde9f06c5",
+            "id": "91c282c4-5347-4010-b475-e8f979a1c003",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 39,
             "second": 263
         },
         {
-            "id": "5d0f25f8-a8af-4739-a018-be1539003c14",
+            "id": "a2d54a2e-c402-4264-88a8-5d718988625c",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 39,
             "second": 265
         },
         {
-            "id": "800de4d9-de2c-4e9f-ad3d-702a572829fe",
+            "id": "c7dc879f-b75d-4097-87ce-4fa2702fe5cf",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 39,
             "second": 267
         },
         {
-            "id": "e4cf7888-8351-42c4-b3c9-a8c40e3a7bf7",
+            "id": "112cc9b3-a7c5-443a-9b2f-339399019f93",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 39,
             "second": 269
         },
         {
-            "id": "b85378b1-54c8-431d-800a-65479d8268b2",
+            "id": "8277730c-c3f6-4c0d-804d-87101dbcba34",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 39,
             "second": 271
         },
         {
-            "id": "ab1bf30e-c98c-4e04-b21f-6174b61018b5",
+            "id": "800d24d4-61b0-4e3a-b226-ce21da7730a0",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 39,
             "second": 273
         },
         {
-            "id": "c3117b74-3d2b-4593-ad25-5de8c581f3b6",
+            "id": "cd910e99-ca6c-4c39-b567-58e906d494ab",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 39,
             "second": 275
         },
         {
-            "id": "2b62166d-9e68-4681-b356-2e8bc572c361",
+            "id": "9d4d0ab8-03c5-40c2-be2c-96d2315d1b2a",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 39,
             "second": 277
         },
         {
-            "id": "5723790c-f5ab-401a-99c7-a604bf8ee613",
+            "id": "cb4d8a1f-54cd-4c7b-a7b2-4a180e2911a9",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 39,
             "second": 279
         },
         {
-            "id": "ea1dbc60-e490-476d-9ce3-144579107105",
+            "id": "8c1ea05d-fbea-4979-a580-433538b13995",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 39,
             "second": 281
         },
         {
-            "id": "fd196a67-1bd1-4b9e-b475-fe78f3e51256",
+            "id": "1e9229df-f0d2-4526-b232-0cecb5f7dbf0",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 39,
             "second": 283
         },
         {
-            "id": "4439fd29-3f00-4cf9-b5c7-810e2ad17f64",
+            "id": "8de6f2b0-4cec-422c-9616-93dc58ed5cdf",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -3795,7 +3795,7 @@
             "second": 285
         },
         {
-            "id": "655b742c-27a8-4610-b918-6a9cdb625563",
+            "id": "90856e80-33cd-46a6-9e2f-fbed23eca848",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -3803,7 +3803,7 @@
             "second": 287
         },
         {
-            "id": "f5143327-aba8-4fd9-b788-b2705ba010b5",
+            "id": "549fa52b-d919-43ac-a7a6-fa2772cf4b95",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -3811,7 +3811,7 @@
             "second": 289
         },
         {
-            "id": "296ce199-e876-4dee-a66a-81a668e96026",
+            "id": "f6aa653d-617f-4738-9d73-83cd1ea7118d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -3819,7 +3819,7 @@
             "second": 291
         },
         {
-            "id": "e8efc4ca-e4ad-4aff-8947-78faa96da689",
+            "id": "09ebd3e2-91cc-477c-b226-9afaff60aaf7",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -3827,7 +3827,7 @@
             "second": 312
         },
         {
-            "id": "53b25ddd-c0f0-44ea-8352-a330bc1a6b24",
+            "id": "5c3f8dbb-6b05-4f64-98b6-98c3bf0ad19c",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -3835,7 +3835,7 @@
             "second": 324
         },
         {
-            "id": "ea2cff19-f2c5-4880-8080-100b12e989fb",
+            "id": "ab5e2bb8-ec62-4464-80fe-03368ca34f4c",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -3843,7 +3843,7 @@
             "second": 326
         },
         {
-            "id": "7ba8a8ac-895b-4e13-89c9-0c6b53a281de",
+            "id": "0e7d679a-bcdb-401b-bf18-10ba697455fc",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -3851,39 +3851,39 @@
             "second": 331
         },
         {
-            "id": "a321c781-3295-4e3f-a6eb-cb2089e2c261",
+            "id": "419b6aae-fd1b-4e31-911d-3bac5e2503cb",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 39,
             "second": 333
         },
         {
-            "id": "a6688ae2-e392-4d76-882e-9592d0486933",
+            "id": "154c2bc2-8757-4062-9ed4-6d23efd663f6",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 39,
             "second": 335
         },
         {
-            "id": "ab1cc4df-64eb-4487-b9c1-3c1e4909a829",
+            "id": "494fc160-9ca2-4b5e-b3a3-9e43f65c2bd5",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 39,
             "second": 337
         },
         {
-            "id": "2df8147b-2a92-4293-b7e0-1aa147bbd1ef",
+            "id": "0184da68-3289-4a6a-959e-f17511185b77",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 39,
             "second": 339
         },
         {
-            "id": "abf957d2-8150-4f14-98fd-d441e8b5055e",
+            "id": "5c712132-ec39-479a-91fd-ab5b8ae79637",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -3891,7 +3891,7 @@
             "second": 341
         },
         {
-            "id": "4a895f47-412a-457f-8293-03457be4ee33",
+            "id": "c3a6d00d-a8b9-4dab-b125-6e033183b98d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -3899,7 +3899,7 @@
             "second": 343
         },
         {
-            "id": "b592e64d-e432-48ad-bd1c-7dbd174f69c0",
+            "id": "a8688f3f-3f89-4699-aa2e-10decedbd366",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -3907,7 +3907,7 @@
             "second": 347
         },
         {
-            "id": "af37d9f5-7350-4ec9-b6a7-3f9e93894e6c",
+            "id": "8e91e3a4-b737-4c07-a154-6348dd6bfe4a",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -3915,7 +3915,7 @@
             "second": 351
         },
         {
-            "id": "57358986-8f31-4d37-b5ca-d80d17ebd2fe",
+            "id": "908f061f-339d-46f1-aaca-bf5e49af5604",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": 1,
@@ -3923,7 +3923,7 @@
             "second": 354
         },
         {
-            "id": "4ec193c9-b80e-4330-894f-80c39d98ce4d",
+            "id": "dbd84a54-2b27-4ed1-81e8-96d7e67a1a0d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": 1,
@@ -3931,7 +3931,7 @@
             "second": 356
         },
         {
-            "id": "0a017c74-a8af-4e17-b00d-ec4045ee37d9",
+            "id": "4d16c209-bac2-4e44-a14f-88313fc56c89",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -3939,7 +3939,7 @@
             "second": 361
         },
         {
-            "id": "24391359-7da2-40ba-aeb3-7c9f7c756933",
+            "id": "2363e4d2-52e3-4515-85f3-0cc6cef20cc2",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -3947,7 +3947,7 @@
             "second": 363
         },
         {
-            "id": "f617f002-1832-4129-a601-fb8d74dc3c70",
+            "id": "d60e4c59-9702-41b8-9845-e3648e7a015d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -3955,7 +3955,7 @@
             "second": 365
         },
         {
-            "id": "292a86ea-0a5d-4a66-918f-90d1d8a7ca23",
+            "id": "5dd4bf4f-7e4e-47f3-948e-53de3e303b60",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -3963,7 +3963,7 @@
             "second": 367
         },
         {
-            "id": "56b545b5-e691-4838-b4eb-42e1b725038c",
+            "id": "a295965a-ba6a-4e92-ae04-feefff7c042d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -3971,7 +3971,7 @@
             "second": 369
         },
         {
-            "id": "e7bb7b04-3476-4664-aed6-c82a78666b11",
+            "id": "0f87e475-fcf3-4c5d-a02f-ade350d615eb",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -3979,7 +3979,7 @@
             "second": 371
         },
         {
-            "id": "f25debf5-42a9-40e6-b1fe-7d2ca582f618",
+            "id": "607358db-4956-4b5f-a159-0eacd4f0553e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": 1,
@@ -3987,7 +3987,7 @@
             "second": 372
         },
         {
-            "id": "d17e695b-bf9a-4ba9-84fa-cff77390f158",
+            "id": "a7e19a90-4e83-4881-af4f-660dc9e3bb0a",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": 1,
@@ -3995,7 +3995,7 @@
             "second": 374
         },
         {
-            "id": "d19fa530-cc1a-4d49-b62d-268268da886e",
+            "id": "86596546-3c89-4634-8e39-cab97689b2f0",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": 1,
@@ -4003,15 +4003,15 @@
             "second": 376
         },
         {
-            "id": "055279d7-d10d-4c7f-bd0f-ab7d7f43ab40",
+            "id": "0e2e8ce0-a5ad-457c-a7c6-461edf19833d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 39,
             "second": 417
         },
         {
-            "id": "64b66791-357d-4d06-898c-c77624f40830",
+            "id": "1ec80cd7-65e7-434f-9d31-c8c2b3b65cfb",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -4019,7 +4019,7 @@
             "second": 432
         },
         {
-            "id": "6fcc43f1-ea63-42f5-a8c3-5087d499eb31",
+            "id": "2552da10-e3f3-4bc0-8134-528c55d10e1f",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -4027,7 +4027,7 @@
             "second": 506
         },
         {
-            "id": "f230a56e-4e24-4a2a-99f4-dd075557f4c3",
+            "id": "1051ccc0-ac8c-44bb-b5b1-0e1b6f98858d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -4035,7 +4035,7 @@
             "second": 507
         },
         {
-            "id": "a51db8ca-b5df-4f2e-b260-5baf8f9292f4",
+            "id": "8a6d72c9-5966-4ab1-b702-4e45c028363e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -4043,15 +4043,15 @@
             "second": 509
         },
         {
-            "id": "2f5d099e-dd37-4754-9f5f-2215d4500121",
+            "id": "7540848d-b68a-453e-8bb1-1ed23a2b0bac",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 39,
             "second": 511
         },
         {
-            "id": "613540ef-b33f-4692-a617-4c93d27f5ec2",
+            "id": "f5c3b956-eebe-45de-89e2-82a864275332",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -4059,7 +4059,7 @@
             "second": 537
         },
         {
-            "id": "fdb57250-7e10-42af-91f1-9ee1d078bcbf",
+            "id": "fd6fed80-f321-4b9e-8632-e6d87f0f5e90",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": 1,
@@ -4067,7 +4067,7 @@
             "second": 538
         },
         {
-            "id": "c87e13e3-811f-4786-8686-68a3b4cd0c87",
+            "id": "323e2cc2-9704-42c8-a738-d9b1c2ae7f4d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -4075,7 +4075,7 @@
             "second": 902
         },
         {
-            "id": "8bc6491e-e60c-4b55-a70f-ad36d414ab8f",
+            "id": "cddb8725-0a51-494c-a411-a14a0cf6676e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -4083,7 +4083,7 @@
             "second": 913
         },
         {
-            "id": "713e87de-c951-4579-acee-b746713b649e",
+            "id": "dd9ded3c-6b36-4610-b54e-d0eee640ca7c",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -4091,7 +4091,7 @@
             "second": 916
         },
         {
-            "id": "2e97935b-4712-4586-ab6c-c810b33827cd",
+            "id": "dd8bf611-c4e0-4b1d-bef3-36b553f2324c",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -4099,7 +4099,7 @@
             "second": 923
         },
         {
-            "id": "ed5bc040-7028-44e7-94d0-94e996be85c6",
+            "id": "3c95e061-ed3b-437d-b6dc-b26027c87c0f",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -4107,7 +4107,7 @@
             "second": 940
         },
         {
-            "id": "43eeeb0f-daa6-4fca-be3d-f9d1137d06f8",
+            "id": "edfaa34b-4d9e-4cf0-9610-0ec9e7e0f311",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -4115,7 +4115,7 @@
             "second": 941
         },
         {
-            "id": "32bdddce-9cff-4250-aa46-306f4104f12d",
+            "id": "e5bc8380-0d5f-47c6-b5d7-58288b607191",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -4123,7 +4123,7 @@
             "second": 942
         },
         {
-            "id": "708db83e-b516-4f33-a7cd-85e2b8845b04",
+            "id": "d070aee8-e62a-4a9e-843c-0f2e239afb88",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -4131,7 +4131,7 @@
             "second": 945
         },
         {
-            "id": "58819045-1cfc-4a6f-965d-baa4d831bdab",
+            "id": "d7e565b9-79da-4f48-a83c-2c59bc1db009",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -4139,7 +4139,7 @@
             "second": 948
         },
         {
-            "id": "8ca22fca-01a5-412a-b2a0-ea864a0fd1ae",
+            "id": "3e054f56-99f0-4185-9151-59ecbc8a2749",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -4147,7 +4147,7 @@
             "second": 949
         },
         {
-            "id": "64eb5725-f98d-4fb3-8f67-f2f46cd9293c",
+            "id": "616c41c1-809d-4749-840c-a19262ad59c0",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -4155,7 +4155,7 @@
             "second": 950
         },
         {
-            "id": "6140b1a3-966b-41e3-bd85-a22c0dd78246",
+            "id": "f83bfdb4-09e8-486f-96ea-ff55e64f1a40",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -4163,7 +4163,7 @@
             "second": 951
         },
         {
-            "id": "25f8da30-1699-4bb2-a8a5-34729f1c8b36",
+            "id": "74e85b81-5c01-4b81-b5be-0eee1c03d3c5",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -4171,7 +4171,7 @@
             "second": 954
         },
         {
-            "id": "0419ba35-cc18-4f96-b8c1-61d6289a8860",
+            "id": "ae64bb95-062b-47d7-aa34-01952107d122",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -4179,7 +4179,7 @@
             "second": 956
         },
         {
-            "id": "c74aa43b-8b5e-4d96-88e9-34818746741c",
+            "id": "797f702f-4cb7-4258-a856-f92015115cbe",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -4187,7 +4187,7 @@
             "second": 959
         },
         {
-            "id": "777bea1f-025e-40f5-a5e8-080af60b87c8",
+            "id": "fe695203-3831-416e-9d2e-b787fb15b27f",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -4195,7 +4195,7 @@
             "second": 961
         },
         {
-            "id": "082e647c-ead4-4783-af61-f9697b0abbbe",
+            "id": "cfc8b7a5-ae8d-4d52-96ff-6d2bad27bdb3",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -4203,7 +4203,7 @@
             "second": 962
         },
         {
-            "id": "ce858aeb-cbe4-402f-a519-ab2b3538a789",
+            "id": "c3efa493-5337-4c52-8ca1-d85c5d92c9e9",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -4211,7 +4211,7 @@
             "second": 963
         },
         {
-            "id": "2b1723d6-b7f7-497d-aa85-977424572931",
+            "id": "25be3b36-4c4c-4e4c-88ab-5bb20e5acdd1",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -4219,7 +4219,7 @@
             "second": 966
         },
         {
-            "id": "652c7f2e-e370-4b65-b5a6-69cb5f09a5e5",
+            "id": "bce181a3-88a0-4eb9-a0d8-5c6d17679287",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -4227,15 +4227,15 @@
             "second": 972
         },
         {
-            "id": "4949fe4a-7d98-4175-b406-552d84f8bc1c",
+            "id": "bd304fb1-e112-46b3-afaa-95e1b16a49c3",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 39,
             "second": 1033
         },
         {
-            "id": "ad11ab76-6479-4d7f-9f9f-b2e39e89e27b",
+            "id": "92a73fbc-4360-40ae-ad34-4c8d0f78ee28",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -4243,23 +4243,23 @@
             "second": 1040
         },
         {
-            "id": "73cb8a0e-6724-4f78-a5e8-519b5b57c109",
+            "id": "a352e030-3962-442b-9d9a-302834d8ed62",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 39,
             "second": 1044
         },
         {
-            "id": "59b76f2f-df22-43a4-9481-dc88d0796dfd",
+            "id": "ff60d2a9-3de5-434f-abaf-b319f6c1e50e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 39,
             "second": 1051
         },
         {
-            "id": "368d74a4-f673-4f7f-91d0-e7c4c1e6a425",
+            "id": "d3dc3b56-9592-4b53-98c0-c5f939bb6a49",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -4267,7 +4267,7 @@
             "second": 1072
         },
         {
-            "id": "84830f17-be21-4b10-89b0-7f9e1618aa5a",
+            "id": "5a70d7b1-d602-42bd-a4d8-defea8af0c41",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -4275,15 +4275,15 @@
             "second": 1076
         },
         {
-            "id": "b714bf61-592f-4ae4-9913-bc4176c08c5c",
+            "id": "942b14a5-f976-4094-89ea-2d26ca60c6de",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 39,
             "second": 1077
         },
         {
-            "id": "01c6ced4-3360-40b0-8905-06075705fbdf",
+            "id": "cef57006-adc4-43d7-90f9-1c09dd3dbebc",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -4291,55 +4291,55 @@
             "second": 1083
         },
         {
-            "id": "1fa2bbf5-014a-4571-96f3-bd22864883cd",
+            "id": "7ccaa7fc-3780-4648-9681-106e3566e1d2",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 39,
             "second": 1086
         },
         {
-            "id": "d7f2fcdc-82f0-46e1-a614-daf136e89c6a",
+            "id": "fbb089d4-1141-4ec1-82f5-4757773614c2",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 39,
             "second": 1089
         },
         {
-            "id": "13054bf9-db9d-4006-87db-acf801d06f16",
+            "id": "7ab54bea-c6a3-4e08-886a-ffd364ad9114",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 39,
             "second": 1092
         },
         {
-            "id": "66fa03b6-e6b9-426c-aa60-99166eaa1ee1",
+            "id": "ee4380c0-f24c-47fd-8002-6d9863dbd060",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 39,
             "second": 1104
         },
         {
-            "id": "bc38c4e0-d7a8-4af8-9890-255f7b73ac4e",
+            "id": "7e9dab12-f81a-473f-a3cd-6589b6697619",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 39,
             "second": 1105
         },
         {
-            "id": "1bc7a83d-1c90-4241-acab-557c75fccd68",
+            "id": "caf22459-10b1-4e13-9134-0af0f0f24ec3",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 39,
             "second": 1108
         },
         {
-            "id": "f61a8cf4-2bcb-4d8c-bfe4-b64bc56c5b89",
+            "id": "65b98374-c9b1-4707-905c-fb50f5e15e15",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -4347,7 +4347,7 @@
             "second": 1109
         },
         {
-            "id": "2d7b3943-ddc2-4d45-b176-b15005516774",
+            "id": "c7489339-77f2-4610-8fee-87ad39c82435",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -4355,7 +4355,7 @@
             "second": 1113
         },
         {
-            "id": "31e4126f-99a1-4604-8f34-19687b3f4471",
+            "id": "5d2ce5c4-4a15-4166-88a8-6801af29fcd7",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -4363,7 +4363,7 @@
             "second": 1126
         },
         {
-            "id": "fa02a053-d2ac-4be7-aec2-550b958b419b",
+            "id": "89db4154-15b0-439e-90cb-0f4d0e1ec852",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -4371,7 +4371,7 @@
             "second": 1127
         },
         {
-            "id": "affdb18c-7b1c-4f5b-abeb-e5101f9213cd",
+            "id": "69cc0a05-01e3-499f-8316-7c57fe897595",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -4379,71 +4379,71 @@
             "second": 1137
         },
         {
-            "id": "dbb14210-ecbf-4d7f-b03e-6cff409eeac8",
+            "id": "fe716a07-0749-4162-9bb3-8459b3d6d127",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 39,
             "second": 1139
         },
         {
-            "id": "d489c9e0-c5ce-454a-b7e5-5d80a05cd18a",
+            "id": "b255d805-593c-4d6f-ab0b-f1c4f89d11ca",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 39,
             "second": 1145
         },
         {
-            "id": "de27c34d-8037-4e99-9595-4e307dc1862c",
+            "id": "5a209481-fe53-44ab-84b4-a729878f7e9e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 39,
             "second": 1147
         },
         {
-            "id": "70604f73-170f-4807-8d34-1f4ab0564d8a",
+            "id": "115d9978-f4cc-43f6-be24-64f50f327074",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 39,
             "second": 1149
         },
         {
-            "id": "7336095c-cefe-4d47-8921-eb8130d7c339",
+            "id": "0ba7a785-8beb-40b3-aaa4-68690d82cb82",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 39,
             "second": 1153
         },
         {
-            "id": "89c46225-44ef-435e-afe6-63cdca7c673e",
+            "id": "9373ab76-1425-4c86-8ace-5c3b9f441142",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 39,
             "second": 1193
         },
         {
-            "id": "dc01e9e7-fded-4fc7-b261-a17665803174",
+            "id": "34efd77b-820a-48ad-8fca-1ac7b44acc16",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 39,
             "second": 1195
         },
         {
-            "id": "5896d33e-b80a-40f3-9b77-74e689850a67",
+            "id": "91368a49-b89a-4fd1-ac8f-bba5d4d340d9",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 39,
             "second": 1221
         },
         {
-            "id": "efeee96d-c839-427b-bd01-e7c2965cb791",
+            "id": "3e25e462-a1b2-4ab2-a0cf-764b5a7eed9d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -4451,7 +4451,7 @@
             "second": 1222
         },
         {
-            "id": "50ff1dc2-780e-4c15-a6e0-dcda31a36682",
+            "id": "3d60e3f4-d475-4a94-8d73-c67df90c1e0b",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -4459,7 +4459,7 @@
             "second": 1232
         },
         {
-            "id": "2b1b9d75-b465-464b-8361-faa7ed20621d",
+            "id": "2694d3bb-5c99-4881-b7f2-576cbd3718b0",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -4467,7 +4467,7 @@
             "second": 1233
         },
         {
-            "id": "312da7b0-946f-452c-9d1d-c4d14d0ded5f",
+            "id": "60042e11-5495-4978-b03b-bdb00880ee04",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -4475,7 +4475,7 @@
             "second": 1234
         },
         {
-            "id": "9e797201-79b0-4f60-8c53-c68e1df48d12",
+            "id": "e2c46aa2-390c-4ce2-81e0-65cc16cc7bad",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -4483,7 +4483,7 @@
             "second": 1235
         },
         {
-            "id": "c53f4685-417d-4e2c-bc00-8ef6bdc055b7",
+            "id": "ef5d3a01-8609-4e3f-ba29-026f3edaeb12",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -4491,7 +4491,7 @@
             "second": 1236
         },
         {
-            "id": "a97b6969-2516-4252-8907-7fa13acbbbe9",
+            "id": "15a59b9d-f44a-469e-9632-f76591a9a475",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -4499,15 +4499,15 @@
             "second": 1237
         },
         {
-            "id": "6b34ebbc-7c09-4ffd-8ecd-e73ab51accb2",
+            "id": "8a6e367d-47e6-4764-bdf6-7ccd0881b133",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 39,
             "second": 1239
         },
         {
-            "id": "438e3eea-7cf2-4586-b19c-2c2fa4f5fa24",
+            "id": "2be79b6e-2093-49d2-b007-28e9f22e8f03",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -4515,7 +4515,7 @@
             "second": 1241
         },
         {
-            "id": "20e38dbc-ab14-44eb-9148-c260cb8518c3",
+            "id": "ccf0b680-e6d4-4077-8909-d24c09ea015f",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -4523,31 +4523,31 @@
             "second": 1243
         },
         {
-            "id": "b7d072e8-b4dd-44e0-83bb-e6439314e627",
+            "id": "7edff1f3-517b-4431-8bf9-4288f60cdc09",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 39,
             "second": 1255
         },
         {
-            "id": "bbf803df-d954-4f97-be2b-987e0c1c0551",
+            "id": "3cd12979-b05c-4236-b9a3-8457b6a0b9f5",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 39,
             "second": 1257
         },
         {
-            "id": "5863166d-7e56-48f1-9f0b-0bf85c8bdfa2",
+            "id": "67a8f320-1577-4d8f-ba15-df4b95f8379d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 39,
             "second": 1259
         },
         {
-            "id": "a80c9c32-db7e-403c-a154-e3617eb159b6",
+            "id": "6ca01e0a-86f2-40db-8b5f-efa9f42b808d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -4555,15 +4555,15 @@
             "second": 1280
         },
         {
-            "id": "ebea0f6a-1367-4efa-b11e-1a35ed5ec8c5",
+            "id": "eb50a1d4-c2aa-4184-97bc-3e77bc1463ff",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 39,
             "second": 1281
         },
         {
-            "id": "ff376924-660b-4ddb-93ce-fe1cc2a7f0ab",
+            "id": "d7c6ac17-c3ca-4ae4-b9c4-aa72455eefed",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -4571,23 +4571,23 @@
             "second": 1282
         },
         {
-            "id": "6a701c31-0b7b-426f-bc27-58c4cf59960f",
+            "id": "9488bb19-ef05-49af-8ad8-729cb13abe2d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 39,
             "second": 1283
         },
         {
-            "id": "bf630013-9304-4173-8302-8882249b9620",
+            "id": "b5884710-373e-4b27-a706-37eb00dc7809",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 39,
             "second": 1288
         },
         {
-            "id": "355e3e35-fbaf-4527-b054-b205809c1b11",
+            "id": "fe53e7ec-72d4-4864-9f6a-0872e5bd5cec",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -4595,31 +4595,31 @@
             "second": 1289
         },
         {
-            "id": "39e78355-dd1c-4204-bd07-7f71955eee1c",
+            "id": "75d8023a-9336-4e78-b723-3bda95a7d85c",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 39,
             "second": 1293
         },
         {
-            "id": "e6be531e-9a68-4c3e-86b8-e17f64975ec4",
+            "id": "88225fb6-7ac6-4be8-a742-9090a0c3ed53",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 39,
             "second": 1297
         },
         {
-            "id": "f566ad8d-14da-484a-acab-d4aa75b94bc2",
+            "id": "0d1778c6-3cb2-4ea5-9918-1d349969f561",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 39,
             "second": 1298
         },
         {
-            "id": "f66edf05-c18b-4a3d-afe7-4a635962bf26",
+            "id": "45aeceba-0c98-4d4a-99c8-fe92c3b7a2bf",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -4627,7 +4627,7 @@
             "second": 1299
         },
         {
-            "id": "f03aaa1b-c46b-48dc-8e40-d967553f47e0",
+            "id": "7384bbdf-b535-40a3-a288-5acc0babcacb",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -4635,7 +4635,7 @@
             "second": 7680
         },
         {
-            "id": "6e75fd0e-8f18-44a1-b580-f27f49cd5265",
+            "id": "8bb026a6-17e4-4234-8258-afebb905f758",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -4643,7 +4643,7 @@
             "second": 7681
         },
         {
-            "id": "908f9722-2a3e-485b-9aa4-97c88b0e2139",
+            "id": "16ccec74-5e8b-47df-ab1a-b94eb63e9b3b",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -4651,7 +4651,7 @@
             "second": 7743
         },
         {
-            "id": "391ee136-e244-40d8-9f55-6cd3e18af598",
+            "id": "26aa74d1-371d-43f6-b4fa-dc0fdb672645",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": 1,
@@ -4659,7 +4659,7 @@
             "second": 7808
         },
         {
-            "id": "ff5c7a8f-a858-4f74-9732-7ec08f11899c",
+            "id": "75a6e623-ef9d-4c41-9c0c-c0ebc562b2d7",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": 1,
@@ -4667,7 +4667,7 @@
             "second": 7810
         },
         {
-            "id": "b9cbcb88-f5a0-4ef0-ad40-9fbb6da0d46e",
+            "id": "eb92ea9e-f9bc-4b3e-9555-867862bdbb4a",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": 1,
@@ -4675,7 +4675,7 @@
             "second": 7812
         },
         {
-            "id": "e22ff991-99c1-4368-9968-e47dcabfd418",
+            "id": "042f44d1-8c50-44b6-be61-9a4ae937050f",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -4683,7 +4683,7 @@
             "second": 7840
         },
         {
-            "id": "f7923cec-957b-4aec-accb-fa2b954407b2",
+            "id": "2ac6e269-febc-4556-9c68-a06b925cdebf",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -4691,7 +4691,7 @@
             "second": 7841
         },
         {
-            "id": "4bb1e9e2-530b-4cc9-a5b4-8aaefb39cb15",
+            "id": "e54793e7-9abe-42eb-afd0-c80b910ab2ff",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -4699,7 +4699,7 @@
             "second": 7842
         },
         {
-            "id": "8c4d7ba8-a84a-4c7d-81bb-3364823cfe50",
+            "id": "f4613a9c-599d-4df7-8e80-fcd782b589c2",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -4707,7 +4707,7 @@
             "second": 7843
         },
         {
-            "id": "a19ea77c-e26f-4434-aa59-4c7a9ad1ebef",
+            "id": "210526d5-b379-4a39-8354-23490fe4619e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -4715,7 +4715,7 @@
             "second": 7844
         },
         {
-            "id": "abcacb9e-b97c-4c13-a305-fc69b82a62f5",
+            "id": "b17d01a3-0027-4225-9725-1a4560e4f53a",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -4723,7 +4723,7 @@
             "second": 7845
         },
         {
-            "id": "162b3bde-87ab-419c-a44d-c0cea8cd7878",
+            "id": "c603c467-0f53-4bcc-88d8-7b3806ac53a2",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -4731,7 +4731,7 @@
             "second": 7846
         },
         {
-            "id": "96c4067d-95eb-4ccf-b38a-8546a54adc4e",
+            "id": "f556b5e9-88b2-4c43-a4d8-e446b6ca0a2b",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -4739,7 +4739,7 @@
             "second": 7848
         },
         {
-            "id": "af1def82-af19-409f-a39f-629d680d7e1d",
+            "id": "9d61cb1c-f955-4560-bca4-17f678ae3bda",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -4747,7 +4747,7 @@
             "second": 7849
         },
         {
-            "id": "9ed4e757-4668-4f6b-a428-9643422c833a",
+            "id": "749a7479-388c-418f-a739-a9d275c23469",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -4755,7 +4755,7 @@
             "second": 7850
         },
         {
-            "id": "86153119-3e43-473a-8582-68f8804caaf9",
+            "id": "c0763c31-ed82-4212-8a5d-52c3bba2a77c",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -4763,7 +4763,7 @@
             "second": 7851
         },
         {
-            "id": "a725f08f-8c12-420d-9866-2f0c0b6c8197",
+            "id": "ee8c141e-a08f-4096-b4ff-c95cc8f3a219",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -4771,7 +4771,7 @@
             "second": 7852
         },
         {
-            "id": "dceb23e0-1e1b-4d15-acea-6e76e3557581",
+            "id": "e9d8473f-5ee3-483c-979c-aa5d54755cb4",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -4779,7 +4779,7 @@
             "second": 7853
         },
         {
-            "id": "00d2a6ab-d7fd-41c3-ba8d-4e0927a4fc93",
+            "id": "cb4b7651-a9d5-44eb-930f-024ca4483cf4",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -4787,7 +4787,7 @@
             "second": 7854
         },
         {
-            "id": "464cbbdb-f5f2-460d-aca0-5b96b3373f17",
+            "id": "fd97c2ff-56f3-481e-a0f6-192ed84c0832",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -4795,7 +4795,7 @@
             "second": 7855
         },
         {
-            "id": "e6eb6c4d-1a81-4eb7-98be-8d2b05299ddd",
+            "id": "038a479a-a2b2-4345-9224-272bab3c92e3",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -4803,7 +4803,7 @@
             "second": 7856
         },
         {
-            "id": "a3ea41ae-987b-4b90-a45e-c820c1ffde0a",
+            "id": "482e872e-3bb8-4f33-9053-b80fd83f77b9",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -4811,7 +4811,7 @@
             "second": 7857
         },
         {
-            "id": "43849f9b-f9e7-409d-b0d9-757f76a4a989",
+            "id": "73e005a6-881d-4124-ad72-99693a536ed2",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -4819,7 +4819,7 @@
             "second": 7858
         },
         {
-            "id": "0683f3ab-b2ef-4f4b-98c8-d99089cf520d",
+            "id": "fe40a0f6-71b8-4a26-85b9-ae248238e8c0",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -4827,7 +4827,7 @@
             "second": 7859
         },
         {
-            "id": "1d5edfa9-bf2b-4748-980f-c40cdcd31d52",
+            "id": "4c629843-c915-4f46-b57c-7b0b4a2f5add",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -4835,7 +4835,7 @@
             "second": 7860
         },
         {
-            "id": "e695d97d-e748-4c0d-982d-e8bd68cf29ba",
+            "id": "1e2aae3f-2c8c-4dd5-946f-132e0d018da6",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -4843,7 +4843,7 @@
             "second": 7861
         },
         {
-            "id": "b61902ea-4f0d-4f8f-9617-64752e4772fc",
+            "id": "5e1946bd-696c-412b-bdb3-5b50987f095d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -4851,7 +4851,7 @@
             "second": 7862
         },
         {
-            "id": "04d7cfef-150a-4921-b557-bc516bbcc89d",
+            "id": "436ef88f-d069-4451-a1c2-a5a374e085dc",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -4859,151 +4859,151 @@
             "second": 7863
         },
         {
-            "id": "39c3cb77-7be9-41d8-9228-219d5e69f2e0",
+            "id": "3f62f1b8-362d-4394-be80-9726b9e1229f",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 39,
             "second": 7865
         },
         {
-            "id": "7b226117-863b-4833-a573-ba574e7b84db",
+            "id": "53eee6ca-892a-4555-9c0c-96e9eda353fb",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 39,
             "second": 7867
         },
         {
-            "id": "92f13bfa-47d0-4aad-9afe-1ec4d9121c1a",
+            "id": "947af306-9786-4dcc-9bc5-6358ff2cf3d8",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 39,
             "second": 7869
         },
         {
-            "id": "ef77676c-950c-4d59-9554-c47359e36145",
+            "id": "f36a7ca7-9a55-487b-9156-c34fdc0bc703",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 39,
             "second": 7871
         },
         {
-            "id": "968a20ad-d551-496c-aafa-aa1bba0f769f",
+            "id": "35ca7e3e-c40d-4f4d-90b5-dda94a0be713",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 39,
             "second": 7875
         },
         {
-            "id": "bda46bd6-494f-414d-80e0-0d2fbd4221d8",
+            "id": "0ba68999-519a-4772-82a7-bbb2f2cff64b",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 39,
             "second": 7877
         },
         {
-            "id": "73096f98-af1d-4ac0-8fe8-c9e856d5b697",
+            "id": "eb0d83dc-4a9c-4e96-a99b-00b61cb7e6f6",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 39,
             "second": 7879
         },
         {
-            "id": "0547a81b-1e4f-4533-afad-d3c81ee4a1fe",
+            "id": "8f8f2088-9814-4ad8-970b-749132546a47",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 39,
             "second": 7885
         },
         {
-            "id": "e02b55ab-6436-42e4-ae59-f4e3e4ba872e",
+            "id": "759b9df1-92e6-43bf-ae42-53a4247d843a",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 39,
             "second": 7887
         },
         {
-            "id": "9cbe002a-e02c-49b0-a0f4-6dca25eddc1c",
+            "id": "b7ccb383-081c-4501-b7c6-484f627a870b",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 39,
             "second": 7889
         },
         {
-            "id": "27d3e62d-4e75-401c-907a-4d8caabffaa3",
+            "id": "4fc5d49b-d7d7-4b7e-bba2-a663c4609ab8",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 39,
             "second": 7893
         },
         {
-            "id": "87a62c96-afd9-4142-a5d5-92f36f73a46e",
+            "id": "abcce816-78e1-4766-a63b-08e9ffba2f19",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 39,
             "second": 7895
         },
         {
-            "id": "0b8cc238-eaea-4bbb-bf59-9abce31f2714",
+            "id": "56b9383c-62f0-4554-a27d-c2da40af5ba4",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 39,
             "second": 7897
         },
         {
-            "id": "2435ae99-bfac-4f37-8388-36b754d771ec",
+            "id": "d4f5ab55-c59a-437b-8e20-6945564190ef",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 39,
             "second": 7899
         },
         {
-            "id": "76702038-a0ac-472e-a906-78ab9d604721",
+            "id": "e2cfb18d-35a5-43d2-a6e3-6266e540964d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 39,
             "second": 7901
         },
         {
-            "id": "3ace2acc-0b97-4a28-8748-43f1761e9200",
+            "id": "8c987413-c5ec-4c4f-a3ed-fc46cc677e33",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 39,
             "second": 7903
         },
         {
-            "id": "d8c1b593-3cb6-42fd-b927-557294cd3f5f",
+            "id": "75f557ba-149d-495b-b3af-ad3c57be516f",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 39,
             "second": 7905
         },
         {
-            "id": "8a09eefe-5152-4115-a3aa-51c658a4a964",
+            "id": "2fb5a68e-2e71-4e67-a4c5-27b399e75eea",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 39,
             "second": 7907
         },
         {
-            "id": "11b0f17e-2c2f-4127-9cbe-37bebeb9b6a2",
+            "id": "d0e0b79f-8583-4bb7-b490-0489e5512cfd",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -5011,7 +5011,7 @@
             "second": 7909
         },
         {
-            "id": "9b216f22-87d9-4812-b6f0-a37183542fbc",
+            "id": "65c29a8f-7304-4580-a5c8-10269c3abb3c",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -5019,7 +5019,7 @@
             "second": 7911
         },
         {
-            "id": "c692e41c-06a9-4fee-a3c3-aaeccc13599d",
+            "id": "e18bf836-169d-42c0-8e19-6c0a301802c1",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -5027,7 +5027,7 @@
             "second": 7913
         },
         {
-            "id": "6d7599ae-c16c-4f3c-9753-c2c659ae98ae",
+            "id": "46df4a6f-1cbc-4efa-9f46-ce267095e31e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -5035,7 +5035,7 @@
             "second": 7915
         },
         {
-            "id": "ddfd46e5-070b-4c5b-b87e-766c59a4d822",
+            "id": "cef8886a-6000-4357-9ce3-fb8041abc818",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -5043,7 +5043,7 @@
             "second": 7917
         },
         {
-            "id": "5dc16733-1eec-4c95-8c0a-8c9344db093d",
+            "id": "2843736a-2b1a-4bc2-9032-ae0ce3372d24",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -5051,7 +5051,7 @@
             "second": 7919
         },
         {
-            "id": "14e9ff04-24aa-452a-9e9c-dc6b005e8d19",
+            "id": "8700cea3-2d26-4201-8cc8-60080d33ad51",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -5059,7 +5059,7 @@
             "second": 7921
         },
         {
-            "id": "7be7cccf-bf29-4396-b191-3453bad3840a",
+            "id": "55fe378b-98af-43a3-aef6-fd7a1ae03bd6",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": 1,
@@ -5067,7 +5067,7 @@
             "second": 7922
         },
         {
-            "id": "405b3654-251c-43ff-b636-44cb94b881f0",
+            "id": "d63dd928-21b1-485e-8fcd-a304e767ee8d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": 1,
@@ -5075,7 +5075,7 @@
             "second": 7924
         },
         {
-            "id": "2f668f1a-3dfc-4a97-9ee5-9c492ef78e9f",
+            "id": "94091725-dc25-4343-8f9f-e37339cffaa9",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": 1,
@@ -5083,7 +5083,7 @@
             "second": 7926
         },
         {
-            "id": "783202eb-f0ea-46f4-b9a3-96a7e5ba854b",
+            "id": "231ed449-8a21-49e7-8451-f345b8ad6cdd",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": 1,
@@ -5091,7 +5091,7 @@
             "second": 7928
         },
         {
-            "id": "ec3f5f14-f3da-407f-8873-cf9a3d430758",
+            "id": "42fbd9c5-d629-45d8-b3f6-0539f9ce9ed1",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": 5,
@@ -5099,7 +5099,7 @@
             "second": 74
         },
         {
-            "id": "f2141cd8-7f36-44cc-ba5b-31175e55ccb9",
+            "id": "cdcc9ece-5a41-4f3a-b80f-499497da4dd1",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -5107,7 +5107,7 @@
             "second": 67
         },
         {
-            "id": "cd9fb77c-1ea8-463a-a900-e65e5c73c764",
+            "id": "02eb811c-cbd9-42d9-8ad1-d157479fdb0a",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -5115,7 +5115,7 @@
             "second": 71
         },
         {
-            "id": "6c49d943-8257-499b-89e0-340abfcf8dd6",
+            "id": "f8a16181-8cb1-468b-83a7-946442d829c1",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -5123,7 +5123,7 @@
             "second": 79
         },
         {
-            "id": "0003711c-7233-402f-bd66-e0e0515d66b5",
+            "id": "7577e867-69ca-4fe7-9736-edb06112b580",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -5131,7 +5131,7 @@
             "second": 81
         },
         {
-            "id": "def5e3d6-ebd7-41f8-8b1a-a859f87f517d",
+            "id": "af736243-0f21-4e20-a869-3f4363b3eeae",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -5139,7 +5139,7 @@
             "second": 84
         },
         {
-            "id": "cbda8b90-080a-4049-b446-96b6fa89f5f0",
+            "id": "7b3007de-3ead-4767-b7f3-b3edadcd15c1",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -5147,31 +5147,31 @@
             "second": 85
         },
         {
-            "id": "36ffd1d3-9f34-410a-a9b6-cd9c44392742",
+            "id": "7d7fe32d-6a9f-4522-a504-47dba59f89a6",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 44,
             "second": 86
         },
         {
-            "id": "737c9c0c-3761-4c95-a214-abbf8c930e45",
+            "id": "1b805fab-7fff-4b7c-9c35-6c2fe8666ac8",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 44,
             "second": 87
         },
         {
-            "id": "9bd7b5ae-7e09-4219-8e7b-3a782ec9757e",
+            "id": "2a1fdcdc-221c-41cc-b5e6-4a3ac1870aa5",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 44,
             "second": 89
         },
         {
-            "id": "49528d90-2794-43f8-b5ec-c59bb3d7ef4c",
+            "id": "d3d0e7ce-e09d-48cc-8d11-c08b98d55c8c",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -5179,7 +5179,7 @@
             "second": 199
         },
         {
-            "id": "0cad48e7-dca4-4e7d-83fe-bf66d87dfcbb",
+            "id": "d64a0236-5395-4b1a-8e9a-8821a8b71bb8",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -5187,7 +5187,7 @@
             "second": 210
         },
         {
-            "id": "1bb13762-7ff6-4c58-8635-c1cb5f9f803b",
+            "id": "ed580f76-b360-49ec-9578-1b5ab00cf5f2",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -5195,7 +5195,7 @@
             "second": 211
         },
         {
-            "id": "114ebcd4-8c57-4327-8b3c-c358457d1b7b",
+            "id": "6c28dca6-5b0f-48e5-9481-2461af327764",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -5203,7 +5203,7 @@
             "second": 212
         },
         {
-            "id": "4a9f8e31-255d-4391-a6f3-dbfee16a17de",
+            "id": "973d5790-cc5d-4781-b0a0-99e1c5eb0bcd",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -5211,7 +5211,7 @@
             "second": 213
         },
         {
-            "id": "656a10c7-d330-4753-8aeb-230a67b0ec81",
+            "id": "8f54b2e9-4816-452a-ad8f-71f28a379a04",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -5219,7 +5219,7 @@
             "second": 214
         },
         {
-            "id": "46d522e7-5c69-442f-83e9-223c2fcded40",
+            "id": "ab5b6930-45d1-49fc-97cd-d958b761da6d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -5227,7 +5227,7 @@
             "second": 216
         },
         {
-            "id": "4669aabf-6d75-482f-adb5-d641b1996c81",
+            "id": "dd4b1d60-d7b8-4f68-ba1e-14ee7f90430d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -5235,7 +5235,7 @@
             "second": 217
         },
         {
-            "id": "0ba7b1ec-f171-41e2-a75f-f66a9d8ff5a0",
+            "id": "8ef36678-4b01-40a1-bdc6-ebb5a6dbcfcd",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -5243,7 +5243,7 @@
             "second": 218
         },
         {
-            "id": "44505c86-fcd0-42c7-a999-b11bba77c2ea",
+            "id": "26bc143c-d607-42fa-bc04-b6204695ee5c",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -5251,7 +5251,7 @@
             "second": 219
         },
         {
-            "id": "e7e72939-dfc6-405e-a5f4-7ae9170586e8",
+            "id": "ac884d20-de87-4a9a-9c2b-9b1bd20f4127",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -5259,15 +5259,15 @@
             "second": 220
         },
         {
-            "id": "7cf74fef-8e25-491b-803c-d8f242c72aa1",
+            "id": "38df76b6-d58e-4b49-aa6e-3cb418c217b7",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 44,
             "second": 221
         },
         {
-            "id": "c2648abc-6e33-471e-8b3f-5721cb1a1596",
+            "id": "127a73f4-40f6-4d1c-a168-b3f0eda83ac4",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -5275,7 +5275,7 @@
             "second": 262
         },
         {
-            "id": "4bae06a3-f82f-4473-ab39-d30737408551",
+            "id": "84ec0bda-6efc-4984-94f1-3da1ec3e60e8",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -5283,7 +5283,7 @@
             "second": 264
         },
         {
-            "id": "99204490-bb0d-4222-9077-bfc0dfeb79d4",
+            "id": "9edceb97-19be-4fba-8e0a-43eb93860a71",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -5291,7 +5291,7 @@
             "second": 266
         },
         {
-            "id": "6f4c4655-eafa-4cf7-a3ef-f252e37b31d7",
+            "id": "d1e5f195-aef4-421d-ba7d-84e20c0b15e5",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -5299,7 +5299,7 @@
             "second": 268
         },
         {
-            "id": "0dbdfed1-8bd4-4d82-938e-b581d391df7e",
+            "id": "3b3050b4-13dc-4919-8f26-f5501981482d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -5307,7 +5307,7 @@
             "second": 284
         },
         {
-            "id": "774655de-f5ba-4b13-bb14-a3258172f2d7",
+            "id": "b342bf14-efbd-4c67-b112-9f4ff76563d3",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -5315,7 +5315,7 @@
             "second": 286
         },
         {
-            "id": "1928a966-8ea2-4f9d-8991-fe75fcfb7597",
+            "id": "414c54d1-9a8a-4066-aadc-47f38e5a4f43",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -5323,7 +5323,7 @@
             "second": 288
         },
         {
-            "id": "9604e1b7-95a0-4fdb-a3f6-87ce9ae98038",
+            "id": "39e3e998-40a7-4497-9159-72e679f13615",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -5331,7 +5331,7 @@
             "second": 290
         },
         {
-            "id": "303287f1-37b0-49b0-99b0-5bbbad4c29f2",
+            "id": "7e12aca2-78ac-4fe9-9185-a496c5c0d563",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -5339,7 +5339,7 @@
             "second": 332
         },
         {
-            "id": "d45b3235-a16b-41f9-9bcd-8f111c9aae2d",
+            "id": "ad02196a-41b0-4949-8795-faaa1cfd7832",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -5347,7 +5347,7 @@
             "second": 334
         },
         {
-            "id": "16b353a2-af2e-427f-bf2a-f1145739131d",
+            "id": "9572b4f3-5117-443a-954a-20ffccf9d808",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -5355,7 +5355,7 @@
             "second": 336
         },
         {
-            "id": "dc88d999-2812-4be1-a966-7b4cf346a787",
+            "id": "52d39b1a-fd13-4a54-9447-668659c6ef93",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -5363,7 +5363,7 @@
             "second": 338
         },
         {
-            "id": "2c154db4-3eec-4c38-9405-6b553f4885d2",
+            "id": "fb5e234c-f7b5-4468-a0a2-7d5ba146f7ed",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -5371,7 +5371,7 @@
             "second": 354
         },
         {
-            "id": "21725fc6-2c87-445a-9e6a-c3cd33fa63cc",
+            "id": "a958221d-933e-4fc9-8642-636844e73724",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -5379,7 +5379,7 @@
             "second": 356
         },
         {
-            "id": "abbe8a94-d6c7-4303-b4f1-d4017727b9c4",
+            "id": "e24088b6-0ea0-42e3-93ff-a13b8196a0fc",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -5387,7 +5387,7 @@
             "second": 360
         },
         {
-            "id": "4c91fe48-d8df-400c-a02e-ab58d70d1b3f",
+            "id": "44cfa03f-a969-4702-8787-4a8ed19d3080",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -5395,7 +5395,7 @@
             "second": 362
         },
         {
-            "id": "f545cbff-80fd-4431-9cde-e0f7474c32ea",
+            "id": "15a12011-e16a-4345-af27-d3ab3461207e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -5403,7 +5403,7 @@
             "second": 364
         },
         {
-            "id": "9dbfd7b8-14b1-4656-a9cf-2b7b27317dda",
+            "id": "6cd6aa32-662a-4fc4-8545-8ac40402a342",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -5411,7 +5411,7 @@
             "second": 366
         },
         {
-            "id": "5e090e49-31b5-44b5-aac6-9866d2d422c1",
+            "id": "1af45808-e618-49e0-aeae-f80fccf8167d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -5419,7 +5419,7 @@
             "second": 368
         },
         {
-            "id": "b7234660-9ffe-4f16-9720-e8bf0ca8810d",
+            "id": "9373224b-65d5-449a-a880-29ffbaf64958",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -5427,31 +5427,31 @@
             "second": 370
         },
         {
-            "id": "a3410a02-a8d1-430f-b1a7-6fe5e4436eb3",
+            "id": "28385aa5-f50a-4a0f-aa10-bd2a34af83ce",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 44,
             "second": 372
         },
         {
-            "id": "d3b5d709-f78e-4430-acb4-de91ae442702",
+            "id": "74080fa3-21e7-4783-a2cf-12ea60ea0ed2",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 44,
             "second": 374
         },
         {
-            "id": "fa83a184-cb06-4b92-87a6-d5ea9fd01cf1",
+            "id": "037d70ac-7a6e-4518-9c87-51bccbe8b616",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 44,
             "second": 376
         },
         {
-            "id": "28145da5-4b5e-4872-9f6c-f4166b2ad8ff",
+            "id": "10507d7b-bc0b-48ae-ab5c-d66b64d8adfd",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -5459,7 +5459,7 @@
             "second": 416
         },
         {
-            "id": "36667769-8d7e-4c6e-94e9-a497b3b14735",
+            "id": "ba8d583d-c7d4-4e79-bdcd-47135cd3e7b9",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -5467,7 +5467,7 @@
             "second": 431
         },
         {
-            "id": "399beeaa-a61f-43db-b651-ff5fccf8123a",
+            "id": "ccaef898-80c2-4c69-9b50-fe3ef062d5f4",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -5475,7 +5475,7 @@
             "second": 510
         },
         {
-            "id": "0c4f6d04-46d7-4322-962c-8a0b020acb99",
+            "id": "43a60cc9-40de-48f4-9821-246204719d6e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -5483,7 +5483,7 @@
             "second": 538
         },
         {
-            "id": "21f16b46-39c1-4779-9255-24a556e984a1",
+            "id": "7bde89e9-52e2-401b-a67e-c6213c0515b9",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -5491,7 +5491,7 @@
             "second": 920
         },
         {
-            "id": "0216be93-59a7-45f7-ad55-dc2f25611938",
+            "id": "15729931-c9b0-4bf9-a31e-4aa94dee5c22",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -5499,7 +5499,7 @@
             "second": 927
         },
         {
-            "id": "5e9b4c39-5d44-45ab-a3f3-1edca0f73578",
+            "id": "82cf4ac2-6146-405d-9c3c-50e48aa1d442",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -5507,15 +5507,15 @@
             "second": 932
         },
         {
-            "id": "95cb6d10-1301-4ff0-bae3-1e6da50d1623",
+            "id": "51c25e21-8a21-4959-8f0a-4fa0c8a05002",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 44,
             "second": 933
         },
         {
-            "id": "f2c40250-1970-4c07-b3aa-4167033a6ac0",
+            "id": "08c5e7e3-70a9-488b-a255-4d1a4db881c5",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -5523,23 +5523,23 @@
             "second": 934
         },
         {
-            "id": "d2d0781c-29a9-4cf3-a020-34d3cc618365",
+            "id": "f968da03-495f-46a7-864b-3e31d1dc4edf",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 44,
             "second": 936
         },
         {
-            "id": "083a7f7f-fc27-47a9-a83d-15f172438545",
+            "id": "1949e90b-38a3-4ff5-9094-9b82ccf6e9ab",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 44,
             "second": 939
         },
         {
-            "id": "3e6900ae-1308-4a5b-a33d-d589811ceff8",
+            "id": "6c511e55-f0f6-4458-adf1-f6dc660106c0",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -5547,15 +5547,15 @@
             "second": 952
         },
         {
-            "id": "95c9c147-2729-4bcc-9e95-9ddd45cbc30a",
+            "id": "018ec926-dd3a-4af8-bb99-7e6057e7785e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 44,
             "second": 978
         },
         {
-            "id": "fb6b28b7-74fc-41d1-84d2-adcfb4950bb3",
+            "id": "f4d4596c-0e49-4c6e-969f-a221f8882d10",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -5563,7 +5563,7 @@
             "second": 1026
         },
         {
-            "id": "addca4a8-7006-4f46-8c1b-cddad322cc1d",
+            "id": "7359d204-debb-41ad-898e-69ac56b8c32d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -5571,7 +5571,7 @@
             "second": 1028
         },
         {
-            "id": "4932ebcd-fba1-4d60-b169-dc3f742b3a46",
+            "id": "51a5cbfb-718a-48b1-9832-a6648f6d2239",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -5579,7 +5579,7 @@
             "second": 1035
         },
         {
-            "id": "45069ba5-d502-4f2a-b7b5-74262ba9bc56",
+            "id": "1d8fa242-9c2c-4ad6-8784-db9b44223dfb",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -5587,7 +5587,7 @@
             "second": 1054
         },
         {
-            "id": "59abc908-715c-4b51-a917-a799ee89d4d6",
+            "id": "2e122a8a-ea37-4e0c-9204-7653cf0d8eff",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -5595,7 +5595,7 @@
             "second": 1057
         },
         {
-            "id": "0bbf7c43-003d-432a-9115-313f4a2cd8e7",
+            "id": "dd0701b5-2a09-41e7-bb8c-90e84b9abe6d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -5603,7 +5603,7 @@
             "second": 1058
         },
         {
-            "id": "c77355ec-59a9-4170-8bc2-b6fd14bb5159",
+            "id": "83232f50-8218-4360-b24b-c61289470db9",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -5611,15 +5611,15 @@
             "second": 1060
         },
         {
-            "id": "c5bc8fcc-508a-4caa-90a6-edf80a237428",
+            "id": "354e9aca-1ccc-494c-9010-8a310dd893d9",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -4,
+            "amount": -5,
             "first": 44,
             "second": 1063
         },
         {
-            "id": "45691b40-cd7e-4dbb-9bd6-5fd3f881fa5c",
+            "id": "bd213643-1cb1-4c61-b449-2fdae0f1c740",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -5627,7 +5627,7 @@
             "second": 1066
         },
         {
-            "id": "bed72466-3d6d-445b-adc6-e269f411bb9f",
+            "id": "ba4da724-6e16-4b9a-8a36-b8e2f5e7a85c",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -5635,15 +5635,15 @@
             "second": 1090
         },
         {
-            "id": "89973ea9-2c94-4941-95ea-5f5739544877",
+            "id": "10688208-4957-470c-9dc7-3811459680ec",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 44,
             "second": 1095
         },
         {
-            "id": "ac0273de-5267-4cf6-9521-7702f0bd8a06",
+            "id": "f568e632-df06-4dc2-b45b-111b64257875",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -5651,7 +5651,7 @@
             "second": 1098
         },
         {
-            "id": "b20652e7-bf61-416d-b50f-c26f56c71932",
+            "id": "216191e3-46fc-4146-b825-68f5641e7a16",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -5659,15 +5659,15 @@
             "second": 1120
         },
         {
-            "id": "2162ab6f-de7f-424b-aabc-2f5af1ee6590",
+            "id": "b55397ea-f133-4490-969a-d67061ee5af2",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -4,
+            "amount": -5,
             "first": 44,
             "second": 1136
         },
         {
-            "id": "eb1431c7-31fd-4863-8b87-ef09bffd073b",
+            "id": "041e00cc-e239-478c-bbbc-c9a09b568c4d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -5675,23 +5675,23 @@
             "second": 1138
         },
         {
-            "id": "2f9f35ac-6b75-4311-a648-30ab406d2d84",
+            "id": "984c5936-fe7b-4b76-aac7-db508b00fc2d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 44,
             "second": 1140
         },
         {
-            "id": "996ce8e8-7c26-46f9-814f-7a328f29ecdc",
+            "id": "2fda7e8a-b4fb-4ed3-8616-27f61d2fbde3",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 44,
             "second": 1142
         },
         {
-            "id": "793ee4c2-fc6e-4a3d-9181-0f6998937f3c",
+            "id": "5be0f0c2-f901-40f8-b9f9-0f9dff203765",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -5699,7 +5699,7 @@
             "second": 1144
         },
         {
-            "id": "d39bd131-cdda-421d-bde4-7110d4f01f41",
+            "id": "19d7ceb7-45f5-46d1-8c3b-b8f566ae2f88",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -5707,7 +5707,7 @@
             "second": 1146
         },
         {
-            "id": "70824a93-312a-45e0-8375-d5f1a85fce86",
+            "id": "6db212fb-6d2a-4104-b979-ec1e93afd0bc",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -5715,7 +5715,7 @@
             "second": 1148
         },
         {
-            "id": "388b3952-929f-4219-aaf5-2e156c84ab4d",
+            "id": "688f36ee-d4c6-4d89-aad2-2955e4c200e2",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -5723,7 +5723,7 @@
             "second": 1150
         },
         {
-            "id": "2bba5c61-201e-4688-ae25-091c7217072e",
+            "id": "f47de1a0-85dc-449a-a659-25f1830729c0",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -5731,7 +5731,7 @@
             "second": 1152
         },
         {
-            "id": "54bb657a-04c6-4553-bb3d-0501b89250f7",
+            "id": "8b82ea1b-8a2a-495c-a800-0a7b87f81e76",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -5739,7 +5739,7 @@
             "second": 1184
         },
         {
-            "id": "36f8d809-6033-427d-b244-0a88943bfa3b",
+            "id": "85055e33-9363-4d64-8656-abd95332943a",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -5747,7 +5747,7 @@
             "second": 1185
         },
         {
-            "id": "d7a5d831-9cec-40fd-be95-862b6cc05f1e",
+            "id": "620395e6-8e9b-42a6-bd97-2f9253d0cf82",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -5755,7 +5755,7 @@
             "second": 1192
         },
         {
-            "id": "170fd358-a522-4db4-b067-c0d5b1fb0e13",
+            "id": "c97db229-e293-4873-83e6-82f268315dd4",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -5763,7 +5763,7 @@
             "second": 1194
         },
         {
-            "id": "279573c9-dcf8-4a59-994c-984f15f6f055",
+            "id": "262a9c3a-2008-42fc-9a7c-8df63bec9970",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -5771,7 +5771,7 @@
             "second": 1196
         },
         {
-            "id": "db227d68-81e2-479b-a0a6-68b8d2b9dd45",
+            "id": "b8a46afb-91ac-4532-aec2-104d12153e0c",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -5779,23 +5779,23 @@
             "second": 1197
         },
         {
-            "id": "98e16e11-6df5-44d8-a06f-4175a42ad394",
+            "id": "f327340b-6ceb-4ab4-9de4-03ed8b7cda60",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 44,
             "second": 1198
         },
         {
-            "id": "8e558f27-d39b-42e1-aa40-bf1c4ce61c92",
+            "id": "74b27873-a623-4046-ad76-ee5cb7a3c241",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 44,
             "second": 1200
         },
         {
-            "id": "579a6b89-8459-473d-969d-c1cebbc537cf",
+            "id": "ca788968-c239-4ac2-b740-39536c168a77",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -5803,7 +5803,7 @@
             "second": 1204
         },
         {
-            "id": "314023c7-0808-4a5c-b812-d010dc168c9f",
+            "id": "a9da7624-403d-4a79-bc42-5b6ade3c9661",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -5811,71 +5811,71 @@
             "second": 1205
         },
         {
-            "id": "283bed3f-0087-4ddf-880f-0f0f8709cbf7",
+            "id": "115f6bea-43d5-4a30-af44-f5dd98c3dd30",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -4,
+            "amount": -5,
             "first": 44,
             "second": 1206
         },
         {
-            "id": "a3bac56c-9b63-4d5e-bb34-33d66655a1bd",
+            "id": "b0ced84d-9643-458e-a195-330a0077311e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 44,
             "second": 1207
         },
         {
-            "id": "e76d54e0-bbe6-420c-9187-0e41c9c5f5e1",
+            "id": "3c4ff460-470c-45c9-b5c2-46175755fd3a",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -4,
+            "amount": -5,
             "first": 44,
             "second": 1208
         },
         {
-            "id": "8bea680d-1bb5-4ba2-8c5d-a64ee587b048",
-            "modelName": "GMKerningPair",
-            "mvc": "1.0",
-            "amount": -3,
-            "first": 44,
-            "second": 1209
-        },
-        {
-            "id": "797eb44d-1a02-45c0-8cf1-8b6662c253a4",
-            "modelName": "GMKerningPair",
-            "mvc": "1.0",
-            "amount": -3,
-            "first": 44,
-            "second": 1212
-        },
-        {
-            "id": "cd925ab3-5136-4664-b003-cbd3e496e803",
-            "modelName": "GMKerningPair",
-            "mvc": "1.0",
-            "amount": -3,
-            "first": 44,
-            "second": 1214
-        },
-        {
-            "id": "6fdc7aec-a3eb-4fa7-8ccf-8971f981791f",
+            "id": "69044d7f-349e-4a41-9b40-a61345976dbd",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
             "first": 44,
+            "second": 1209
+        },
+        {
+            "id": "363e9ceb-2f5e-4a5a-a59c-c3f785ecad11",
+            "modelName": "GMKerningPair",
+            "mvc": "1.0",
+            "amount": -4,
+            "first": 44,
+            "second": 1212
+        },
+        {
+            "id": "64505b07-6d9e-470b-98d5-80117876de39",
+            "modelName": "GMKerningPair",
+            "mvc": "1.0",
+            "amount": -4,
+            "first": 44,
+            "second": 1214
+        },
+        {
+            "id": "78b381ef-88cc-4044-a2a2-13ae6a6b9319",
+            "modelName": "GMKerningPair",
+            "mvc": "1.0",
+            "amount": -5,
+            "first": 44,
             "second": 1227
         },
         {
-            "id": "87e53238-2a7a-483f-ab35-ef40c1dc0501",
+            "id": "ee0c6ad3-2017-4fb6-b496-43618d7b6ff6",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 44,
             "second": 1228
         },
         {
-            "id": "d7ec696d-a517-46f2-8b67-ac5c572d0af8",
+            "id": "82758f14-c657-4f9b-9d50-100a28c06685",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -5883,7 +5883,7 @@
             "second": 1254
         },
         {
-            "id": "0fea2ed1-4932-4b70-b78c-33b0fb3d364d",
+            "id": "708a4d8f-9e9b-4d69-9ba8-819b3afa3a5a",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -5891,7 +5891,7 @@
             "second": 1256
         },
         {
-            "id": "4e1fbfd0-c542-4ebf-aaae-6ebfb1f0c45d",
+            "id": "72ad24df-f557-4b0f-928e-2e64566531bb",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -5899,31 +5899,31 @@
             "second": 1258
         },
         {
-            "id": "f3a33860-e8ef-491c-836c-0b90eb4ababd",
+            "id": "5a7f3693-d310-4c55-a784-81d42a5b01a1",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -4,
+            "amount": -5,
             "first": 44,
             "second": 1268
         },
         {
-            "id": "985184eb-bcfd-4201-a3f9-3201249aa300",
+            "id": "44fc22a3-504f-4e31-a872-4aab49676092",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 44,
             "second": 1269
         },
         {
-            "id": "ae121f45-b8f9-4c2b-a812-9c2e03a64fe0",
+            "id": "e84c6f35-0957-4c18-af81-1999700c9a26",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 44,
             "second": 1284
         },
         {
-            "id": "44ff4322-6b56-4abd-b88c-f7cc7e1d6313",
+            "id": "6a8bd227-60e9-4a02-8cb2-83caaf1d1e18",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -5931,15 +5931,15 @@
             "second": 1285
         },
         {
-            "id": "f3439705-f7f1-4a0f-834e-b3d0ecd81f0a",
+            "id": "276edc92-fc5a-4006-b82d-00c3a8df8c9e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 44,
             "second": 1286
         },
         {
-            "id": "5509e098-2cb6-45ab-8569-8a0618e89497",
+            "id": "f814ef81-21d2-4ab5-a184-3ea758a309aa",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -5947,7 +5947,7 @@
             "second": 1287
         },
         {
-            "id": "bfb128dc-8563-4917-89e9-48dddf8cb338",
+            "id": "d6cc2a71-9cc9-4e86-9910-b75549dc57f6",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -5955,7 +5955,7 @@
             "second": 1292
         },
         {
-            "id": "0efb59ea-22ff-4c56-9ada-0767f7dea657",
+            "id": "160e7b29-41f4-456c-9ede-a2c079df363a",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -5963,7 +5963,7 @@
             "second": 1294
         },
         {
-            "id": "6f0062fc-d332-422b-adc5-0392d8b88455",
+            "id": "4ed527f7-7605-4619-aa86-c0253c293ae1",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -5971,31 +5971,31 @@
             "second": 1295
         },
         {
-            "id": "eb995e33-a7d1-4262-b5e0-170685ff5f0e",
+            "id": "5e9d5d4f-c822-4e91-bcd0-c1f482725438",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 44,
             "second": 7808
         },
         {
-            "id": "27f6e370-5f1b-4e84-8ef2-d2af8b1fd58b",
+            "id": "815039d0-32b4-45f9-88e1-3646a2be6607",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 44,
             "second": 7810
         },
         {
-            "id": "96ffd69f-1b27-482d-bc64-133bb5511073",
+            "id": "54204ce9-0391-423c-ad8b-e0ed1de25ea5",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 44,
             "second": 7812
         },
         {
-            "id": "2bf3cf67-7f2a-41ba-9d5f-5b79b47fce94",
+            "id": "86cf5928-d552-4773-a613-014098a5c4d4",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -6003,7 +6003,7 @@
             "second": 7884
         },
         {
-            "id": "748cfce5-d45d-423c-922b-8dcdbc4137bb",
+            "id": "0b5f2549-7521-4879-b9fa-c107490f63ef",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -6011,7 +6011,7 @@
             "second": 7886
         },
         {
-            "id": "d258addf-d749-4af4-8678-d1ae56233dac",
+            "id": "f1c292bb-fea0-4929-8f5f-292d7d1b5fe6",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -6019,7 +6019,7 @@
             "second": 7888
         },
         {
-            "id": "b2e99d37-b0f6-4b7c-b0f1-90234daa7c96",
+            "id": "9da7d323-77c9-45bd-bf53-1f01b90b6039",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -6027,7 +6027,7 @@
             "second": 7890
         },
         {
-            "id": "48d2c880-b87d-439e-800a-c3b3d80ca26c",
+            "id": "3b4d7ac4-606c-4702-9530-6504f60814f4",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -6035,7 +6035,7 @@
             "second": 7892
         },
         {
-            "id": "84472e61-aeff-4847-9397-736973652df4",
+            "id": "e820b609-f656-4150-af53-a3b05df75759",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -6043,7 +6043,7 @@
             "second": 7894
         },
         {
-            "id": "17af8719-720b-4cc7-99c0-42097dfc9379",
+            "id": "79a45b70-17b0-4d8b-b8b1-c7aeecd9c006",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -6051,7 +6051,7 @@
             "second": 7896
         },
         {
-            "id": "06472bb9-8c42-45fd-ac7c-1a26e4675d69",
+            "id": "c5e2f689-0a92-4846-a4db-2d1de1eb66fe",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -6059,7 +6059,7 @@
             "second": 7898
         },
         {
-            "id": "76e8dc01-5a89-4908-bae9-548c2cb6edab",
+            "id": "e61333c0-127c-46db-acb6-fec31becd3a3",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -6067,7 +6067,7 @@
             "second": 7900
         },
         {
-            "id": "7f7b9403-d292-4f64-8b65-e80d85129712",
+            "id": "3c38fd40-e70b-40e8-9179-2e2e14ab0294",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -6075,7 +6075,7 @@
             "second": 7902
         },
         {
-            "id": "31a4a948-0602-4726-a705-7034d2ca10bc",
+            "id": "6a451bec-9458-4c5a-8088-1fd7ef2e5224",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -6083,7 +6083,7 @@
             "second": 7904
         },
         {
-            "id": "e317cae0-0484-408c-9bea-9c42bb68719f",
+            "id": "9cf6e5ee-68ed-4ed5-970a-c27cd69c2ab9",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -6091,7 +6091,7 @@
             "second": 7906
         },
         {
-            "id": "21ebba32-15d0-4dad-890f-5cb11f4d0e02",
+            "id": "9f84a754-4154-49a6-b82b-6ed57b4f423e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -6099,7 +6099,7 @@
             "second": 7908
         },
         {
-            "id": "a65fdee6-4b6f-48c2-b25c-89b5f0449487",
+            "id": "f2ed96fc-a079-4333-9a21-374e2751a77d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -6107,7 +6107,7 @@
             "second": 7910
         },
         {
-            "id": "4b3f4747-9f95-4620-9491-5088eda72006",
+            "id": "78931cfc-e209-4bcc-a232-8053720e969d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -6115,7 +6115,7 @@
             "second": 7912
         },
         {
-            "id": "dbb4ae5f-2344-4bd6-af53-c822cabac056",
+            "id": "d1bfac4a-9f44-4698-9a1e-64196cd1c2bf",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -6123,7 +6123,7 @@
             "second": 7914
         },
         {
-            "id": "4e57bc59-f83c-48f3-8d65-e99f5e311f54",
+            "id": "2d48ae33-f1db-4aef-9336-ba7d9e494593",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -6131,7 +6131,7 @@
             "second": 7916
         },
         {
-            "id": "f52ae3af-0549-417e-8fee-fee4a02f4148",
+            "id": "61f81421-3de2-4b74-a8d0-d6a3537b454f",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -6139,7 +6139,7 @@
             "second": 7918
         },
         {
-            "id": "85605c11-d0e9-4731-81c1-367fc09f69b4",
+            "id": "17a614ff-5b33-4952-8ead-58cdaf0b25a5",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -6147,39 +6147,39 @@
             "second": 7920
         },
         {
-            "id": "c505fc7f-ea58-4f96-921a-b2423a7f1bc3",
+            "id": "ae6c6720-1728-4446-bb4c-480b98f010e6",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 44,
             "second": 7922
         },
         {
-            "id": "01b97d32-0259-4fb9-a283-141f6bb3875e",
+            "id": "50f8c8ce-e0d7-4f12-9246-1d3162023b0c",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 44,
             "second": 7924
         },
         {
-            "id": "02ef367e-b140-4b9d-aff8-a8e5ab129341",
+            "id": "193f5eb4-b81c-430e-ba7a-73e1aefc475b",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 44,
             "second": 7926
         },
         {
-            "id": "df6bbed7-3094-4c9d-82e3-1be3fdddbad0",
+            "id": "514fca3d-aac1-4257-b47b-14628b563ad9",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 44,
             "second": 7928
         },
         {
-            "id": "d563b75e-e5c0-407d-a2e6-0754174777b0",
+            "id": "bcdd6d5c-1981-4f15-8de1-d394a7b6a7c2",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -6187,7 +6187,7 @@
             "second": 84
         },
         {
-            "id": "bf6d0eec-c346-4007-9389-b8420a79132b",
+            "id": "3caee96e-148e-4fb3-b739-83132d2245d3",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -6195,7 +6195,7 @@
             "second": 354
         },
         {
-            "id": "d2371eea-bbdb-4225-9643-cb34be78d0ad",
+            "id": "34ccba89-310a-4145-8e42-aa4bc5557d19",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -6203,7 +6203,7 @@
             "second": 356
         },
         {
-            "id": "e4e53fd4-791a-438a-ab87-ebcbcb47552d",
+            "id": "bf0ccd5d-f37e-4c11-8e7e-3625e33f7d06",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -6211,7 +6211,7 @@
             "second": 538
         },
         {
-            "id": "86ca515d-b2db-457d-96b8-aef7e32af807",
+            "id": "4db95ed7-6477-4200-9485-52667002d025",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -6219,7 +6219,7 @@
             "second": 932
         },
         {
-            "id": "73353a98-4895-4e07-ab59-2cab5daf5971",
+            "id": "174e61ce-73d3-4a1e-b6ea-c39793b00c8a",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -6227,7 +6227,7 @@
             "second": 1026
         },
         {
-            "id": "75dd95ba-36f0-4d4c-8a02-d4b474375cf9",
+            "id": "374f1fa3-7b37-4f87-a9a2-95ec523cb886",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -6235,7 +6235,7 @@
             "second": 1035
         },
         {
-            "id": "0e94fbe1-5aad-43d2-88b5-1bccec8251e5",
+            "id": "a3f1a85d-4d5e-4c47-b475-cbefae604054",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -6243,7 +6243,7 @@
             "second": 1058
         },
         {
-            "id": "69fcd8fa-b669-40f0-b97c-273c7d9fc2cd",
+            "id": "49099ea6-be0c-4caf-8928-9dbbda73e2ab",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -6251,7 +6251,7 @@
             "second": 1066
         },
         {
-            "id": "a5be5042-cabc-4e48-9214-f16ed8442f56",
+            "id": "08b0b86c-4d45-45cb-afb6-7e782d4aa163",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -6259,7 +6259,7 @@
             "second": 1090
         },
         {
-            "id": "9297f289-839a-459f-bda0-a6e41c8c9083",
+            "id": "efa98b78-8267-4fed-bcaa-3fd5ae52a917",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -6267,7 +6267,7 @@
             "second": 1098
         },
         {
-            "id": "643a74b5-1236-4d7c-a435-26cbc35fd371",
+            "id": "d32c9121-fe26-475d-a5e7-606cc476eadc",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -6275,7 +6275,7 @@
             "second": 1184
         },
         {
-            "id": "fb77e1ad-cbfa-44a7-beb0-9abea928f54e",
+            "id": "7c71af79-7907-455c-a4b5-f682ff699d5e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -6283,7 +6283,7 @@
             "second": 1185
         },
         {
-            "id": "d94dc373-7232-4576-949c-b3630c6ccb39",
+            "id": "24c77c6d-1a3f-4b04-b54a-5aab0a904c37",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -6291,7 +6291,7 @@
             "second": 1196
         },
         {
-            "id": "8954b7c7-2945-468d-a772-9a979178d145",
+            "id": "7fd70f23-c99f-4909-8ce0-24f18b38246e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -6299,7 +6299,7 @@
             "second": 1197
         },
         {
-            "id": "82df8621-12ab-464f-8cfc-727745e4eae1",
+            "id": "a358170c-e9dd-4446-8537-b2d0eeeb9fbc",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -6307,7 +6307,7 @@
             "second": 1204
         },
         {
-            "id": "f09c4683-3d55-4f8e-b0a2-d5398491f5f7",
+            "id": "7ff368e0-c39a-4ff4-9a47-867912c692f8",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -6315,7 +6315,7 @@
             "second": 1205
         },
         {
-            "id": "ecc1cf9d-858f-4651-b0a9-0b15c716653b",
+            "id": "c11cfa19-fa54-4e7b-abb3-a3118f40ba4e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -6323,7 +6323,7 @@
             "second": 1294
         },
         {
-            "id": "7351dde6-1a9e-4055-849a-d0c9d76b97ef",
+            "id": "16a79f1c-d1ba-4e79-9fd8-a8158ee009c1",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -6331,7 +6331,7 @@
             "second": 1295
         },
         {
-            "id": "319dc6fe-eaf1-4747-8b58-8e5d22da3666",
+            "id": "2d624d82-5b43-48b8-9a37-d5667076587e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -6339,7 +6339,7 @@
             "second": 67
         },
         {
-            "id": "89e0388d-c786-4d87-9fa4-ccfdf6127291",
+            "id": "62d602ac-f8d2-4813-bb9c-2b69f9d281b9",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -6347,7 +6347,7 @@
             "second": 71
         },
         {
-            "id": "676aec11-b493-4e1c-8111-607595211511",
+            "id": "2d9a81a0-b38a-48b5-9bed-fd77e3fa42d1",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -6355,7 +6355,7 @@
             "second": 79
         },
         {
-            "id": "57b05e2d-a26e-46ac-b314-d18a863d3e19",
+            "id": "f6b6b2c9-0458-4f36-9a3c-e76825d66edc",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -6363,7 +6363,7 @@
             "second": 81
         },
         {
-            "id": "f7418b82-4463-4381-9fe7-73f8337f0701",
+            "id": "2ca29c0d-ab52-40c0-97dd-56a706b75c97",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -6371,7 +6371,7 @@
             "second": 84
         },
         {
-            "id": "77e8151b-b52d-444f-8139-37faecb35460",
+            "id": "9781b267-452c-4f26-a0f5-73e3f934213c",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -6379,31 +6379,31 @@
             "second": 85
         },
         {
-            "id": "5a3c399e-138b-46de-b6aa-c78e643d4c27",
+            "id": "e210a3ec-5c6a-4ec6-8e88-0335e4d90558",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 46,
             "second": 86
         },
         {
-            "id": "d57630a1-f04e-4d28-b97f-2ae5dfdbc63d",
+            "id": "dcd9ef51-ca64-4900-aad6-956bbbc1cad7",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 46,
             "second": 87
         },
         {
-            "id": "4a74c1e8-c375-43ac-b397-727325599a32",
+            "id": "a50980e5-4fe9-4cad-a1a2-ff356adffee4",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 46,
             "second": 89
         },
         {
-            "id": "da8d3b3e-9358-4537-9de3-7267231a66e1",
+            "id": "9c2175f0-e1cb-423b-b680-e448b67dd3fd",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -6411,7 +6411,7 @@
             "second": 199
         },
         {
-            "id": "866c0359-ee51-40eb-9f09-52de73ff788b",
+            "id": "a05b2f94-c75f-40f0-8b1d-0b0cf18db7d3",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -6419,7 +6419,7 @@
             "second": 210
         },
         {
-            "id": "abe7ff27-4469-47a0-bd76-6097be4c0dec",
+            "id": "3430038d-2ba9-487d-b6a5-61d0b92980e9",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -6427,7 +6427,7 @@
             "second": 211
         },
         {
-            "id": "aaad62f6-2e29-40e9-ad05-1ae05d1f567f",
+            "id": "112014cd-5184-439d-954b-6347a5408f94",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -6435,7 +6435,7 @@
             "second": 212
         },
         {
-            "id": "ed56b7a5-0098-4054-be9f-c798ff324377",
+            "id": "c9568542-485a-4cb8-9178-00abe975d9b6",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -6443,7 +6443,7 @@
             "second": 213
         },
         {
-            "id": "ccc2c2e9-2e3d-473f-bd8c-2df6af8d57bb",
+            "id": "b27a7be4-26af-4207-b0c1-049b04782ba2",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -6451,7 +6451,7 @@
             "second": 214
         },
         {
-            "id": "f3dc2c01-9dcc-4f42-a258-8c6f3fc1686c",
+            "id": "95b4d71b-2bb0-4040-97b2-1f823f38c279",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -6459,7 +6459,7 @@
             "second": 216
         },
         {
-            "id": "fa6b830a-25df-47cf-a39d-d5a1533f18b6",
+            "id": "679c5edf-93ae-4d67-897e-af1dc8b6db9c",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -6467,7 +6467,7 @@
             "second": 217
         },
         {
-            "id": "8d3bb70b-5721-4fe6-b8cc-cf607813d80b",
+            "id": "6b2a7d87-32c2-4452-a3f6-dc03369cc356",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -6475,7 +6475,7 @@
             "second": 218
         },
         {
-            "id": "4384d229-7013-4e30-9e56-6d2f3ffa168d",
+            "id": "4e5820dc-bf4a-49a6-9317-5c305c2bc672",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -6483,7 +6483,7 @@
             "second": 219
         },
         {
-            "id": "ed597646-3e54-4874-ac2e-eae2910ca0a1",
+            "id": "f74e54bd-28d5-4182-89e9-94e8c0c58048",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -6491,15 +6491,15 @@
             "second": 220
         },
         {
-            "id": "5eefca16-46ba-48a7-b8e7-5c9196c952f8",
+            "id": "5f6f1123-505a-4099-a8c3-7ac26afa171c",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 46,
             "second": 221
         },
         {
-            "id": "0bc1d7d8-6961-47fc-969d-4ec028c91d73",
+            "id": "cdd2d903-de71-4413-a71d-465b70a6e02c",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -6507,7 +6507,7 @@
             "second": 262
         },
         {
-            "id": "d81c2171-b542-4700-8d20-eee170352bdc",
+            "id": "d7629b12-424f-4766-9dc7-c3ea3bea00f5",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -6515,7 +6515,7 @@
             "second": 264
         },
         {
-            "id": "3f448b5b-5cf7-41c3-b5d3-bf87caa21475",
+            "id": "18cea6e0-f1cd-464d-a5b2-35cd6c21405b",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -6523,7 +6523,7 @@
             "second": 266
         },
         {
-            "id": "657695fe-4f65-4257-87dd-511613ea9565",
+            "id": "22abec8d-5cc1-4d62-bd0c-026dbfc74aa4",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -6531,7 +6531,7 @@
             "second": 268
         },
         {
-            "id": "880ede47-106c-4628-b214-b7c226e547d1",
+            "id": "589761f0-e0f8-4757-b696-f440bfe9c1b0",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -6539,7 +6539,7 @@
             "second": 284
         },
         {
-            "id": "786c6bf9-b872-41ff-a1e3-3000854b2722",
+            "id": "7c9e49d4-4d35-4b42-b28e-f79103e98f06",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -6547,7 +6547,7 @@
             "second": 286
         },
         {
-            "id": "06ac2f4d-0338-4f05-8062-8bb7dc6e76bc",
+            "id": "3f876059-f7d2-4107-8c78-6ebbbe3917f3",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -6555,7 +6555,7 @@
             "second": 288
         },
         {
-            "id": "0d30f027-0e57-4a7e-a6b3-343313d11139",
+            "id": "4288c675-b333-46b2-a09b-d2b053a0a175",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -6563,7 +6563,7 @@
             "second": 290
         },
         {
-            "id": "ed500d8e-419e-43b0-8e70-d53e4b18b0f4",
+            "id": "680ab813-608d-4542-bb15-9151bb92da0c",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -6571,7 +6571,7 @@
             "second": 332
         },
         {
-            "id": "24e51db4-fde8-4366-9398-d0604ea3bb53",
+            "id": "bca1a6a5-b9cb-409d-a2c2-c935695bdc39",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -6579,7 +6579,7 @@
             "second": 334
         },
         {
-            "id": "fd201532-76a8-48d1-8986-579296f539cc",
+            "id": "a5d79255-fe71-445c-8579-b95d22e0038f",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -6587,7 +6587,7 @@
             "second": 336
         },
         {
-            "id": "20d1d305-90e8-46fe-80e8-b5c5875cfdca",
+            "id": "80916fd4-555d-4ce9-bd6e-2cb24ff6dd8e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -6595,7 +6595,7 @@
             "second": 338
         },
         {
-            "id": "cd4b3a28-9adc-4c0b-8819-42893cd4643b",
+            "id": "65853d6c-0a6e-41d3-89dc-7d344177a912",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -6603,7 +6603,7 @@
             "second": 354
         },
         {
-            "id": "8be5ab22-a81e-4042-9050-6c454dd107f9",
+            "id": "e06353d1-5345-47ab-a537-1768cab91a7e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -6611,7 +6611,7 @@
             "second": 356
         },
         {
-            "id": "c2fbf110-b9e2-46fb-b9a5-97fdcc00328e",
+            "id": "8245c970-c564-43c5-aa49-2174eda3f792",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -6619,7 +6619,7 @@
             "second": 360
         },
         {
-            "id": "f612a18f-9aca-4375-99a8-7649cbbbdcec",
+            "id": "9dcf0adc-3ce4-4520-9bd5-c9b72ab80468",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -6627,7 +6627,7 @@
             "second": 362
         },
         {
-            "id": "b2af0fe5-7364-4555-8b8b-838707a78863",
+            "id": "a28df8aa-4af6-445f-8295-6d4e00a2ed0c",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -6635,7 +6635,7 @@
             "second": 364
         },
         {
-            "id": "16f5d5c9-7f2e-47ed-877f-42bcd97c0691",
+            "id": "f413b307-e8fa-42e7-8e66-8d071868968a",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -6643,7 +6643,7 @@
             "second": 366
         },
         {
-            "id": "715ed0e7-cf2f-42b8-ae99-7f22240626ee",
+            "id": "4ce8a62d-35c9-4d66-bc47-41af74eb4313",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -6651,7 +6651,7 @@
             "second": 368
         },
         {
-            "id": "bb15be17-dfb4-4a8d-912e-390f77ba1978",
+            "id": "a910387a-e1fc-44de-b2b8-b79974b014fd",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -6659,31 +6659,31 @@
             "second": 370
         },
         {
-            "id": "644e3caa-9d38-4906-a7a7-1ca80f54bf56",
+            "id": "97654b1e-a7b9-4b1f-83c8-63f42c59f2fc",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 46,
             "second": 372
         },
         {
-            "id": "00cee9a9-d6c0-4bbd-9004-14333d028e10",
+            "id": "27d14615-fd43-41f4-a9e8-3d004a0a547e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 46,
             "second": 374
         },
         {
-            "id": "28e0593b-6330-47a0-b984-f087056935d4",
+            "id": "2b7273c6-0573-48cf-a3a2-88358ddf3860",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 46,
             "second": 376
         },
         {
-            "id": "982331a7-06b1-4975-a897-f223d7e96aef",
+            "id": "ab6b4818-e7ea-4ecf-a784-0f88b296f920",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -6691,7 +6691,7 @@
             "second": 416
         },
         {
-            "id": "feb6e8d5-eda5-4988-b98b-50ef27b51ded",
+            "id": "669c383f-507e-4906-8201-13eec0d5fbe3",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -6699,7 +6699,7 @@
             "second": 431
         },
         {
-            "id": "d2362b66-db58-45cd-9372-645fb242d8b3",
+            "id": "0b4abd8c-f027-4d6b-874b-97b7ad2e6881",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -6707,7 +6707,7 @@
             "second": 510
         },
         {
-            "id": "42aa9360-ca99-44a1-869e-d7056762fb70",
+            "id": "bc374563-8494-4787-9db1-98573c8c1815",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -6715,7 +6715,7 @@
             "second": 538
         },
         {
-            "id": "6868930b-0489-4395-a900-3aa36927aa7c",
+            "id": "8c9b290e-dd78-4430-8dab-60bd53fdfd85",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -6723,7 +6723,7 @@
             "second": 920
         },
         {
-            "id": "9645e57f-1455-4006-a612-a14a1a6b9549",
+            "id": "a479d578-d00a-4ca9-9a39-1d0fed892a2c",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -6731,7 +6731,7 @@
             "second": 927
         },
         {
-            "id": "c8a58f9c-7817-41a1-8614-97742c57c73d",
+            "id": "c0ad24e4-c5c7-472e-871b-b123bc02f972",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -6739,15 +6739,15 @@
             "second": 932
         },
         {
-            "id": "b60bb97c-9403-49f3-a093-85495f7c293e",
+            "id": "c4bbaf96-60ee-4df6-ad46-09b7fe0bbaed",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 46,
             "second": 933
         },
         {
-            "id": "7d42cde6-8867-44d5-943a-67b0debb9cc4",
+            "id": "5bf1044b-9425-48b0-b374-4eeb4b5763de",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -6755,23 +6755,23 @@
             "second": 934
         },
         {
-            "id": "6e744373-3d57-49c9-9802-1e93eac10d0d",
+            "id": "9718accd-6721-41c8-ab40-360570829c8f",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 46,
             "second": 936
         },
         {
-            "id": "e4504702-9b36-4486-a916-19d48154839b",
+            "id": "154962f9-78b8-4ce0-9696-7707e5af61d2",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 46,
             "second": 939
         },
         {
-            "id": "0108eb2e-9268-4953-bd58-a1df0087c9d8",
+            "id": "7a40e4b1-9b01-43bf-ad94-a2438202e617",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -6779,15 +6779,15 @@
             "second": 952
         },
         {
-            "id": "798f07c4-9636-43df-84f9-df9940ecdc2e",
+            "id": "8a5a5aea-b026-474a-aa42-4ecfb1506d0c",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 46,
             "second": 978
         },
         {
-            "id": "397b4d52-3cd5-4c94-9381-b6ecd03da0b7",
+            "id": "2110fdf8-8399-4c1a-b4ee-3ba7821acb52",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -6795,7 +6795,7 @@
             "second": 1026
         },
         {
-            "id": "535f504b-b538-4f5d-b5bf-b593a012e694",
+            "id": "b3cc8de9-502e-41ef-a0cb-8a4178a14ca0",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -6803,7 +6803,7 @@
             "second": 1028
         },
         {
-            "id": "4a0b14d6-e0b8-486c-9188-ec3e814bb5ca",
+            "id": "7786f314-d46e-49a0-a2ad-2016ed764bba",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -6811,7 +6811,7 @@
             "second": 1035
         },
         {
-            "id": "4baf14d2-5c1a-4f20-a0f5-011e0f3b70fc",
+            "id": "1f18de29-75db-4119-9034-69f6868cbd95",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -6819,7 +6819,7 @@
             "second": 1054
         },
         {
-            "id": "5f9174f5-c655-4b5d-a4f2-4dc2ddba6c52",
+            "id": "725be590-51b8-42d0-acae-f301790a01ce",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -6827,7 +6827,7 @@
             "second": 1057
         },
         {
-            "id": "c9734679-9cf0-4e55-bca7-8cd0c5b5f915",
+            "id": "ad3db9d9-e813-480b-afed-9a2fa0a77ac9",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -6835,7 +6835,7 @@
             "second": 1058
         },
         {
-            "id": "f0c27ceb-2116-4417-a0bc-fc6166cb11a4",
+            "id": "275749a1-4950-46a6-a69c-a11911ad67ee",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -6843,15 +6843,15 @@
             "second": 1060
         },
         {
-            "id": "dcf320f7-8c77-48d2-aeb8-66143836fcee",
+            "id": "f0b882a1-1baf-4c17-924d-4ad718697e90",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -4,
+            "amount": -5,
             "first": 46,
             "second": 1063
         },
         {
-            "id": "c6a5d1f1-2fa3-43c2-9585-746a12118203",
+            "id": "ab715be3-fa2c-44ee-b9e6-9741c98ee568",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -6859,7 +6859,7 @@
             "second": 1066
         },
         {
-            "id": "cf65e564-d3a9-455b-8076-bf581cc6c4ec",
+            "id": "9b06539e-17be-438c-a44a-35432678e7d0",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -6867,15 +6867,15 @@
             "second": 1090
         },
         {
-            "id": "3f36fd1a-553a-4cec-98ce-ec26be954d5d",
+            "id": "a34e8742-b15b-4fef-8ecc-b276fa06b133",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 46,
             "second": 1095
         },
         {
-            "id": "8cbbc74e-d353-4e10-98e5-2cf13c4a96e6",
+            "id": "9b29a773-c780-4863-a6f7-5821c6e8dc78",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -6883,7 +6883,7 @@
             "second": 1098
         },
         {
-            "id": "bc9c3957-9d42-47a9-8035-d76f03ef8e96",
+            "id": "872c3bbf-1e73-465f-99a5-2d8cc95af8b6",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -6891,15 +6891,15 @@
             "second": 1120
         },
         {
-            "id": "922cb034-8e66-48bd-95e0-b0eb3cb1b842",
+            "id": "763846e9-2ac8-4fa6-a0b5-f8fe8a3443bb",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -4,
+            "amount": -5,
             "first": 46,
             "second": 1136
         },
         {
-            "id": "7ecad7ad-c857-4a73-a2b8-3e95997c6f9e",
+            "id": "733b73d2-f826-45d4-aed5-cb992825f23f",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -6907,23 +6907,23 @@
             "second": 1138
         },
         {
-            "id": "c3bb199f-558d-4f5b-bc28-5f0e13fb6060",
+            "id": "22535e18-9c11-4fbe-8299-ca84d972ed83",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 46,
             "second": 1140
         },
         {
-            "id": "7c5c0c89-63a2-4f79-991d-00f652e8df24",
+            "id": "d6f658b3-760e-43a7-9053-f9f5f9dfd9cd",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 46,
             "second": 1142
         },
         {
-            "id": "12308874-42ea-4d0b-9746-eecf50fe6ee3",
+            "id": "84e67462-e571-494a-aa05-87668e9813ad",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -6931,7 +6931,7 @@
             "second": 1144
         },
         {
-            "id": "072fc6b5-d7f5-4e5a-9442-5655bbdabd89",
+            "id": "ed479e0d-d8aa-4c36-9516-821e767aa3f9",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -6939,7 +6939,7 @@
             "second": 1146
         },
         {
-            "id": "ab0b56b2-22a7-4e64-a8ce-0e5e5884d9fd",
+            "id": "bc9ec27c-1882-4045-a81c-acafa6baf13a",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -6947,7 +6947,7 @@
             "second": 1148
         },
         {
-            "id": "0932998c-f2ac-4d3c-84eb-8a730177c896",
+            "id": "66f6f63a-e0d3-444f-853f-2e3c5b71d194",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -6955,7 +6955,7 @@
             "second": 1150
         },
         {
-            "id": "da2ceb73-03eb-4676-b620-d31cff0aaed4",
+            "id": "f0adef3d-382c-4878-a420-93f1587789d1",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -6963,7 +6963,7 @@
             "second": 1152
         },
         {
-            "id": "e5128555-5bc5-4c47-99f2-619f7b4d1cc1",
+            "id": "e4465ab1-6ea2-42de-b312-a09954cd4e12",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -6971,7 +6971,7 @@
             "second": 1184
         },
         {
-            "id": "4774fcc3-cf08-4f84-801b-68ae370f4489",
+            "id": "26d66fe0-1c3a-4af4-9e06-0fb72ba129ed",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -6979,7 +6979,7 @@
             "second": 1185
         },
         {
-            "id": "2104c6a8-e135-4899-af39-fd71129619bf",
+            "id": "2fc8e9ce-bbca-4b0d-a87f-dd4ddb564a2c",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -6987,7 +6987,7 @@
             "second": 1192
         },
         {
-            "id": "08c281d7-d582-41c8-bae3-d2eb8e73bd3f",
+            "id": "5ab50605-f0a7-442d-b8dc-f35332de8a56",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -6995,7 +6995,7 @@
             "second": 1194
         },
         {
-            "id": "41b7e4c9-28f1-42a8-a1ec-43c70899fd08",
+            "id": "550eb279-913b-4a99-81e5-2dbe6a8500b2",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -7003,7 +7003,7 @@
             "second": 1196
         },
         {
-            "id": "ec4ac0cd-66f6-4420-80a4-6491654bcc37",
+            "id": "85b44c22-2962-4ddd-8614-295f6a705a58",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -7011,23 +7011,23 @@
             "second": 1197
         },
         {
-            "id": "c3a1bb39-d8b3-4296-8488-4d861b14d435",
+            "id": "c36ca0f0-75e1-4c10-87c2-362c4a8d22b6",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 46,
             "second": 1198
         },
         {
-            "id": "d04728a7-2541-4e92-b946-99db9aeef9f2",
+            "id": "c24534a3-e69a-4184-b928-2989427e8f31",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 46,
             "second": 1200
         },
         {
-            "id": "66dd4da0-0eaf-4620-8f21-3ccac30b1086",
+            "id": "e494588b-410f-47a4-b3b0-ff6ac56eeeff",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -7035,7 +7035,7 @@
             "second": 1204
         },
         {
-            "id": "8b6fd555-4a13-4104-a6fc-e06553daa104",
+            "id": "9e5844ed-99a8-4b2b-a3e1-9a9d32bd9078",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -7043,71 +7043,71 @@
             "second": 1205
         },
         {
-            "id": "663d1f71-afd0-4120-a5cc-0591bcbfacd1",
+            "id": "1337a974-5a0d-47e8-849e-4425aad95533",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -4,
+            "amount": -5,
             "first": 46,
             "second": 1206
         },
         {
-            "id": "82233ffc-3c57-4639-a6b2-fccff9fba546",
+            "id": "a1d83bf5-af19-4e9e-a16e-8bc4c1744184",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 46,
             "second": 1207
         },
         {
-            "id": "7081419d-b041-47c3-984a-e1e071a86de1",
+            "id": "6d639b0b-c123-4086-ac29-b9db55547a91",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -4,
+            "amount": -5,
             "first": 46,
             "second": 1208
         },
         {
-            "id": "1db3abde-929f-4806-93ac-c9c094706fd8",
-            "modelName": "GMKerningPair",
-            "mvc": "1.0",
-            "amount": -3,
-            "first": 46,
-            "second": 1209
-        },
-        {
-            "id": "0d955d73-82c4-4850-8afe-9626fdb6da36",
-            "modelName": "GMKerningPair",
-            "mvc": "1.0",
-            "amount": -3,
-            "first": 46,
-            "second": 1212
-        },
-        {
-            "id": "b1d89b1d-0348-447d-8fce-a7287a160c6b",
-            "modelName": "GMKerningPair",
-            "mvc": "1.0",
-            "amount": -3,
-            "first": 46,
-            "second": 1214
-        },
-        {
-            "id": "7eb87585-f6e4-417d-a43f-391706b269f2",
+            "id": "fbe14a39-aa4b-45fc-b4e2-7f84ebc5c0af",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
             "first": 46,
+            "second": 1209
+        },
+        {
+            "id": "7e3e1520-8541-4c96-acda-6443728f538c",
+            "modelName": "GMKerningPair",
+            "mvc": "1.0",
+            "amount": -4,
+            "first": 46,
+            "second": 1212
+        },
+        {
+            "id": "56b7b2a5-348b-417c-8832-27e204474885",
+            "modelName": "GMKerningPair",
+            "mvc": "1.0",
+            "amount": -4,
+            "first": 46,
+            "second": 1214
+        },
+        {
+            "id": "49679d73-8512-4867-87b5-a82ba72068e6",
+            "modelName": "GMKerningPair",
+            "mvc": "1.0",
+            "amount": -5,
+            "first": 46,
             "second": 1227
         },
         {
-            "id": "76a2f341-f9d0-4015-a85e-fedcd6633fb6",
+            "id": "75ae2ab3-c344-4e99-b944-f529e416f62b",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 46,
             "second": 1228
         },
         {
-            "id": "f908e625-0a0c-473b-b042-93ff81a67dcb",
+            "id": "cea5b60b-9654-4e5e-be2c-f7bc319d1b80",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -7115,7 +7115,7 @@
             "second": 1254
         },
         {
-            "id": "0cd9c762-6dcd-4516-aa3f-207e493f60cd",
+            "id": "5e5aa1e4-bae5-4837-be6d-12fee878ee28",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -7123,7 +7123,7 @@
             "second": 1256
         },
         {
-            "id": "047a665e-e27c-48e6-a863-0cf4a34f1b39",
+            "id": "c3b81cb1-4b1b-46ab-9e6c-bf925c611f1f",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -7131,31 +7131,31 @@
             "second": 1258
         },
         {
-            "id": "2909b404-61f0-4bff-b706-648d4c705741",
+            "id": "45a34a43-83c4-4708-9dbd-3f99c04736f2",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -4,
+            "amount": -5,
             "first": 46,
             "second": 1268
         },
         {
-            "id": "c3d2880c-e2b0-4cce-9065-da9fd42b723d",
+            "id": "0e47283a-a49a-4a16-a2ac-2d83fd5283af",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 46,
             "second": 1269
         },
         {
-            "id": "59ccbc01-b9bc-4d30-bf75-2ec00c3a8b44",
+            "id": "3b669770-e9fa-4a78-b5a9-b648fc7047ac",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 46,
             "second": 1284
         },
         {
-            "id": "d8aa43b6-2ff2-44df-9f19-4af8ed910015",
+            "id": "b5a41ac4-7e9c-47a5-ac10-5432d9863fe3",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -7163,15 +7163,15 @@
             "second": 1285
         },
         {
-            "id": "6d2a35fb-247c-41a2-a7c4-fc8ca5ddba92",
+            "id": "86909fad-e185-4f34-addb-e678b627e5e4",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 46,
             "second": 1286
         },
         {
-            "id": "bac99cb9-2fc5-4c96-b1b6-e6a198b6ca6a",
+            "id": "bb8de5a2-321e-4094-9dff-3eeed1597067",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -7179,7 +7179,7 @@
             "second": 1287
         },
         {
-            "id": "2075d318-08fa-4e3f-8b63-1955eb933167",
+            "id": "d7f6aa18-8059-4feb-a6c3-61b659643c1d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -7187,7 +7187,7 @@
             "second": 1292
         },
         {
-            "id": "48fb7dc1-f3cf-4447-93a6-1215da01d69e",
+            "id": "8779bb07-aa4f-4b30-9444-d0be8584c60e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -7195,7 +7195,7 @@
             "second": 1294
         },
         {
-            "id": "f74bc150-4957-4712-add8-c32aa1426c5a",
+            "id": "fce833e0-5f5b-42c0-ad2c-d266277034a2",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -7203,31 +7203,31 @@
             "second": 1295
         },
         {
-            "id": "a43eceb1-6d9e-4edb-87f3-1970e82dc7f4",
+            "id": "88aa249b-8989-4ffe-9182-e1de91d3bb21",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 46,
             "second": 7808
         },
         {
-            "id": "f4ce6066-4279-403e-9779-495d42d41482",
+            "id": "cf78cb23-8a9c-4174-a728-a94b345195e2",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 46,
             "second": 7810
         },
         {
-            "id": "166d4fff-a248-4db5-b0e7-edaf8d5eb559",
+            "id": "bb0b31c1-93b4-412c-8864-4c16da59a8f9",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 46,
             "second": 7812
         },
         {
-            "id": "a0573ff3-29a3-4103-b5c6-cd7c8058dbef",
+            "id": "81b6e788-4dd9-46c3-aabc-d77f4b940509",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -7235,7 +7235,7 @@
             "second": 7884
         },
         {
-            "id": "7454999a-7ad6-405e-8473-a3819733e725",
+            "id": "a3d7869a-aa36-460a-9be6-ff545e230bd0",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -7243,7 +7243,7 @@
             "second": 7886
         },
         {
-            "id": "677db2db-7699-4f5f-9305-135a85ba5b19",
+            "id": "cf07672b-e6c1-43ce-a126-6da508117c76",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -7251,7 +7251,7 @@
             "second": 7888
         },
         {
-            "id": "658c48af-634a-4926-95d0-64c03247f190",
+            "id": "feefd9a7-9b77-4db1-9c7b-659dcc6c2f59",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -7259,7 +7259,7 @@
             "second": 7890
         },
         {
-            "id": "ab6f040a-1ac7-4b7a-a96e-ccf2447c5ecd",
+            "id": "7b3bfe1e-ca03-49f6-bc6e-6cca3afeaf2a",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -7267,7 +7267,7 @@
             "second": 7892
         },
         {
-            "id": "041ef9ae-db06-484d-99f3-23daf4d624cf",
+            "id": "b8cb8635-1a99-4d6c-99b4-b503dac85b8c",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -7275,7 +7275,7 @@
             "second": 7894
         },
         {
-            "id": "6d7e1f2e-869f-4904-96ba-ebfdec03019d",
+            "id": "d0bbea24-3498-4a61-b9d6-751451b7e5aa",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -7283,7 +7283,7 @@
             "second": 7896
         },
         {
-            "id": "4a538479-89cf-4be1-83df-77297f2258e5",
+            "id": "0ac18a5a-4adc-4b49-b22f-d860f63e8a83",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -7291,7 +7291,7 @@
             "second": 7898
         },
         {
-            "id": "0e016a52-b805-4f69-84f8-58e3fc6cb515",
+            "id": "b5f37d69-16ce-4f3a-934c-6e7b4c47fdb4",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -7299,7 +7299,7 @@
             "second": 7900
         },
         {
-            "id": "889fa497-572b-4479-87bc-9b28b8a36069",
+            "id": "5ad7322c-cbee-41a7-a5ed-cce8f51bdf5d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -7307,7 +7307,7 @@
             "second": 7902
         },
         {
-            "id": "8be63bee-5d64-452a-af0c-d33534b63cf8",
+            "id": "eebb086d-5b48-4f39-8a99-ecf6d1b16786",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -7315,7 +7315,7 @@
             "second": 7904
         },
         {
-            "id": "497ed4c7-bf84-4796-bed2-61c5220fc58a",
+            "id": "26f9b72f-b242-4e59-8b69-ecacc793b3d4",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -7323,7 +7323,7 @@
             "second": 7906
         },
         {
-            "id": "364b18cf-1c11-44a6-b942-6e86371a7fa2",
+            "id": "e5291484-805e-4562-8e1f-5b519fb5d915",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -7331,7 +7331,7 @@
             "second": 7908
         },
         {
-            "id": "f0da1091-cd56-4a7c-81ff-5b184c43d448",
+            "id": "e6403c9a-b5d1-49ce-8ae3-fa3618dfe581",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -7339,7 +7339,7 @@
             "second": 7910
         },
         {
-            "id": "80c135ff-78d1-4a02-b4fa-0b6b0027e86c",
+            "id": "6783283b-91b6-43ff-8033-b5166634d930",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -7347,7 +7347,7 @@
             "second": 7912
         },
         {
-            "id": "11f1b7c2-7cdb-4802-8cdd-6c76a70b9194",
+            "id": "6c5c95e8-8d1b-4c08-92e6-d8967510de49",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -7355,7 +7355,7 @@
             "second": 7914
         },
         {
-            "id": "41b2e666-9400-40d8-8ba1-185d6502c978",
+            "id": "f031e21d-71f9-44ae-af20-373bffa93a4d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -7363,7 +7363,7 @@
             "second": 7916
         },
         {
-            "id": "e7f629d1-bd5e-49b3-8949-3ec019ec9044",
+            "id": "8a7aa115-1c56-4ff3-96bf-e3202a63c8a0",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -7371,7 +7371,7 @@
             "second": 7918
         },
         {
-            "id": "b6c8470e-a20e-407e-bda0-93c39f75b1ba",
+            "id": "83ba635a-ad6b-427e-85de-19dab63fb584",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -7379,39 +7379,39 @@
             "second": 7920
         },
         {
-            "id": "c33c343f-04a6-4cb2-82c8-46f24a1429c9",
+            "id": "3e989f13-8f78-4928-b8c0-6103dbd9055f",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 46,
             "second": 7922
         },
         {
-            "id": "60d9f7f2-e94b-4c7e-b978-1af7bbbb50e7",
+            "id": "bddde68e-d85e-42f9-b273-1e791fd5da65",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 46,
             "second": 7924
         },
         {
-            "id": "1aa0116f-2354-4936-bfc4-427a4439487b",
+            "id": "48c03331-60b5-4768-b3fe-3b404dfd18e6",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 46,
             "second": 7926
         },
         {
-            "id": "a8b6941c-5dbc-455e-8400-884de7be2537",
+            "id": "462c455e-e774-46cf-affd-a7ad3024f801",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 46,
             "second": 7928
         },
         {
-            "id": "41ebc910-b103-4d55-902b-35cf3767edf8",
+            "id": "939b1094-47f3-4cb2-a021-d08782fed090",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -7419,7 +7419,7 @@
             "second": 34
         },
         {
-            "id": "18010371-cade-46a8-9e9a-ddbc79ff2b44",
+            "id": "e5d583c7-e261-4849-b383-2f66fb55857d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -7427,7 +7427,7 @@
             "second": 39
         },
         {
-            "id": "04c6dcfe-818e-4dc9-85ac-f562ba7885b8",
+            "id": "c49f0ae9-8e6a-4768-9547-7e3c95601208",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -7435,7 +7435,7 @@
             "second": 67
         },
         {
-            "id": "03aed772-60e3-4b10-a5af-10fdccc45bbf",
+            "id": "828e545a-b0a6-47a1-90fd-e88af9c1074e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -7443,15 +7443,15 @@
             "second": 71
         },
         {
-            "id": "c7ba745b-3500-4152-ae2c-c5132c298e90",
+            "id": "f0ab1d9b-d255-4dcb-97d3-8cd87ee1ba3a",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": 7,
+            "amount": 8,
             "first": 65,
             "second": 74
         },
         {
-            "id": "3474d152-b49c-4478-984b-f8293aa33915",
+            "id": "47014ce0-a33a-4d45-b8e1-01899bec945b",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -7459,7 +7459,7 @@
             "second": 79
         },
         {
-            "id": "e1f2ac01-0616-4782-84b4-cd7c4ba35b05",
+            "id": "0bd252e7-4a9e-4371-8f4d-32e39d0c8783",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -7467,7 +7467,7 @@
             "second": 81
         },
         {
-            "id": "5ea413d8-c5b3-4fb5-ac9c-8fb38ea15117",
+            "id": "62b7bb78-5252-4527-a3f5-2c98832943cc",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -7475,7 +7475,7 @@
             "second": 84
         },
         {
-            "id": "f1859325-23f9-4c53-b28f-9b80d87373d7",
+            "id": "8b125f1a-9371-42f0-9a23-a49f302ec01a",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -7483,7 +7483,7 @@
             "second": 86
         },
         {
-            "id": "5fe8dae9-ce47-4299-a176-a214463bd978",
+            "id": "fd1f5e16-acc1-471e-a297-82409dfc2154",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -7491,15 +7491,15 @@
             "second": 87
         },
         {
-            "id": "011212dc-4d8a-417b-b30a-9c0809413734",
+            "id": "439b9156-7f29-49d4-b557-3cca3572cfb4",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 65,
             "second": 89
         },
         {
-            "id": "7981c660-d798-429d-a666-9f325de7ae6a",
+            "id": "ae17155b-936d-4899-aaf6-fa73897f28f8",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -7507,7 +7507,7 @@
             "second": 199
         },
         {
-            "id": "ecdb386f-fad0-4a6c-860d-b89817dcb989",
+            "id": "23f25255-d157-4160-94f9-cb94cf1d9643",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -7515,7 +7515,7 @@
             "second": 210
         },
         {
-            "id": "b9709879-c190-4cdc-a9b2-b29301ff29f0",
+            "id": "28535c52-61e7-4cbb-9bfa-25300734b5bd",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -7523,7 +7523,7 @@
             "second": 211
         },
         {
-            "id": "10428345-054d-4104-81ba-7841aa86159d",
+            "id": "73fa2021-4d6c-408e-892a-e944e27d8930",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -7531,7 +7531,7 @@
             "second": 212
         },
         {
-            "id": "7981f8d4-84fb-40df-88eb-781f7075c70b",
+            "id": "50b98456-c40e-4242-a65c-89e9823f50b8",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -7539,7 +7539,7 @@
             "second": 213
         },
         {
-            "id": "a5317921-23e3-4def-b8fb-25341a30d8f7",
+            "id": "b1e7a0bb-506f-4cf8-a016-b734e16525b9",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -7547,7 +7547,7 @@
             "second": 214
         },
         {
-            "id": "ab7a0534-3b36-4495-8ae6-3a4f81cfa2fd",
+            "id": "b031febd-099c-4e16-bb8b-abea177a226c",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -7555,15 +7555,15 @@
             "second": 216
         },
         {
-            "id": "08ee80e9-12c4-49cb-9429-2faf93912cb3",
+            "id": "0e6e3629-31e4-488d-897c-f4c1ae568c75",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 65,
             "second": 221
         },
         {
-            "id": "2bb0949b-bc4a-46cc-bb6e-b10fc9de42b0",
+            "id": "c3c24314-d9e1-4158-bada-3aa1175898ec",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -7571,7 +7571,7 @@
             "second": 262
         },
         {
-            "id": "ace10d24-2a51-4559-bdc6-f273793d0c15",
+            "id": "b3bc38ac-0428-4f91-91db-8f5903c5f603",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -7579,7 +7579,7 @@
             "second": 264
         },
         {
-            "id": "dfdc3391-2aed-486b-bf18-30ef0360ed4d",
+            "id": "000452cf-adcb-4eec-9ec1-6518947a8761",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -7587,7 +7587,7 @@
             "second": 266
         },
         {
-            "id": "c763d069-e1d5-4053-ab34-58ba2e9dbb4b",
+            "id": "f8438112-09de-4482-add3-4aa8803f1944",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -7595,7 +7595,7 @@
             "second": 268
         },
         {
-            "id": "5267a6e9-33dc-4c9a-bb58-6a06b52ea0c0",
+            "id": "7f0ca0eb-0160-4d61-8386-d6b0e6590190",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -7603,7 +7603,7 @@
             "second": 284
         },
         {
-            "id": "6529485e-262f-46a1-b3ce-913b5976b652",
+            "id": "ec6eba90-36ed-44d0-a03d-d1a6b1486237",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -7611,7 +7611,7 @@
             "second": 286
         },
         {
-            "id": "6ddf0728-d717-4ff5-bd3a-a00a1cf087cf",
+            "id": "d878a360-b69b-4b10-b8a8-48d74f31fe8c",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -7619,7 +7619,7 @@
             "second": 288
         },
         {
-            "id": "6cc67630-93ab-4c3c-96c4-83ad167ebe25",
+            "id": "2d3b3fbc-6421-4be6-b120-1855d4eded73",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -7627,7 +7627,7 @@
             "second": 290
         },
         {
-            "id": "66de2b5e-0b4f-4916-bf7a-9fd3b54efc4e",
+            "id": "b1149409-1880-48f5-8f2d-cc44fb20eebe",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -7635,7 +7635,7 @@
             "second": 332
         },
         {
-            "id": "6b555d64-8848-40b0-af9f-0018fc6d3046",
+            "id": "b6b2d65f-4a20-407d-8156-dbbde518ecf5",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -7643,7 +7643,7 @@
             "second": 334
         },
         {
-            "id": "51100264-9894-400c-a0e9-ee08e350c082",
+            "id": "91523157-b806-4821-b970-1dca77cd8a25",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -7651,7 +7651,7 @@
             "second": 336
         },
         {
-            "id": "1e6343b1-3304-48d4-b375-a5aab867f8c0",
+            "id": "db234ed0-8e8f-4e41-98ee-9e07e204c7b8",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -7659,7 +7659,7 @@
             "second": 338
         },
         {
-            "id": "4a666734-3847-4794-b019-cbd109119695",
+            "id": "ba77c02d-a437-4204-a001-289ee2c8adda",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -7667,7 +7667,7 @@
             "second": 354
         },
         {
-            "id": "90067d01-06fa-4cfc-a8b9-d7215d8aa1ec",
+            "id": "cc8bd4a0-ff13-4bfe-836e-174e1ab7ce8c",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -7675,7 +7675,7 @@
             "second": 356
         },
         {
-            "id": "6fbec20c-ef78-49be-9192-e9ee6c10be99",
+            "id": "f9d2de55-384f-40b6-bb46-41fa55b9fef2",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -7683,23 +7683,23 @@
             "second": 372
         },
         {
-            "id": "dc4397ff-4785-4fcd-821d-b234f336428c",
+            "id": "5d21ea11-14c9-4db7-ab46-3dfac969cf74",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 65,
             "second": 374
         },
         {
-            "id": "8d240c44-16e9-4833-9df8-eb370068d864",
+            "id": "1dd514cc-3476-4ade-a8dc-37f096dc0d3c",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 65,
             "second": 376
         },
         {
-            "id": "e034aa96-2375-4a5f-aa44-707f7d91896f",
+            "id": "20a4bb64-9894-4c82-8e30-884c83e606cb",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -7707,7 +7707,7 @@
             "second": 416
         },
         {
-            "id": "fb9b82d2-f893-4cd2-b7bb-30ee14bd7b8f",
+            "id": "5539e757-cdad-4576-ad1b-6dd4f874ed0c",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -7715,7 +7715,7 @@
             "second": 510
         },
         {
-            "id": "b67e30bc-10b8-46a6-bb25-af27306a2d6e",
+            "id": "b39ca2bb-edcb-43f2-823f-15f30017764e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -7723,7 +7723,7 @@
             "second": 538
         },
         {
-            "id": "fd9e9199-ca59-40a8-a4bd-d1c9018756ca",
+            "id": "f8fc72c6-a8a0-4b5d-8ec4-f754a484d5a3",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -7731,7 +7731,7 @@
             "second": 7808
         },
         {
-            "id": "3e711df9-9aa6-44f0-936d-b61ef764b2a2",
+            "id": "d6cb722f-d142-4803-aff3-a2763a1b1d3f",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -7739,7 +7739,7 @@
             "second": 7810
         },
         {
-            "id": "08b04d5a-b404-4c48-a593-8baa22189c0a",
+            "id": "39cb622f-a24d-4eea-a19a-7bfd5001ba39",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -7747,7 +7747,7 @@
             "second": 7812
         },
         {
-            "id": "291f0b38-0f72-497d-96e3-9fd79d75ffeb",
+            "id": "3472a1ec-a5b1-4f8c-a366-21e2f52d3ab1",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -7755,7 +7755,7 @@
             "second": 7884
         },
         {
-            "id": "0726cb36-83e3-46ba-b6f9-cc43d4cf694d",
+            "id": "5ad096ff-75ee-437c-90cd-c88d9aaaa847",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -7763,7 +7763,7 @@
             "second": 7886
         },
         {
-            "id": "ad7ea984-bc59-4522-9cf1-f6b1eecdafc3",
+            "id": "74bd0625-c16f-455e-b757-3e33d64b4dcf",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -7771,7 +7771,7 @@
             "second": 7888
         },
         {
-            "id": "bdc2b7df-3340-4fb0-b862-ada40c91792b",
+            "id": "a9ecfa19-7534-4b99-a2ba-ef86d43bfb57",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -7779,7 +7779,7 @@
             "second": 7890
         },
         {
-            "id": "62abdee4-a959-47df-925e-251d62b7224d",
+            "id": "7fdbbe42-a0eb-4f11-8b91-05620c9925dc",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -7787,7 +7787,7 @@
             "second": 7892
         },
         {
-            "id": "da5ede7a-977d-4d8d-ad46-c576314fd449",
+            "id": "31e528bd-508b-4b36-a844-2df28f725901",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -7795,7 +7795,7 @@
             "second": 7894
         },
         {
-            "id": "db3a43f6-2144-4414-962a-b6db6e52b4b4",
+            "id": "c7da7682-b33f-4223-80ca-62792a18ac83",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -7803,7 +7803,7 @@
             "second": 7896
         },
         {
-            "id": "ad075b3e-da0a-4348-aaf4-5f21cd322a48",
+            "id": "3864fdab-e1d3-423c-9dc8-cbee8e296f89",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -7811,7 +7811,7 @@
             "second": 7898
         },
         {
-            "id": "754aedd9-b534-433e-afd9-54f4b406dd69",
+            "id": "703feb97-d44e-462f-a1b3-bb62cda08c8b",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -7819,7 +7819,7 @@
             "second": 7900
         },
         {
-            "id": "9b883040-8d06-446d-bf5b-7e11d6ac5065",
+            "id": "abc924b7-7024-40dd-9c53-c105d074458a",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -7827,7 +7827,7 @@
             "second": 7902
         },
         {
-            "id": "852f9a54-73ef-49a6-9577-971af4e1da42",
+            "id": "901203bb-5b7b-4974-9536-fcfedfbc9d7f",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -7835,7 +7835,7 @@
             "second": 7904
         },
         {
-            "id": "6a47a47f-4dce-4d04-a514-f0e0b2310ce3",
+            "id": "056421d0-66e8-4415-bb0d-927c89aa7508",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -7843,39 +7843,39 @@
             "second": 7906
         },
         {
-            "id": "cc7b04f3-3e7d-43a2-a758-8a1f72d28f89",
+            "id": "b9f4d7f9-61f3-4ccb-999d-09f2dad9fbb4",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 65,
             "second": 7922
         },
         {
-            "id": "b0cdbad9-bd43-40c6-b3be-21cfe9441428",
+            "id": "f6103b6d-9ad1-46ce-be12-76e971c6494b",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 65,
             "second": 7924
         },
         {
-            "id": "75684edd-7a52-4e00-ab98-454a8d75a203",
+            "id": "4ecc56de-f1ca-40c9-93cc-52db8812345a",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 65,
             "second": 7926
         },
         {
-            "id": "2963e579-ba10-4f3c-a17b-70e6e68fdf74",
+            "id": "114e4ffb-5b75-40bc-8ef6-fd94380874f9",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 65,
             "second": 7928
         },
         {
-            "id": "fc932492-92a2-482f-98b3-b1be6c5a8fa1",
+            "id": "f6897be7-b046-419e-b878-7ea07905d4d6",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -7883,7 +7883,7 @@
             "second": 8217
         },
         {
-            "id": "d7f641fc-46dd-4377-9d14-148a824eb620",
+            "id": "c3111542-61ba-48ad-bbe1-678c3c5c1258",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -7891,7 +7891,7 @@
             "second": 8221
         },
         {
-            "id": "278aa3b6-540f-47c4-afe2-7ef668772332",
+            "id": "99b36640-bad6-474e-84e8-153f2dc86db0",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -7899,7 +7899,7 @@
             "second": 44
         },
         {
-            "id": "c688d02e-530c-4606-8be7-3ae1a10cb350",
+            "id": "bba8e373-1cd0-4d57-9018-94153bf16fca",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -7907,7 +7907,7 @@
             "second": 46
         },
         {
-            "id": "2d8a1fa2-4ee8-4e1d-95da-c923592567d7",
+            "id": "af8fb40f-1a43-46d7-b6b9-16b2f2687564",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -7915,7 +7915,7 @@
             "second": 65
         },
         {
-            "id": "86088968-0153-4025-aa12-284e64a2c43a",
+            "id": "ab43f3a9-7915-4011-9011-08eaf8f11483",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -7923,7 +7923,7 @@
             "second": 84
         },
         {
-            "id": "2643eac1-cfcd-4a17-863c-35dd0af9541a",
+            "id": "e69cd23a-3abf-40c1-b58a-2fc62b6d19cc",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -7931,7 +7931,7 @@
             "second": 86
         },
         {
-            "id": "a7b12716-29e5-4a34-82d2-444d81d2fbc1",
+            "id": "524cd2cb-767a-4443-bc66-b3f7bdebe431",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -7939,7 +7939,7 @@
             "second": 87
         },
         {
-            "id": "99bca87d-a6de-4e2e-a27a-7043e41cf4e3",
+            "id": "834382aa-c40c-4600-8615-59ec1dedb7be",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -7947,7 +7947,7 @@
             "second": 88
         },
         {
-            "id": "8c9903ba-4f50-4cd4-8bdf-d3bc0e6635dd",
+            "id": "21f8dd48-3de6-4804-9ac4-484eaf714032",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -7955,7 +7955,7 @@
             "second": 89
         },
         {
-            "id": "0c0410ac-ebfe-4172-8af9-5483fe2943c7",
+            "id": "d20d834b-a3b2-4f0a-ab91-c4d82d55014e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -7963,7 +7963,7 @@
             "second": 90
         },
         {
-            "id": "95474088-2c48-4e8d-933d-3ba6b63c9bbd",
+            "id": "6866a041-b895-49f5-90ba-cfc4f774c7ea",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -7971,7 +7971,7 @@
             "second": 192
         },
         {
-            "id": "609bb8f4-488c-4b8f-9550-3924d2c800c7",
+            "id": "db90ae34-5669-4611-9a7e-3b0fa6e6623b",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -7979,7 +7979,7 @@
             "second": 193
         },
         {
-            "id": "b591f796-3754-49c0-9706-e890e5654db7",
+            "id": "05e4ebc0-12bf-4e57-81d4-1891e5beec77",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -7987,7 +7987,7 @@
             "second": 194
         },
         {
-            "id": "3b3ad130-2767-4d82-8213-45915ce1c68a",
+            "id": "ad3c6d6f-5b9d-43c4-bf45-c9e3143ed577",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -7995,7 +7995,7 @@
             "second": 195
         },
         {
-            "id": "05fae52a-2ae7-453f-b063-694b2a17b58f",
+            "id": "94f8465e-92d2-4d9e-9e62-f89c16d8a0db",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8003,7 +8003,7 @@
             "second": 196
         },
         {
-            "id": "270061e7-264f-46bd-84e4-896ec4d50bc2",
+            "id": "f63bfc2d-be77-4937-a195-4d0b51f9b244",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8011,7 +8011,7 @@
             "second": 197
         },
         {
-            "id": "340b0efc-7263-4770-916d-fc477142a813",
+            "id": "d41f9e6f-088d-4ed9-9e6f-5b36892b38e6",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8019,7 +8019,7 @@
             "second": 221
         },
         {
-            "id": "f805630a-0bb6-41b7-bbd1-d4668e427c71",
+            "id": "3f76265b-29dc-4d69-a40f-d74f271bb86c",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8027,7 +8027,7 @@
             "second": 256
         },
         {
-            "id": "f0326056-c2f6-4ddf-8a08-30a34d26793f",
+            "id": "a6577693-805d-42f2-adb6-375100c73fa5",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8035,7 +8035,7 @@
             "second": 258
         },
         {
-            "id": "ea919278-5b87-419e-9a41-be6265cf11db",
+            "id": "48920f4c-75c2-4b7b-bf37-f5e0d9a9b92b",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8043,7 +8043,7 @@
             "second": 260
         },
         {
-            "id": "a09ff137-e22a-49a2-8d42-4d4f559711d7",
+            "id": "bb0a9875-88bd-46a8-ac4a-9ca2d1558823",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -8051,7 +8051,7 @@
             "second": 354
         },
         {
-            "id": "0c41ebae-27b5-44b5-b2ad-63c10384b76b",
+            "id": "e3c48c45-29ef-4fc4-a62c-c4a18db1eb68",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -8059,7 +8059,7 @@
             "second": 356
         },
         {
-            "id": "5e408c99-2604-42af-ac5e-d64c49d75df7",
+            "id": "46f435e7-b845-43eb-9911-a93225cb4d90",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8067,7 +8067,7 @@
             "second": 372
         },
         {
-            "id": "2dc95263-6dc4-4b31-8998-2af4cbc6a9cf",
+            "id": "630d5798-0c68-4a57-bdd0-2defdf0add88",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8075,7 +8075,7 @@
             "second": 374
         },
         {
-            "id": "ff065506-5a3c-4972-9059-a6a69c6d477d",
+            "id": "ea254057-c620-4fa9-8348-060b6bab9a78",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8083,7 +8083,7 @@
             "second": 376
         },
         {
-            "id": "9863b558-01f4-409b-b689-ed057a9d64b4",
+            "id": "66691fc3-b9e6-467a-9676-4cdce48fa7f5",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8091,7 +8091,7 @@
             "second": 377
         },
         {
-            "id": "5b8a697f-5a28-4155-803d-d989722a9215",
+            "id": "1782d5c1-d80a-41fa-afe3-8e99e6f909c7",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8099,7 +8099,7 @@
             "second": 379
         },
         {
-            "id": "148ff8ea-29a2-4b2c-b5b9-22437442b274",
+            "id": "57dad35a-6350-4e15-aaca-2f0c4349958d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8107,7 +8107,7 @@
             "second": 381
         },
         {
-            "id": "1440c304-0ab3-4ef1-a227-f32f34f4bc99",
+            "id": "c331bc7e-e26b-483f-a898-712100108c31",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8115,7 +8115,7 @@
             "second": 506
         },
         {
-            "id": "4d1d7bc2-c8be-4b75-aa83-6b35fd1a3fc2",
+            "id": "44a4adb7-e0e0-4fa0-992b-caba12e5f822",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -8123,7 +8123,7 @@
             "second": 538
         },
         {
-            "id": "cd92ecc9-a8ef-43fc-b110-ad0681bb8562",
+            "id": "bc10d307-ef85-4ee2-9968-3e8d1d9706a3",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8131,7 +8131,7 @@
             "second": 1029
         },
         {
-            "id": "12d4ba03-3a33-4c01-ba9c-6a0bde00caf2",
+            "id": "3d0da76a-869d-4727-868f-c26ea379d7c7",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8139,7 +8139,7 @@
             "second": 7680
         },
         {
-            "id": "9e6a56ed-3283-4972-9671-dc1f3e69cf4c",
+            "id": "86be1ebb-024c-4602-b104-620757d226de",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8147,7 +8147,7 @@
             "second": 7808
         },
         {
-            "id": "812e244f-a739-445b-a86c-85bb3a57822e",
+            "id": "8044be88-efd7-45cc-a099-f9d611bee1f0",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8155,7 +8155,7 @@
             "second": 7810
         },
         {
-            "id": "2f39e678-f8d0-48a6-bb54-0da3c6f84995",
+            "id": "b437af56-9231-4ced-9a9c-d3b612303b8c",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8163,7 +8163,7 @@
             "second": 7812
         },
         {
-            "id": "b5408bac-3e93-4766-b864-4ced4cdb2618",
+            "id": "4c325832-39cf-4e57-a3e0-37e7f82730c5",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8171,7 +8171,7 @@
             "second": 7840
         },
         {
-            "id": "aa4d709f-f46d-4033-a159-e9ee2a582ea6",
+            "id": "9c102e83-393b-4a63-9906-b35c47a2eedc",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8179,7 +8179,7 @@
             "second": 7842
         },
         {
-            "id": "bebc41f9-26b6-403c-9857-ce8af74f6fea",
+            "id": "0d3a7511-b190-40eb-aff8-cf9760a9e5ff",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8187,7 +8187,7 @@
             "second": 7844
         },
         {
-            "id": "af53862e-3c0a-452d-95c9-219d0c7e3ea6",
+            "id": "9a3d4f6b-0550-41f5-a3e7-a0763fb87552",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8195,7 +8195,7 @@
             "second": 7846
         },
         {
-            "id": "142f7aeb-ba28-474b-9f55-d1eebe0d9388",
+            "id": "a4a2cc8b-672f-4601-a695-effe6371dfeb",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8203,7 +8203,7 @@
             "second": 7848
         },
         {
-            "id": "1e0e0df7-810d-4cd5-88e5-6f84ddc18146",
+            "id": "7c436f52-2ca9-4bcd-b04b-fdaf1676b5ba",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8211,7 +8211,7 @@
             "second": 7850
         },
         {
-            "id": "8cebb876-be35-4596-bd2b-aeb4c9986933",
+            "id": "56a61046-1396-4832-904a-1f3d383bf821",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8219,7 +8219,7 @@
             "second": 7852
         },
         {
-            "id": "e86b6da0-0025-4a29-b0a8-40d48f21eddd",
+            "id": "1fcdc632-434a-4179-9fd6-72a8b594442d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8227,7 +8227,7 @@
             "second": 7854
         },
         {
-            "id": "7539e60b-cb70-4879-aea0-f986be641450",
+            "id": "63c15ea9-571a-40f8-a051-f4350df3631a",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8235,7 +8235,7 @@
             "second": 7856
         },
         {
-            "id": "ef274bae-ee7a-49cf-b006-a24a7f493bcb",
+            "id": "25135c62-cc70-46d9-9b48-087ac1d70c5f",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8243,7 +8243,7 @@
             "second": 7858
         },
         {
-            "id": "59a88f20-e102-4253-82eb-10b83909c0e6",
+            "id": "5832e458-c9b4-4eb9-9d21-957f63f511bf",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8251,7 +8251,7 @@
             "second": 7860
         },
         {
-            "id": "80926ae3-c5c4-49cb-b394-1543c43b4d7e",
+            "id": "619e4c71-d448-4ab9-a4fe-9c6f637ee5c9",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8259,7 +8259,7 @@
             "second": 7862
         },
         {
-            "id": "a6d8189a-3d0f-4e9c-a2ba-4672349e9809",
+            "id": "a5342ea4-8534-42b1-adcf-9aef88e74a58",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8267,7 +8267,7 @@
             "second": 7922
         },
         {
-            "id": "dad38b00-f5c4-4cec-8c90-6aa621227e72",
+            "id": "55d0311c-082a-479c-8db4-9a68871d3706",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8275,7 +8275,7 @@
             "second": 7924
         },
         {
-            "id": "01fba4c5-a205-4a19-95a2-666965959693",
+            "id": "0e01dec8-aba9-4638-ab84-25564e3c192b",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8283,7 +8283,7 @@
             "second": 7926
         },
         {
-            "id": "bb4f7dd0-74fc-4e6b-a7db-f6089a03b050",
+            "id": "02476fa8-dce9-435c-a431-02a43c717d72",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8291,7 +8291,7 @@
             "second": 7928
         },
         {
-            "id": "f2c0be21-c3d7-4f5d-a3a9-c5a9d9714825",
+            "id": "e0efa92e-3bed-487d-9e7e-79cd7983cf95",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -8299,7 +8299,7 @@
             "second": 8218
         },
         {
-            "id": "dcd49bb0-8933-4bcc-b611-101a98c6407d",
+            "id": "a2ff777f-0bff-4dad-a581-dce4504b78bf",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -8307,7 +8307,7 @@
             "second": 8222
         },
         {
-            "id": "bd7f6eae-d759-4965-a3aa-35b91e7df8ea",
+            "id": "7fa688bc-b0ad-4a13-b341-2e43cd6a6176",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8315,7 +8315,7 @@
             "second": 67
         },
         {
-            "id": "29b27859-d8d7-43bb-83c0-fe8a7e7052a5",
+            "id": "32fdaeb9-eff5-412a-bc0d-1c0d9ea3b460",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8323,7 +8323,7 @@
             "second": 71
         },
         {
-            "id": "f7e206de-9493-4558-9624-18a6f31acda7",
+            "id": "7e2addcb-2fe5-4233-9d4f-9b22f5631426",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8331,7 +8331,7 @@
             "second": 79
         },
         {
-            "id": "25e27b0a-cf94-43da-a798-ae871a2f929a",
+            "id": "c6cbe9fa-8a86-47fc-a5a8-a38fc5aad1f1",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8339,7 +8339,7 @@
             "second": 81
         },
         {
-            "id": "da853116-7bd7-4f2f-8c2f-f00f9d8788ba",
+            "id": "cb13d376-931b-41aa-a325-140a690f8244",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8347,7 +8347,7 @@
             "second": 199
         },
         {
-            "id": "c688e1cf-805e-4168-b9f0-349682fa5316",
+            "id": "ab624311-a0fc-4edb-8b5b-d4e86484b5ab",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8355,7 +8355,7 @@
             "second": 210
         },
         {
-            "id": "d96b1b43-3dda-4815-a942-20cb48bc79ab",
+            "id": "afeaf15a-f62b-4bdc-a784-41585fe9de62",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8363,7 +8363,7 @@
             "second": 211
         },
         {
-            "id": "8f41f822-9c09-4c4b-aa7c-5d6d61dc1d1f",
+            "id": "2df3d27f-d4b0-4772-aad7-42e24e77ad93",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8371,7 +8371,7 @@
             "second": 212
         },
         {
-            "id": "7cebd272-7ec8-4513-8b19-23980788e62f",
+            "id": "26d40e51-bb54-4d17-865b-a92e59f0724e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8379,7 +8379,7 @@
             "second": 213
         },
         {
-            "id": "6963e5d1-484c-47f6-b55c-27edc789428e",
+            "id": "d9791767-6244-4c7a-aed0-256f5e08ccfb",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8387,7 +8387,7 @@
             "second": 214
         },
         {
-            "id": "25981ee8-8a61-463d-b00c-dbb643130b82",
+            "id": "b12e1076-320c-49a6-8f05-2b4f53f39b60",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8395,7 +8395,7 @@
             "second": 216
         },
         {
-            "id": "64d2a7d1-2393-48f3-b13e-622286cfb56f",
+            "id": "7135160e-de44-47c5-82d9-245f72713db7",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8403,7 +8403,7 @@
             "second": 262
         },
         {
-            "id": "8f9878cf-10c9-4284-b6fd-0d3030ba0925",
+            "id": "df2301f6-0fb1-4a7e-8bc5-1e64ee01b233",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8411,7 +8411,7 @@
             "second": 264
         },
         {
-            "id": "babd9b4c-6317-4b36-94d7-df0958ac6632",
+            "id": "0c59b81e-2fea-4e8e-ad6a-8e22537cc7a7",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8419,7 +8419,7 @@
             "second": 266
         },
         {
-            "id": "f9ab364c-6281-4c2c-897e-e64845c852ad",
+            "id": "ffc2d53a-43ad-4f5a-bfdc-e7562d7ffe15",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8427,7 +8427,7 @@
             "second": 268
         },
         {
-            "id": "34dd8d28-ae81-4376-ba7b-20484efacf75",
+            "id": "b8700489-1f45-4b4d-9e54-7b003a67b13f",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8435,7 +8435,7 @@
             "second": 284
         },
         {
-            "id": "94bf477f-3d9c-472b-91c6-4f794359e826",
+            "id": "d7139e8c-389c-4240-ab27-b3bccbe97415",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8443,7 +8443,7 @@
             "second": 286
         },
         {
-            "id": "604d1e78-e8fb-40e1-b558-5e06185b6d80",
+            "id": "3b6e438a-b583-4685-a415-fca77433e147",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8451,7 +8451,7 @@
             "second": 288
         },
         {
-            "id": "0bdc21d4-0d34-4d89-bb33-e744a0e4c8c0",
+            "id": "a99e3268-0502-48ba-8a54-54f7bad997d9",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8459,7 +8459,7 @@
             "second": 290
         },
         {
-            "id": "9a352e2f-3385-4350-b107-3e38108084c0",
+            "id": "2f01bf28-2ee6-41ee-b699-f4f776b8b5ed",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8467,7 +8467,7 @@
             "second": 332
         },
         {
-            "id": "5930fd00-5cbe-437b-af03-31ba979f412d",
+            "id": "b1350900-019b-44c9-b137-b9b3b3cc4a6b",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8475,7 +8475,7 @@
             "second": 334
         },
         {
-            "id": "b750cb5b-b639-4b47-bf37-5a6b9347bcf7",
+            "id": "454b287d-0a0f-4504-aa22-134ea987aef6",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8483,7 +8483,7 @@
             "second": 336
         },
         {
-            "id": "e00257ea-14a8-4a90-a868-4c3e4f4657ab",
+            "id": "28404616-ba55-48e2-95b5-b2f0e2343c94",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8491,7 +8491,7 @@
             "second": 338
         },
         {
-            "id": "51b2f531-3bd2-4695-86dc-7866a30971e2",
+            "id": "ff796d66-b1f4-4946-a182-a3acb848dd61",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8499,7 +8499,7 @@
             "second": 416
         },
         {
-            "id": "c75ef9ff-92d1-41eb-8bd6-ef97ae28cb31",
+            "id": "3dbfb9ae-5ad4-4828-a57f-162d29fb2281",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8507,7 +8507,7 @@
             "second": 510
         },
         {
-            "id": "ff5b25b0-a971-452f-b045-a7dd15a3b8d1",
+            "id": "5ce4889e-1025-47b3-8380-a43e63fe2140",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8515,7 +8515,7 @@
             "second": 7884
         },
         {
-            "id": "1071dddb-e0ed-4253-82f8-277297dff92c",
+            "id": "f98897f8-f82e-4787-bc25-0774a7bef1ef",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8523,7 +8523,7 @@
             "second": 7886
         },
         {
-            "id": "a858ba98-ce60-45bc-b1b6-91479b90cdbb",
+            "id": "7e662c63-0140-4bcf-b3de-6d80ac49b916",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8531,7 +8531,7 @@
             "second": 7888
         },
         {
-            "id": "23cacf08-a196-4c68-928d-157c2f08de25",
+            "id": "e858ea75-a9ab-4dd8-b9d8-8f95b87f298c",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8539,7 +8539,7 @@
             "second": 7890
         },
         {
-            "id": "cc9fcbe5-f985-420b-abea-5aa05af2ae16",
+            "id": "e3ab0369-c8b4-4aec-947b-ddd1d2fe9d9d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8547,7 +8547,7 @@
             "second": 7892
         },
         {
-            "id": "5caf69bc-3ee4-4122-92d3-ce9f7a675abd",
+            "id": "948e75d7-426c-40ba-b3bd-26ec846603a4",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8555,7 +8555,7 @@
             "second": 7894
         },
         {
-            "id": "440844a7-ee5e-4f10-8cfb-7494cceb4b78",
+            "id": "6fa65824-37f7-46ea-afe5-16c3e0ed3ab9",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8563,7 +8563,7 @@
             "second": 7896
         },
         {
-            "id": "11bb5a87-d57a-48b5-acfe-a6bf21203fc5",
+            "id": "52f9c3b7-6437-4e75-8b7b-afe9f21be860",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8571,7 +8571,7 @@
             "second": 7898
         },
         {
-            "id": "b1a7582a-b337-4fb7-a696-4c518e57a4e9",
+            "id": "9f06a348-3039-44d2-81ab-fb508f9b696e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8579,7 +8579,7 @@
             "second": 7900
         },
         {
-            "id": "7a995d2f-ffb4-4eef-9da9-042aa9764653",
+            "id": "08ecdf77-05c4-4681-a0e9-3acd3317481e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8587,7 +8587,7 @@
             "second": 7902
         },
         {
-            "id": "93a80394-5455-4843-a7c1-d3fa40dd365c",
+            "id": "f9818b36-98a1-4f5e-8b4e-8cd42380b0a8",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8595,7 +8595,7 @@
             "second": 7904
         },
         {
-            "id": "89e4b01c-1afc-467e-938b-546892eaa260",
+            "id": "0d1cccb1-f42e-4fa0-b884-04e05f25b891",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8603,7 +8603,7 @@
             "second": 7906
         },
         {
-            "id": "56269d7b-8785-4716-9523-5c2fe2161b55",
+            "id": "e53f76ff-627b-4be0-a2b0-61772662b9c2",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -8611,7 +8611,7 @@
             "second": 44
         },
         {
-            "id": "5c28cdc3-55b7-481e-9966-890ec8756706",
+            "id": "8c99c53c-6294-4103-911c-6a32573f5264",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -8619,7 +8619,7 @@
             "second": 46
         },
         {
-            "id": "f85eaa12-1e78-4eb2-96ae-bd860d480ac6",
+            "id": "28b2631f-97bc-4f5f-8c4e-edffd7b72b1f",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8627,7 +8627,7 @@
             "second": 65
         },
         {
-            "id": "4dee7ffb-2ed5-44d8-b2ea-e6251f5b6987",
+            "id": "5470530b-aa60-454a-865b-6a9a1824ce45",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -8635,7 +8635,7 @@
             "second": 84
         },
         {
-            "id": "b030b760-49b4-4cab-a909-df9f7f6b937b",
+            "id": "b97b2dcb-75f0-4a13-8110-eaad0b1aef8d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8643,7 +8643,7 @@
             "second": 86
         },
         {
-            "id": "ef1e0935-5ebf-4b77-ad53-81bf70ccc12a",
+            "id": "954e108a-ab94-4684-badd-134a2b64e557",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8651,7 +8651,7 @@
             "second": 87
         },
         {
-            "id": "99a40a58-c076-44a2-add3-f9f995f03847",
+            "id": "d580cdac-a6b2-4163-9d66-57404ea7788f",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8659,7 +8659,7 @@
             "second": 88
         },
         {
-            "id": "90402c7b-7eeb-45d3-a1a9-933efc7ef209",
+            "id": "f466bf17-0c34-4217-9c0e-212cdcb0adab",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8667,7 +8667,7 @@
             "second": 89
         },
         {
-            "id": "19a95d86-3fd9-4391-9966-f9440316e2f6",
+            "id": "e672617f-5760-4b60-9593-dc170a28ce95",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8675,7 +8675,7 @@
             "second": 90
         },
         {
-            "id": "c3e71e53-0af9-446d-acff-ffc6d86d891e",
+            "id": "217befff-aa89-4d65-89b2-bb5f3b940e0c",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8683,7 +8683,7 @@
             "second": 192
         },
         {
-            "id": "c834dee1-14f4-4d89-bb78-ade374337dd2",
+            "id": "4537be16-3a79-4045-b18e-f7549160b118",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8691,7 +8691,7 @@
             "second": 193
         },
         {
-            "id": "edc0cfc3-7573-4beb-a984-511e1905e75f",
+            "id": "b62d6ef2-ac19-40da-9732-10d25119b2fc",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8699,7 +8699,7 @@
             "second": 194
         },
         {
-            "id": "7818e2b2-b22f-48e5-8f83-9bd26f8c57fb",
+            "id": "20e6f079-10be-40d2-aeb2-fdc2daa47f3a",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8707,7 +8707,7 @@
             "second": 195
         },
         {
-            "id": "91dc8d24-3ab5-40b3-a0f7-8de069ce5e2f",
+            "id": "3acd6300-0be5-43e0-b030-24115d73ad6d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8715,7 +8715,7 @@
             "second": 196
         },
         {
-            "id": "8a2f5f7c-4b32-49a1-836e-8b338be64749",
+            "id": "53d375bf-03a7-4c1e-9bd9-499d58a09c73",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8723,7 +8723,7 @@
             "second": 197
         },
         {
-            "id": "0c853423-0678-412f-afa1-35d63c595eff",
+            "id": "98589bc8-a292-404c-8ddd-c4f8c598b3b1",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8731,7 +8731,7 @@
             "second": 221
         },
         {
-            "id": "030177c0-1096-418f-9c0d-e598fff4a2e2",
+            "id": "c6c36cdc-0b79-484b-b10d-fed48f4f35f9",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8739,7 +8739,7 @@
             "second": 256
         },
         {
-            "id": "821920b9-4e19-44e2-bd3c-90835eedceb4",
+            "id": "b58cea28-1850-465b-9c4f-5703b5f58e36",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8747,7 +8747,7 @@
             "second": 258
         },
         {
-            "id": "8ace63e7-744e-438d-be82-454a4a35b58d",
+            "id": "0e836a02-3e34-4f05-beba-1a49ed69a6b5",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8755,7 +8755,7 @@
             "second": 260
         },
         {
-            "id": "52e145e8-d8d7-4c75-9649-47e2e446e6d6",
+            "id": "69c149fc-953b-4049-852b-28be03067c40",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -8763,7 +8763,7 @@
             "second": 354
         },
         {
-            "id": "b5af7491-11b5-45f7-b4b5-988b43fd22e4",
+            "id": "c9275697-6192-42d9-bb21-1806b68897e3",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -8771,7 +8771,7 @@
             "second": 356
         },
         {
-            "id": "e401df65-b80f-4942-96d0-3894fb933f98",
+            "id": "33742505-80b5-4f4b-8832-851e79ef1bb7",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8779,7 +8779,7 @@
             "second": 372
         },
         {
-            "id": "73793106-30a8-4187-a853-889e6cbb6103",
+            "id": "a6ceae81-c349-4a01-af15-9a6b659ad33f",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8787,7 +8787,7 @@
             "second": 374
         },
         {
-            "id": "5ae4da80-7bdb-4b04-9946-933d33cdd1ad",
+            "id": "269859c4-ced7-443a-9c6f-0030efbda3e8",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8795,7 +8795,7 @@
             "second": 376
         },
         {
-            "id": "56929824-17b0-40ff-b3ef-fc69ff6ea272",
+            "id": "5a04a828-b334-4ce4-8380-80d31157d70d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8803,7 +8803,7 @@
             "second": 377
         },
         {
-            "id": "94012d33-839c-422e-9ff5-aaad7514d301",
+            "id": "4cc8398f-f59a-44d6-b57f-251dc280e619",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8811,7 +8811,7 @@
             "second": 379
         },
         {
-            "id": "f2b92e0b-54ee-476d-b3d9-d854ec895b01",
+            "id": "ee9e0453-edd3-4aac-bd2f-305ddcdfe960",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8819,7 +8819,7 @@
             "second": 381
         },
         {
-            "id": "a4e80bd1-1174-4cf3-bf26-ca3a9b2be44e",
+            "id": "1139b65e-bd70-43de-9785-44044187a7d6",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8827,7 +8827,7 @@
             "second": 506
         },
         {
-            "id": "6293003d-66e9-4b26-8e18-641fb4c21c77",
+            "id": "3bfa60fd-9f38-41f2-9ca6-7235e0db233d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -8835,7 +8835,7 @@
             "second": 538
         },
         {
-            "id": "1d80ae07-ac9d-4d1d-86d2-b588cbc823df",
+            "id": "0a4f1bbe-3dfe-4468-8656-e4a4801befb2",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8843,7 +8843,7 @@
             "second": 1029
         },
         {
-            "id": "290d859a-2a73-4f56-a736-e819fcca018c",
+            "id": "b507c00f-9b6c-4e54-b99b-51bdb0d382ab",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8851,7 +8851,7 @@
             "second": 7680
         },
         {
-            "id": "1a7b8a82-387b-4812-9c07-f53ae51052df",
+            "id": "58c9a171-3ddf-4e27-a0ac-cc100df54d7c",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8859,7 +8859,7 @@
             "second": 7808
         },
         {
-            "id": "4390c2d5-e7c2-4d9b-8d18-639531a5ef77",
+            "id": "d177f904-24d2-4c30-b41f-065bef2ec97e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8867,7 +8867,7 @@
             "second": 7810
         },
         {
-            "id": "41a7bbb6-ff98-4ece-9fdc-2656f87f19f8",
+            "id": "33aaf31a-14db-4df7-9c8e-02b3952fe282",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8875,7 +8875,7 @@
             "second": 7812
         },
         {
-            "id": "4de3b8c4-504d-4016-9139-8efacd3439ca",
+            "id": "015f4bef-7d94-49c3-b89b-024aadea15b2",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8883,7 +8883,7 @@
             "second": 7840
         },
         {
-            "id": "32f71ec5-bbcb-4ceb-84a5-99be74695375",
+            "id": "a856be01-37ab-462b-8cf6-0d10dae2a2db",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8891,7 +8891,7 @@
             "second": 7842
         },
         {
-            "id": "e747ff67-963e-4793-9462-05e08f32562c",
+            "id": "5790bf6d-de83-4a6c-a2fa-95930d314eab",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8899,7 +8899,7 @@
             "second": 7844
         },
         {
-            "id": "77c3d3c2-7f5c-460b-8485-451774701e47",
+            "id": "44a6dbb9-4ec1-4cbc-a4a5-33cc67bbf24f",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8907,7 +8907,7 @@
             "second": 7846
         },
         {
-            "id": "258343dc-da0c-4a97-8365-00f03fd7fe9a",
+            "id": "cd72fab4-bfb2-4a55-9e3f-1b2cefd7e091",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8915,7 +8915,7 @@
             "second": 7848
         },
         {
-            "id": "dd3ae495-db88-496c-9e0c-2bc916c0fcdc",
+            "id": "82eb8e0f-ca45-41a1-a102-d3badbd4efe1",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8923,7 +8923,7 @@
             "second": 7850
         },
         {
-            "id": "d8306891-e200-4ff2-9023-96bae02b332d",
+            "id": "96196134-f953-428e-8f03-7697548d08c8",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8931,7 +8931,7 @@
             "second": 7852
         },
         {
-            "id": "2922529d-db20-4fe3-be92-574a63421ced",
+            "id": "b6eb1f3b-49b9-4576-a0bf-e0d6bf0f1152",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8939,7 +8939,7 @@
             "second": 7854
         },
         {
-            "id": "7cdfea16-265e-4e94-bf8f-db8c1bc4a3db",
+            "id": "2078db10-37b1-474f-8684-dbbd04f289cc",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8947,7 +8947,7 @@
             "second": 7856
         },
         {
-            "id": "178b101f-1a29-4de6-9e23-e944b13d13b7",
+            "id": "7db535ad-05c0-4ea6-bf39-2434cb6f268c",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8955,7 +8955,7 @@
             "second": 7858
         },
         {
-            "id": "db42c945-a094-4485-9d27-b8356a989e02",
+            "id": "5d7ef7c4-a356-4a48-b576-d297987bec91",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8963,7 +8963,7 @@
             "second": 7860
         },
         {
-            "id": "39b48134-71bd-47fc-a63d-edbfbe8e80af",
+            "id": "e2b4ce90-ccb3-453b-ab8f-857d64425dfd",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8971,7 +8971,7 @@
             "second": 7862
         },
         {
-            "id": "22b66d5f-7060-4d2a-b1e7-8c54aa49c21c",
+            "id": "c942d45e-3bb3-4587-a7ab-ba204683f2cc",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8979,7 +8979,7 @@
             "second": 7922
         },
         {
-            "id": "f4f3db5d-d79f-40f8-8466-f633606f8e4d",
+            "id": "5e429731-23d6-4ec3-8e98-b372d811a339",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8987,7 +8987,7 @@
             "second": 7924
         },
         {
-            "id": "e8f35053-8c4e-4cb1-ac0d-003bccb02d02",
+            "id": "7e6251e5-05d0-4e29-8b89-59fc6ff7f701",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -8995,7 +8995,7 @@
             "second": 7926
         },
         {
-            "id": "2dc14621-4dea-4ebb-a371-03eb0ade3b69",
+            "id": "34b12fad-aac1-47b5-9da0-218b231c6047",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9003,7 +9003,7 @@
             "second": 7928
         },
         {
-            "id": "bd215fc7-314f-48b1-b3aa-3745b43fbbe7",
+            "id": "aab6c44e-ab69-4a9e-a300-6184e18e8a7c",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -9011,7 +9011,7 @@
             "second": 8218
         },
         {
-            "id": "0de906b4-e8c2-48f1-b9ba-4cc565ece124",
+            "id": "b19a62bc-7f0c-4c36-b279-223052175cc6",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -9019,31 +9019,31 @@
             "second": 8222
         },
         {
-            "id": "026f3d5e-10e9-477d-9268-84b4dbee55f3",
+            "id": "74a7753e-e3df-479f-9fb9-1f90b73fa350",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": 3,
+            "amount": 4,
             "first": 69,
             "second": 74
         },
         {
-            "id": "c70d2033-53d4-4249-b4d3-88eb53aead6a",
+            "id": "e3d6575c-794e-4596-83b5-d2b6234a7e56",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 70,
             "second": 44
         },
         {
-            "id": "74889cf1-80af-48df-b0f3-5911b56b331e",
+            "id": "3c286b1b-3387-4332-bf8f-7ea852f727ff",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 70,
             "second": 46
         },
         {
-            "id": "b87c8dab-0378-42d0-bb88-531117940cd5",
+            "id": "f8a095a5-e8bb-45ed-9a62-a2ab7662cf33",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": 1,
@@ -9051,7 +9051,7 @@
             "second": 63
         },
         {
-            "id": "acce13fc-e7ef-48c0-8ba0-8e59fca522ea",
+            "id": "62f559cd-938d-4b9e-a66f-ebb0214f3b08",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9059,7 +9059,7 @@
             "second": 65
         },
         {
-            "id": "5dc8520d-9a73-4012-9b68-e826c31e17fc",
+            "id": "d900a027-376b-4e7f-a977-3121c3fca9f9",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9067,7 +9067,7 @@
             "second": 192
         },
         {
-            "id": "7f1190cd-0a8a-4d48-8093-9de2b269df8b",
+            "id": "9d9a566e-39c6-4ec8-b9a1-e9938ccde7c0",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9075,7 +9075,7 @@
             "second": 193
         },
         {
-            "id": "d9b2b4d0-f402-4786-ab78-55f2c3dfb7a6",
+            "id": "20ee7e61-ade7-44f5-a1e2-6bc9c193ebcb",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9083,7 +9083,7 @@
             "second": 194
         },
         {
-            "id": "59a0dba2-a835-4f99-aa7f-800899aafbef",
+            "id": "aee398ea-a2e6-4591-89ff-6190cbf07fd9",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9091,7 +9091,7 @@
             "second": 195
         },
         {
-            "id": "b603f73c-20ca-481e-88e9-173b3998c2fb",
+            "id": "2310058a-0e26-43f3-9220-e2ab4300e88f",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9099,7 +9099,7 @@
             "second": 196
         },
         {
-            "id": "a6a9eaf7-37f8-458b-a53f-c68d2be6b5d6",
+            "id": "c5e9388c-2e9e-4ebf-b7ff-891930033dd9",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9107,7 +9107,7 @@
             "second": 197
         },
         {
-            "id": "eeee5dfc-3c75-458f-9937-5c7a9e73d5a4",
+            "id": "5c1902e4-bb5b-49d0-b1ac-bea5a3058db9",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9115,7 +9115,7 @@
             "second": 256
         },
         {
-            "id": "64326949-e924-4a3f-99c2-31169067b5b4",
+            "id": "13ef18d5-f24c-4410-8020-e147941d1f6b",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9123,7 +9123,7 @@
             "second": 258
         },
         {
-            "id": "a8ef1c20-3389-48e8-9f77-475c30ed7e62",
+            "id": "d48195d5-2a5c-4020-8ebd-fe59b43f9731",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9131,7 +9131,7 @@
             "second": 260
         },
         {
-            "id": "7534d2e6-ada5-4f33-a181-a90763a5f54c",
+            "id": "7c197698-d126-42aa-a087-038c2085a0c9",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9139,7 +9139,7 @@
             "second": 506
         },
         {
-            "id": "10d03796-a390-421e-b50b-6f637f78f8be",
+            "id": "41eaf9ae-8a4b-401b-9cc3-1e147a3d3713",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9147,7 +9147,7 @@
             "second": 7680
         },
         {
-            "id": "622e2aa7-54ea-4355-8066-5ce11d5548ad",
+            "id": "4632483b-81fe-46f6-8386-d16c5fe54522",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9155,7 +9155,7 @@
             "second": 7840
         },
         {
-            "id": "6393945a-5264-423a-bf8c-0174372b8c7f",
+            "id": "f19fb2b7-ad9e-46a2-9072-a2bb31fdc112",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9163,7 +9163,7 @@
             "second": 7842
         },
         {
-            "id": "b2f5bef8-6a15-4a09-a524-927e605f8a0e",
+            "id": "69dbee5c-21e6-47d5-9223-008297f52f5b",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9171,7 +9171,7 @@
             "second": 7844
         },
         {
-            "id": "75658160-fc5d-46ba-be9b-f453c6d36148",
+            "id": "29906e59-9583-43b9-a80a-7cdfe252d336",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9179,7 +9179,7 @@
             "second": 7846
         },
         {
-            "id": "b9c8375d-39cc-4e0d-8fb5-e534d7d2f235",
+            "id": "147cc1a4-e1fd-4ee8-ab4b-556fdbe31db1",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9187,7 +9187,7 @@
             "second": 7848
         },
         {
-            "id": "c63df9ec-bfd9-4f22-96cc-ef5a788bc693",
+            "id": "72bf43a5-0aa7-4cfb-a542-fbb32d1599ca",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9195,7 +9195,7 @@
             "second": 7850
         },
         {
-            "id": "958a4fe8-2952-4a89-8548-bd5044581ab9",
+            "id": "491d6ec1-c61b-4e5a-a43a-a585e4e1eb55",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9203,7 +9203,7 @@
             "second": 7852
         },
         {
-            "id": "cde2fd59-d534-4a5e-816a-c6d7b2fd3138",
+            "id": "727467ee-ce9a-48c0-b4a2-2fab711758f4",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9211,7 +9211,7 @@
             "second": 7854
         },
         {
-            "id": "356bc2bd-9865-4c98-ada0-1e6b8dc4cd9e",
+            "id": "597199d9-96cc-4182-8b81-25bd3c0d8307",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9219,7 +9219,7 @@
             "second": 7856
         },
         {
-            "id": "3f1ded76-3ed9-4616-94fe-11dac5153d59",
+            "id": "1992d124-0834-4cbf-88d6-4b8eecbf6afe",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9227,7 +9227,7 @@
             "second": 7858
         },
         {
-            "id": "f09fc574-484b-47e0-bbed-36907c787f83",
+            "id": "a0fe5358-64ca-4b8d-8c6e-bc1402a11877",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9235,7 +9235,7 @@
             "second": 7860
         },
         {
-            "id": "36c54406-a2a4-46fb-9a49-4047365c36ec",
+            "id": "38803df8-6e3f-499f-ae79-824be49a49ea",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9243,23 +9243,23 @@
             "second": 7862
         },
         {
-            "id": "51efc1ff-0cef-4bc5-9538-282c91e822c3",
+            "id": "a4ecca32-8530-4fdf-a1f2-16a24a83eb63",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 70,
             "second": 8218
         },
         {
-            "id": "be892852-1f1b-467b-a57d-040597218ac9",
+            "id": "6dabe20a-7bf2-4ea5-b4d8-36a0ee366196",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 70,
             "second": 8222
         },
         {
-            "id": "92182df8-db89-4d60-9ad2-0dbe27d12c61",
+            "id": "46b16ca7-634d-4427-bc02-6dd9a513c943",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9267,7 +9267,7 @@
             "second": 67
         },
         {
-            "id": "af7dfcc3-1fac-4bae-a0d5-7e187b44b74a",
+            "id": "20d26b38-d521-4daf-8afc-cd3077cdba59",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9275,7 +9275,7 @@
             "second": 71
         },
         {
-            "id": "c16b5122-825f-4902-bf53-8edfcde8b6ae",
+            "id": "56637211-20a2-4579-8f66-2fee73d71002",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9283,7 +9283,7 @@
             "second": 79
         },
         {
-            "id": "2bf5d9da-00a8-4b2e-b960-5bcbca036bb9",
+            "id": "71839ae4-3583-41d0-862d-2771813a70ad",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9291,7 +9291,7 @@
             "second": 81
         },
         {
-            "id": "963ee83b-4711-43b3-b278-c4e7df99e898",
+            "id": "822e6fb5-4e1e-4916-bfd1-ccf6354cba01",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9299,7 +9299,7 @@
             "second": 199
         },
         {
-            "id": "bceeffcb-634c-4e67-9ab5-8602926150e0",
+            "id": "a5cfe229-5828-41fa-bec8-81b4d27e226c",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9307,7 +9307,7 @@
             "second": 210
         },
         {
-            "id": "7a51cc39-fab9-487c-bb12-4b2c363b52a5",
+            "id": "736ba0d4-c9b9-443e-9022-8445c6612794",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9315,7 +9315,7 @@
             "second": 211
         },
         {
-            "id": "10cfde84-4e64-4e59-ade1-3bcb82aba4c5",
+            "id": "24dd0455-a37b-433b-a6a3-5bbc4a6c5344",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9323,7 +9323,7 @@
             "second": 212
         },
         {
-            "id": "7443c634-6afd-481b-9e2d-e5bae4a7a661",
+            "id": "6add1a91-55d2-433d-8df6-7ea52464fb8a",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9331,7 +9331,7 @@
             "second": 213
         },
         {
-            "id": "3b331b3c-4814-4531-9ba0-540d88dc69d7",
+            "id": "d405def6-2b8c-4a0c-8846-cded2f87fc1f",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9339,7 +9339,7 @@
             "second": 214
         },
         {
-            "id": "40ec030b-52a0-4444-901c-b174e5ace63c",
+            "id": "0a0a6ee7-6c2e-48f1-9560-3af7cf6af5f5",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9347,7 +9347,7 @@
             "second": 216
         },
         {
-            "id": "a929f40e-3038-4f49-94c7-2544b2872b11",
+            "id": "c177a2f0-2d3f-4423-8874-d72e6db8c771",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9355,7 +9355,7 @@
             "second": 262
         },
         {
-            "id": "20ee074e-8e71-4613-a0dc-564ef2a8cb93",
+            "id": "0c4245bb-01ad-44f4-9227-a17c887343bf",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9363,7 +9363,7 @@
             "second": 264
         },
         {
-            "id": "e7065015-e07c-43c9-b361-1666ecdefd6c",
+            "id": "d2891ca5-09d6-4720-ada6-ea3e12ba9628",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9371,7 +9371,7 @@
             "second": 266
         },
         {
-            "id": "31862e31-6588-4249-a6e7-4cc90539d09f",
+            "id": "34042fbd-8c30-4a18-a261-5095d7754786",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9379,7 +9379,7 @@
             "second": 268
         },
         {
-            "id": "13ca2f22-cfaa-43e5-a046-ee5fdcb54dc8",
+            "id": "50b0eb00-fdaa-4d35-8447-140f66528418",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9387,7 +9387,7 @@
             "second": 284
         },
         {
-            "id": "fc6ea9af-47bb-4931-95b8-bac67ade3dd4",
+            "id": "498e2a24-91aa-4105-ad6e-356a1f45d29e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9395,7 +9395,7 @@
             "second": 286
         },
         {
-            "id": "3f072c78-9d1c-4309-8aac-cdeaff8e41db",
+            "id": "cb52fa5a-483e-4440-be2d-e5a03ff9e806",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9403,7 +9403,7 @@
             "second": 288
         },
         {
-            "id": "159b6f3e-9cd0-44fd-ae74-968d62f059b6",
+            "id": "4f272425-9bfb-4ffd-8349-2e21d7a46715",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9411,7 +9411,7 @@
             "second": 290
         },
         {
-            "id": "991f7b63-6171-4970-affa-d35cd0fc1e02",
+            "id": "450667ab-38eb-42fe-ad74-e4c4f94a640f",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9419,7 +9419,7 @@
             "second": 332
         },
         {
-            "id": "c100130e-f314-4f78-8dad-96b677aa7e39",
+            "id": "5d8f33f0-b6b6-46e2-9f70-2eda4df68482",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9427,7 +9427,7 @@
             "second": 334
         },
         {
-            "id": "8753e19f-fdbd-4af1-af2f-9501470afb3e",
+            "id": "a56f3bf3-28be-44c2-9ab1-ab219bff43bf",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9435,7 +9435,7 @@
             "second": 336
         },
         {
-            "id": "20545f29-7940-4da4-8bf0-1dae5d654c16",
+            "id": "5fd26f5d-89fd-425e-b61a-b8501158f422",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9443,7 +9443,7 @@
             "second": 338
         },
         {
-            "id": "dd8119a3-f856-4cbf-a69b-a20b378ae43f",
+            "id": "6c8db4c3-8c8c-4fba-bb78-06c9f3925226",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9451,7 +9451,7 @@
             "second": 416
         },
         {
-            "id": "a2e025f2-5cfa-49ac-8875-c81264ea769b",
+            "id": "2d74acbe-960b-4efd-bcc4-3818cf4c8ea9",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9459,7 +9459,7 @@
             "second": 510
         },
         {
-            "id": "60b0a9fa-d367-4cbe-9826-915b42a2a73d",
+            "id": "0ce3599b-f7dc-4b1a-8726-74a4565938cd",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9467,7 +9467,7 @@
             "second": 7884
         },
         {
-            "id": "1cfc519c-262e-4490-8aa3-08e2c434d53f",
+            "id": "3937d44a-40b6-40a4-8496-f34696846c35",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9475,7 +9475,7 @@
             "second": 7886
         },
         {
-            "id": "08013488-7b71-4520-a7ec-6e4c2e960d7b",
+            "id": "db8c088b-8178-424b-a0c0-b440e8aca2ce",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9483,7 +9483,7 @@
             "second": 7888
         },
         {
-            "id": "dd587701-2f0b-4f81-be6a-67d401a734e0",
+            "id": "86250bfb-f6cd-4f25-a014-d348f7b29c6b",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9491,7 +9491,7 @@
             "second": 7890
         },
         {
-            "id": "49b3fafe-e341-4913-9d67-ee0a44d95e4d",
+            "id": "9dce05ac-b203-441c-8fa3-8ebe8cc97ec0",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9499,7 +9499,7 @@
             "second": 7892
         },
         {
-            "id": "397248b6-8e3d-4999-bc36-9ba838cb8e4c",
+            "id": "888cfcf7-8368-41d4-a362-ba55ae28e576",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9507,7 +9507,7 @@
             "second": 7894
         },
         {
-            "id": "813709b8-d4cd-432a-a4a2-58d6f283df5a",
+            "id": "6e8ad011-d615-4b0b-bdd3-f06e11e3010e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9515,7 +9515,7 @@
             "second": 7896
         },
         {
-            "id": "9bf0b217-0a1d-40a6-9c88-444f44b50db5",
+            "id": "e24789ff-8498-4bce-93ba-948aa5fd2919",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9523,7 +9523,7 @@
             "second": 7898
         },
         {
-            "id": "c4b1599e-9906-4626-acfc-326ae1eaf70d",
+            "id": "cc309ffd-675b-470f-ba6d-4debb5f1e41c",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9531,7 +9531,7 @@
             "second": 7900
         },
         {
-            "id": "2232982c-ad76-4982-8953-c28bc8b1ffbd",
+            "id": "3a2cdd0c-e432-4825-8e22-da3bfc41f816",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9539,7 +9539,7 @@
             "second": 7902
         },
         {
-            "id": "5a4a73a3-fb90-4eda-9f54-8a3771e53b8a",
+            "id": "33860dc4-b81f-46a6-ae49-81cd4a59704b",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9547,7 +9547,7 @@
             "second": 7904
         },
         {
-            "id": "96a0372d-97e1-4ad3-befd-99bdc6ac4020",
+            "id": "46f394bc-148a-425a-a077-c770222c239e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9555,23 +9555,23 @@
             "second": 7906
         },
         {
-            "id": "74de4dd7-4d99-4573-a0af-94dfed33ce1c",
+            "id": "87467eed-e74c-4212-9c21-4fca7ea076d0",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -4,
+            "amount": -5,
             "first": 76,
             "second": 34
         },
         {
-            "id": "760847a7-6516-4dc6-94a1-22b4bd4d52e4",
+            "id": "471b395e-f046-4ee8-a8a7-78d1f9756f66",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -4,
+            "amount": -5,
             "first": 76,
             "second": 39
         },
         {
-            "id": "e76163e3-560e-42aa-9dfc-951381f8dccf",
+            "id": "5d5df36a-30eb-4ebd-8db1-3a6221e13fee",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9579,7 +9579,7 @@
             "second": 67
         },
         {
-            "id": "1e859f39-73b1-4ee7-b2d3-71d0169a9a22",
+            "id": "6c87df4f-00ca-4541-91a0-af57c96e39db",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9587,7 +9587,7 @@
             "second": 71
         },
         {
-            "id": "e4833555-830c-4a95-841b-a84a0c2fed4f",
+            "id": "0a0b4c62-cb69-46ae-aff2-5c3847825a80",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9595,7 +9595,7 @@
             "second": 79
         },
         {
-            "id": "fe5f7508-f3ed-47cd-ba82-0893286e0d7a",
+            "id": "7b2cee6d-1ef1-4f26-be38-4bb790eb8123",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9603,7 +9603,7 @@
             "second": 81
         },
         {
-            "id": "0cd12ed0-8838-42bd-a9cc-f0828b195933",
+            "id": "895f8968-5ceb-4566-a6e4-672c1a2a5c5c",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9611,7 +9611,7 @@
             "second": 84
         },
         {
-            "id": "e6391fdd-3be3-4547-8d25-8ca46756da1c",
+            "id": "066d6c56-d49d-49a2-9c88-01c59ad36eff",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9619,7 +9619,7 @@
             "second": 85
         },
         {
-            "id": "1637992c-ef4d-4aee-8d9f-7bc5891f70e3",
+            "id": "828fe9d6-5976-4b3f-8c68-53bc6c196eaa",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9627,7 +9627,7 @@
             "second": 86
         },
         {
-            "id": "a9362aa9-7f5e-4df4-899c-f38100bbcdf2",
+            "id": "aef65eb8-4973-4d28-b8c5-9422d18d67e1",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9635,7 +9635,7 @@
             "second": 87
         },
         {
-            "id": "b9086466-0bab-43be-9e0b-cf918b0b2ecc",
+            "id": "f9809d84-7aa3-4069-a450-014fec4cee3c",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -9643,7 +9643,7 @@
             "second": 89
         },
         {
-            "id": "bc10bf3a-b716-41f4-aac6-0174306772a1",
+            "id": "9331df63-3f98-4631-8f6f-161f84549c37",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9651,7 +9651,7 @@
             "second": 199
         },
         {
-            "id": "69a9d067-1c6c-40ee-ac65-e332cc7e283f",
+            "id": "612272af-370d-4930-aa99-12c106f9eeb9",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9659,7 +9659,7 @@
             "second": 210
         },
         {
-            "id": "7504f958-9965-407f-86bb-2145406a1480",
+            "id": "919a9cd2-d852-4c51-a9d6-c4e29c921810",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9667,7 +9667,7 @@
             "second": 211
         },
         {
-            "id": "4bde3665-d0d5-4f68-a1a7-c573da2390dd",
+            "id": "0b56ba3f-8ddd-4919-b5dd-f8f1b963bba9",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9675,7 +9675,7 @@
             "second": 212
         },
         {
-            "id": "3e8ffd94-3ab8-44d1-a1a5-350645253e97",
+            "id": "a4138b10-c707-4884-9e3d-be7a6d6e8e19",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9683,7 +9683,7 @@
             "second": 213
         },
         {
-            "id": "1077a5d4-8748-45a1-b6fc-ad6476a67fec",
+            "id": "f303f2d9-c429-478f-aa32-225d3e454e60",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9691,7 +9691,7 @@
             "second": 214
         },
         {
-            "id": "17af150a-2dfc-4f33-98a9-5bb04a032ef8",
+            "id": "210d0cd1-e049-4894-9fc1-d65b3e8d4b3a",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9699,7 +9699,7 @@
             "second": 216
         },
         {
-            "id": "4daea7c6-de0d-4a5a-85d3-eb317455ee7a",
+            "id": "a722396e-2484-40a4-a319-2042a64896de",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9707,7 +9707,7 @@
             "second": 217
         },
         {
-            "id": "d1355cff-41ad-4c87-95bf-1091a231a1e0",
+            "id": "c610101c-2ff8-4dd3-8956-fc695fb6176b",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9715,7 +9715,7 @@
             "second": 218
         },
         {
-            "id": "ca81d3dd-254e-42e6-9e51-5aecfc1e8d80",
+            "id": "1d8fb6f5-1c12-4e7e-9fd0-62064c12624e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9723,7 +9723,7 @@
             "second": 219
         },
         {
-            "id": "bb8d9827-7e70-4249-92af-6f4350ed2d5e",
+            "id": "7cc71feb-bea6-4cf8-9cc2-4b5e676f763c",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9731,7 +9731,7 @@
             "second": 220
         },
         {
-            "id": "b7424e8a-f88d-42b1-a956-a19bac4988c0",
+            "id": "b8317cc0-03d2-4ded-b97a-96459c980daa",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -9739,7 +9739,7 @@
             "second": 221
         },
         {
-            "id": "9eb1dd25-5f35-4479-bd8a-6449dddc859d",
+            "id": "d59df33a-c6c8-4b48-8f84-3dc2a88f1949",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9747,7 +9747,7 @@
             "second": 262
         },
         {
-            "id": "2179aba9-8b3e-49cc-a13e-ec2e6c5bb053",
+            "id": "7b477eaf-e0e9-40dc-bf06-2ab0a9cbec7d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9755,7 +9755,7 @@
             "second": 264
         },
         {
-            "id": "a30601a5-8775-4ab8-a65e-95435cb9d58b",
+            "id": "ece23005-951b-4939-a1c0-94d84c285a95",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9763,7 +9763,7 @@
             "second": 266
         },
         {
-            "id": "41d742bb-b38f-4f38-b373-1e10237c073e",
+            "id": "3dee2115-96b6-4726-9973-d41861548b75",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9771,7 +9771,7 @@
             "second": 268
         },
         {
-            "id": "79f686b7-4e00-4401-b557-4d4805b6c0c1",
+            "id": "8a19feb1-c8e6-4502-803d-9d728e7a051d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9779,7 +9779,7 @@
             "second": 284
         },
         {
-            "id": "f2eaa5d0-58a6-4f59-b5f7-841c70c869fb",
+            "id": "ac19600e-9831-48d4-b641-93e3c61ff16c",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9787,7 +9787,7 @@
             "second": 286
         },
         {
-            "id": "a881d6d3-d855-4ac5-84ee-fb7eaf717a70",
+            "id": "1f673ea8-ab14-47c1-9b54-fe41a0d81a2c",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9795,7 +9795,7 @@
             "second": 288
         },
         {
-            "id": "5d205824-05cc-4196-9c04-6cc48ca5a9e0",
+            "id": "0f81897b-9197-487b-9e7a-c36b540942b5",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9803,7 +9803,7 @@
             "second": 290
         },
         {
-            "id": "b2602199-81f1-458d-a924-453ddab98c8e",
+            "id": "eb57570e-b0cf-44b4-a50b-0579c0da9556",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9811,7 +9811,7 @@
             "second": 332
         },
         {
-            "id": "d72a58e1-c927-4a03-80e8-39caa4cf230c",
+            "id": "4bc50f5b-7136-486c-95d5-360bc4962956",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9819,7 +9819,7 @@
             "second": 334
         },
         {
-            "id": "ddcee35e-3198-4192-b7d3-15400351414a",
+            "id": "85c57889-796d-4707-9f06-9060612dc7d1",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9827,7 +9827,7 @@
             "second": 336
         },
         {
-            "id": "b6a08621-4fd6-4abc-ba0b-cfca571e40b8",
+            "id": "f47a5f95-d8e9-4e85-9fd2-4a43df21c6a9",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9835,7 +9835,7 @@
             "second": 338
         },
         {
-            "id": "127d594d-9d7f-4be8-a6af-3611187e438d",
+            "id": "8fdee6cb-89f5-4a03-8f58-fb869e6cdeb2",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9843,7 +9843,7 @@
             "second": 354
         },
         {
-            "id": "caf68ce3-8e03-4834-a1a8-1eec512c7950",
+            "id": "895ec600-18c3-49df-bee4-1e27bbd2ed70",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9851,7 +9851,7 @@
             "second": 356
         },
         {
-            "id": "548c7c59-4f65-4c7f-9d98-b532e911a744",
+            "id": "5e9c3e41-8f71-4082-be70-1ec973c7dafe",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9859,7 +9859,7 @@
             "second": 360
         },
         {
-            "id": "aa0e9f6e-8f9b-4289-9aff-063e6b1d1361",
+            "id": "676ec454-9682-4fe8-90fb-45239371d072",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9867,7 +9867,7 @@
             "second": 362
         },
         {
-            "id": "5213354c-55ac-4e4c-b151-71bacddea189",
+            "id": "1c387d1b-ce19-4cfa-9c3b-3e92f9f4d669",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9875,7 +9875,7 @@
             "second": 364
         },
         {
-            "id": "bfa10f5c-7915-4965-97c0-7ae9398ab171",
+            "id": "c2107839-fece-41e9-9144-43bf1b9a95e6",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9883,7 +9883,7 @@
             "second": 366
         },
         {
-            "id": "2c87c873-28bd-40c8-9eb7-2caff6ca6f32",
+            "id": "88555e63-8b9b-4547-8213-f7f97677f4f4",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9891,7 +9891,7 @@
             "second": 368
         },
         {
-            "id": "9a6563c4-8239-49b2-b084-b248ee43579c",
+            "id": "76e266bb-95a0-4489-b03d-4330b9a7aee8",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9899,7 +9899,7 @@
             "second": 370
         },
         {
-            "id": "d15f24ae-c75b-4fa6-8c9c-693f48bd980b",
+            "id": "5f278271-5f7d-4d9f-9a44-c534749e1524",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9907,7 +9907,7 @@
             "second": 372
         },
         {
-            "id": "3fb81aba-72db-4329-8be4-d3a2832bf2fe",
+            "id": "c086cb0b-1683-4e14-b19b-c0b7df44bc05",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -9915,7 +9915,7 @@
             "second": 374
         },
         {
-            "id": "546ed27f-94cf-4276-80e8-246be6b9311e",
+            "id": "7f40b069-7701-499d-a0f5-3e39d20f44b4",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -9923,7 +9923,7 @@
             "second": 376
         },
         {
-            "id": "e47d9ca5-45aa-460b-b9c7-42f388f21006",
+            "id": "c013f917-20eb-443e-ac3a-f3cc72dc2f59",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9931,7 +9931,7 @@
             "second": 416
         },
         {
-            "id": "432c4787-b292-4358-bbdb-65ba059d013c",
+            "id": "23b822cb-674f-4f0b-b3c8-cb8cd4dcc14f",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9939,7 +9939,7 @@
             "second": 431
         },
         {
-            "id": "519ff212-c6b5-4c75-a497-d24901911d0f",
+            "id": "a11d01cf-8477-43ba-87b6-72b5145adfda",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9947,7 +9947,7 @@
             "second": 510
         },
         {
-            "id": "1d0b057f-dd44-438f-9311-165cef6203bf",
+            "id": "e736a875-ef59-4ec3-ab08-365dbd3a6a00",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9955,7 +9955,7 @@
             "second": 538
         },
         {
-            "id": "f0a6387b-ec0e-4e36-b8cd-2e59583aa374",
+            "id": "b56354cf-111d-48ee-8b47-78d92e9798fa",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9963,7 +9963,7 @@
             "second": 7808
         },
         {
-            "id": "7d202c8c-9de0-4955-864d-df20abc43687",
+            "id": "9399a8fe-7bb8-4980-a9b2-29e994bcd159",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9971,7 +9971,7 @@
             "second": 7810
         },
         {
-            "id": "417013e0-7dbb-48d3-baef-e099bfaab631",
+            "id": "974cf6b5-311e-4d56-b03a-a82064d0a80c",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9979,7 +9979,7 @@
             "second": 7812
         },
         {
-            "id": "fcdeffdb-2c5c-43d3-944b-3e769fcc1d94",
+            "id": "568958af-749d-4229-bf8d-ce1d0552c651",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9987,7 +9987,7 @@
             "second": 7884
         },
         {
-            "id": "34768980-2619-4d0d-b91d-cb00918a106d",
+            "id": "72b78da4-8899-4e97-8446-187ee294d10e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -9995,7 +9995,7 @@
             "second": 7886
         },
         {
-            "id": "03dc58c1-effd-4b20-b103-8e65225dee09",
+            "id": "d23a59d5-f9e0-44c4-8f95-1409883ce99e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -10003,7 +10003,7 @@
             "second": 7888
         },
         {
-            "id": "41504cdf-26d3-452b-8f5a-920eb4f2cf6b",
+            "id": "b63d7048-736c-4953-ac90-9e38f2b6598e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -10011,7 +10011,7 @@
             "second": 7890
         },
         {
-            "id": "f99d1f20-e360-4073-b124-65f2187fdd07",
+            "id": "b07fc65e-5a09-426b-bf1c-eae5940e64a2",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -10019,7 +10019,7 @@
             "second": 7892
         },
         {
-            "id": "a15f5d67-5e29-4907-b3a4-127a15c9bc19",
+            "id": "34894be4-cf7a-4e1f-9829-636e61ddef6d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -10027,7 +10027,7 @@
             "second": 7894
         },
         {
-            "id": "2c51543d-cde8-467b-b17a-d9f6ef17063d",
+            "id": "96e38c4d-ae25-470a-9e92-bfe077ff0da4",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -10035,7 +10035,7 @@
             "second": 7896
         },
         {
-            "id": "28a0a41c-9e58-4a2b-b302-299f7c58435a",
+            "id": "ea21a0b1-a4cd-4ea1-be67-97e7af21126e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -10043,7 +10043,7 @@
             "second": 7898
         },
         {
-            "id": "b6b5def9-0c06-4dbd-abf9-87d1de0974b3",
+            "id": "ae7c713c-a47c-4428-9c76-a9e9d98fd4c4",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -10051,7 +10051,7 @@
             "second": 7900
         },
         {
-            "id": "369fcc2c-3b75-4ab2-8b38-1479127e96ed",
+            "id": "4c7e0c56-dd85-4a8d-b663-edb764f65aff",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -10059,7 +10059,7 @@
             "second": 7902
         },
         {
-            "id": "7fb63209-a32d-4178-86ba-99ce05e450d2",
+            "id": "3e0f2245-9a5d-4888-95b4-a8a4ca9fab5d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -10067,7 +10067,7 @@
             "second": 7904
         },
         {
-            "id": "5e89f8c3-f234-450e-9e1d-af973c9e6249",
+            "id": "ede723c4-ec88-43c8-ae19-cad74d8ba665",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -10075,7 +10075,7 @@
             "second": 7906
         },
         {
-            "id": "6b807785-5b50-4ce6-a645-342d94a551e0",
+            "id": "6f01da2b-7fdc-4a8a-9784-e6d66fb67d21",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -10083,7 +10083,7 @@
             "second": 7908
         },
         {
-            "id": "c08f2068-f8d1-43a1-8a8e-c6bc458b50d2",
+            "id": "bf28511c-cb89-4870-b161-bf98938e2283",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -10091,7 +10091,7 @@
             "second": 7910
         },
         {
-            "id": "1a175037-0d24-4286-b3ed-55bb4e93d40a",
+            "id": "c166d1b8-0381-4c09-b778-8ef146eef71f",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -10099,7 +10099,7 @@
             "second": 7912
         },
         {
-            "id": "a20db0cc-ac67-43ae-9a65-71349f7e8eef",
+            "id": "31f62cd1-0e4e-4143-a60c-cf758c05e201",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -10107,7 +10107,7 @@
             "second": 7914
         },
         {
-            "id": "a9b4defe-76f0-44e9-a87d-5aedc0273ffb",
+            "id": "7fa24a0b-7f39-463b-a9cf-e85acd273866",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -10115,7 +10115,7 @@
             "second": 7916
         },
         {
-            "id": "7e13a484-071d-44dd-a17a-9212a001e7a2",
+            "id": "54917bd9-8852-4364-8ba5-d7c17b0898cd",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -10123,7 +10123,7 @@
             "second": 7918
         },
         {
-            "id": "16439d51-f2d9-4181-b02f-367e4058e75f",
+            "id": "7175a547-d8ac-4764-a9f5-30810874360f",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -10131,7 +10131,7 @@
             "second": 7920
         },
         {
-            "id": "5d0b55af-8913-4c69-a83c-ad3da26f4acf",
+            "id": "ffbb26db-41b2-43a3-8272-b93b822de36d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -10139,7 +10139,7 @@
             "second": 7922
         },
         {
-            "id": "2069e62f-9dd9-44c6-a005-4a9de768ac8a",
+            "id": "d45d7e24-86e5-4d96-8dd4-7492f0829132",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -10147,7 +10147,7 @@
             "second": 7924
         },
         {
-            "id": "1f55e8f6-65c1-42d5-a63f-9d103f3d03e9",
+            "id": "15b3ff89-bf23-4d42-96c5-bf7dbef32b6a",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -10155,7 +10155,7 @@
             "second": 7926
         },
         {
-            "id": "265ae570-190a-432f-a02a-d600de4f23c6",
+            "id": "2a04c60f-5374-4f6b-88b4-599602ab9114",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -10163,23 +10163,23 @@
             "second": 7928
         },
         {
-            "id": "e4aab903-b738-4a9c-8ee7-5d15e7872492",
+            "id": "7cfa118b-71ad-42fc-953c-d7b7743c9bba",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -4,
+            "amount": -5,
             "first": 76,
             "second": 8217
         },
         {
-            "id": "4b036447-fa17-418e-9b4b-bc7de0facbcf",
+            "id": "061b0b6a-3de5-4149-b83e-eaae7b82d7a7",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -4,
+            "amount": -5,
             "first": 76,
             "second": 8221
         },
         {
-            "id": "48ed1df5-8928-4f08-9d31-54cc807702eb",
+            "id": "f99c23a8-997b-4cc8-8fc4-5834ab25841d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -10187,7 +10187,7 @@
             "second": 44
         },
         {
-            "id": "7f610f44-e4a8-4626-8c5e-e280091989ca",
+            "id": "b17b7df5-f75a-491b-8b21-ef2fa0141ecf",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -10195,7 +10195,7 @@
             "second": 46
         },
         {
-            "id": "69b49424-a344-488d-86bd-e060b3058af1",
+            "id": "1049d3af-ba0e-47d5-b641-648e2ae1a4a5",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -10203,7 +10203,7 @@
             "second": 65
         },
         {
-            "id": "c0fd10c2-4b0e-4267-88b2-f6145a414758",
+            "id": "8446de62-d2e6-4e2f-bd47-0151ff8bea90",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -10211,7 +10211,7 @@
             "second": 84
         },
         {
-            "id": "a158c9d9-37a0-4b1c-9361-22c99d2be5d0",
+            "id": "554418e9-dfe6-4209-ad4d-eea20912d1ec",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -10219,7 +10219,7 @@
             "second": 86
         },
         {
-            "id": "890605b2-ff99-4d86-9259-d21155b75626",
+            "id": "2f075e39-3df0-4a25-82a7-b5778024aa07",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -10227,7 +10227,7 @@
             "second": 87
         },
         {
-            "id": "3a41fb96-e979-4dfc-944b-b003fa16a0c9",
+            "id": "70ef6270-8cef-4101-9126-9f32eb49d730",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -10235,7 +10235,7 @@
             "second": 88
         },
         {
-            "id": "5ab30255-230e-4be7-b39c-74ac0a1b3400",
+            "id": "e9f6941a-6e64-47e0-8451-b5e604de7902",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -10243,7 +10243,7 @@
             "second": 89
         },
         {
-            "id": "7dc35a0e-410b-4822-add6-012e3884fb29",
+            "id": "979fae38-a27f-4be8-a48b-faf2ba3b2c30",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -10251,7 +10251,7 @@
             "second": 90
         },
         {
-            "id": "fff0e276-fdc6-4ee6-9537-1015f2397f9d",
+            "id": "5e920958-7e98-4676-bdbe-7484d2cb4ed4",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -10259,7 +10259,7 @@
             "second": 192
         },
         {
-            "id": "d7c5e170-6b9d-40d1-b562-bb831c4869c2",
+            "id": "6de6bfca-dde7-4d32-82d1-69dd97fd658b",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -10267,7 +10267,7 @@
             "second": 193
         },
         {
-            "id": "f24e8f22-121c-493e-8ec6-99a8ff82c94c",
+            "id": "f09bf9d5-662e-410d-9911-74eb95e7d130",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -10275,7 +10275,7 @@
             "second": 194
         },
         {
-            "id": "e0cbc238-420e-41f9-8655-8388a129d890",
+            "id": "cb01fb8e-80ff-47fe-a02f-1f72ed8fe686",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -10283,7 +10283,7 @@
             "second": 195
         },
         {
-            "id": "c69fefd6-0b8d-4129-badc-d5e5d5b35384",
+            "id": "3f35fa6e-ac2d-4c5f-b7c9-6fec4cbdbfbc",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -10291,7 +10291,7 @@
             "second": 196
         },
         {
-            "id": "a0d5f71d-7a80-4993-81ce-a8650cf34dfe",
+            "id": "1dfcab65-eaa7-4389-a943-0476ff658fac",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -10299,7 +10299,7 @@
             "second": 197
         },
         {
-            "id": "0ed0a67f-b847-4dfe-941b-fcd333a7e36e",
+            "id": "b33f0589-f0f7-4bc6-8209-1933fca9eefd",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -10307,7 +10307,7 @@
             "second": 221
         },
         {
-            "id": "b6c03436-973b-45aa-9d87-c9a10d423d92",
+            "id": "4055c5b9-1aa8-4eb4-a126-d7ef3f461e19",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -10315,7 +10315,7 @@
             "second": 256
         },
         {
-            "id": "5862e186-5cb9-4b3f-99db-a0f27db35ad7",
+            "id": "a22a209f-614e-45a5-b998-c8cb5495ad26",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -10323,7 +10323,7 @@
             "second": 258
         },
         {
-            "id": "0ca42c29-be74-444d-ad47-a3a98ad0e7e7",
+            "id": "44009dda-557d-43af-b241-2c4cdf10b783",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -10331,7 +10331,7 @@
             "second": 260
         },
         {
-            "id": "46fa60f0-6c07-4ef9-bd64-5139cfd17fa8",
+            "id": "9daf532c-ac9c-4ad4-a7dd-e99e4cf77acd",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -10339,7 +10339,7 @@
             "second": 354
         },
         {
-            "id": "8b51d7fb-412b-4878-8e8e-b5bec224e686",
+            "id": "d4ccb2b2-8742-462d-99d7-13412ca5c3bc",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -10347,7 +10347,7 @@
             "second": 356
         },
         {
-            "id": "066ec89a-8b3b-4742-8b6a-c9a2109f5173",
+            "id": "11612a61-a4e7-4ebe-b89d-2afc02ee10ab",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -10355,7 +10355,7 @@
             "second": 372
         },
         {
-            "id": "2d2050c2-e304-4ac4-adb2-fefad9e058cf",
+            "id": "0c81df64-b9ab-49a7-8122-678d0a1e4860",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -10363,7 +10363,7 @@
             "second": 374
         },
         {
-            "id": "0eef9d56-5c50-459a-b8b8-15be51c3c65e",
+            "id": "d0c7cc42-1d4b-4f18-bb7b-4d1ce4c029c9",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -10371,7 +10371,7 @@
             "second": 376
         },
         {
-            "id": "6a14e807-0614-4ab5-b1bf-d442be972182",
+            "id": "579fe2fa-c22d-49ea-b75a-4479124ce167",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -10379,7 +10379,7 @@
             "second": 377
         },
         {
-            "id": "fd69789a-862b-4e94-8a5a-0f05d01d9611",
+            "id": "c0ec9c34-a31f-4450-be5d-9817e6cf64ac",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -10387,7 +10387,7 @@
             "second": 379
         },
         {
-            "id": "39518371-f549-49ce-996b-53d8ec700bbd",
+            "id": "a92ae428-e9cd-4cfa-801e-1b24f00ed3ff",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -10395,7 +10395,7 @@
             "second": 381
         },
         {
-            "id": "2b8d4dd8-7f28-4c78-a3be-1bb20d1f6081",
+            "id": "746d17df-3105-47c5-9c21-ae6d0c56a7d6",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -10403,7 +10403,7 @@
             "second": 506
         },
         {
-            "id": "01eb7d62-e84c-425d-b3d2-84a79868dff5",
+            "id": "61ffccc5-f0a3-4c70-a0e5-0edbb102da88",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -10411,7 +10411,7 @@
             "second": 538
         },
         {
-            "id": "56b73276-b7ec-4609-9512-03ff64ac4f14",
+            "id": "251f8e02-1371-4094-ac1a-2e715fbf5c9a",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -10419,7 +10419,7 @@
             "second": 1029
         },
         {
-            "id": "ecad10f1-838a-4020-b183-39ccef89992c",
+            "id": "15b8b2c1-542a-4f6b-986c-4cc14c9f8e52",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -10427,7 +10427,7 @@
             "second": 7680
         },
         {
-            "id": "be7b2dac-9f13-4d53-bf1e-ed84ceabbda5",
+            "id": "61ceb3c8-cc3d-49ca-b3a6-543fa7c1175e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -10435,7 +10435,7 @@
             "second": 7808
         },
         {
-            "id": "7aaf4de5-d800-4756-9fdc-94673da383bd",
+            "id": "70c97648-15a9-4532-b864-c8f42088c3a1",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -10443,7 +10443,7 @@
             "second": 7810
         },
         {
-            "id": "ce0c5312-83bb-42ec-a34c-3cf15a92f0c1",
+            "id": "3a2bac62-6401-4557-940d-df2ae91fb127",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -10451,7 +10451,7 @@
             "second": 7812
         },
         {
-            "id": "d0ef3d8e-4a6d-4abe-9e2f-a4539721d2fa",
+            "id": "e99bd0e4-d32c-4680-989f-e9b8685e0a8d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -10459,7 +10459,7 @@
             "second": 7840
         },
         {
-            "id": "cc939d45-35d3-4c5c-9769-73c635a17170",
+            "id": "1c976a5e-7392-48fa-b198-eee78c698f72",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -10467,7 +10467,7 @@
             "second": 7842
         },
         {
-            "id": "cf942ac5-83fe-482d-ae48-97df8f411f35",
+            "id": "1e5a326c-b642-4d7a-8613-3a9acd3f0d5b",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -10475,7 +10475,7 @@
             "second": 7844
         },
         {
-            "id": "c718c598-0e4c-408f-addd-a431ba86d340",
+            "id": "8fe2985e-b3de-43cd-b5c1-5869c8166725",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -10483,7 +10483,7 @@
             "second": 7846
         },
         {
-            "id": "2b860e8a-8e40-4bbd-b33e-c69ae0769a27",
+            "id": "8bfc2afa-6710-4bec-84a4-c9fcd618bd4f",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -10491,7 +10491,7 @@
             "second": 7848
         },
         {
-            "id": "65bf916c-f41c-469c-8582-27c491137466",
+            "id": "99102919-bb49-465e-9818-620b988d335e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -10499,7 +10499,7 @@
             "second": 7850
         },
         {
-            "id": "643c9b9e-f535-4fe7-a039-3d520fb32bc0",
+            "id": "e3e6fd53-09c0-4dd2-a2d1-7151275fece5",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -10507,7 +10507,7 @@
             "second": 7852
         },
         {
-            "id": "95cf2248-e8aa-4704-a5bc-084864ef3ee3",
+            "id": "92b662b2-db8b-40f7-b55e-b1375d79902b",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -10515,7 +10515,7 @@
             "second": 7854
         },
         {
-            "id": "e774986a-ac72-4805-b329-e46f09bd33e3",
+            "id": "44bb1aa2-b92e-4f02-9e0d-601a6b691ee6",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -10523,7 +10523,7 @@
             "second": 7856
         },
         {
-            "id": "47eb1f35-8a27-4ecc-b18d-459540288a39",
+            "id": "fbde03c5-85e1-4edc-b78f-c04b41853372",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -10531,7 +10531,7 @@
             "second": 7858
         },
         {
-            "id": "c78693c6-5834-48a0-aa38-fea81a30c172",
+            "id": "453b9863-3f60-4a14-8023-d40196172459",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -10539,7 +10539,7 @@
             "second": 7860
         },
         {
-            "id": "c96c5372-8681-4dc7-8ef9-1320ddbb2d02",
+            "id": "756cdd9a-7706-49af-9e41-517854ba2dc5",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -10547,7 +10547,7 @@
             "second": 7862
         },
         {
-            "id": "53bae3fc-89c6-41e8-8d16-6fd9eb210f9d",
+            "id": "346f0525-c492-4f26-b3b5-c382ce3eda55",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -10555,7 +10555,7 @@
             "second": 7922
         },
         {
-            "id": "912bd613-5325-45ef-84c9-3cf7ede9d953",
+            "id": "5f6b1986-e592-42eb-8466-36f612430d3f",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -10563,7 +10563,7 @@
             "second": 7924
         },
         {
-            "id": "ae2bb27a-685f-4994-b3db-4c8f698a5aa4",
+            "id": "c8238e7d-503f-4b71-8384-3baf92eb6dc3",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -10571,7 +10571,7 @@
             "second": 7926
         },
         {
-            "id": "ff3801c2-245a-491c-95c9-d65ff984f29a",
+            "id": "fa7c2618-717e-4678-8753-e3d6858077a6",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -10579,7 +10579,7 @@
             "second": 7928
         },
         {
-            "id": "2bf81ea9-9c6d-410c-b5b4-fa89757aff1c",
+            "id": "bc55d1ad-9ab8-4187-87ac-045eb610a205",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -10587,7 +10587,7 @@
             "second": 8218
         },
         {
-            "id": "f22bd1b1-405d-4e62-b631-9cf9ddad0336",
+            "id": "bf0d43ed-9578-4bd2-8476-fdb4cebe0f7c",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -10595,23 +10595,23 @@
             "second": 8222
         },
         {
-            "id": "82543a79-ace3-4f0f-8192-9e5321697cdd",
+            "id": "5f2bd8eb-321b-4518-9a75-057dbd1ddc55",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -7,
+            "amount": -8,
             "first": 80,
             "second": 44
         },
         {
-            "id": "0abb23cc-61cb-402e-aa55-ef8f2043e286",
+            "id": "17a0a5c1-9b64-4dd5-ae98-a2881d2cc87a",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -7,
+            "amount": -8,
             "first": 80,
             "second": 46
         },
         {
-            "id": "b53bbaa6-8ef9-41f2-accb-34f7834a69a1",
+            "id": "85c1a104-9a49-40de-bfd5-f286d116b75c",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -10619,7 +10619,7 @@
             "second": 65
         },
         {
-            "id": "890c5287-297c-40c2-97a1-eac8f957ab52",
+            "id": "a757ea52-5f8e-4256-8bf9-715647b85ea4",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -10627,7 +10627,7 @@
             "second": 88
         },
         {
-            "id": "31ff58a0-d14b-4bf6-8343-5635ec7aa187",
+            "id": "f6024dc9-bdd6-4ce6-8f09-369f1e179edb",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -10635,7 +10635,7 @@
             "second": 90
         },
         {
-            "id": "2f97f068-cec3-4803-83b6-5931b9acac0d",
+            "id": "485c4503-eb77-479a-9b52-9901360bd685",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -10643,7 +10643,7 @@
             "second": 192
         },
         {
-            "id": "c80cea9f-6ec5-4869-bbe0-7b453d26446b",
+            "id": "3f7b05cf-0218-4da9-85ec-65fffa070a26",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -10651,7 +10651,7 @@
             "second": 193
         },
         {
-            "id": "f678f74c-1965-45d4-8ecf-946599d745b1",
+            "id": "e59af080-346c-45da-b36b-700aadbcaca8",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -10659,7 +10659,7 @@
             "second": 194
         },
         {
-            "id": "4cd5160d-0ae6-40aa-aa02-bd11c81dc47a",
+            "id": "4d06e1eb-8f3d-4ff9-a695-7d361740064e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -10667,7 +10667,7 @@
             "second": 195
         },
         {
-            "id": "f1a1a8d7-b58a-4c60-9bf0-85f3f12e57ec",
+            "id": "6faf5eaf-23d2-46ca-8ef0-c8a5d6b2c66f",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -10675,7 +10675,7 @@
             "second": 196
         },
         {
-            "id": "c5795d03-2b05-4b83-9ae5-dde5a238a1d2",
+            "id": "0ab7d093-2d03-4ec9-834e-b35b7de6f9ed",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -10683,7 +10683,7 @@
             "second": 197
         },
         {
-            "id": "29c18b30-8056-4d39-885a-95fbcb6dcb39",
+            "id": "313ef8e0-0013-4d0a-9336-1edb11e32db6",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -10691,7 +10691,7 @@
             "second": 256
         },
         {
-            "id": "4730007f-5c94-4066-ae85-894e10d8d45f",
+            "id": "a8b0ddb2-46ea-45eb-baed-8281590efdc1",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -10699,7 +10699,7 @@
             "second": 258
         },
         {
-            "id": "a9e47045-6cc0-4768-89a9-17d93123299e",
+            "id": "d54db653-5bf1-4c64-b760-b6acd2f126c9",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -10707,7 +10707,7 @@
             "second": 260
         },
         {
-            "id": "ce305dc9-119e-4843-a92f-29e0a0a69002",
+            "id": "0cd779ad-600b-45dc-af5d-496cc75e341b",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -10715,7 +10715,7 @@
             "second": 377
         },
         {
-            "id": "fcce0493-9a56-40fc-b617-68ba5cd30b5d",
+            "id": "2f18f630-a420-4d5c-b1b4-b040a11b3498",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -10723,7 +10723,7 @@
             "second": 379
         },
         {
-            "id": "69aff843-e3ac-4251-b24d-e52dbdc9fe2c",
+            "id": "9e1c2554-0c41-4abd-892a-e6ef4c37032f",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -10731,7 +10731,7 @@
             "second": 381
         },
         {
-            "id": "26636859-0292-4518-8c4a-ea5ea67cd629",
+            "id": "fc6293a0-29a1-4afb-8311-39e45203b4d2",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -10739,7 +10739,7 @@
             "second": 506
         },
         {
-            "id": "7d5bf0ab-c286-45ae-a1b2-dfeec52ca579",
+            "id": "e7443be0-f090-4ac5-9605-b146d8a044d8",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -10747,7 +10747,7 @@
             "second": 7680
         },
         {
-            "id": "8dc7d210-aa92-4b25-8be0-c12601309b03",
+            "id": "0f23ceb2-5dff-417c-a83f-1bcd803bab98",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -10755,7 +10755,7 @@
             "second": 7840
         },
         {
-            "id": "a2d56b88-be0c-436a-90e0-e149431e084d",
+            "id": "f005b6e2-9906-4e1a-ad7f-4a0cc01e2f30",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -10763,7 +10763,7 @@
             "second": 7842
         },
         {
-            "id": "78ce9daf-a0b4-4828-8a61-5e79789cb731",
+            "id": "3ef1e708-a529-4ba4-ba3c-605d73127de2",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -10771,7 +10771,7 @@
             "second": 7844
         },
         {
-            "id": "b17ea74c-668b-44d6-a2cb-c3f11e0bc118",
+            "id": "0a359087-1528-48c1-a912-390e9ae39769",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -10779,7 +10779,7 @@
             "second": 7846
         },
         {
-            "id": "24288595-3864-4e73-a4d8-42d8859af6ce",
+            "id": "8a50b5ce-322d-4c29-b55b-d2e3b791c478",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -10787,7 +10787,7 @@
             "second": 7848
         },
         {
-            "id": "151b7dbf-6b77-4878-afe6-3700af586bfc",
+            "id": "7d36cc7d-ee6a-4bfe-8305-efec6c9769e6",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -10795,7 +10795,7 @@
             "second": 7850
         },
         {
-            "id": "a7ad0c37-c087-434d-bd65-592a0122bd96",
+            "id": "95ab1884-74c0-45cb-8ba9-f5e736919fae",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -10803,7 +10803,7 @@
             "second": 7852
         },
         {
-            "id": "6a14f933-df57-4079-bfba-3566388e3f03",
+            "id": "8c3e464c-2bf8-4b66-b0c7-66bffd875766",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -10811,7 +10811,7 @@
             "second": 7854
         },
         {
-            "id": "701f2b7d-381e-4151-a6cb-8f53ec08c76b",
+            "id": "09a71ec5-0226-46be-b2e3-329f24c83e64",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -10819,7 +10819,7 @@
             "second": 7856
         },
         {
-            "id": "cfabfcf1-6f2a-450c-84f0-48a9340b140e",
+            "id": "4b4e5a51-f1bf-4d14-bd4c-aa99df8f1892",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -10827,7 +10827,7 @@
             "second": 7858
         },
         {
-            "id": "2c61ec04-0fed-4191-bb98-ed30ea7c8370",
+            "id": "eacb9103-5026-4cfd-a794-a15bda6607e8",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -10835,7 +10835,7 @@
             "second": 7860
         },
         {
-            "id": "72634ecd-a0b9-4741-882c-c30ee7968e4a",
+            "id": "195c9dfa-27c5-4cc7-82f2-6631ada582fc",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -10843,23 +10843,23 @@
             "second": 7862
         },
         {
-            "id": "ffdc048e-1acd-45ed-801a-cc47ec62b16b",
+            "id": "7d84f914-a580-43bd-939a-5fbd14639b51",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -7,
+            "amount": -8,
             "first": 80,
             "second": 8218
         },
         {
-            "id": "69966f8f-983d-4433-8018-676e283b5f0e",
+            "id": "04f78a75-cf56-4af4-9346-5cf142b898b7",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -7,
+            "amount": -8,
             "first": 80,
             "second": 8222
         },
         {
-            "id": "31594492-da1c-408e-af9d-6402a1776313",
+            "id": "12753317-e409-4e3b-b89e-55c1fd295ebc",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -10867,7 +10867,7 @@
             "second": 44
         },
         {
-            "id": "f19d0e1c-48aa-4b01-8dae-6ac8ee4268a3",
+            "id": "d1553324-a4bf-4b1b-a55d-e91875ba0e75",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -10875,7 +10875,7 @@
             "second": 46
         },
         {
-            "id": "62805a53-e567-4ca0-8f43-0072783344dc",
+            "id": "02893cdb-1311-4605-a9cd-0311417c99e1",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -10883,7 +10883,7 @@
             "second": 65
         },
         {
-            "id": "b99d4eab-d952-493c-b55a-68e0e8708809",
+            "id": "6d0bc23a-7882-4623-9ff2-e69762b7b5a3",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -10891,7 +10891,7 @@
             "second": 84
         },
         {
-            "id": "c54255dc-b210-47c6-92b5-e907d104e1d1",
+            "id": "3d003571-8a8e-42a8-8117-c4f9f60b49ee",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -10899,7 +10899,7 @@
             "second": 86
         },
         {
-            "id": "edeee6cf-29af-4567-a921-8df25d3e8ad4",
+            "id": "13f24095-12a7-4bb5-a526-2a1d35e05e64",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -10907,7 +10907,7 @@
             "second": 87
         },
         {
-            "id": "e5cda05d-eb43-42b2-b18d-0a2f9d0ae217",
+            "id": "f9b992f9-7aaa-44bf-90d7-fea4b7cbd58e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -10915,7 +10915,7 @@
             "second": 88
         },
         {
-            "id": "d010f7db-df61-49ef-8ac8-642c1b246c0a",
+            "id": "0994d757-7b29-4e5b-a334-209dbaea7d05",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -10923,7 +10923,7 @@
             "second": 89
         },
         {
-            "id": "fafc46a0-36dd-44e3-9a52-eb7e8a4ae447",
+            "id": "084d70f4-ceb9-4477-8ddb-23cffdacbe80",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -10931,7 +10931,7 @@
             "second": 90
         },
         {
-            "id": "7579b00c-be21-4b25-9724-eec203bd43f5",
+            "id": "e792e083-0454-461c-ae79-ea561bffbc4b",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -10939,7 +10939,7 @@
             "second": 192
         },
         {
-            "id": "4e297936-bf5a-485b-97a8-9de3c98fa3fa",
+            "id": "89696f16-b973-40b0-9c40-4d8acd4b35b9",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -10947,7 +10947,7 @@
             "second": 193
         },
         {
-            "id": "5bffe746-a53f-47c0-8cc6-eb153097be46",
+            "id": "bc73817e-6cf8-4e28-a6ce-f944bb5ea605",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -10955,7 +10955,7 @@
             "second": 194
         },
         {
-            "id": "44405269-ea91-4686-9fdd-4d14e33a5995",
+            "id": "f3354b71-9eac-4062-89c1-bb5f8358bf04",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -10963,7 +10963,7 @@
             "second": 195
         },
         {
-            "id": "fe8f5183-a5b1-44ad-9798-d7fdf20d2674",
+            "id": "a54e00d7-f610-41db-b66d-b6f6366a8487",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -10971,7 +10971,7 @@
             "second": 196
         },
         {
-            "id": "2fd902c6-ab49-4f9a-ac09-e0a0a7f658c7",
+            "id": "1c06c5de-31ba-46e3-aa4b-aba3e6978ba7",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -10979,7 +10979,7 @@
             "second": 197
         },
         {
-            "id": "45f2bfa9-7228-4f9d-8479-9916a3ee595c",
+            "id": "0339fa04-6e26-40cb-8601-25db56701263",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -10987,7 +10987,7 @@
             "second": 221
         },
         {
-            "id": "7c88a385-8914-4436-b38a-c63d74132d49",
+            "id": "c577899b-d735-46ba-896c-5aa16631c813",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -10995,7 +10995,7 @@
             "second": 256
         },
         {
-            "id": "92bb6d93-b444-44d2-93f5-207e8730f192",
+            "id": "3984e8b2-8dfb-41bf-b81a-f1cc2316bf0e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -11003,7 +11003,7 @@
             "second": 258
         },
         {
-            "id": "7d41d483-d87a-4622-847b-de9551ae6c23",
+            "id": "8d01932a-84c5-4f29-8bfe-af548ea380de",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -11011,7 +11011,7 @@
             "second": 260
         },
         {
-            "id": "463119e7-7d17-488d-b530-353718d003e5",
+            "id": "f3fceafd-43fe-49ee-97ee-4f37bca08bd7",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -11019,7 +11019,7 @@
             "second": 354
         },
         {
-            "id": "bd6a1553-ce40-4ac8-b011-d353831c3b38",
+            "id": "d36653ec-0544-49e1-a224-7a8c438a8312",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -11027,7 +11027,7 @@
             "second": 356
         },
         {
-            "id": "bc4a47e2-b470-46ef-9c69-a6c45ba70807",
+            "id": "347fd244-5844-40ea-9ab2-612211a8cdbf",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -11035,7 +11035,7 @@
             "second": 372
         },
         {
-            "id": "36a04db7-6b49-4574-9aa6-9bbd317f06e2",
+            "id": "ea350b9b-01f3-46f9-8336-888262e19da5",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -11043,7 +11043,7 @@
             "second": 374
         },
         {
-            "id": "7c9c81f6-be26-4dd8-ad5e-ffc7eb4933d7",
+            "id": "90854f80-78ff-484d-a03f-43217bd57a67",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -11051,7 +11051,7 @@
             "second": 376
         },
         {
-            "id": "8b6e2484-a585-4f12-8303-373a676617ea",
+            "id": "f5ddfc2e-8c72-4ae3-8974-787ce694a680",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -11059,7 +11059,7 @@
             "second": 377
         },
         {
-            "id": "98c2fc10-55b8-4f27-b3d2-94154b895964",
+            "id": "e5984cdc-84fb-4d9e-93fb-b0f0dde1bc3c",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -11067,7 +11067,7 @@
             "second": 379
         },
         {
-            "id": "e43bf2e4-485b-4a5b-be1a-c123d8ab0390",
+            "id": "792b704f-1985-40f3-8824-ad9862319edc",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -11075,7 +11075,7 @@
             "second": 381
         },
         {
-            "id": "624d2c49-6eee-41aa-974b-d591acc187e1",
+            "id": "fc8bf658-71cc-468c-bb14-60d8bfca4f44",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -11083,7 +11083,7 @@
             "second": 506
         },
         {
-            "id": "50c5087b-6467-4a0f-997e-a3f9db61eceb",
+            "id": "b527af7e-457a-44b2-a9b3-341360056ef5",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -11091,7 +11091,7 @@
             "second": 538
         },
         {
-            "id": "3b98a75c-1e4f-434a-83c0-6021a7243047",
+            "id": "68b7b7c3-70c1-45bb-8388-ede3e76f1788",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -11099,7 +11099,7 @@
             "second": 1029
         },
         {
-            "id": "97d34651-b411-495a-a9a7-168b0023836b",
+            "id": "da666659-0212-4627-b7ea-33cd65d77d16",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -11107,7 +11107,7 @@
             "second": 7680
         },
         {
-            "id": "9129be1d-cfdc-4f55-85db-5adb728411ab",
+            "id": "77673d6c-875b-4e91-8a42-b9d64c5b9f8d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -11115,7 +11115,7 @@
             "second": 7808
         },
         {
-            "id": "94d50093-e1c6-4df1-a3da-275392b33945",
+            "id": "e0f15d71-c0e8-4aa4-818d-adc7c5564a0d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -11123,7 +11123,7 @@
             "second": 7810
         },
         {
-            "id": "63358442-bb3d-4ffb-aa69-3b4ab6973d6a",
+            "id": "8a392a94-dab1-49fe-a68b-8d51bde26569",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -11131,7 +11131,7 @@
             "second": 7812
         },
         {
-            "id": "747503c5-db40-4d36-8731-40560c29d675",
+            "id": "75381672-b0af-49be-bdbe-5ad850e5575e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -11139,7 +11139,7 @@
             "second": 7840
         },
         {
-            "id": "401af780-ff97-4669-8579-325cf6636275",
+            "id": "8ee2241f-6eb9-4d52-af47-8c602fbda4e8",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -11147,7 +11147,7 @@
             "second": 7842
         },
         {
-            "id": "de15af59-012c-43f8-b97f-bb5e5bebf3f0",
+            "id": "a2472b6e-41bc-4581-8c93-9e7210952dbc",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -11155,7 +11155,7 @@
             "second": 7844
         },
         {
-            "id": "5335d732-9906-47f1-af3b-69d969446872",
+            "id": "f4810d63-7714-487c-ab58-f4c41fbc5f06",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -11163,7 +11163,7 @@
             "second": 7846
         },
         {
-            "id": "28690b61-2dfc-44b6-81ad-c9af66ac6555",
+            "id": "7e2eb98e-43bc-4cfd-98e9-d25d28b93c60",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -11171,7 +11171,7 @@
             "second": 7848
         },
         {
-            "id": "ed164d65-20cd-45bb-836f-d575974a45f9",
+            "id": "4b91d0ba-c016-45d1-a973-9922684ccacb",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -11179,7 +11179,7 @@
             "second": 7850
         },
         {
-            "id": "95650547-52fd-4af8-85de-80819e48f745",
+            "id": "4800b31c-918e-4a9a-a10a-61d6c3e454f3",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -11187,7 +11187,7 @@
             "second": 7852
         },
         {
-            "id": "225f50b5-452b-46eb-90de-f72e9b39a625",
+            "id": "325b6fa4-3333-4ede-b948-e9b291017058",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -11195,7 +11195,7 @@
             "second": 7854
         },
         {
-            "id": "6a99c3fe-229f-4a4c-b68d-9ac5444b2e98",
+            "id": "b4050282-1c5a-440f-a664-bea8d527e680",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -11203,7 +11203,7 @@
             "second": 7856
         },
         {
-            "id": "7de31080-bc82-49c9-b704-b18f33223d81",
+            "id": "a760f7a1-9693-431f-a794-b82953ea620f",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -11211,7 +11211,7 @@
             "second": 7858
         },
         {
-            "id": "ab1944a9-a5ec-4f9b-a329-125b3d828f38",
+            "id": "ff4f9710-9883-4573-92f4-3b3bf95799b0",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -11219,7 +11219,7 @@
             "second": 7860
         },
         {
-            "id": "fa2eb967-1c8a-485e-a6b6-425855ef390d",
+            "id": "14586aac-c6ab-44ce-9e74-7a9740492ac5",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -11227,7 +11227,7 @@
             "second": 7862
         },
         {
-            "id": "26306294-216b-4629-bddd-654b62f507cd",
+            "id": "502a5601-65f7-40e8-baf4-6bf8018d9941",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -11235,7 +11235,7 @@
             "second": 7922
         },
         {
-            "id": "99b3b6f3-383c-4693-80a0-ff12f10e67fa",
+            "id": "2130a347-15a7-476b-8b71-f015b0b936a1",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -11243,7 +11243,7 @@
             "second": 7924
         },
         {
-            "id": "865ffb4c-0732-48c9-a176-267877b4bd7a",
+            "id": "8ed9ff6b-df75-4c9f-95a2-0153e88d14d8",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -11251,7 +11251,7 @@
             "second": 7926
         },
         {
-            "id": "e3cc5aca-0dc9-445e-bc84-253e9ec69e14",
+            "id": "60d6c735-54e5-42bd-afc1-f715d2e4290a",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -11259,7 +11259,7 @@
             "second": 7928
         },
         {
-            "id": "78e50248-44a9-421d-997c-775787c70e51",
+            "id": "f76472a0-1e47-43a3-99d7-1e7812541e80",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -11267,7 +11267,7 @@
             "second": 8218
         },
         {
-            "id": "c351530a-4c00-4075-babf-fc2a45c122e5",
+            "id": "99cfd558-9213-4ff4-8f21-7f4d2998c63b",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -11275,15 +11275,15 @@
             "second": 8222
         },
         {
-            "id": "b7754599-8e33-42e2-a2d0-f8a768728d94",
+            "id": "d87927e3-39a4-4107-bc8a-da050ee883e4",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 84,
             "second": 44
         },
         {
-            "id": "47bf1443-5b45-4b96-b389-599b79efb11e",
+            "id": "c6b5b8dd-59e2-4b82-a26a-476f57e659ac",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -11291,15 +11291,15 @@
             "second": 45
         },
         {
-            "id": "be8ca1a0-3825-4613-ac28-3fe982540db1",
+            "id": "256e816d-39fe-49f9-8af1-98a5345f5ef5",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 84,
             "second": 46
         },
         {
-            "id": "66a03ccc-de05-4521-977b-dcbe9b658528",
+            "id": "cbcedecb-2671-4cc9-b003-81b57e8c7db9",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": 1,
@@ -11307,7 +11307,7 @@
             "second": 63
         },
         {
-            "id": "0d06a2c2-73c3-428d-bf48-497e894b0d80",
+            "id": "865d4b32-798c-497c-93d9-124574e8ec8d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -11315,7 +11315,7 @@
             "second": 65
         },
         {
-            "id": "427c3dfa-2b9a-4b0d-94dc-ef90cccaeed9",
+            "id": "dd9bca46-f0a7-4122-8bc1-8e5dd0f64162",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -11323,7 +11323,7 @@
             "second": 67
         },
         {
-            "id": "f84b6053-43ae-4647-9961-7079dd318e95",
+            "id": "7fd692f5-63b7-491e-afc2-12932b226c49",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -11331,7 +11331,7 @@
             "second": 71
         },
         {
-            "id": "6fb03b5d-439a-4949-bca8-2f616a590879",
+            "id": "d4e125b1-cbd0-4b5a-922b-5c2c5b5005c9",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -11339,7 +11339,7 @@
             "second": 79
         },
         {
-            "id": "ba6e4a72-c055-4fb8-8060-97458b95a167",
+            "id": "30df38f2-5bff-48c5-84a1-79540b87e9d5",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -11347,7 +11347,7 @@
             "second": 81
         },
         {
-            "id": "43676833-c28a-4e73-a08a-4c943eb73468",
+            "id": "6a147724-ce88-4504-a164-1fb9b60c5adb",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": 1,
@@ -11355,15 +11355,15 @@
             "second": 84
         },
         {
-            "id": "a267c690-bdeb-409d-97e5-a6610c3ac89c",
+            "id": "bdae83c5-6e27-42c6-918b-87440304920b",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -4,
+            "amount": -5,
             "first": 84,
             "second": 97
         },
         {
-            "id": "6fd626f1-80d8-43d7-babf-f0980f94a417",
+            "id": "a144f6ef-1856-4ad3-99de-f6f75cfb075a",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -11371,7 +11371,7 @@
             "second": 99
         },
         {
-            "id": "a3f5a674-556b-417a-b62e-f899a8dc4551",
+            "id": "1103be20-1ac3-4860-a866-39bd26ad966e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -11379,7 +11379,7 @@
             "second": 100
         },
         {
-            "id": "d1cbad78-f974-4191-99c9-63dd98a4bbce",
+            "id": "787efb21-c302-404c-8af1-2be4ba2605ea",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -11387,7 +11387,7 @@
             "second": 101
         },
         {
-            "id": "d9fab249-b58e-4856-8172-20cd667bc582",
+            "id": "bc9bf098-c2d5-4ca8-b5d4-20b6530e0a57",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -11395,7 +11395,7 @@
             "second": 103
         },
         {
-            "id": "19673322-252f-4a4c-a6eb-4b90ee470cf5",
+            "id": "8f55023b-fce1-4818-a206-6682ba9d5153",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -11403,7 +11403,7 @@
             "second": 109
         },
         {
-            "id": "1dfdc718-6b91-4383-bfd5-c04240073411",
+            "id": "81fa6430-69d0-4dea-a203-08148f886793",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -11411,7 +11411,7 @@
             "second": 110
         },
         {
-            "id": "00bb621a-cd7d-4031-abe4-c0435549ffb6",
+            "id": "5111ca60-8a61-4fac-8ebb-1c33c482b4fa",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -11419,7 +11419,7 @@
             "second": 111
         },
         {
-            "id": "44693790-9aa8-4bfb-ba90-6f5dda1c75b8",
+            "id": "e6f0599d-04f4-4d37-a391-1576415acffd",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -11427,7 +11427,7 @@
             "second": 112
         },
         {
-            "id": "bb14f8c7-df31-4c66-b960-0965c508d6e9",
+            "id": "b8784947-8ce0-4386-b2f3-9a8acf709af7",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -11435,7 +11435,7 @@
             "second": 113
         },
         {
-            "id": "44c4654b-2143-47d0-8c7e-1f219de07557",
+            "id": "35f8f208-7c4a-415c-8b37-7351696d4c4d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -11443,15 +11443,15 @@
             "second": 114
         },
         {
-            "id": "f8335005-6089-4cee-912e-02c613f9ef3b",
+            "id": "2abc6e31-8959-4033-b960-beb1d465f0f4",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 84,
             "second": 115
         },
         {
-            "id": "9bbebf0a-e542-4ec0-afa7-4c471d7b6f8c",
+            "id": "a6c7452b-55c2-404c-a2f7-bdbbc0f51f35",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -11459,7 +11459,7 @@
             "second": 117
         },
         {
-            "id": "65550755-3931-4feb-a424-22b6c1085c61",
+            "id": "12b401c3-f4e8-4d4a-8886-904eb58a93cf",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -11467,7 +11467,7 @@
             "second": 118
         },
         {
-            "id": "bc42f04f-6038-4da6-85f0-a80a892c3f00",
+            "id": "e441e4ba-753a-4469-a461-26c96bfa38a5",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -11475,7 +11475,7 @@
             "second": 119
         },
         {
-            "id": "457465e3-179f-424f-962d-a2b277acf29d",
+            "id": "db6019ed-c20a-47df-9df3-acadf515250d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -11483,7 +11483,7 @@
             "second": 120
         },
         {
-            "id": "f78c3026-b042-405e-a008-81b0ef027954",
+            "id": "f134d42d-d95d-4096-a658-65694c87876a",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -11491,7 +11491,7 @@
             "second": 121
         },
         {
-            "id": "d588ead2-1e1e-4a9c-b393-b45560949ef9",
+            "id": "2ebb48d7-6816-4baa-910c-ebaede22ebb9",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -11499,7 +11499,7 @@
             "second": 122
         },
         {
-            "id": "04064f72-08fb-4b46-8c88-2562f1ca2566",
+            "id": "4618d6de-2487-4f27-b739-536ac9058435",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -11507,7 +11507,7 @@
             "second": 192
         },
         {
-            "id": "d288b63e-0294-407e-9411-75816d6f13b8",
+            "id": "055fdbb7-3258-4940-a199-797a8f24de46",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -11515,7 +11515,7 @@
             "second": 193
         },
         {
-            "id": "3ebfe2e0-f591-43ab-9656-dc0958ff1224",
+            "id": "67d8b36d-9d54-4d8b-9136-a11ac21f7746",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -11523,7 +11523,7 @@
             "second": 194
         },
         {
-            "id": "f697510d-d7e2-4aed-885b-10417c5f4919",
+            "id": "e443ba78-a56f-4f05-a1ca-3b09e5199ef1",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -11531,7 +11531,7 @@
             "second": 195
         },
         {
-            "id": "0d165040-0ef7-4147-b293-70fcdac955d4",
+            "id": "64d1027e-75f9-4fbf-bdf5-20ab1f209311",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -11539,7 +11539,7 @@
             "second": 196
         },
         {
-            "id": "393268ee-e59b-457c-8980-4be4895829ae",
+            "id": "f0a74407-9bde-4703-b5b2-37fe35b931f1",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -11547,7 +11547,7 @@
             "second": 197
         },
         {
-            "id": "1bc7eadd-2303-4336-92d9-761444545701",
+            "id": "19d9f2cb-c443-46fc-b283-69205cdc8cf6",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -11555,7 +11555,7 @@
             "second": 199
         },
         {
-            "id": "7af5fa15-706c-43f7-9407-aeca99243826",
+            "id": "6886ab2b-1895-4904-979b-486650152bd4",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -11563,7 +11563,7 @@
             "second": 210
         },
         {
-            "id": "35fa059c-6822-442d-aa73-c7c21b509c16",
+            "id": "073d8f85-e17a-4791-bdaf-f03fc45fd8ba",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -11571,7 +11571,7 @@
             "second": 211
         },
         {
-            "id": "bdd8778c-2d3e-4869-8909-ca94940189a9",
+            "id": "13718f18-b5e9-4270-8ddd-13cbc9eb210d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -11579,7 +11579,7 @@
             "second": 212
         },
         {
-            "id": "a437efb1-0c43-4f92-b22a-e3930ec68554",
+            "id": "9f1bfaaf-d67f-40a1-ac73-ff4ee5b347e6",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -11587,7 +11587,7 @@
             "second": 213
         },
         {
-            "id": "7e69f28b-68b1-4f9f-b3f3-02fe39b5a86a",
+            "id": "d767de03-84f4-4ab2-b1ed-0d471b7baa2e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -11595,7 +11595,7 @@
             "second": 214
         },
         {
-            "id": "138a00c0-1e04-4a23-91cf-543b1494ad9c",
+            "id": "8921716b-3e1a-4cda-8999-408f950a16e0",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -11603,7 +11603,7 @@
             "second": 216
         },
         {
-            "id": "100e992f-5839-4a5c-a937-ab1288d6f6cd",
+            "id": "f5601425-0b3e-45b4-8133-1b8bbf3371dd",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -11611,55 +11611,55 @@
             "second": 224
         },
         {
-            "id": "d1b04aeb-1970-4cb1-b65c-56cca46fa1a0",
+            "id": "5dca28fb-e10d-47b2-9d04-73666e47a6c7",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -4,
+            "amount": -5,
             "first": 84,
             "second": 225
         },
         {
-            "id": "318ba9e2-c971-44a7-8559-cad6a4af593e",
+            "id": "370796bf-2a26-43b1-a257-3079b14b6a38",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -4,
+            "amount": -5,
             "first": 84,
             "second": 226
         },
         {
-            "id": "67d6d970-0c35-43db-8a59-57554f8209da",
+            "id": "91248bdb-5f5e-4230-bb40-697ea1b741b5",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -4,
+            "amount": -5,
             "first": 84,
             "second": 227
         },
         {
-            "id": "1ba41e62-2af5-40a3-96bb-4d27e3167a75",
+            "id": "c7d9c008-420a-4634-a051-17fc816d8d2a",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -4,
+            "amount": -5,
             "first": 84,
             "second": 228
         },
         {
-            "id": "aa4f2526-6ff9-405f-9f7a-1aa84e19fd5a",
+            "id": "31c674a5-8303-4db2-9769-4f5c461e35a4",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -4,
+            "amount": -5,
             "first": 84,
             "second": 229
         },
         {
-            "id": "2c41bfae-80e7-4d39-8ce1-8f0dd90b88c4",
+            "id": "0dc82060-7800-4a1c-b7db-5a6fddba819b",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -4,
+            "amount": -5,
             "first": 84,
             "second": 230
         },
         {
-            "id": "2c0aeeb4-57ad-4baa-bc31-7df18d306f4d",
+            "id": "c839d643-a048-4bdd-bef4-3e20289dd0d8",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -11667,7 +11667,7 @@
             "second": 231
         },
         {
-            "id": "6baf997a-95d7-4938-aff6-83fde43d58c5",
+            "id": "fc958cb4-b11b-41c3-8305-59ffccf9b0d9",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -11675,7 +11675,7 @@
             "second": 232
         },
         {
-            "id": "7c08e46a-9610-4b0e-bb10-8a95bf9ac92c",
+            "id": "97ff721f-adb9-4949-a240-d6e9304b6330",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -11683,7 +11683,7 @@
             "second": 233
         },
         {
-            "id": "636d116c-b4fa-47d4-8db6-dac0626ca29a",
+            "id": "6fea7655-281e-4d1e-883e-9ca5f0bc6d6a",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -11691,7 +11691,7 @@
             "second": 234
         },
         {
-            "id": "b8913430-d662-4ff6-8344-8739bcc516be",
+            "id": "abad236a-5f42-4271-adee-efe8ed252e40",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -11699,7 +11699,7 @@
             "second": 235
         },
         {
-            "id": "7a71e4aa-b1d2-4143-87f8-e4f82ebea595",
+            "id": "8706861d-f4dd-4766-8664-8cec4fe059f7",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -11707,7 +11707,7 @@
             "second": 242
         },
         {
-            "id": "25ee4252-77d8-4ee2-b5da-b41eac01c53a",
+            "id": "1d9a78ef-261b-44c3-b7d8-b8d4127dce57",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -11715,7 +11715,7 @@
             "second": 243
         },
         {
-            "id": "1e17ff63-2bc4-4ed0-aa1a-d1e17a1b9e6a",
+            "id": "b6984c34-fa18-418c-af7f-de7e932c761e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -11723,7 +11723,7 @@
             "second": 244
         },
         {
-            "id": "a2700519-62ed-4098-8a1f-9e076dd949a7",
+            "id": "624b3cca-2672-40ae-867b-03d9e80bb6d6",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -11731,7 +11731,7 @@
             "second": 245
         },
         {
-            "id": "7639d237-b6d4-4abe-8a37-ffbb2242c846",
+            "id": "24e6c928-2bac-413b-ac74-5b98edc9839c",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -11739,7 +11739,7 @@
             "second": 246
         },
         {
-            "id": "2553ce6c-a153-4bd9-b249-0ce750cba046",
+            "id": "615b959f-36f7-4325-b389-5175a07b4190",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -11747,7 +11747,7 @@
             "second": 248
         },
         {
-            "id": "7b254bd6-3008-4547-9f51-8fb6518f545d",
+            "id": "2e57e8b1-0eb3-4b6d-983d-cfcbd302e679",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -11755,7 +11755,7 @@
             "second": 249
         },
         {
-            "id": "b03013a1-467c-4529-83d4-6f7988aabef3",
+            "id": "e5d61c48-ceef-4fb6-9d40-67604c8b1a0b",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -11763,7 +11763,7 @@
             "second": 250
         },
         {
-            "id": "39333d2a-ecb9-49c5-bf08-6b3371d771eb",
+            "id": "c936e9dc-7523-4a98-adbf-37013136b7c3",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -11771,7 +11771,7 @@
             "second": 251
         },
         {
-            "id": "09135da9-1000-4109-b173-f81e05a1999e",
+            "id": "d0e458b0-980b-43a9-bf74-08e2a64d8240",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -11779,7 +11779,7 @@
             "second": 252
         },
         {
-            "id": "027b0d1f-681f-4009-a836-44684cada515",
+            "id": "13bbf973-85ba-4b96-96d2-3f15a2906737",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -11787,7 +11787,7 @@
             "second": 253
         },
         {
-            "id": "f6e8c346-aac2-4c81-a4b3-d6212e85c288",
+            "id": "896d0207-8fea-44d6-815b-7cff7aeccf5e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -11795,15 +11795,15 @@
             "second": 256
         },
         {
-            "id": "dbdfd007-6d53-45d1-80ce-b34298aa8fed",
+            "id": "ebbc0ef9-efe7-4640-b389-35a30ca64d51",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -4,
+            "amount": -5,
             "first": 84,
             "second": 257
         },
         {
-            "id": "7ce9cfa9-0ada-4f13-b9dc-996457d79cb9",
+            "id": "9e7e0efc-ff2c-454f-8c2a-012770c16ead",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -11811,15 +11811,15 @@
             "second": 258
         },
         {
-            "id": "3adf5ac4-c282-472b-bc10-6189e2c1d431",
+            "id": "007d263e-cc37-4e17-8157-93357a58d075",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -4,
+            "amount": -5,
             "first": 84,
             "second": 259
         },
         {
-            "id": "3c89a392-60d7-441d-9d08-2fd9a083c958",
+            "id": "0cf3720d-6284-4f94-8342-ec17c3528b73",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -11827,15 +11827,15 @@
             "second": 260
         },
         {
-            "id": "3d9c9426-c694-4768-a531-093bd47e1b22",
+            "id": "484e6820-fceb-4cb9-a9db-ae6710700b48",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -4,
+            "amount": -5,
             "first": 84,
             "second": 261
         },
         {
-            "id": "25bcda80-37a7-4015-821f-3590ca3357b5",
+            "id": "34b6f75f-daa7-4394-8ab2-28748eec59b9",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -11843,7 +11843,7 @@
             "second": 262
         },
         {
-            "id": "20632db5-041b-457c-bf37-ee45ae8fa4b8",
+            "id": "91e0bd47-5a6e-405f-892e-7dca9d5fbc62",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -11851,7 +11851,7 @@
             "second": 263
         },
         {
-            "id": "5a4b4c18-a307-42aa-a295-a140828073e5",
+            "id": "67f0e515-bec3-4146-8343-4dbad8aca421",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -11859,7 +11859,7 @@
             "second": 264
         },
         {
-            "id": "96a6667b-e835-4c12-b219-3cdf2252622d",
+            "id": "1124eb3a-2447-4ff8-96e6-84917d676830",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -11867,7 +11867,7 @@
             "second": 265
         },
         {
-            "id": "c904bc82-d0fe-4ac7-a192-8a396a51e5a3",
+            "id": "7794bd50-e563-4a96-bd37-cf7bae272da1",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -11875,7 +11875,7 @@
             "second": 266
         },
         {
-            "id": "f6c26c48-bb88-4be6-aefb-82b563f20bc5",
+            "id": "94ac459d-43d5-4848-a251-aec9b3895b42",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -11883,7 +11883,7 @@
             "second": 267
         },
         {
-            "id": "5c80be0e-c80c-4d03-a719-873d7fdbce65",
+            "id": "fc63d0d3-e3eb-42d3-bccb-4321b27b8491",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -11891,7 +11891,7 @@
             "second": 268
         },
         {
-            "id": "7acc9ed3-766b-46e7-94c8-cbf75d80358e",
+            "id": "8d950ac5-36ba-44b3-ad70-cb18b76ce7b4",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -11899,7 +11899,7 @@
             "second": 269
         },
         {
-            "id": "b29b2508-5a3e-4061-8a8c-6e694f43ff0c",
+            "id": "19632e8b-b6d3-40ca-872d-77305c8d2807",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -11907,7 +11907,7 @@
             "second": 271
         },
         {
-            "id": "99bdce36-aef7-4c41-9c9c-db4aab006858",
+            "id": "9d4a74bc-5ac7-4389-afda-31f5488948ec",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -11915,7 +11915,7 @@
             "second": 273
         },
         {
-            "id": "009e1747-dc22-472f-9751-727f1028d4e3",
+            "id": "bbff9258-41a4-4778-a48a-a3b3e34e62f8",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -11923,7 +11923,7 @@
             "second": 275
         },
         {
-            "id": "0bfd54fd-41d0-471a-9be7-1cd4963e9a34",
+            "id": "d14465bb-6ff0-4f7e-9144-be9454a5b225",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -11931,7 +11931,7 @@
             "second": 277
         },
         {
-            "id": "f8b325b8-fda4-41e6-9650-ae910950959f",
+            "id": "3793f973-5d46-4a49-b9c7-4c314c85afba",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -11939,7 +11939,7 @@
             "second": 279
         },
         {
-            "id": "81de4f62-1f64-4ff6-aba3-8e9d3d4cb45b",
+            "id": "b12daa5a-9fd2-40d4-a665-592f963ba6cb",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -11947,7 +11947,7 @@
             "second": 281
         },
         {
-            "id": "0e37d3bf-5b02-4320-96ae-e791604c38f8",
+            "id": "6a8036ee-b6a1-4346-9f5f-382444b94b8c",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -11955,7 +11955,7 @@
             "second": 283
         },
         {
-            "id": "0acd3c6d-7fc8-49a9-bccf-fa2f867e54e4",
+            "id": "a4c94ccd-3b64-4280-be46-ac5c31ac1278",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -11963,7 +11963,7 @@
             "second": 284
         },
         {
-            "id": "36b741da-8937-4707-966b-17491bff8714",
+            "id": "18f5328f-5a1e-468a-9be0-ce774434ede5",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -11971,7 +11971,7 @@
             "second": 285
         },
         {
-            "id": "e9040633-4356-41bd-b846-877bed4e98e0",
+            "id": "319be4b5-823f-435f-95ed-dd022a3a88d2",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -11979,7 +11979,7 @@
             "second": 286
         },
         {
-            "id": "404ec880-4fa0-4fb0-90aa-453a15744731",
+            "id": "5595fcc5-3c08-4ea7-811b-23ed414a572f",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -11987,7 +11987,7 @@
             "second": 287
         },
         {
-            "id": "65c072e2-318a-4788-b1c2-8f333ca93da3",
+            "id": "3ed85be2-ee36-4142-8ebb-ca14e4d15c7f",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -11995,7 +11995,7 @@
             "second": 288
         },
         {
-            "id": "d5ba6829-3357-40ec-8161-e940fe6b5dc4",
+            "id": "b4c51518-1cf6-4740-ba1d-ccdc59a4ab70",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -12003,7 +12003,7 @@
             "second": 289
         },
         {
-            "id": "f341e244-a780-414f-a2f6-9950dc0b0db7",
+            "id": "b687b9a5-acb6-4c8d-8ce3-9ec4522fbbde",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -12011,7 +12011,7 @@
             "second": 290
         },
         {
-            "id": "a5b40561-61d4-48bf-aa6f-2f079b41185f",
+            "id": "beb2d89c-870b-44ab-ad6d-0e845cd84569",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -12019,7 +12019,7 @@
             "second": 291
         },
         {
-            "id": "92a27e3e-d998-46b2-b769-83d3b87ada9f",
+            "id": "95b613f1-4962-41be-b978-ae8ebe2dafca",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -12027,7 +12027,7 @@
             "second": 312
         },
         {
-            "id": "b0e55ff2-b9bf-43c5-adc1-598b5b98d205",
+            "id": "4c1e3f95-6622-411d-a86c-54ec2e780728",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -12035,7 +12035,7 @@
             "second": 324
         },
         {
-            "id": "0f5aab2d-bcac-4e8a-8c42-c02b01e2e51b",
+            "id": "23fb85ce-4b8a-4ccd-aaad-fbea509d9d1a",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -12043,7 +12043,7 @@
             "second": 326
         },
         {
-            "id": "fdd408f1-adb9-4066-ab48-833ee0d735a7",
+            "id": "15085ff1-f6ea-4f19-88a6-e558213fdafb",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -12051,7 +12051,7 @@
             "second": 331
         },
         {
-            "id": "70ae38e4-2baa-4b54-8776-e76a6040728b",
+            "id": "c0507c02-7ba5-4458-8e9d-5c5a1e4c02ff",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -12059,7 +12059,7 @@
             "second": 332
         },
         {
-            "id": "8252e44f-133e-4cd1-8f1d-b3856f48461f",
+            "id": "830348b6-44de-4998-a289-21eb0ddd486d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -12067,7 +12067,7 @@
             "second": 333
         },
         {
-            "id": "ee481c9b-4d25-4669-8238-443449f15e40",
+            "id": "edfbc74b-acb8-4a00-8eaa-fdc9ab3b52fe",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -12075,7 +12075,7 @@
             "second": 334
         },
         {
-            "id": "d06626ca-1b8c-4f21-b9ff-aa9cc6f0a806",
+            "id": "43a078d7-0e8e-4672-ad96-2e02f0c6d1c5",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -12083,7 +12083,7 @@
             "second": 335
         },
         {
-            "id": "8a60ef53-d795-4d13-8726-d81d950acc32",
+            "id": "a576a715-49d6-498f-85b5-8542afa210b5",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -12091,7 +12091,7 @@
             "second": 336
         },
         {
-            "id": "6ba1139c-8fc1-471e-8a53-03f35ff2f823",
+            "id": "fc3311b6-2be9-4690-ae61-66e349ee7fe3",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -12099,7 +12099,7 @@
             "second": 337
         },
         {
-            "id": "6866be1d-b3e4-4ae8-9bf6-b1bd627a51d3",
+            "id": "7050726c-7cb8-405f-b209-a3cd37d6dee6",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -12107,7 +12107,7 @@
             "second": 338
         },
         {
-            "id": "a812bbe1-d380-43b7-9018-b66427900b2b",
+            "id": "8b5a5b07-0f8d-4b6a-8afd-f354181fdd49",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -12115,7 +12115,7 @@
             "second": 339
         },
         {
-            "id": "32401cfb-c98e-420b-804e-a49886dce4a2",
+            "id": "10bbec81-bcd7-4bca-ad13-4a8df2e875e1",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -12123,7 +12123,7 @@
             "second": 341
         },
         {
-            "id": "fa7375fb-0750-4e20-bfe2-4e868119eba9",
+            "id": "f7d6a626-be37-48a4-afd1-1b06079b8bb6",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -12131,23 +12131,23 @@
             "second": 343
         },
         {
-            "id": "73b15fa6-d04b-494d-9c76-03fb4bfac409",
+            "id": "ad46e98c-4592-499c-97be-6f1282eba0c5",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 84,
             "second": 347
         },
         {
-            "id": "685aa18c-e4f1-4b93-aa78-b9266059b173",
+            "id": "d6ab3363-b7aa-4e87-89e4-0aa26269fc31",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 84,
             "second": 351
         },
         {
-            "id": "f7bea3f9-aa25-44a0-ad2a-ea5fcef153b2",
+            "id": "b7e424f2-fd54-444f-bff4-404e8fe313d6",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": 1,
@@ -12155,7 +12155,7 @@
             "second": 354
         },
         {
-            "id": "b7434fde-41ff-4f2c-bed0-2bed12381887",
+            "id": "4b79f796-62f6-499c-9e7b-7b8e0f6c03d2",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": 1,
@@ -12163,7 +12163,7 @@
             "second": 356
         },
         {
-            "id": "53e5938d-712c-43a9-9106-9095c306bfa0",
+            "id": "11659d2f-789d-4ecf-852a-36cc516f14e9",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -12171,7 +12171,7 @@
             "second": 361
         },
         {
-            "id": "0b3c2031-813c-49c9-b74b-3d82beec42d8",
+            "id": "f3765de6-07cc-47c3-bf7e-35cb2a4624c7",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -12179,7 +12179,7 @@
             "second": 363
         },
         {
-            "id": "c282be9a-a93f-4e2f-a5f3-bf08225eed94",
+            "id": "cc818061-1764-4ae6-ad85-1b62f9fd1083",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -12187,7 +12187,7 @@
             "second": 365
         },
         {
-            "id": "c192b619-dc83-441b-a465-8ba93f559ae6",
+            "id": "f9923407-7bbd-4cb6-a4fc-3387323eb36b",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -12195,7 +12195,7 @@
             "second": 367
         },
         {
-            "id": "c899a417-ca47-4bd7-82ab-3c2e380dd35b",
+            "id": "808f9e2a-5559-4f6b-895b-afb89e998ef3",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -12203,7 +12203,7 @@
             "second": 369
         },
         {
-            "id": "a4d7a641-15ab-4d69-b99d-d40b0e0b3b7e",
+            "id": "2abaacc0-3a7b-42b0-95f4-141518a088ed",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -12211,7 +12211,7 @@
             "second": 371
         },
         {
-            "id": "c79de731-b471-41ce-8c99-af81b001814b",
+            "id": "db9648fd-b25b-413c-b605-13043df6545d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -12219,7 +12219,7 @@
             "second": 373
         },
         {
-            "id": "a98b2222-3937-402e-bb45-63e221a94c34",
+            "id": "bcc74f11-4140-41ae-8b03-db211d6aa941",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -12227,7 +12227,7 @@
             "second": 378
         },
         {
-            "id": "baebd41a-867e-4dd0-b053-8392f523ab69",
+            "id": "95a34a09-6279-4c09-93b1-a20a2ac2f9a6",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -12235,7 +12235,7 @@
             "second": 380
         },
         {
-            "id": "1c3fb384-2104-463f-9f13-e17c930ad04b",
+            "id": "534197bf-5eaf-4f65-a195-9ea2882e0ac8",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -12243,7 +12243,7 @@
             "second": 382
         },
         {
-            "id": "420de399-2569-4fb8-b261-eeb36cff5132",
+            "id": "2d7f4047-bab4-4c08-abbd-32dcbfc96313",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -12251,7 +12251,7 @@
             "second": 416
         },
         {
-            "id": "1b4b6e0e-a7d2-4f76-b4e4-340dab172e3d",
+            "id": "efc3452c-79ab-43a6-92cb-b0e2586f53e1",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -12259,7 +12259,7 @@
             "second": 417
         },
         {
-            "id": "2eec7f96-aaf1-4ef0-bdaf-70361aa28ee1",
+            "id": "61f5add3-7a43-4fec-857f-ba5e34599a2c",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -12267,7 +12267,7 @@
             "second": 432
         },
         {
-            "id": "5ab991ce-b43d-40db-8b93-6eba3374da6e",
+            "id": "96f17d53-7b1e-48a4-b094-b6a82e747d58",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -12275,23 +12275,23 @@
             "second": 506
         },
         {
-            "id": "10019b26-9c48-45d1-8a5b-6f0086b7f84d",
+            "id": "560bc2f6-97c1-4bc0-b911-597a4769aac6",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -4,
+            "amount": -5,
             "first": 84,
             "second": 507
         },
         {
-            "id": "ac7769f0-e455-4767-bd0f-43f20b68f3d8",
+            "id": "191085a4-6ae7-412b-852d-0168715a59f0",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -4,
+            "amount": -5,
             "first": 84,
             "second": 509
         },
         {
-            "id": "1cb3025d-056d-4fd0-bb55-95038657d356",
+            "id": "81932d7f-bc3d-4ecd-baaf-67d27cdbf07a",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -12299,7 +12299,7 @@
             "second": 510
         },
         {
-            "id": "462f2b65-4b54-4932-815a-93921051bcdc",
+            "id": "288ed2c1-f755-4b1c-b49d-97de01e8fc0e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -12307,15 +12307,15 @@
             "second": 511
         },
         {
-            "id": "f44225d3-7d72-4d1a-a772-9a6fd6d6847b",
+            "id": "9941e442-7c3a-48f2-ab47-38740e7f0aa0",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 84,
             "second": 537
         },
         {
-            "id": "d6cb3d8c-8ebb-4379-bad1-7aac1c680168",
+            "id": "cf865238-aeae-4ab1-8c0a-f7b0fdd8dc9e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": 1,
@@ -12323,7 +12323,7 @@
             "second": 538
         },
         {
-            "id": "d95cdceb-3996-4c23-b550-53b2d867ad3c",
+            "id": "45c208d6-67cf-46bf-85d6-3de26997ec22",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -12331,15 +12331,15 @@
             "second": 7680
         },
         {
-            "id": "42e0d89d-f806-46c7-95e1-a62c9bfb6044",
+            "id": "7972d47e-ce69-405c-89dd-c160cf0652fc",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -4,
+            "amount": -5,
             "first": 84,
             "second": 7681
         },
         {
-            "id": "d1cfdc9a-a3a4-485e-87ba-5ff4f3fa233b",
+            "id": "007cc348-8f3f-4c99-95b0-483f2b1ed91f",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -12347,7 +12347,7 @@
             "second": 7743
         },
         {
-            "id": "4f6a9dc7-fe13-4ee8-bbe3-67598f8962af",
+            "id": "34ee1717-61ea-4f94-927f-3a6d9d76869b",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -12355,7 +12355,7 @@
             "second": 7809
         },
         {
-            "id": "981d6836-803c-4113-a4f7-e2126f977466",
+            "id": "a315979e-8e15-4720-8375-985683309008",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -12363,7 +12363,7 @@
             "second": 7811
         },
         {
-            "id": "b4664e87-7f5b-4c52-a748-ee9cc423d31d",
+            "id": "9e3fcbe2-a4c0-42c9-bbcb-5746535930b7",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -12371,15 +12371,15 @@
             "second": 7840
         },
         {
-            "id": "c5876e81-c3cf-4c79-9b7e-9aa9e24eeb10",
+            "id": "5c71bb87-d822-4a03-8dc0-9a1d3b5c2625",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -4,
+            "amount": -5,
             "first": 84,
             "second": 7841
         },
         {
-            "id": "833a04fe-09a9-4e39-b3ab-f94182e4ea34",
+            "id": "90f150f1-3b7a-4acc-8c96-fc13f073ba05",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -12387,15 +12387,15 @@
             "second": 7842
         },
         {
-            "id": "25944cfd-6d15-4e2f-9584-66a1529cc9de",
+            "id": "8d8f989d-1155-45ee-b2a3-ae78b769d4ce",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -4,
+            "amount": -5,
             "first": 84,
             "second": 7843
         },
         {
-            "id": "9b60130b-1382-4647-a87c-9b3c06d63f78",
+            "id": "79318bf6-d665-4588-8ccb-12b32c373a0d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -12403,15 +12403,15 @@
             "second": 7844
         },
         {
-            "id": "0cae9a76-51fc-42dd-b86b-87edfc5178ae",
+            "id": "48346855-3e87-402e-b6a7-0f87cfc3b4c4",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -4,
+            "amount": -5,
             "first": 84,
             "second": 7845
         },
         {
-            "id": "714d7898-8cdf-43df-ba90-cda0346c7353",
+            "id": "642b8720-1a18-4c13-9b46-2dcb3bc112bb",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -12419,7 +12419,7 @@
             "second": 7846
         },
         {
-            "id": "cef03de5-a59f-4673-ad25-3b308adbb599",
+            "id": "2b803549-65d5-4994-ba3e-4bd9d9c19c0b",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -12427,15 +12427,15 @@
             "second": 7848
         },
         {
-            "id": "5beee768-75b2-4da9-8563-304b6aabb4cb",
+            "id": "c403bb99-443c-4085-95e0-297fe9526fc7",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -4,
+            "amount": -5,
             "first": 84,
             "second": 7849
         },
         {
-            "id": "7834b790-653f-432c-a4db-d12a199dc272",
+            "id": "c508d6f0-b522-4d8f-bbf3-c543770a2728",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -12443,15 +12443,15 @@
             "second": 7850
         },
         {
-            "id": "40326a33-362c-4d56-b873-e7c63718bf58",
+            "id": "ab1007fd-5ddd-47ca-8c5a-9f55750f3ce5",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -4,
+            "amount": -5,
             "first": 84,
             "second": 7851
         },
         {
-            "id": "a9bba4cd-03ff-4f55-9e03-dfe125018239",
+            "id": "428234d8-d11e-4f01-a8bd-f1d1e2338edc",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -12459,15 +12459,15 @@
             "second": 7852
         },
         {
-            "id": "16c1330c-76d9-4d60-bcd3-d2ece25e88fb",
+            "id": "639945e9-ed76-4f16-949d-a328820f364b",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -4,
+            "amount": -5,
             "first": 84,
             "second": 7853
         },
         {
-            "id": "5ab99292-adfb-461c-8203-6903baf35830",
+            "id": "3c661dfc-270c-495b-a3e1-0654daaf0140",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -12475,15 +12475,15 @@
             "second": 7854
         },
         {
-            "id": "5a168107-7e78-470d-90d8-2862fd167ef7",
+            "id": "a6aea8a9-5d09-4448-a7bf-343ad2a1c9a1",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -4,
+            "amount": -5,
             "first": 84,
             "second": 7855
         },
         {
-            "id": "6a0bf6e5-e065-4eb0-be8a-dafb65f993e2",
+            "id": "219e7897-f8c3-4c48-b4fb-982d60e7281e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -12491,15 +12491,15 @@
             "second": 7856
         },
         {
-            "id": "b8c8310d-87fa-4571-8127-2271e2fb38de",
+            "id": "f56383b6-c7fe-41b0-b2f1-551a26fb8990",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -4,
+            "amount": -5,
             "first": 84,
             "second": 7857
         },
         {
-            "id": "835bb11f-a3b0-491e-86dc-56c1dfb22b4f",
+            "id": "b15e2233-bad6-4439-8ad2-bbb717102aaa",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -12507,15 +12507,15 @@
             "second": 7858
         },
         {
-            "id": "e1139bd9-6965-4d4b-a465-15b655710a05",
+            "id": "1a5796e2-24b1-4159-9e4c-1f0b507acd4c",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -4,
+            "amount": -5,
             "first": 84,
             "second": 7859
         },
         {
-            "id": "1183f572-67b8-4e4f-85ce-dd00041a4912",
+            "id": "64b59df7-bd60-487a-be41-a7b1eb3bd85d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -12523,15 +12523,15 @@
             "second": 7860
         },
         {
-            "id": "eebcc238-45a2-431d-8d8a-927d9bd02784",
+            "id": "bde88f72-f81e-405c-bac7-e62a1f59a090",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -4,
+            "amount": -5,
             "first": 84,
             "second": 7861
         },
         {
-            "id": "2bad07d0-f812-485b-873d-3b79fdddcf43",
+            "id": "12e25379-3620-4a7b-8d5d-08bfd4f9f2c4",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -12539,15 +12539,15 @@
             "second": 7862
         },
         {
-            "id": "3ed2d0d2-bf07-4d0a-bb8f-23d8249dfc36",
+            "id": "60b3453f-5820-4c89-a964-26ce5930a95b",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -4,
+            "amount": -5,
             "first": 84,
             "second": 7863
         },
         {
-            "id": "b39db426-77c9-45e7-91c6-d57fc4f4d206",
+            "id": "62f06551-c3d4-4190-ad5b-cf839717c80b",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -12555,7 +12555,7 @@
             "second": 7865
         },
         {
-            "id": "9833b10d-2773-4da9-b45c-2d7e3e19d30e",
+            "id": "57a24816-94d7-4e1c-b145-62f9f71810c9",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -12563,7 +12563,7 @@
             "second": 7867
         },
         {
-            "id": "a7eed37f-d361-438f-94ad-5d2897a1282b",
+            "id": "861db7e1-5263-440a-89fb-38d124f33c42",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -12571,7 +12571,7 @@
             "second": 7869
         },
         {
-            "id": "16980f6d-2915-4cfc-9259-1457385514f3",
+            "id": "3e4f5183-6341-41bd-9b3c-926274025d43",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -12579,7 +12579,7 @@
             "second": 7871
         },
         {
-            "id": "e0798078-d861-405b-a427-04a72b3fb1dc",
+            "id": "faae378f-755a-476a-9d93-aa755624f42b",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -12587,7 +12587,7 @@
             "second": 7875
         },
         {
-            "id": "63472c7c-668b-4a0a-8f46-609952b36039",
+            "id": "ee6e2c44-e8ec-47a3-b9f5-21f22c675270",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -12595,7 +12595,7 @@
             "second": 7877
         },
         {
-            "id": "b52e6463-7911-4634-b267-fea4f7e76ef2",
+            "id": "2df11048-1340-4b9b-bce5-bac173b01751",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -12603,7 +12603,7 @@
             "second": 7879
         },
         {
-            "id": "2053b80b-e6d0-4325-aa63-671f5a65aa84",
+            "id": "43cbb3bc-b1e9-4605-a1a8-3a176090d51e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -12611,7 +12611,7 @@
             "second": 7884
         },
         {
-            "id": "5569899e-ca2b-4c23-9de6-c3ed5e70c71e",
+            "id": "bffe196d-417c-434e-b9e6-9df43391d0a1",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -12619,7 +12619,7 @@
             "second": 7885
         },
         {
-            "id": "47a5aaea-36c3-48ab-a87e-792727ff7ed9",
+            "id": "49cdc540-9aa3-40b2-970a-260125e78590",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -12627,7 +12627,7 @@
             "second": 7886
         },
         {
-            "id": "eeb0bdf4-0c7f-4790-b78a-6e5d2222296c",
+            "id": "f8583373-7fed-4f2e-a118-31c106f2cc6a",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -12635,7 +12635,7 @@
             "second": 7887
         },
         {
-            "id": "510a3463-71b5-4fec-a0e1-bbc56d5b3335",
+            "id": "fc35766c-efd4-4442-914b-0da433d00ed1",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -12643,7 +12643,7 @@
             "second": 7888
         },
         {
-            "id": "27e97130-c0cc-4457-8f16-61bd53c17631",
+            "id": "777dac6e-6a59-41af-8b62-4c4e0656192e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -12651,7 +12651,7 @@
             "second": 7889
         },
         {
-            "id": "8a660f9c-2510-48b3-be8a-6988e2233410",
+            "id": "59c1353a-1b67-43b2-a6eb-633734a60ae9",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -12659,7 +12659,7 @@
             "second": 7890
         },
         {
-            "id": "566fe0c3-3f1f-45dc-97e2-affb6eab82b8",
+            "id": "a9552b57-3f50-4556-a739-154f7b7dc812",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -12667,7 +12667,7 @@
             "second": 7892
         },
         {
-            "id": "5d3bae0a-d983-4a1b-bff3-be1c0997406e",
+            "id": "1459f05c-7921-4ddc-bbd3-ac832a77ba97",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -12675,7 +12675,7 @@
             "second": 7893
         },
         {
-            "id": "cf367a43-6a8b-4a6d-a583-66dfbf1ec753",
+            "id": "5084c14a-5299-4bb6-9e25-ac2e2c4e9c27",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -12683,7 +12683,7 @@
             "second": 7894
         },
         {
-            "id": "b4e6edb7-ded3-43c3-b705-e7c43791fa8f",
+            "id": "f23a7e4e-d3ed-45b5-b41d-60da9a4d27a4",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -12691,7 +12691,7 @@
             "second": 7895
         },
         {
-            "id": "605ba44c-366e-4806-ad6f-e7c0384d7095",
+            "id": "b7e1868f-36a7-4247-937c-b24186656b66",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -12699,7 +12699,7 @@
             "second": 7896
         },
         {
-            "id": "fd7006c3-6037-44ce-95fb-c130d40af898",
+            "id": "b3123403-0c25-497c-a3de-324e3b1b7cb5",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -12707,7 +12707,7 @@
             "second": 7897
         },
         {
-            "id": "b716aab0-132a-4cb8-ae8c-ed0f9b294e20",
+            "id": "02a82648-49d4-4854-9f6f-eb5deacf5d2a",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -12715,7 +12715,7 @@
             "second": 7898
         },
         {
-            "id": "4067db50-fa41-47e6-b82d-72a1a77c0b7c",
+            "id": "59830f4f-74b1-4af4-b677-ae2f007fd83d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -12723,7 +12723,7 @@
             "second": 7899
         },
         {
-            "id": "2087a4ac-1165-4418-acb2-d86e25ecd04c",
+            "id": "4468e2b2-b8dd-4cb1-a0b3-36c62bb43e1e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -12731,7 +12731,7 @@
             "second": 7900
         },
         {
-            "id": "c594c163-3a3e-4526-9051-31092df2d833",
+            "id": "84f4e279-04f6-47c0-a52c-c9f080d09b9d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -12739,7 +12739,7 @@
             "second": 7901
         },
         {
-            "id": "25ad7d0d-57a3-4c3a-9b3a-d8cbf4580129",
+            "id": "80763048-677f-4fca-af7e-214f261831f9",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -12747,7 +12747,7 @@
             "second": 7902
         },
         {
-            "id": "c5ef80bf-779c-4329-a4f5-007c98d288cb",
+            "id": "77535b1d-8b81-4886-9c12-a31bde1d6861",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -12755,7 +12755,7 @@
             "second": 7903
         },
         {
-            "id": "4bcd3693-62f7-4766-922a-2e84a46276bd",
+            "id": "6306e2de-cbbe-4191-9871-2ec2433407a8",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -12763,7 +12763,7 @@
             "second": 7904
         },
         {
-            "id": "66321dc9-2ff4-4310-b707-26e292a1bd5e",
+            "id": "96aa8926-b64e-4f55-81b5-032eceab992f",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -12771,7 +12771,7 @@
             "second": 7905
         },
         {
-            "id": "13e874e2-f9b9-4531-9495-9e1deaab9963",
+            "id": "075b98e0-3191-4aa7-a0a8-021b81903883",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -12779,7 +12779,7 @@
             "second": 7906
         },
         {
-            "id": "cfa3be48-6f14-4b61-9bde-1bc4f765319f",
+            "id": "b9e9b806-2ddc-4294-ad09-d4b05730b293",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -4,
@@ -12787,7 +12787,7 @@
             "second": 7907
         },
         {
-            "id": "cdfe5f13-8647-4072-950c-4a64b0418c60",
+            "id": "3100ff13-7be5-498e-a1dc-2314e9da4710",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -12795,7 +12795,7 @@
             "second": 7909
         },
         {
-            "id": "602697f5-cf10-448f-8cc9-5c5d4a763551",
+            "id": "9631329c-50c5-4911-856f-3e91084d6804",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -12803,7 +12803,7 @@
             "second": 7911
         },
         {
-            "id": "caffe397-f963-4c2b-b10b-65d44ccd4957",
+            "id": "26646c9f-ce77-4c1f-8603-11aa12b48f24",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -12811,7 +12811,7 @@
             "second": 7913
         },
         {
-            "id": "a3cf17a1-e7c5-4020-80fb-c836f45ef7d8",
+            "id": "61a23294-21b7-42bc-af2f-aef4789cbdc6",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -12819,7 +12819,7 @@
             "second": 7915
         },
         {
-            "id": "d9fb03cb-3e91-4a4f-bf40-2ebce0dd9850",
+            "id": "1c7a2d32-b4e8-4ad8-93d9-93a2d020598d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -12827,7 +12827,7 @@
             "second": 7917
         },
         {
-            "id": "260bbf00-0c6a-4c1f-add8-6559ee2de395",
+            "id": "7bdedb06-25b6-403d-b852-327b809a3cb3",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -12835,7 +12835,7 @@
             "second": 7919
         },
         {
-            "id": "88fec6d7-03ee-4bd5-bae6-2ac072cb4e6e",
+            "id": "d8f304a9-2820-49d2-af94-b80dc25ae442",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -12843,7 +12843,7 @@
             "second": 7921
         },
         {
-            "id": "308181d5-9dce-4266-b7e0-a5c6609bb207",
+            "id": "5f0b80f1-36b9-43d0-9a08-945bfbfc7d60",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -12851,7 +12851,7 @@
             "second": 7925
         },
         {
-            "id": "5220f58e-7391-45b5-9b0b-19add64d1b9b",
+            "id": "5dcbbb1e-2019-4b89-8ba3-c8381189891b",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -12859,7 +12859,7 @@
             "second": 8211
         },
         {
-            "id": "46b1b071-9dd6-4ed0-954b-fcadc033a246",
+            "id": "159492a3-5daf-4919-86f2-4fb8973f699c",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -12867,7 +12867,7 @@
             "second": 8212
         },
         {
-            "id": "1b1b8bf8-724e-44e6-bc7c-550ffc9ec4a9",
+            "id": "d2c2c9ef-24ff-435a-ba9a-24413012be3b",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -12875,23 +12875,23 @@
             "second": 8213
         },
         {
-            "id": "5e0263a2-43d2-4449-ad39-77d7c0fcf0b4",
+            "id": "389574a6-55bf-47f9-919f-bd182134a24e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 84,
             "second": 8218
         },
         {
-            "id": "5be5c470-749a-47cd-b5eb-c4a7a510e270",
+            "id": "b1f47729-6954-41ee-8775-fc36fdca6eba",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 84,
             "second": 8222
         },
         {
-            "id": "50cde443-4a0f-4277-99c4-e4113c90abef",
+            "id": "5c048473-a2a8-4888-9724-22eb5943765a",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -12899,7 +12899,7 @@
             "second": 44
         },
         {
-            "id": "7354b8dd-159f-4448-85f9-4728cf8e4b51",
+            "id": "37f56eb1-34a6-4dec-892e-68d0e5212fbf",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -12907,7 +12907,7 @@
             "second": 46
         },
         {
-            "id": "17bf9d2a-bdaa-45d4-852a-14cc6ae543f3",
+            "id": "bb933f72-e2a0-42f7-b646-034407ebba7b",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -12915,7 +12915,7 @@
             "second": 65
         },
         {
-            "id": "8fc23702-c9bc-464f-ac48-897dd73055e5",
+            "id": "47e4d390-8bd2-484a-b816-ec4af91041e3",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -12923,7 +12923,7 @@
             "second": 192
         },
         {
-            "id": "69153f21-867a-412d-8db8-bf05ef159c35",
+            "id": "5244dd1b-ed0c-46a0-915b-5355dd4d26c8",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -12931,7 +12931,7 @@
             "second": 193
         },
         {
-            "id": "b433056b-8d6e-4010-aa0f-18072cd53534",
+            "id": "daf4ec80-a7b6-4d5c-a550-80c42a781f21",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -12939,7 +12939,7 @@
             "second": 194
         },
         {
-            "id": "7e48ac91-f0ca-4b69-8820-dc27093e29a5",
+            "id": "3c50ba3d-78a9-4416-a901-b3f89ff7f9c5",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -12947,7 +12947,7 @@
             "second": 195
         },
         {
-            "id": "287f39f3-a3c1-43f9-b017-d45406e07ddb",
+            "id": "2a6270e8-70a8-450f-9d47-7a9063e107a8",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -12955,7 +12955,7 @@
             "second": 196
         },
         {
-            "id": "2e8167cd-fe00-4e81-a3fa-b7955f2f6d68",
+            "id": "064c6a09-5d40-42e5-9a00-6d22d365b8b2",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -12963,7 +12963,7 @@
             "second": 197
         },
         {
-            "id": "1cd9190b-0168-43ca-967c-07cc4611c8b0",
+            "id": "baa877f2-8256-4c5c-a2ef-ae1d92aba57c",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -12971,7 +12971,7 @@
             "second": 256
         },
         {
-            "id": "467d0d03-edd5-462b-ba8b-cb372c1e7bcf",
+            "id": "a8549caa-036b-4176-bd47-aa6d66665681",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -12979,7 +12979,7 @@
             "second": 258
         },
         {
-            "id": "3ccc1145-fc88-4eb5-9c8d-bfd44a3dc5a4",
+            "id": "1b34253a-c028-4219-a498-999fad7d07fc",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -12987,7 +12987,7 @@
             "second": 260
         },
         {
-            "id": "2c80d510-0776-4c9e-a628-ae5a3ccb355f",
+            "id": "e3b65f6b-21c9-4ff2-b7e0-f32df2bff9b1",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -12995,7 +12995,7 @@
             "second": 506
         },
         {
-            "id": "ae3dc8e6-f4ee-49a3-b00f-daf770355124",
+            "id": "6e554b40-5aa4-4c1e-8d40-b8036da5c681",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13003,7 +13003,7 @@
             "second": 7680
         },
         {
-            "id": "99313cf1-8123-4580-bc1b-b0c3fab3ec2f",
+            "id": "8820fd31-5e64-4540-a566-13df2b7ceef5",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13011,7 +13011,7 @@
             "second": 7840
         },
         {
-            "id": "c605f658-ea6e-4ce4-bb7c-f255fdf02cfa",
+            "id": "15573b6f-a30b-4caa-b59d-4e674374f140",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13019,7 +13019,7 @@
             "second": 7842
         },
         {
-            "id": "e5338dcc-499f-457d-ba33-b6f0f1e1e180",
+            "id": "7498a733-7071-43f0-8892-0f968c2eaf75",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13027,7 +13027,7 @@
             "second": 7844
         },
         {
-            "id": "6c71f885-8982-48ae-88bc-99140c2a37b1",
+            "id": "85fcd295-43d3-4004-8296-fd467078776b",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13035,7 +13035,7 @@
             "second": 7846
         },
         {
-            "id": "7f088040-f143-42fa-8da0-1ab6bd74a5c2",
+            "id": "59cec22a-d453-4981-a9ad-04f1d394ad92",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13043,7 +13043,7 @@
             "second": 7848
         },
         {
-            "id": "cb1213a3-f024-4033-a692-ae695ab8cdae",
+            "id": "b913c8d6-61f6-468e-b564-18fb797109ff",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13051,7 +13051,7 @@
             "second": 7850
         },
         {
-            "id": "d100456e-d03d-40b5-a723-b5103ea21183",
+            "id": "805c0144-0bc1-48cb-b862-88930501f28a",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13059,7 +13059,7 @@
             "second": 7852
         },
         {
-            "id": "58cc03be-16bc-4313-b2ec-7ecc640886a2",
+            "id": "f94be762-1456-4f35-b099-5f299fb71b0f",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13067,7 +13067,7 @@
             "second": 7854
         },
         {
-            "id": "da4ca33a-d7f9-4962-8d39-8f71de31e620",
+            "id": "df956e2e-2bc4-4d82-b14c-9b0bf485faac",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13075,7 +13075,7 @@
             "second": 7856
         },
         {
-            "id": "b78be316-817c-4751-b349-2caa3f9f65ea",
+            "id": "2999cd87-7dc5-4449-987c-2850fdaa590f",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13083,7 +13083,7 @@
             "second": 7858
         },
         {
-            "id": "40d6a052-cc96-46f8-b10a-83b8d7686f49",
+            "id": "a7e05e3d-89b7-4ec5-99c5-e62a4f35752c",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13091,7 +13091,7 @@
             "second": 7860
         },
         {
-            "id": "b4d85731-16a6-4bcd-99f9-9bed4a14d66c",
+            "id": "5e9c035c-1833-43d2-a5b4-194a366798e1",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13099,7 +13099,7 @@
             "second": 7862
         },
         {
-            "id": "ea86a0b8-7469-4ea3-a8f4-94d237e433e5",
+            "id": "2bc8dbdc-c5e1-42df-b8d7-72fb36fba8e3",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13107,7 +13107,7 @@
             "second": 8218
         },
         {
-            "id": "0450f395-3bfe-43ef-b1d3-bab9ca85b322",
+            "id": "076e1b3f-4d4c-4ca2-9740-d462ef1e3d9e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13115,7 +13115,7 @@
             "second": 8222
         },
         {
-            "id": "f47fbd22-8659-45b7-8693-d7ffd5f228fa",
+            "id": "decc0f7a-7ed1-466e-ab80-624d6176e95c",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -13123,7 +13123,7 @@
             "second": 44
         },
         {
-            "id": "50444eae-6245-48a4-9ade-54e8089ee806",
+            "id": "e778129e-24e5-4f61-aaa1-f7901463d87f",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -13131,7 +13131,7 @@
             "second": 46
         },
         {
-            "id": "a0282aa1-b4ab-471f-bffd-cedfc37e3bcb",
+            "id": "b36bb518-f3b5-4739-8edf-d1032f751272",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": 1,
@@ -13139,7 +13139,7 @@
             "second": 63
         },
         {
-            "id": "748d4013-9bee-4205-b694-35932b68552a",
+            "id": "0de768e7-b2fd-404c-b05a-51589db4f8ee",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -13147,7 +13147,7 @@
             "second": 65
         },
         {
-            "id": "78d803e3-dd42-4d1f-baa4-c33a06dd6ad3",
+            "id": "d405881e-a18a-49ec-b2ac-dbc84414a567",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13155,7 +13155,7 @@
             "second": 67
         },
         {
-            "id": "2c5b95aa-ea69-46ad-8cff-f99d5523e814",
+            "id": "9dc2346d-8830-465b-aa2b-ae34922d8c16",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13163,7 +13163,7 @@
             "second": 71
         },
         {
-            "id": "4c5e2951-df90-4706-8ae6-c21e498f267f",
+            "id": "eab9a980-728b-43c5-b045-0db4bce87088",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13171,7 +13171,7 @@
             "second": 79
         },
         {
-            "id": "b912e3bd-45a6-4594-8160-3a09abc118a6",
+            "id": "44145b1f-ea04-4131-ad46-1d079026fcdf",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13179,7 +13179,7 @@
             "second": 81
         },
         {
-            "id": "356c8ede-be00-499c-bfa6-445cd063aa60",
+            "id": "61f86aae-e9e9-4301-802c-c19ecd4b2b19",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13187,7 +13187,7 @@
             "second": 97
         },
         {
-            "id": "8e2ab0fe-9629-4cb9-813d-95c7955028cf",
+            "id": "ea9d01c1-84e4-4cd0-b137-e23c7db02ab6",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13195,7 +13195,7 @@
             "second": 99
         },
         {
-            "id": "f505a2a3-5c72-49bb-a4fc-7bce8e7e3603",
+            "id": "2aefb02e-aa8c-4bf1-9c17-614ceac0ca79",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13203,7 +13203,7 @@
             "second": 100
         },
         {
-            "id": "5d9184ba-e95d-4d53-b84e-34ed52de5d61",
+            "id": "84a4d8ce-ddd6-4435-803a-790e754137ec",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13211,7 +13211,7 @@
             "second": 101
         },
         {
-            "id": "40041155-e9fd-43d6-b30b-38fc42a3b7b9",
+            "id": "c00f6c98-c96a-4782-89cc-b42a196255e1",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13219,7 +13219,7 @@
             "second": 103
         },
         {
-            "id": "c1349e59-802f-48fb-8150-3da1689eaa25",
+            "id": "fc23042a-cd0d-42cb-a90c-2a8374c9b4fa",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13227,7 +13227,7 @@
             "second": 109
         },
         {
-            "id": "fe27ac95-b2c9-4286-9e41-d98d81f8d987",
+            "id": "64a83dca-6f9e-4cbd-8010-6f06c99bda5a",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13235,7 +13235,7 @@
             "second": 110
         },
         {
-            "id": "b6c80bb2-90f1-40d1-91f9-d6b92b87f6ca",
+            "id": "9b7c3fe1-d391-4681-9d15-0f51bca0ef39",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13243,7 +13243,7 @@
             "second": 111
         },
         {
-            "id": "82a5ae3e-7ce3-425b-921b-dbbf2c91dac9",
+            "id": "26f035dc-b17e-405a-8a5c-c98dc1e3a96f",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13251,7 +13251,7 @@
             "second": 112
         },
         {
-            "id": "999d8442-78a7-467f-8a03-003cd4b2a7ac",
+            "id": "bb11d60c-6d16-4b16-a8c3-d27b08f21274",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13259,7 +13259,7 @@
             "second": 113
         },
         {
-            "id": "d85cbc17-1a4c-429c-9e6a-cd9fe8b10d7f",
+            "id": "7e611273-8db3-4efb-9c4e-c993750e158e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13267,7 +13267,7 @@
             "second": 114
         },
         {
-            "id": "8bcbabad-501f-4f43-b49e-39035b599e52",
+            "id": "a719f036-3b4d-41c5-95dc-1cbb17675eae",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13275,7 +13275,7 @@
             "second": 115
         },
         {
-            "id": "e57faa52-1955-4d95-a8a0-a4c32f157bd6",
+            "id": "ddb86f6b-93c0-47ce-8274-d44adede3480",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13283,7 +13283,7 @@
             "second": 117
         },
         {
-            "id": "ceaac178-1cdb-4e24-9dd3-2c7e1c986e41",
+            "id": "e6d2217a-5962-4cfc-8e57-44bc71403dee",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -13291,7 +13291,7 @@
             "second": 192
         },
         {
-            "id": "8a0402e5-c5cc-4f4b-ba8a-d3349d481451",
+            "id": "f61296c1-fb3b-4cbc-97fe-119234597547",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -13299,7 +13299,7 @@
             "second": 193
         },
         {
-            "id": "35b3ae55-8ead-4776-88c4-ca32b45e4072",
+            "id": "6c1a7ddf-cc4a-4222-af89-dec59a863868",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -13307,7 +13307,7 @@
             "second": 194
         },
         {
-            "id": "3f113cc3-a485-44a8-9e30-3c542cae8346",
+            "id": "34e61aaf-a8bc-4c2c-bfa5-7c9386dad036",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -13315,7 +13315,7 @@
             "second": 195
         },
         {
-            "id": "c78c262e-26fb-4d1d-844c-238f61644c8d",
+            "id": "3097c250-c09e-40f5-b19d-dc92906927ac",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -13323,7 +13323,7 @@
             "second": 196
         },
         {
-            "id": "24b1b90c-0b96-4c53-89de-12a91daf593b",
+            "id": "9b417d98-ad13-484b-807d-54fc03c5b6a5",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -13331,7 +13331,7 @@
             "second": 197
         },
         {
-            "id": "0f2de308-cfa3-45db-907b-8974029c5a51",
+            "id": "5439de45-db51-4856-935d-2ecad935f01c",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13339,7 +13339,7 @@
             "second": 199
         },
         {
-            "id": "515433f4-e853-4852-80dc-1d1b645cf453",
+            "id": "2fe46410-3909-4d31-a152-a8bc44accdc0",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13347,7 +13347,7 @@
             "second": 210
         },
         {
-            "id": "2675b0de-7d4a-4ab0-94cb-7411cb6fba60",
+            "id": "f5557aa5-a03e-4f2e-ab70-ff208c6d5934",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13355,7 +13355,7 @@
             "second": 211
         },
         {
-            "id": "2bb8c99e-b95d-477b-9655-8e8ab2a4ad8d",
+            "id": "5d58ae42-b8df-40d2-bc94-220682cad7b0",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13363,7 +13363,7 @@
             "second": 212
         },
         {
-            "id": "681296ac-47ed-4610-a94d-6d6cfe8335c2",
+            "id": "1b4b09b4-807d-4a52-8d7f-d62c8ee86c99",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13371,7 +13371,7 @@
             "second": 213
         },
         {
-            "id": "e9ba7aa9-928f-4d53-8f8d-44a01f072625",
+            "id": "ff75609f-4bb9-49b7-8fcb-f3e7369feee1",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13379,7 +13379,7 @@
             "second": 214
         },
         {
-            "id": "1961a899-b588-4dba-9005-b0f86b30a19f",
+            "id": "6d84ad2c-3510-4739-8caa-37085b5dfcf4",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13387,7 +13387,7 @@
             "second": 216
         },
         {
-            "id": "62bd7390-76d0-41b8-ba02-f59253a68478",
+            "id": "fa45ab04-fcf2-44b1-8ece-9348834e8dc6",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13395,7 +13395,7 @@
             "second": 224
         },
         {
-            "id": "0385439c-de15-4489-b980-b95951376655",
+            "id": "875a6582-92b4-480c-b710-3dba4e59c78b",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13403,7 +13403,7 @@
             "second": 225
         },
         {
-            "id": "145fe267-7121-41ab-b192-04f814025e66",
+            "id": "c73cbd0d-dc12-478a-adb0-7bf5147c59a5",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13411,7 +13411,7 @@
             "second": 226
         },
         {
-            "id": "f4b322e9-10aa-4644-9214-f9cc4e7aadd6",
+            "id": "6a686d04-6847-4434-8307-0007a43720a0",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13419,7 +13419,7 @@
             "second": 227
         },
         {
-            "id": "9aa1ee61-eb2d-4a1a-a846-4bd79e0471eb",
+            "id": "1b89306c-ce51-4af3-8b38-1c41511748e8",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13427,7 +13427,7 @@
             "second": 228
         },
         {
-            "id": "661188ac-8ad5-4bdb-9e3c-951e59f8701e",
+            "id": "0c2106fe-1c03-4664-a3ed-eb9c40b9e9b1",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13435,7 +13435,7 @@
             "second": 229
         },
         {
-            "id": "0e5de6c4-1447-49b2-b9e6-5bea581650c3",
+            "id": "184b74a9-016a-4e9d-bc78-cf376d86151a",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13443,7 +13443,7 @@
             "second": 230
         },
         {
-            "id": "7495f030-e645-4a7e-aff8-1d9b5dcffbce",
+            "id": "1b984127-389c-4fae-a4e8-c079db5c1aab",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13451,7 +13451,7 @@
             "second": 231
         },
         {
-            "id": "4b886037-50a1-4262-a186-27ce06f28339",
+            "id": "8848dfcd-46fc-4e5b-b86e-0ab3dd6248e5",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13459,7 +13459,7 @@
             "second": 232
         },
         {
-            "id": "4fe61151-0647-4ef7-bff8-6fdee2887f92",
+            "id": "a8303cae-dab5-40f5-a8de-2504f5eb1241",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13467,7 +13467,7 @@
             "second": 233
         },
         {
-            "id": "3c9f505e-7b16-4779-bb06-a0eeecb3e372",
+            "id": "aacf4827-b606-4dcb-9a20-74884d76faac",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13475,7 +13475,7 @@
             "second": 234
         },
         {
-            "id": "e4777f6c-b9c0-456a-8e4f-9a49aa5de080",
+            "id": "0a91e508-ad1a-46af-a3c8-20a32e1091f4",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13483,7 +13483,7 @@
             "second": 235
         },
         {
-            "id": "3fcfd4a2-fc06-43e5-850b-640eb922513c",
+            "id": "a18eadd5-3c68-4613-935b-ee93122150f8",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13491,7 +13491,7 @@
             "second": 242
         },
         {
-            "id": "0d72f65e-37b0-44ba-b9bc-b00e50e0df6b",
+            "id": "1145a8de-027f-47e3-9cf2-67c2ebbec389",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13499,7 +13499,7 @@
             "second": 243
         },
         {
-            "id": "8b2a513f-68e5-4350-9acb-145b93f9f843",
+            "id": "60e65c80-c113-4986-a0aa-230c29f8cf06",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13507,7 +13507,7 @@
             "second": 244
         },
         {
-            "id": "f6202555-6b3d-47eb-9706-75126a7e53c1",
+            "id": "803d8928-9036-4eec-b188-48e3940c4495",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13515,7 +13515,7 @@
             "second": 245
         },
         {
-            "id": "a3a7ef07-afd7-4abf-b091-5693eed472a5",
+            "id": "11c9d3cc-588b-4cd7-bb45-098a40c40330",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13523,7 +13523,7 @@
             "second": 246
         },
         {
-            "id": "c7e24b78-c880-4f91-a4d7-89209bc11ed0",
+            "id": "76b04a28-ee28-484f-9c93-60ab9c703908",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13531,7 +13531,7 @@
             "second": 248
         },
         {
-            "id": "98eaa504-ea8c-4205-bb22-7abe76346904",
+            "id": "ab06c87e-1d6c-401a-b832-4be0b69fefcc",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13539,7 +13539,7 @@
             "second": 249
         },
         {
-            "id": "8649a9fd-986a-40ef-8109-fd6cad49fdbb",
+            "id": "a424ad00-400f-4aa3-b66e-0810cb51887b",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13547,7 +13547,7 @@
             "second": 250
         },
         {
-            "id": "a0d8347f-d2f4-47b1-9b3d-b2a2d7299792",
+            "id": "1bfe9d6c-e6d7-488b-a7b0-71f12469d89e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13555,7 +13555,7 @@
             "second": 251
         },
         {
-            "id": "52d4e719-ecdb-458f-bc3f-c84d91a4fb42",
+            "id": "973ae636-f310-4db7-b062-fb58c1ffa4cd",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13563,7 +13563,7 @@
             "second": 252
         },
         {
-            "id": "5749638f-3a49-4733-ae20-79b3dec933b2",
+            "id": "63c16994-1fee-4fd4-abb0-dd940fceef39",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -13571,7 +13571,7 @@
             "second": 256
         },
         {
-            "id": "c47abdb6-6c95-4282-a855-dd51ceb222cd",
+            "id": "2599f1c7-234d-4ea4-9ebd-afc11db3e8c0",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13579,7 +13579,7 @@
             "second": 257
         },
         {
-            "id": "1120c9aa-e563-43c9-be57-f14e149ada31",
+            "id": "32420a00-d37f-45ed-a5f8-0730d0f31d6d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -13587,7 +13587,7 @@
             "second": 258
         },
         {
-            "id": "8617138b-3d69-4942-898f-b69ee456e071",
+            "id": "a3622d48-6d02-4a96-95d4-bad83e56c7fc",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13595,7 +13595,7 @@
             "second": 259
         },
         {
-            "id": "7475ca1a-522f-43a6-82ce-7554d264168c",
+            "id": "ee83f08c-22ba-47d9-995d-cda437f3d3c5",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -13603,7 +13603,7 @@
             "second": 260
         },
         {
-            "id": "bb9dba06-7d1d-4883-92df-eb029fbe9c0b",
+            "id": "c41ed9f4-03e7-44e2-954a-700104254d6f",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13611,7 +13611,7 @@
             "second": 261
         },
         {
-            "id": "3c876b37-ec1b-4f22-819d-2d246e4930e4",
+            "id": "c12aec52-c453-4749-ac2f-223bba6ac5eb",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13619,7 +13619,7 @@
             "second": 262
         },
         {
-            "id": "99b6435a-3f2a-450d-9350-721712d96e38",
+            "id": "3fb83d82-dead-4bcf-b087-796f5271cc1f",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13627,7 +13627,7 @@
             "second": 263
         },
         {
-            "id": "89b1b513-2788-40df-953c-e3b4cb4bfb1f",
+            "id": "06ffb62e-2259-46e2-8460-bd34e8324dc3",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13635,7 +13635,7 @@
             "second": 264
         },
         {
-            "id": "ec48d5c1-263e-4174-b8ed-3d947dfc03f4",
+            "id": "47f0242e-1c16-4b2f-8515-cab57c68f5c9",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13643,7 +13643,7 @@
             "second": 265
         },
         {
-            "id": "ae812e9f-0029-48a9-8075-781e10156a1d",
+            "id": "44f1eb91-6440-473c-a251-ebe9965c5cdd",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13651,7 +13651,7 @@
             "second": 266
         },
         {
-            "id": "7aee272d-a73c-48d5-8093-32ef517b0edd",
+            "id": "4cd0b12b-d107-430b-b9ca-50dbfa65f1f8",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13659,7 +13659,7 @@
             "second": 267
         },
         {
-            "id": "8150fb03-8b89-4364-a5bc-354fd27e9ff3",
+            "id": "643e890e-27ba-4208-af96-bd8c1f020498",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13667,7 +13667,7 @@
             "second": 268
         },
         {
-            "id": "5733b7ee-a12f-4c38-8c19-fea5be84ada2",
+            "id": "e63b1d99-7787-4a48-9750-b6dc648c1a0c",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13675,7 +13675,7 @@
             "second": 269
         },
         {
-            "id": "8e49daa5-c0b1-43ca-a929-d8e1b30746cb",
+            "id": "90bf0f64-57e6-405d-8132-04ee4ccd5c07",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13683,7 +13683,7 @@
             "second": 271
         },
         {
-            "id": "7c00e97d-88a6-465a-be23-3338b744f5f9",
+            "id": "9f9d21e9-e3f1-4a8b-b5a6-ddfc29c4e057",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13691,7 +13691,7 @@
             "second": 273
         },
         {
-            "id": "1c99c67d-9c85-4c78-8e95-51113e7a24ee",
+            "id": "e7466f29-4f98-4fab-ad08-7cbefb94ea17",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13699,7 +13699,7 @@
             "second": 275
         },
         {
-            "id": "d4cd4ff9-8f94-4bd7-90b3-5aa29eafe5ac",
+            "id": "8386a0af-ae5f-46d9-83df-2f6458218b51",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13707,7 +13707,7 @@
             "second": 277
         },
         {
-            "id": "ab7d1e77-2bc8-4b3d-88a3-0dcb61b5b437",
+            "id": "ee172cfa-3ce6-4d1b-b855-533e8067045c",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13715,7 +13715,7 @@
             "second": 279
         },
         {
-            "id": "b132700e-9a9d-427a-ac60-d3a3685efc59",
+            "id": "de4172b0-22c8-4cad-a4f4-8619ac0a6940",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13723,7 +13723,7 @@
             "second": 281
         },
         {
-            "id": "2d5f4b53-9e82-4f91-a444-995c7f5c724e",
+            "id": "81f05d50-cbdb-4a68-8685-e30a3951a62d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13731,7 +13731,7 @@
             "second": 283
         },
         {
-            "id": "d244bf8c-751d-4f6f-9f90-917761a567b0",
+            "id": "8c73c225-8fbc-499c-90c5-dbeecf55fa90",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13739,7 +13739,7 @@
             "second": 284
         },
         {
-            "id": "a7105aba-c08e-4aaa-bcf1-680b9d1cafb4",
+            "id": "a378d597-e3f9-4b72-9319-0702b2eda73f",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13747,7 +13747,7 @@
             "second": 285
         },
         {
-            "id": "4e9fe3b8-4d0d-47ca-a1d8-77fa513852e1",
+            "id": "b8f57137-a40f-4e39-8ee9-7e25c3dc7519",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13755,7 +13755,7 @@
             "second": 286
         },
         {
-            "id": "b647e0fc-53d1-4fe7-92d3-41ad2b47ff1b",
+            "id": "0c871161-b2d7-4ef8-a738-9818f21392b2",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13763,7 +13763,7 @@
             "second": 287
         },
         {
-            "id": "e776a62d-66fa-47ce-bd98-a6a953b94510",
+            "id": "8c8e122e-bfcc-4643-9147-5133069ec561",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13771,7 +13771,7 @@
             "second": 288
         },
         {
-            "id": "d6df31b8-184d-429a-bd97-495babeb579b",
+            "id": "6bd8a224-90c9-40f0-a562-98dd4caf0740",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13779,7 +13779,7 @@
             "second": 289
         },
         {
-            "id": "17f3cb90-50b3-4243-9126-bd537c70a907",
+            "id": "89cf61d8-b545-46a8-8856-8d3d8460d1a1",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13787,7 +13787,7 @@
             "second": 290
         },
         {
-            "id": "9ab07abd-8589-4ffb-b3cc-53fef8ec2f62",
+            "id": "88f89192-643b-491e-9f36-a15d9d668896",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13795,7 +13795,7 @@
             "second": 291
         },
         {
-            "id": "d5cff02a-3eb3-45c6-8e20-992988851fed",
+            "id": "93ab6d27-1183-414c-b56b-ef0533941cb1",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13803,7 +13803,7 @@
             "second": 312
         },
         {
-            "id": "2202a8ca-a1c3-4516-a8cf-db291bb04e69",
+            "id": "77abdb36-da4d-4758-90d0-6bfe1894dc0b",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13811,7 +13811,7 @@
             "second": 324
         },
         {
-            "id": "ef253ece-10df-41cf-b515-aef704b57ff2",
+            "id": "1631dfd2-fc84-4ab8-aaad-348845872cd3",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13819,7 +13819,7 @@
             "second": 326
         },
         {
-            "id": "f16b263d-d7f4-414d-8b35-5649c469f911",
+            "id": "d1e5b049-f9c3-4554-99b1-e6aa370baec9",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13827,7 +13827,7 @@
             "second": 331
         },
         {
-            "id": "e6b2f1e2-ac75-4a9b-a0ed-6015f2a39b83",
+            "id": "643e0957-79e0-4609-be63-15225d44c8ec",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13835,7 +13835,7 @@
             "second": 332
         },
         {
-            "id": "fdd9c6bb-8dcb-488f-a1a7-529e6cb3d5b0",
+            "id": "ac90cb70-f250-44d5-bd30-7b44aa533eb7",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13843,7 +13843,7 @@
             "second": 333
         },
         {
-            "id": "caf8834d-047e-474c-8257-35d874c812ac",
+            "id": "067b4377-d7c9-4043-b8ff-f75ed4cb902a",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13851,7 +13851,7 @@
             "second": 334
         },
         {
-            "id": "4b1aa0e7-6050-45f0-8c1b-9cdfe8049858",
+            "id": "10e97414-86d9-4e4d-a280-89ab3cc13763",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13859,7 +13859,7 @@
             "second": 335
         },
         {
-            "id": "456bc465-5037-45bf-8496-fcad4a386e67",
+            "id": "4f7d5767-e9d3-40ce-8f33-2554ad679b79",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13867,7 +13867,7 @@
             "second": 336
         },
         {
-            "id": "23ae9d46-ada1-40f1-bfae-1464992b1081",
+            "id": "e33c6fb6-d86a-40c9-80be-53ea74fbade8",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13875,7 +13875,7 @@
             "second": 337
         },
         {
-            "id": "03eb44c4-30b9-46b6-ad41-3fcfef8d6396",
+            "id": "45ede1d5-b434-46a3-a861-d2f0e186169c",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13883,7 +13883,7 @@
             "second": 338
         },
         {
-            "id": "d64c658e-297e-451d-a29a-3bb4b056056e",
+            "id": "64c867f9-79c1-4e26-9169-ece7fb494ffe",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13891,7 +13891,7 @@
             "second": 339
         },
         {
-            "id": "f253baa0-c451-4625-ad00-cc0f88c49406",
+            "id": "eaebd274-4330-4ad0-ab0a-31392ed62720",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13899,7 +13899,7 @@
             "second": 341
         },
         {
-            "id": "228f1c85-bc0a-439e-b09d-8dc6caa2623c",
+            "id": "6af3a6a6-3e12-4764-b4bc-cd00cd00321f",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13907,7 +13907,7 @@
             "second": 343
         },
         {
-            "id": "0c27ad7a-d930-43dd-90ff-e2c298b6067c",
+            "id": "d654bbe2-50cc-4d75-a6c4-81539f242b2c",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13915,7 +13915,7 @@
             "second": 347
         },
         {
-            "id": "8106402a-3a10-4cd6-9709-c8a2adc5de2f",
+            "id": "37c92fb6-4dc0-4625-8f1b-d5f3021d54d6",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13923,7 +13923,7 @@
             "second": 351
         },
         {
-            "id": "bb820463-f2f6-4b16-b103-30353080fd7b",
+            "id": "cd20672d-5669-4465-8928-5c3db1b16f63",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13931,7 +13931,7 @@
             "second": 361
         },
         {
-            "id": "61c0aa05-2198-489f-a97f-2b9ad9227e19",
+            "id": "6fb310c4-cb4d-420c-a784-b7b7fdccbb2c",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13939,7 +13939,7 @@
             "second": 363
         },
         {
-            "id": "bbec6c8f-2be1-447e-be33-9523d0f89933",
+            "id": "7beccacb-0c2f-4c55-97f9-fd735e9c3e3b",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13947,7 +13947,7 @@
             "second": 365
         },
         {
-            "id": "c339794e-8914-433a-8e4e-506d08805824",
+            "id": "dbda046d-64fe-494e-a39c-cf4c7567a282",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13955,7 +13955,7 @@
             "second": 367
         },
         {
-            "id": "0bad95e2-7484-499b-9a8c-b6d4f42fc678",
+            "id": "322b7fa9-e08e-4a00-a197-069a48d8822b",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13963,7 +13963,7 @@
             "second": 369
         },
         {
-            "id": "cb717bed-5938-4089-95cb-f11185612405",
+            "id": "c44cb2a6-1beb-4f9c-af51-4b97457dea26",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13971,7 +13971,7 @@
             "second": 371
         },
         {
-            "id": "f259bdef-d545-433e-a0b4-3e0e39d68415",
+            "id": "b79b40b4-202a-4735-8196-34f3d31a4ac1",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13979,7 +13979,7 @@
             "second": 416
         },
         {
-            "id": "8fa6e7d0-d076-4eca-a15e-f21662ee33f9",
+            "id": "0fdf9dcd-d157-4ee3-8d5f-b98dc605c154",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13987,7 +13987,7 @@
             "second": 417
         },
         {
-            "id": "531bc7dd-a88d-4e3e-a207-4b8d5503a9b8",
+            "id": "66a4cee3-a412-4d7c-bd04-ea8b8063451f",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -13995,7 +13995,7 @@
             "second": 432
         },
         {
-            "id": "deadc8ee-5524-4701-9bc4-91d2d92839d4",
+            "id": "7a4cd362-c601-4d16-99ea-547b48d99457",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -14003,7 +14003,7 @@
             "second": 506
         },
         {
-            "id": "507c26f0-7f39-4fcf-8c7a-c5ec4ad33b9a",
+            "id": "217a215c-46cf-41ef-946d-7e3677633aae",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14011,7 +14011,7 @@
             "second": 507
         },
         {
-            "id": "a3155873-28e5-4bbb-b4e1-4e11ceadc278",
+            "id": "b42e66dd-ba72-4bd4-b860-bb3724720f92",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14019,7 +14019,7 @@
             "second": 509
         },
         {
-            "id": "6d44dcf9-0b1f-4070-88d3-8029514ddd53",
+            "id": "ddf4e422-8344-4154-8aa9-e66dc0a4c3e0",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14027,7 +14027,7 @@
             "second": 510
         },
         {
-            "id": "db259ad1-5d5f-4eac-814c-3febd4b8807d",
+            "id": "31606853-8a69-4f40-80d7-01fd7f64a160",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14035,7 +14035,7 @@
             "second": 511
         },
         {
-            "id": "17c776f1-2f9d-4e43-90bc-26952f5d1a84",
+            "id": "89039ef2-308e-4c35-9a9d-3995f9dee909",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14043,7 +14043,7 @@
             "second": 537
         },
         {
-            "id": "c2b723bb-1d05-43a4-a748-7c9a6c2acf7f",
+            "id": "1163f491-ebe0-4ac0-a247-110400847322",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -14051,7 +14051,7 @@
             "second": 7680
         },
         {
-            "id": "83152c5d-d4e9-4d4c-9ff3-b2469c5f83d5",
+            "id": "9566afe0-7578-44c6-9414-4bac2ef38c99",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14059,7 +14059,7 @@
             "second": 7681
         },
         {
-            "id": "775f82e4-a5bb-4214-8053-766912f442ef",
+            "id": "d0770d5d-c867-424b-86ef-ff21027dc5a3",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14067,7 +14067,7 @@
             "second": 7743
         },
         {
-            "id": "01413627-aa15-4faf-a47b-26a27b6fc5b3",
+            "id": "518a8231-67ae-4589-a3f5-187a19542008",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -14075,7 +14075,7 @@
             "second": 7840
         },
         {
-            "id": "e836d10a-3977-4725-a922-5e4f96a823ab",
+            "id": "6dba7c87-c3cb-4ffb-b323-1c1ef004568a",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14083,7 +14083,7 @@
             "second": 7841
         },
         {
-            "id": "eb2c1542-7126-4547-8498-014716e6c54e",
+            "id": "6a040d29-d207-490f-b002-f5cc279272cc",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -14091,7 +14091,7 @@
             "second": 7842
         },
         {
-            "id": "3301c00c-a4c4-47b0-886f-1158d5718ea6",
+            "id": "c7446622-1cbb-4c6d-8948-bc6211f5adeb",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14099,7 +14099,7 @@
             "second": 7843
         },
         {
-            "id": "b242049d-a209-4cd2-b703-3b583db0c33d",
+            "id": "da46aa8e-db27-4681-aeaf-50bf8a911418",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -14107,7 +14107,7 @@
             "second": 7844
         },
         {
-            "id": "591ccf9b-74b8-4ba1-b37a-e98a58692782",
+            "id": "d70e32a6-35e7-4265-b4ec-96a66bcbc4eb",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14115,7 +14115,7 @@
             "second": 7845
         },
         {
-            "id": "dbfcd796-c902-49a4-ae12-c7fa286a7f42",
+            "id": "49ae5281-388f-4464-b342-d04641039f86",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -14123,7 +14123,7 @@
             "second": 7846
         },
         {
-            "id": "e0c118e4-2ff5-4519-8810-330b4abb1737",
+            "id": "e970e04a-2bed-4032-b200-91469dccba19",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -14131,7 +14131,7 @@
             "second": 7848
         },
         {
-            "id": "1c9eab37-2418-43d6-9812-a7330243db7a",
+            "id": "cd713f36-77d6-46e3-8d3e-dc1469e48022",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14139,7 +14139,7 @@
             "second": 7849
         },
         {
-            "id": "032af98d-e680-4e53-8299-d5e0898045ea",
+            "id": "619a4857-e1dd-4d53-aa37-80bd8fd0c597",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -14147,7 +14147,7 @@
             "second": 7850
         },
         {
-            "id": "22f450e1-e3dd-46e8-93b8-f3a4ae69bd6d",
+            "id": "2404405b-3f6e-436d-84e2-93a889fefda4",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14155,7 +14155,7 @@
             "second": 7851
         },
         {
-            "id": "8c2d061f-7b07-487d-926b-84e08b60aa22",
+            "id": "d1283772-8b27-4dab-be06-2537a4dbd273",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -14163,7 +14163,7 @@
             "second": 7852
         },
         {
-            "id": "371a3f20-38dc-42a9-948f-eefee6ff7452",
+            "id": "9dd546e7-2703-4d71-8988-d28eb5e98957",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14171,7 +14171,7 @@
             "second": 7853
         },
         {
-            "id": "4dcab793-39e0-4cc7-abf3-e2ab6ad3474f",
+            "id": "05827ccf-af9f-41b0-969e-c76727096413",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -14179,7 +14179,7 @@
             "second": 7854
         },
         {
-            "id": "4114b323-1d1e-43e6-91ae-9f00e02dbd78",
+            "id": "93373d1b-1bd9-4fbf-a80e-59abc20d7cc8",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14187,7 +14187,7 @@
             "second": 7855
         },
         {
-            "id": "3a0ffd8a-a39d-4849-8187-4db0f89882ba",
+            "id": "dc5694ba-aa6b-4d1a-b26c-700549a09e62",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -14195,7 +14195,7 @@
             "second": 7856
         },
         {
-            "id": "b98cc2b0-83b4-4f6d-801e-c5903282c2c5",
+            "id": "67fd0a2b-dab5-4b76-93f8-2be4491ee004",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14203,7 +14203,7 @@
             "second": 7857
         },
         {
-            "id": "07fe3984-0613-447f-9097-db041b357642",
+            "id": "ec500b8e-c7f8-49e4-9c30-d57f240a4075",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -14211,7 +14211,7 @@
             "second": 7858
         },
         {
-            "id": "783e0681-88de-4238-b784-bf9ad98a8fca",
+            "id": "495b3b80-c822-471b-a546-3fd889367043",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14219,7 +14219,7 @@
             "second": 7859
         },
         {
-            "id": "20bcd45e-f15a-4f77-970e-d9b0d7b47d2f",
+            "id": "402132f8-7826-4876-be7f-4c8f817cf478",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -14227,7 +14227,7 @@
             "second": 7860
         },
         {
-            "id": "6b82c7d9-b0b1-467d-9d6c-e4e43f9047f4",
+            "id": "141b7869-a20e-41c3-a0e1-8bafd43bb727",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14235,7 +14235,7 @@
             "second": 7861
         },
         {
-            "id": "318282a0-825b-49f5-966d-7ba7d482d92b",
+            "id": "13d65bc4-7f3d-490f-a4fd-f24ff53d4e52",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -14243,7 +14243,7 @@
             "second": 7862
         },
         {
-            "id": "dd07b53d-fabe-440a-b2a4-d960806a5580",
+            "id": "bf444fad-4576-4cab-a974-7922410cdaa9",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14251,7 +14251,7 @@
             "second": 7863
         },
         {
-            "id": "11fa97de-60f9-48a7-872a-efe2b368388a",
+            "id": "bbef69e4-3aee-449d-97f2-09415c228e3d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14259,7 +14259,7 @@
             "second": 7865
         },
         {
-            "id": "9f99d730-5d47-40b1-96d6-ff1920c2facc",
+            "id": "e65f6388-6e5b-457a-8389-0c07e77c1da0",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14267,7 +14267,7 @@
             "second": 7867
         },
         {
-            "id": "f5a27637-6639-4309-94a5-12e3c2eb2fa7",
+            "id": "f23e017d-0b4c-4a32-b6c8-fff1b7250575",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14275,7 +14275,7 @@
             "second": 7869
         },
         {
-            "id": "a2853bcd-cf09-41c5-8f9e-829422e5ced4",
+            "id": "c15bddaa-341b-4170-b86b-a20f5f688216",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14283,7 +14283,7 @@
             "second": 7871
         },
         {
-            "id": "87109993-7803-4404-9465-1db72f6e1f76",
+            "id": "467157e6-c4a9-4687-84cd-172a605a67c3",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14291,7 +14291,7 @@
             "second": 7875
         },
         {
-            "id": "10766366-4664-4054-bdb3-c009d84fc5dc",
+            "id": "3aa2aa3b-8a31-4fd3-ac64-fa464e2377ba",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14299,7 +14299,7 @@
             "second": 7877
         },
         {
-            "id": "22bd218f-edaf-4e19-afb6-c11bb2d69672",
+            "id": "b254387d-71f2-40b1-ac02-d41e12eee255",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14307,7 +14307,7 @@
             "second": 7879
         },
         {
-            "id": "b8804a0c-9012-487e-b80e-0686af72e9b4",
+            "id": "160d3e48-c202-4b6f-9578-7dab35846346",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14315,7 +14315,7 @@
             "second": 7884
         },
         {
-            "id": "324792b1-f238-44a6-8246-ffcc93c4f340",
+            "id": "32e8a686-9f8b-468f-8f4f-6dd924e2ed8e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14323,7 +14323,7 @@
             "second": 7885
         },
         {
-            "id": "88c362b4-f626-4062-baaf-1e95b30b12e2",
+            "id": "ced3b364-7d7c-41f0-8d1f-49717c159aac",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14331,7 +14331,7 @@
             "second": 7886
         },
         {
-            "id": "f3cf5dcd-328c-46fe-933b-31ab9c1cd752",
+            "id": "7e740952-dc28-4453-ad60-7193f0fd1ad6",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14339,7 +14339,7 @@
             "second": 7887
         },
         {
-            "id": "9b91f543-85e9-49c7-845d-c129009f9471",
+            "id": "984e26d1-1c12-4abe-a839-71ed7931dd7d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14347,7 +14347,7 @@
             "second": 7888
         },
         {
-            "id": "00ee2354-cfc1-4308-9eeb-2d22a05bab83",
+            "id": "857dbd4a-e0a6-4e79-80cf-c114257c8e8b",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14355,7 +14355,7 @@
             "second": 7889
         },
         {
-            "id": "1b9f66fd-589b-4ec0-b0d2-218938bd48bc",
+            "id": "5c94db95-b9ee-4b30-a427-dcf3d0b4014e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14363,7 +14363,7 @@
             "second": 7890
         },
         {
-            "id": "649dddc3-42d8-4875-9167-3f62d3372b6e",
+            "id": "867654ef-b4cf-45c2-b00a-d50d0396fdee",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14371,7 +14371,7 @@
             "second": 7892
         },
         {
-            "id": "6e967562-9d9d-4c68-8eed-9e402543a1b1",
+            "id": "ed52ab75-11a4-46fd-8f2d-b58b63cfd902",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14379,7 +14379,7 @@
             "second": 7893
         },
         {
-            "id": "bbd9f834-0f04-43cd-b071-a368bc67d471",
+            "id": "d7dca684-7259-46ec-97c1-0b09498e3879",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14387,7 +14387,7 @@
             "second": 7894
         },
         {
-            "id": "73f6aa7b-1ced-429c-9a99-21aed88d773f",
+            "id": "62ea8aaa-f789-4d7a-bc65-385ea72899b4",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14395,7 +14395,7 @@
             "second": 7895
         },
         {
-            "id": "7b713232-aee8-4f3f-b219-d19add5913dc",
+            "id": "44eb6f17-ec10-4868-b613-77a668cbd62e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14403,7 +14403,7 @@
             "second": 7896
         },
         {
-            "id": "d99c78ff-2507-4b66-af49-d1e9770a2022",
+            "id": "7828d626-9155-459a-bb7b-ef7cda3cdca8",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14411,7 +14411,7 @@
             "second": 7897
         },
         {
-            "id": "fbaf9f86-ec3b-4c27-9d41-07f8c13135fd",
+            "id": "48a4098e-8fe1-4187-abab-b78c9ca94f2e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14419,7 +14419,7 @@
             "second": 7898
         },
         {
-            "id": "eee08937-baec-4327-9dbf-994242528234",
+            "id": "620be91f-5f1a-4613-83ac-eb6eced96a85",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14427,7 +14427,7 @@
             "second": 7899
         },
         {
-            "id": "bca92d83-c91f-46ac-b046-3c7aa691c081",
+            "id": "00b3e15d-1d2f-44d0-ac88-248f91b91124",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14435,7 +14435,7 @@
             "second": 7900
         },
         {
-            "id": "184cab3f-3cb0-493e-a3ab-9848081fa980",
+            "id": "2f2dfa3b-7aba-4635-a589-5563ce963e92",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14443,7 +14443,7 @@
             "second": 7901
         },
         {
-            "id": "5f137d08-a0b7-4e74-94d6-819e15315bde",
+            "id": "afcf706c-c623-447e-a336-1fc50bff4345",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14451,7 +14451,7 @@
             "second": 7902
         },
         {
-            "id": "05d8da6f-19f0-41ad-991b-3c2cbf98390b",
+            "id": "c0868bc8-3266-448e-b337-f9d30b63640f",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14459,7 +14459,7 @@
             "second": 7903
         },
         {
-            "id": "5ca8a3fc-7791-45b1-b37f-72587287fbb2",
+            "id": "6e8ceb05-c8bd-4125-a703-fa9849274844",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14467,7 +14467,7 @@
             "second": 7904
         },
         {
-            "id": "7ac051c4-df31-481e-a9df-140c6f83640a",
+            "id": "763159e8-c5df-4ae8-bd49-5501921fa163",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14475,7 +14475,7 @@
             "second": 7905
         },
         {
-            "id": "514afae1-9159-4e88-ae4c-b5405d4e7d87",
+            "id": "496f09e8-f6c2-44e7-9a9d-504e335ec687",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14483,7 +14483,7 @@
             "second": 7906
         },
         {
-            "id": "94f93876-a1b4-463d-8dec-580fdfbf99fe",
+            "id": "bbb1b8cb-6e95-4c49-a28b-fe0bdf864349",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14491,7 +14491,7 @@
             "second": 7907
         },
         {
-            "id": "53dc1268-030d-4439-b6d4-1bbf7497c7fb",
+            "id": "5eac63b3-6c84-4492-95f3-efe176ac2946",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14499,7 +14499,7 @@
             "second": 7909
         },
         {
-            "id": "0796fc02-e2a9-4eb0-9154-27046946380e",
+            "id": "cf0998ec-9b30-4baa-afef-a1b10f523bf0",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14507,7 +14507,7 @@
             "second": 7911
         },
         {
-            "id": "c8fcb410-d9ef-4e6c-8dc3-1c9688e116c8",
+            "id": "846daaff-7e1a-44d3-a57a-7b7e2dd509e7",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14515,7 +14515,7 @@
             "second": 7913
         },
         {
-            "id": "9780acd6-59cd-4640-8c12-45dc9a3acfa7",
+            "id": "b7b6817b-7b4b-4138-ab49-9a71584efaa1",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14523,7 +14523,7 @@
             "second": 7915
         },
         {
-            "id": "6975b804-ded3-4911-8513-b0fe5874e539",
+            "id": "6f044163-3c57-4d46-adc4-fced492123a8",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14531,7 +14531,7 @@
             "second": 7917
         },
         {
-            "id": "9c4c2d9d-cdc8-4a45-8a18-16918bea3e56",
+            "id": "e9fa3015-4aa7-4768-8ec7-e8c6f1a4a8fc",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14539,7 +14539,7 @@
             "second": 7919
         },
         {
-            "id": "6f2657d4-b2b9-4858-a047-8201a4f9cae0",
+            "id": "efef79ca-cbe3-42bf-b783-6fe3096e4a48",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14547,7 +14547,7 @@
             "second": 7921
         },
         {
-            "id": "dddcb124-a8ed-4138-adee-dbe7e46cddba",
+            "id": "d4fbe5c6-99ce-49b2-8455-dda0aed98812",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -14555,7 +14555,7 @@
             "second": 8218
         },
         {
-            "id": "f0794b48-fec2-44b7-be80-a7e5acf6276c",
+            "id": "53cb4a91-4e05-43d6-a215-99cc938a1aca",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -14563,7 +14563,7 @@
             "second": 8222
         },
         {
-            "id": "018ecc4e-11bc-47b7-911a-a4ee84b6f268",
+            "id": "7db117da-59d8-4ff4-a06b-ae80555d6c13",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -14571,7 +14571,7 @@
             "second": 44
         },
         {
-            "id": "12e5567d-8423-4593-b323-29b9df09fd4d",
+            "id": "51666f1e-dc38-477d-87c8-fd1d608b49bf",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -14579,7 +14579,7 @@
             "second": 46
         },
         {
-            "id": "0b05c71a-82d2-415f-81df-ebd04248e460",
+            "id": "2944a634-203d-43e9-b97c-7681372b927d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": 1,
@@ -14587,7 +14587,7 @@
             "second": 63
         },
         {
-            "id": "3a59e99b-0be6-497c-8339-05ce221638d7",
+            "id": "2fc6fe84-1935-4bc1-9901-9befe6911f85",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -14595,7 +14595,7 @@
             "second": 65
         },
         {
-            "id": "0131993e-b35d-4069-9b5a-3fe92bf69f0a",
+            "id": "f62a01bd-b999-4a1e-aee0-60c030e269c9",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14603,7 +14603,7 @@
             "second": 67
         },
         {
-            "id": "3282f697-8877-4c7c-8751-9fe19e144a19",
+            "id": "4df068b3-a932-4006-9f67-df3deead6fa0",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14611,7 +14611,7 @@
             "second": 71
         },
         {
-            "id": "2e5d576c-5be0-408d-ba01-d937a77873a6",
+            "id": "8752762b-1f89-4910-bd6a-b502b118f4bc",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14619,7 +14619,7 @@
             "second": 79
         },
         {
-            "id": "e87a2e2a-b286-4129-b7e0-ad16b9093dd0",
+            "id": "d73264d2-3494-45ca-8e96-67c480de1fc5",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14627,7 +14627,7 @@
             "second": 81
         },
         {
-            "id": "7fe5760e-e6d0-472e-9201-e6e32c62fe52",
+            "id": "e89e2da9-8f7f-4f77-8b38-78f05bcbbd0b",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14635,7 +14635,7 @@
             "second": 97
         },
         {
-            "id": "04f02558-0d56-4edb-84f0-2755c24b383b",
+            "id": "e31016d6-4073-4fd4-ae06-692239c2c5ac",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14643,7 +14643,7 @@
             "second": 99
         },
         {
-            "id": "a92282ac-4d15-4e37-8774-e2d808b93b57",
+            "id": "32c39407-bc26-4d13-b836-5d40d5ef8ac9",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14651,7 +14651,7 @@
             "second": 100
         },
         {
-            "id": "e919ea81-23e6-4e13-92f2-70cb78bb2fba",
+            "id": "de261a8f-9f17-403d-82e0-087f40d06b36",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14659,7 +14659,7 @@
             "second": 101
         },
         {
-            "id": "28339722-7141-4ee8-8db2-f581554e29d4",
+            "id": "d1946575-3987-46d5-af31-6dd5494cdcf2",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14667,7 +14667,7 @@
             "second": 103
         },
         {
-            "id": "2290702d-3b82-4457-a248-8ac164e736ea",
+            "id": "661ebe5d-837c-4707-ae3f-04be3bdf3997",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14675,7 +14675,7 @@
             "second": 109
         },
         {
-            "id": "d9700adc-844b-4e6d-a105-6d8c474666f2",
+            "id": "790c1745-f229-4b03-a69e-e7c2dbf692ed",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14683,7 +14683,7 @@
             "second": 110
         },
         {
-            "id": "ce55308c-af01-4e17-b774-b38fdcf04d62",
+            "id": "fa95d504-95ad-4632-abfb-ba5b0983f822",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14691,7 +14691,7 @@
             "second": 111
         },
         {
-            "id": "103e6b0e-d7c1-483d-8e69-28922d64e848",
+            "id": "43317f78-3cb4-49b4-aa63-159fce18a938",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14699,7 +14699,7 @@
             "second": 112
         },
         {
-            "id": "3b43f0ac-1e86-4da4-9a74-9e6d56f521b5",
+            "id": "15458b5d-2994-448a-8207-b995d0676af2",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14707,7 +14707,7 @@
             "second": 113
         },
         {
-            "id": "3e6caea3-d2ed-4a99-97c2-73d575389ebd",
+            "id": "b9e6e49c-4a64-4f37-8f30-6cafe12c6b88",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14715,7 +14715,7 @@
             "second": 114
         },
         {
-            "id": "e415f3b3-c272-4261-9a07-bd067f2c2299",
+            "id": "913665ec-5339-424d-be18-eef65907c6ae",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14723,7 +14723,7 @@
             "second": 115
         },
         {
-            "id": "9c1afcf3-82d2-4bd3-af4d-e104eb21a7cc",
+            "id": "57bd19dd-2347-42c4-a6fa-680df083d111",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14731,7 +14731,7 @@
             "second": 117
         },
         {
-            "id": "82226168-d7a3-4841-96d3-3dc858cda729",
+            "id": "bb52ffbb-6c0d-40de-aded-3c9912dd7349",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -14739,7 +14739,7 @@
             "second": 192
         },
         {
-            "id": "1512f588-d45c-4dcb-ae20-c321b109eb04",
+            "id": "78c49c01-ec95-4352-b53a-0977f26a2c8f",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -14747,7 +14747,7 @@
             "second": 193
         },
         {
-            "id": "8d455946-6a2c-48fe-b27d-354eb7311425",
+            "id": "0764862e-ff8d-4668-93f1-dd7f70bc9129",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -14755,7 +14755,7 @@
             "second": 194
         },
         {
-            "id": "f98a77ef-1249-48b8-8f07-8a88df755e0c",
+            "id": "09b80de4-80ab-4f40-a2b0-51c837bcf2c6",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -14763,7 +14763,7 @@
             "second": 195
         },
         {
-            "id": "ba50d5cd-b6d8-4062-99c1-093fdeeb7237",
+            "id": "8456fd7f-cf58-4ebe-b270-7343140de0e8",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -14771,7 +14771,7 @@
             "second": 196
         },
         {
-            "id": "c7bd1e25-60ec-47b0-af44-e98c5cf10538",
+            "id": "698c12c1-ec6d-44d1-aa05-f1580147eb86",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -14779,7 +14779,7 @@
             "second": 197
         },
         {
-            "id": "62dd3685-3d9e-49cb-b56b-aed8a6880153",
+            "id": "1255be6f-2360-4e44-83a7-b0846280fda0",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14787,7 +14787,7 @@
             "second": 199
         },
         {
-            "id": "e5c25396-7bc1-4dfa-bd65-273a41d70a26",
+            "id": "8e0fe487-2e83-48c7-9926-b9e202120d92",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14795,7 +14795,7 @@
             "second": 210
         },
         {
-            "id": "275d894c-eb25-492b-ac80-c2a2de710538",
+            "id": "fbbab69f-a5f9-4cfe-ac26-a56a793abd09",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14803,7 +14803,7 @@
             "second": 211
         },
         {
-            "id": "bd11b188-4bb6-4d44-9407-dfb5f1fa8510",
+            "id": "b535ea78-01ea-40a0-81db-9374f2342e98",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14811,7 +14811,7 @@
             "second": 212
         },
         {
-            "id": "281afff2-8a82-48e7-bb6f-7951c1631b8e",
+            "id": "5a676df1-d34d-4ae5-9e57-388640538a63",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14819,7 +14819,7 @@
             "second": 213
         },
         {
-            "id": "5b2ba344-40dc-425e-b3cc-49a879d52856",
+            "id": "6e8fe9bf-ae47-4a47-98e8-8a6b43577142",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14827,7 +14827,7 @@
             "second": 214
         },
         {
-            "id": "a2edfe7e-cdd0-4abd-80b9-18957309affa",
+            "id": "4edcf58f-675b-4cc9-946c-5345ca0390f3",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14835,7 +14835,7 @@
             "second": 216
         },
         {
-            "id": "4f54cef8-3808-472b-9db2-f9294e35d9c6",
+            "id": "bc055476-cccc-41f9-83b4-842415705fe5",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14843,7 +14843,7 @@
             "second": 224
         },
         {
-            "id": "041b6dbc-5287-4e17-9bee-7e90a6fb5e8b",
+            "id": "525f230c-d450-4178-911f-323d1a7c2166",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14851,7 +14851,7 @@
             "second": 225
         },
         {
-            "id": "d49b5377-b19e-4978-ac51-c14ace50b9a9",
+            "id": "fe3b1d09-5d7a-4541-b0f3-707f2e5a2c22",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14859,7 +14859,7 @@
             "second": 226
         },
         {
-            "id": "5ee8e97b-d476-4769-9b48-54e464370e15",
+            "id": "a751c2fc-33f6-4c57-9bb3-a3e5485e77c9",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14867,7 +14867,7 @@
             "second": 227
         },
         {
-            "id": "37f5244b-6eaa-4699-8bd3-b67e9e28bf8a",
+            "id": "14de7d51-f97c-4c6e-9ef6-1bedfc998526",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14875,7 +14875,7 @@
             "second": 228
         },
         {
-            "id": "90237a85-8240-4082-927d-58c3cc93cb6e",
+            "id": "abb7c0db-9552-4b3c-be33-37f232127c2a",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14883,7 +14883,7 @@
             "second": 229
         },
         {
-            "id": "e7b63db8-3be9-4b0c-ba54-d7c6df91eeec",
+            "id": "39b85d68-9789-4a14-b51d-52ebf099cc74",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14891,7 +14891,7 @@
             "second": 230
         },
         {
-            "id": "8a9a1808-a274-4134-aa73-4a258fe5b7e6",
+            "id": "093dfdf8-2f32-415c-9766-102b637f476f",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14899,7 +14899,7 @@
             "second": 231
         },
         {
-            "id": "0fb11845-d594-4140-bea8-faa9b0e22b67",
+            "id": "8544b80e-1e61-48b5-99dd-561693b9be1f",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14907,7 +14907,7 @@
             "second": 232
         },
         {
-            "id": "e35244e5-0fe3-44f5-96c5-e88f4ca9e4e5",
+            "id": "4fac3416-0ee6-4630-9ffa-95b59c78aab4",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14915,7 +14915,7 @@
             "second": 233
         },
         {
-            "id": "907d9c9c-04d7-4277-a281-aba14907e8c6",
+            "id": "761589a9-8fdc-4af2-8d34-5b9a2a8d2c10",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14923,7 +14923,7 @@
             "second": 234
         },
         {
-            "id": "d37f9939-b228-4fbe-9c5b-0e871759e81e",
+            "id": "e1816f55-ef6f-4997-870d-ec78125e45d6",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14931,7 +14931,7 @@
             "second": 235
         },
         {
-            "id": "f629d6e6-f123-4909-b6bb-469f3123ad55",
+            "id": "77558e76-bca4-418d-bfd6-d11a61645062",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14939,7 +14939,7 @@
             "second": 242
         },
         {
-            "id": "1a71c744-ba1b-430c-891d-f27a9591339f",
+            "id": "f109852a-2c4a-4287-b118-9e8ecc30232c",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14947,7 +14947,7 @@
             "second": 243
         },
         {
-            "id": "d6363c76-a8e0-4adb-825a-d047072ee670",
+            "id": "698b6d23-aec5-4c38-b1a0-ab965f7f4c88",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14955,7 +14955,7 @@
             "second": 244
         },
         {
-            "id": "7f52938e-a1d7-441c-b08e-ecdac3b8e031",
+            "id": "a662851c-bd4b-4c2a-9e34-8aa934f030ff",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14963,7 +14963,7 @@
             "second": 245
         },
         {
-            "id": "b813a845-ee03-4227-94b0-43a9de839953",
+            "id": "21104796-fdcd-416e-819d-b2381c5c97e8",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14971,7 +14971,7 @@
             "second": 246
         },
         {
-            "id": "c5fe6bf4-e9a2-4665-87ff-cd12bba75ba9",
+            "id": "dc0ab6ee-feeb-44e2-93ad-967ea03f9c3e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14979,7 +14979,7 @@
             "second": 248
         },
         {
-            "id": "4a6f092e-ee16-4633-bd09-9d43f4e0d35e",
+            "id": "0b13b9b4-0f60-4b8d-bedc-33616a7e5bc6",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14987,7 +14987,7 @@
             "second": 249
         },
         {
-            "id": "c194184d-41f9-4bc7-bf06-443bf4ecdcb8",
+            "id": "177df07f-2e7b-43cf-83c5-1506ca824901",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -14995,7 +14995,7 @@
             "second": 250
         },
         {
-            "id": "f64a49e8-e459-4743-8719-f5208d714368",
+            "id": "6a3f3d5e-cb71-4ef6-9de4-d023d30f683e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15003,7 +15003,7 @@
             "second": 251
         },
         {
-            "id": "312cc938-25c8-402f-b8f7-f85bcee5e019",
+            "id": "2f12f75c-2472-4c44-939d-03f7c3c3297e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15011,7 +15011,7 @@
             "second": 252
         },
         {
-            "id": "62645a07-15b1-4bd0-a16f-e3111e2c7d61",
+            "id": "cace6aa3-fe05-44fe-8139-a2d50c93c111",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -15019,7 +15019,7 @@
             "second": 256
         },
         {
-            "id": "f68f8848-cc4a-4425-9361-a70b5e3a3ef6",
+            "id": "bac7afad-62a6-402d-b62e-d1c7e5672a5c",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15027,7 +15027,7 @@
             "second": 257
         },
         {
-            "id": "d8cc0d65-e1e0-4a4f-af1f-5ffeb55c4cdf",
+            "id": "45ae8884-18fa-4468-991f-5ee55730cc9a",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -15035,7 +15035,7 @@
             "second": 258
         },
         {
-            "id": "7c294861-812b-4564-a283-ac1eb5aa4a6f",
+            "id": "3e75f4e6-663b-4549-943e-553b7726c8bf",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15043,7 +15043,7 @@
             "second": 259
         },
         {
-            "id": "f8de2e27-d247-4058-84f8-dbc8efd7a84c",
+            "id": "a88ebc4c-5080-4eda-a1c9-16611aa9e0b2",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -15051,7 +15051,7 @@
             "second": 260
         },
         {
-            "id": "8f32cd45-7dc7-4f49-bdfc-2a1b05791589",
+            "id": "6bf9bc16-b4c9-40af-993f-917e85137b1b",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15059,7 +15059,7 @@
             "second": 261
         },
         {
-            "id": "fec88833-1490-4a33-b6ca-b7434837f77e",
+            "id": "84ff5ed4-8e11-4171-8498-eea58886bb12",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15067,7 +15067,7 @@
             "second": 262
         },
         {
-            "id": "bb71b62b-a2ec-4d93-b290-066525c244c7",
+            "id": "0e525e3b-25f4-412f-b643-bde02f0c30e1",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15075,7 +15075,7 @@
             "second": 263
         },
         {
-            "id": "2801c267-4b0f-4445-90d0-2b63f1e53e97",
+            "id": "748b72e8-6beb-42e6-88ca-003c1cd54a47",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15083,7 +15083,7 @@
             "second": 264
         },
         {
-            "id": "8187ce44-0b9a-468c-aa9e-a60d2d42924d",
+            "id": "bd5ebcca-71e8-49da-a6b8-5dc66c8e11d4",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15091,7 +15091,7 @@
             "second": 265
         },
         {
-            "id": "dbc94916-f009-407a-a8f1-33cfcde51aea",
+            "id": "03822d70-16e5-42e2-bc32-ee14db08a026",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15099,7 +15099,7 @@
             "second": 266
         },
         {
-            "id": "245df979-89bc-4132-907d-184752267a5d",
+            "id": "0cbaa490-7fe8-4187-8c00-299d69322fac",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15107,7 +15107,7 @@
             "second": 267
         },
         {
-            "id": "fdfdbb43-1409-4354-8586-862ed5d4257d",
+            "id": "d0d095ad-8011-476c-b345-22518aedab87",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15115,7 +15115,7 @@
             "second": 268
         },
         {
-            "id": "698a4555-fcf0-49ae-ac46-719a1f9821c7",
+            "id": "c05a3439-177d-478f-a348-ada42be1f479",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15123,7 +15123,7 @@
             "second": 269
         },
         {
-            "id": "9b732148-d986-4e73-a20e-132ab77126f3",
+            "id": "61c8ad97-5358-400e-a1d5-88c60337d411",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15131,7 +15131,7 @@
             "second": 271
         },
         {
-            "id": "7a38b348-e71c-4a17-8202-2579fc9d8963",
+            "id": "e5b13229-1abd-471e-8a0d-b1b87b87a8dd",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15139,7 +15139,7 @@
             "second": 273
         },
         {
-            "id": "835cb024-756a-4ea5-b8f2-cf9cf43d0595",
+            "id": "c0446fe0-c24f-4374-a457-3541d9ae87bf",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15147,7 +15147,7 @@
             "second": 275
         },
         {
-            "id": "cc32bc7c-1c8a-453f-b86c-c75cd66f7776",
+            "id": "3c128ed4-748a-4e82-8b99-5ff1b97efc4e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15155,7 +15155,7 @@
             "second": 277
         },
         {
-            "id": "c7b188c1-82bb-4f7d-bf54-5fe6562897ca",
+            "id": "b861572e-4e76-48f7-9aea-419a0ff04f07",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15163,7 +15163,7 @@
             "second": 279
         },
         {
-            "id": "3171cc42-a179-4f27-96bc-80c36dd0c300",
+            "id": "37db5ab6-1cfa-4d8c-82f9-626dbc2e75ef",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15171,7 +15171,7 @@
             "second": 281
         },
         {
-            "id": "3075cadc-2667-4f8e-9f36-e90e9753e74a",
+            "id": "430fed4f-1d62-4cac-aba6-71ea651ff933",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15179,7 +15179,7 @@
             "second": 283
         },
         {
-            "id": "71808c52-e78c-4117-b268-634c9ea7fdc8",
+            "id": "939c78ee-9ed4-4195-a622-9ef2b9e1ef07",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15187,7 +15187,7 @@
             "second": 284
         },
         {
-            "id": "fc718a61-6cbf-49b0-974b-3c4018d33450",
+            "id": "be076a3c-ae46-4e05-b32e-6061e7423539",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15195,7 +15195,7 @@
             "second": 285
         },
         {
-            "id": "a7985cb4-26db-4848-bbab-c96663926fec",
+            "id": "aacf3fe8-b717-4d57-9e02-60d5d15e5ac6",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15203,7 +15203,7 @@
             "second": 286
         },
         {
-            "id": "d6ba7c46-cad2-46a4-b586-6a06c2c9f2ec",
+            "id": "edf0cc3e-3499-4a3f-ae79-fa5872325c64",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15211,7 +15211,7 @@
             "second": 287
         },
         {
-            "id": "09eb552a-cbd2-4dfe-b935-3a6869ff3faf",
+            "id": "8a418b26-906f-4847-baa7-f67092b8a055",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15219,7 +15219,7 @@
             "second": 288
         },
         {
-            "id": "9471a157-479b-4dea-8b0d-2baff36fd831",
+            "id": "c35dc7c3-8331-4899-9ed7-835803eaf157",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15227,7 +15227,7 @@
             "second": 289
         },
         {
-            "id": "13b67dd8-bb55-4d36-bdbb-f5ebaa0fab0b",
+            "id": "978cfd09-c498-4671-a32c-301bd20c5395",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15235,7 +15235,7 @@
             "second": 290
         },
         {
-            "id": "a8872c77-4135-473e-9c92-ca1b9e274aa5",
+            "id": "65480a21-9b1c-403c-919d-a099fd32c4a6",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15243,7 +15243,7 @@
             "second": 291
         },
         {
-            "id": "e8fee6f2-cbaa-498f-91b6-94f8e71f6eee",
+            "id": "2b042805-60e9-458d-87d1-31689da80aa5",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15251,7 +15251,7 @@
             "second": 312
         },
         {
-            "id": "78d32c6e-2335-450d-8e01-ad529bca8791",
+            "id": "d91d7c09-9f88-4420-936e-c15160b721e2",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15259,7 +15259,7 @@
             "second": 324
         },
         {
-            "id": "8d043882-c937-40e6-afea-0bc23abd4107",
+            "id": "0e38d898-13f9-4f22-af7e-0d1d5a02d840",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15267,7 +15267,7 @@
             "second": 326
         },
         {
-            "id": "de9f3452-7b46-45f7-853f-0f592dddd6df",
+            "id": "e45c9ef8-4d24-419f-957d-51786969ffc5",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15275,7 +15275,7 @@
             "second": 331
         },
         {
-            "id": "0381eaf1-f146-40dc-bcea-1bf003e8eb7e",
+            "id": "37ad0874-3992-47da-954d-314981907ea2",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15283,7 +15283,7 @@
             "second": 332
         },
         {
-            "id": "60a875ff-35a8-4fe7-9a5d-75868e959379",
+            "id": "9a23e5b2-1e2d-4b43-b893-c8918f527a47",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15291,7 +15291,7 @@
             "second": 333
         },
         {
-            "id": "3ebf1740-291a-41ac-bb3f-4423f51ef91e",
+            "id": "5c408c40-caa7-44df-a72d-991d6aa46d0b",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15299,7 +15299,7 @@
             "second": 334
         },
         {
-            "id": "dab3a345-d5e3-4ef5-ab44-0f5e391981ef",
+            "id": "c2839385-e05c-4220-b808-d44fa7a1270a",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15307,7 +15307,7 @@
             "second": 335
         },
         {
-            "id": "ace16a18-48be-4613-b241-5b575da9d938",
+            "id": "dfd612f0-0551-48ae-82a6-9cc6b56ff088",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15315,7 +15315,7 @@
             "second": 336
         },
         {
-            "id": "e308abe7-8cac-425e-a81b-7558df5e9c0f",
+            "id": "dbb058db-a0e9-4626-a81c-58455a9c0e35",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15323,7 +15323,7 @@
             "second": 337
         },
         {
-            "id": "b045b29a-9903-4904-9baf-4f65fba03754",
+            "id": "55c5d678-fa69-42d8-9b1d-dd5fb42a9b9c",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15331,7 +15331,7 @@
             "second": 338
         },
         {
-            "id": "9ac9d117-4c20-4cc2-a29c-79ee29d89e39",
+            "id": "ac96693a-675b-4a99-a2b1-998b35542ed6",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15339,7 +15339,7 @@
             "second": 339
         },
         {
-            "id": "0b98b95e-d7db-49aa-a6cc-3f74ad2f9bd5",
+            "id": "dc0ec8d5-af47-4d34-96ed-d00bc24c7a63",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15347,7 +15347,7 @@
             "second": 341
         },
         {
-            "id": "fdca36fb-3128-4513-8e1d-b34edbe8a8d2",
+            "id": "98cb329d-c06d-45f7-84f8-8f9894dcb830",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15355,7 +15355,7 @@
             "second": 343
         },
         {
-            "id": "73b87344-3c56-4444-9235-6b9c71f714ca",
+            "id": "7ca80041-a66b-4d05-a5b0-203dd3ed193e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15363,7 +15363,7 @@
             "second": 347
         },
         {
-            "id": "6ca5bc9b-fa10-49e2-a9cc-e97819662a8b",
+            "id": "20fa69db-21ea-49e5-b675-10405659a6d9",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15371,7 +15371,7 @@
             "second": 351
         },
         {
-            "id": "21937435-936d-4374-9125-4186c3a58b2c",
+            "id": "84f7f68e-aab7-4943-8f52-60dd91fb99b1",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15379,7 +15379,7 @@
             "second": 361
         },
         {
-            "id": "79a2321e-e77a-4d4d-844a-a81ebe744bca",
+            "id": "db2007ee-861b-4b13-a002-cdf141f63389",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15387,7 +15387,7 @@
             "second": 363
         },
         {
-            "id": "26e00258-8876-4368-9f7c-b0fc72734165",
+            "id": "d691cc36-9510-498a-b437-88fe0a41cea3",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15395,7 +15395,7 @@
             "second": 365
         },
         {
-            "id": "1c80c939-081a-460c-8868-3fa83d7e1118",
+            "id": "8d76df80-1018-4629-abc4-1f3e4849cc8e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15403,7 +15403,7 @@
             "second": 367
         },
         {
-            "id": "30bb0fed-52b0-4f61-a7f8-585a2caaeb90",
+            "id": "97cfb445-612f-43f6-be11-f3a70fd0939d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15411,7 +15411,7 @@
             "second": 369
         },
         {
-            "id": "b765c7a6-ecc1-4ecc-945d-06eabbee8b70",
+            "id": "a86d12d8-cb03-485f-842d-21d26d53959a",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15419,7 +15419,7 @@
             "second": 371
         },
         {
-            "id": "601fba3e-74dd-4a91-a72c-8d0dd2eba587",
+            "id": "723a10ec-5531-4a34-a216-4608394a5be3",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15427,7 +15427,7 @@
             "second": 416
         },
         {
-            "id": "84c647b1-0fa4-4b30-aa30-40278980da2c",
+            "id": "9fab2c76-8f97-4d37-b644-93bcf91e4132",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15435,7 +15435,7 @@
             "second": 417
         },
         {
-            "id": "5b2d514c-4b0d-4045-9657-0c82553a37fd",
+            "id": "b3ab70d0-6a7a-4a09-857f-9df192351af3",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15443,7 +15443,7 @@
             "second": 432
         },
         {
-            "id": "d05ce202-e00f-43d4-9e95-33289e55fda5",
+            "id": "1bd5d2d8-1e5a-43b0-bdec-6086275568e9",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -15451,7 +15451,7 @@
             "second": 506
         },
         {
-            "id": "eb5945e2-6711-486d-a76f-8d7b219321ff",
+            "id": "d50980f3-98f6-4bb4-867b-3c59f28f6a97",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15459,7 +15459,7 @@
             "second": 507
         },
         {
-            "id": "c1da15f5-de71-4eb9-979b-26c53d345035",
+            "id": "34cd5f2f-760e-4b61-b41d-bafc30e68929",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15467,7 +15467,7 @@
             "second": 509
         },
         {
-            "id": "1f6f0c29-2e1f-4b70-b639-daf910cf880c",
+            "id": "82da8b42-2e3b-4f6f-b598-30b60e08e04a",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15475,7 +15475,7 @@
             "second": 510
         },
         {
-            "id": "8ef22bca-d26f-411e-b900-1042a8abadb8",
+            "id": "169afca1-a29f-4ad9-a6ff-9fa170a95515",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15483,7 +15483,7 @@
             "second": 511
         },
         {
-            "id": "167a35a5-6a91-4d3a-b85c-76abc73a0458",
+            "id": "592c4ef8-752d-4f63-bf57-5ed62456853d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15491,7 +15491,7 @@
             "second": 537
         },
         {
-            "id": "fced0b02-b86d-4f04-8eba-b3cbbb0ce894",
+            "id": "e14566ee-db2f-4b74-99d1-462c166fbea8",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -15499,7 +15499,7 @@
             "second": 7680
         },
         {
-            "id": "2e025ad9-54ed-4f70-bc81-e088dca64b5f",
+            "id": "c4e85658-3f2f-4b98-8657-4d4c3d32879c",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15507,7 +15507,7 @@
             "second": 7681
         },
         {
-            "id": "09a30b0b-277f-40e9-8d5b-f81e9d70f63c",
+            "id": "a3f2ac7a-c41a-4eb4-b19f-8318fd60df6d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15515,7 +15515,7 @@
             "second": 7743
         },
         {
-            "id": "81a4cb40-b47c-40aa-9a81-104d7563ef9e",
+            "id": "4ad7a891-c096-477b-ac6c-26d709388001",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -15523,7 +15523,7 @@
             "second": 7840
         },
         {
-            "id": "22111916-6598-4899-8f2b-9912678b6483",
+            "id": "398d7780-6f24-4d44-8b8e-3d98378d8345",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15531,7 +15531,7 @@
             "second": 7841
         },
         {
-            "id": "b8096ffb-3eb8-4656-bfdb-76a9a4815217",
+            "id": "e5b05459-e2e1-44f3-ac4a-96ddf5d4e9af",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -15539,7 +15539,7 @@
             "second": 7842
         },
         {
-            "id": "7c72ee51-e9e0-4079-b786-149640350945",
+            "id": "ec6ee006-f0ad-4f7e-a280-99504f6391c4",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15547,7 +15547,7 @@
             "second": 7843
         },
         {
-            "id": "213a8615-1ea3-430b-8c7d-8f9d280c4ca9",
+            "id": "7cd055cc-4b14-4d1f-8ba8-08afe278906d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -15555,7 +15555,7 @@
             "second": 7844
         },
         {
-            "id": "ebaadfdc-16c2-4056-8da6-fc3fbeaae4e1",
+            "id": "89e8d39f-dc9c-4bdf-83e9-3a5f0682901a",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15563,7 +15563,7 @@
             "second": 7845
         },
         {
-            "id": "dbd3bd77-b3ff-4815-927d-90a730acec2c",
+            "id": "34875a68-e05f-4a1a-ba72-f30bb93762be",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -15571,7 +15571,7 @@
             "second": 7846
         },
         {
-            "id": "da90fd9a-12ad-4f5a-af46-3ca4b33dd20f",
+            "id": "330121cc-f188-4b22-8dd0-0bf98e42e914",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -15579,7 +15579,7 @@
             "second": 7848
         },
         {
-            "id": "98eb2ff2-973b-4ae6-bf7a-55995904ed3f",
+            "id": "d6bfad19-672f-46a4-a6b8-baaca9cf276e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15587,7 +15587,7 @@
             "second": 7849
         },
         {
-            "id": "09a00714-d0e6-421e-9ef7-7129d8cfb97d",
+            "id": "726d9c5c-99e9-4e7d-aee6-537a1e527514",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -15595,7 +15595,7 @@
             "second": 7850
         },
         {
-            "id": "31b82b9c-42cc-4538-9b8a-31849a34a40f",
+            "id": "7e5f7f88-c933-4468-a6a7-972bcd7da705",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15603,7 +15603,7 @@
             "second": 7851
         },
         {
-            "id": "4d483fa9-1206-4a4c-bcd9-9273dd8d0cb3",
+            "id": "7736c117-a84a-42ee-96ed-9530a544af67",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -15611,7 +15611,7 @@
             "second": 7852
         },
         {
-            "id": "1f8b438e-ddd0-49be-a110-f3e009cfd8db",
+            "id": "dc3211f3-b1f9-4840-b615-3d706a7a0159",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15619,7 +15619,7 @@
             "second": 7853
         },
         {
-            "id": "47ed90c9-5b46-48f0-9b50-226e37b09ac7",
+            "id": "66bff656-5ffd-4633-ad9c-921daa9a7207",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -15627,7 +15627,7 @@
             "second": 7854
         },
         {
-            "id": "2d5a944f-433e-47cc-a921-5ecf66a231c4",
+            "id": "af45e545-07fd-49ee-aefb-fbc655695204",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15635,7 +15635,7 @@
             "second": 7855
         },
         {
-            "id": "70b07107-1720-464f-861c-c1c4de599db0",
+            "id": "90cffe27-dca4-40bb-aaa2-d00d371fe241",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -15643,7 +15643,7 @@
             "second": 7856
         },
         {
-            "id": "a4ef0d1f-279d-4586-8189-88192e2ccb7a",
+            "id": "7b285a2e-2b9a-46d9-91aa-bf8fcce73f5d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15651,7 +15651,7 @@
             "second": 7857
         },
         {
-            "id": "219a36cc-7f44-4427-97c8-c66948cd83df",
+            "id": "bc8b0e91-353a-43b5-8a75-7b1ce0edc26c",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -15659,7 +15659,7 @@
             "second": 7858
         },
         {
-            "id": "4cc2eb91-2d67-4ed6-99b2-c3c0cf61feb7",
+            "id": "7ddd1fab-9726-49af-b0b5-ed873263796e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15667,7 +15667,7 @@
             "second": 7859
         },
         {
-            "id": "c4bc37ff-70da-42fa-9b99-93922ee49d2e",
+            "id": "a16f1e6f-6e45-45c6-9fd9-106eafeffcd5",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -15675,7 +15675,7 @@
             "second": 7860
         },
         {
-            "id": "c007f1a0-8823-4bb4-b35c-11046bbdb0d3",
+            "id": "ca25adea-c115-4b4d-a89b-9c197a48ba76",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15683,7 +15683,7 @@
             "second": 7861
         },
         {
-            "id": "561c8940-6edb-48de-98ce-ab37bb0522d5",
+            "id": "4298ee12-0e19-407e-abd7-e21a13d976be",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -15691,7 +15691,7 @@
             "second": 7862
         },
         {
-            "id": "c44cc23b-1c61-4675-8e1a-da3453ff1a6a",
+            "id": "80a0aae1-289f-4335-840b-d6d81393c773",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15699,7 +15699,7 @@
             "second": 7863
         },
         {
-            "id": "f7a96d0f-062b-436e-bde9-34617f2dfb9b",
+            "id": "c24f902c-cb66-49b2-931e-5e4c716dd3ce",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15707,7 +15707,7 @@
             "second": 7865
         },
         {
-            "id": "06ae7ded-878e-4750-be00-23fc886a2e74",
+            "id": "8bd913b4-1b6d-4875-8b5a-bd79f31bfe20",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15715,7 +15715,7 @@
             "second": 7867
         },
         {
-            "id": "a065172e-9ce5-4fbc-a3cd-d094a3b631c4",
+            "id": "9e2eeec2-deeb-4918-a016-cada6022e754",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15723,7 +15723,7 @@
             "second": 7869
         },
         {
-            "id": "a9b67a0b-1c69-4457-9187-2e79384ffbf4",
+            "id": "e7cc8bf1-4706-455b-a5df-fddb5feaa1c6",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15731,7 +15731,7 @@
             "second": 7871
         },
         {
-            "id": "0ba6ea7f-22bb-4369-9a70-a1cad73570d2",
+            "id": "26658c38-2131-4b7e-8eff-5ed17c04791c",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15739,7 +15739,7 @@
             "second": 7875
         },
         {
-            "id": "ce232ab9-6a4b-443e-9dd9-656e8293dd9b",
+            "id": "2230bf87-a883-4c75-b853-fe9fa5dda4dd",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15747,7 +15747,7 @@
             "second": 7877
         },
         {
-            "id": "c6f3b2cc-afe4-4566-a793-bc34e656a034",
+            "id": "caf17e9e-7124-4f61-ae46-ed730e5e1439",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15755,7 +15755,7 @@
             "second": 7879
         },
         {
-            "id": "0417c945-af93-49a0-9de8-704d65618a35",
+            "id": "a19036e3-6fef-4dfc-89d8-a7b7eb9fd7ed",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15763,7 +15763,7 @@
             "second": 7884
         },
         {
-            "id": "acf60473-78c2-4f3a-bda8-1a392c1725bb",
+            "id": "d6a0fd0c-6f92-4e7b-98a1-50acbe2415e8",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15771,7 +15771,7 @@
             "second": 7885
         },
         {
-            "id": "0c931458-d7cb-4388-8589-ad44f60afbd2",
+            "id": "b28f509b-97d3-47cd-8a61-3d11b0dd6b8f",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15779,7 +15779,7 @@
             "second": 7886
         },
         {
-            "id": "3b154ade-4860-468b-9a26-b6c376a08f31",
+            "id": "10f54b90-8489-4734-83c6-5af45f61439a",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15787,7 +15787,7 @@
             "second": 7887
         },
         {
-            "id": "3554ac22-5c6e-4149-9078-5d1221d0c1c7",
+            "id": "a44476eb-4abc-475a-9a55-6b1d146ca136",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15795,7 +15795,7 @@
             "second": 7888
         },
         {
-            "id": "ae407acf-d863-4665-8b40-114b0bbde35b",
+            "id": "2e991524-ce9f-4679-9f6e-eadd32f126ea",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15803,7 +15803,7 @@
             "second": 7889
         },
         {
-            "id": "d5814266-b2ec-4ab2-b673-c3d6dd329a97",
+            "id": "4ffc3d04-822f-45d4-9a1e-5992523f206d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15811,7 +15811,7 @@
             "second": 7890
         },
         {
-            "id": "305d659e-1c94-4f33-8aa0-739e54b84544",
+            "id": "7719649a-35e4-49de-92a0-18cd7b653bd6",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15819,7 +15819,7 @@
             "second": 7892
         },
         {
-            "id": "616a3b20-b744-4f63-aa75-97d7ca7116b0",
+            "id": "0a711568-25ab-4f94-b4a5-8032e5186485",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15827,7 +15827,7 @@
             "second": 7893
         },
         {
-            "id": "ef7b3d45-512b-4425-98c3-0d3a05c85794",
+            "id": "39a13446-2b3a-447c-9b4e-1552f62ad448",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15835,7 +15835,7 @@
             "second": 7894
         },
         {
-            "id": "76b838d3-3946-43fc-ace4-120b419a3469",
+            "id": "d41ac697-32e6-48da-9cb9-e7a7857023a6",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15843,7 +15843,7 @@
             "second": 7895
         },
         {
-            "id": "8e35c60f-ff82-43d1-9e7c-0965f6ffc9b4",
+            "id": "13daf915-ceb6-42f0-a5b3-8449a8e8ca43",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15851,7 +15851,7 @@
             "second": 7896
         },
         {
-            "id": "ee784562-fd2e-40e6-8983-123836cdb33d",
+            "id": "09cd89ce-b292-4410-8d3f-9adc35db5ee2",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15859,7 +15859,7 @@
             "second": 7897
         },
         {
-            "id": "25fd4596-6976-4bca-81e1-53255ee7ef27",
+            "id": "eb0a090e-bc35-42a0-9eae-d91ffb5b17fb",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15867,7 +15867,7 @@
             "second": 7898
         },
         {
-            "id": "73d89a51-a9e5-4f3c-a4b1-e640efc13f18",
+            "id": "46b6d868-7890-4265-8bcc-e4a7fa452fb3",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15875,7 +15875,7 @@
             "second": 7899
         },
         {
-            "id": "6170e22c-97f5-41d7-ad25-80799987c87f",
+            "id": "0b1ee6c2-5a7d-4a48-ab1f-e5d3af8e0d64",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15883,7 +15883,7 @@
             "second": 7900
         },
         {
-            "id": "1e1ea580-6589-4973-9402-9fd4260d9522",
+            "id": "5d82ddd1-2731-4f29-a47c-a757821f38e1",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15891,7 +15891,7 @@
             "second": 7901
         },
         {
-            "id": "926ccec1-a074-49f6-8c98-de148d37a33d",
+            "id": "24c593c1-ea90-4c55-992b-eba52bb40755",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15899,7 +15899,7 @@
             "second": 7902
         },
         {
-            "id": "4a96bdaf-97e3-4e60-aa8d-7d3156daaf27",
+            "id": "c7ff9ee0-5008-4503-b8a8-0431b0ef5c43",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15907,7 +15907,7 @@
             "second": 7903
         },
         {
-            "id": "ee3deae1-6c0e-4b40-bc2d-b239d3969565",
+            "id": "5d15caf2-152c-4d14-a55e-647c7879c5e3",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15915,7 +15915,7 @@
             "second": 7904
         },
         {
-            "id": "99480a76-30da-471d-8332-bcfb438e1c07",
+            "id": "3d5b8af1-e304-4a84-baf2-6ed656a49ad8",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15923,7 +15923,7 @@
             "second": 7905
         },
         {
-            "id": "09ff8a07-f7b8-40b7-bc23-190d2016eb1a",
+            "id": "692dcd7c-bec3-4faa-884e-b09af5a3a6c1",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15931,7 +15931,7 @@
             "second": 7906
         },
         {
-            "id": "606edec3-59dc-45d6-af31-86390f6bdc97",
+            "id": "62c39dc2-99ba-4f4c-820b-95f16f1956e4",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15939,7 +15939,7 @@
             "second": 7907
         },
         {
-            "id": "fdbedac4-cf98-458c-893c-69cb7f94a924",
+            "id": "f3bb0f83-e5ea-4ea7-a19e-8f76ac9d1451",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15947,7 +15947,7 @@
             "second": 7909
         },
         {
-            "id": "867e5e25-23cb-45a2-9114-5d164bb05359",
+            "id": "10441500-0405-4754-ae04-9ed76c8b6c9f",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15955,7 +15955,7 @@
             "second": 7911
         },
         {
-            "id": "2ef61ada-b0cc-4c2b-9569-5215ffc5f326",
+            "id": "b9f3ee71-5d51-4655-860b-7701a3bf2120",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15963,7 +15963,7 @@
             "second": 7913
         },
         {
-            "id": "6b2dc0aa-dde7-4cc0-afda-b7dfa3e6feee",
+            "id": "129fae6c-863f-4351-a87e-63c45dbb24a9",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15971,7 +15971,7 @@
             "second": 7915
         },
         {
-            "id": "b85aa2b8-45bd-4353-b271-974922d14b5f",
+            "id": "f33878eb-b00f-4a86-a0c9-fed0995d404b",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15979,7 +15979,7 @@
             "second": 7917
         },
         {
-            "id": "19d0c149-03ce-4379-8628-e006b93a2209",
+            "id": "7265db96-6944-4da2-a71e-dcfb026ff6ad",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15987,7 +15987,7 @@
             "second": 7919
         },
         {
-            "id": "fe210742-1f86-4d38-b1d1-73d67c82a469",
+            "id": "82798249-8f04-442e-b6bc-ffdfd1428e5f",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -15995,7 +15995,7 @@
             "second": 7921
         },
         {
-            "id": "bbfef49a-8308-48aa-82d3-e2aef6543563",
+            "id": "05e40b47-27b5-446f-9f6b-1fb29d59c9c0",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -16003,7 +16003,7 @@
             "second": 8218
         },
         {
-            "id": "305d1549-fb53-4085-bed7-be028d175ae2",
+            "id": "6b489208-6fca-4785-935f-7ae758b6fe4c",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -16011,7 +16011,7 @@
             "second": 8222
         },
         {
-            "id": "fe2b3e9e-bd96-411c-ab31-debe3142aa16",
+            "id": "7e7632e1-1988-4a92-b0f2-5a578cae6ec6",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -16019,7 +16019,7 @@
             "second": 67
         },
         {
-            "id": "727be82c-2fdb-4798-88d2-1117e92276e7",
+            "id": "b1bd7625-4466-4ebb-864c-3738861ff0e1",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -16027,7 +16027,7 @@
             "second": 71
         },
         {
-            "id": "d0bf69d3-2547-4634-a5a7-b3463da73f43",
+            "id": "7e588719-0849-4af3-afe6-3df2a0d88f07",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -16035,7 +16035,7 @@
             "second": 79
         },
         {
-            "id": "ced1a725-bfb2-4e2b-bac0-152448b084cc",
+            "id": "ef3cc60f-2daf-4f32-b125-509deb4da314",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -16043,7 +16043,7 @@
             "second": 81
         },
         {
-            "id": "43ace301-0719-4cad-ae9c-543d754570ad",
+            "id": "26565346-bd40-45c2-8ea9-489e239e6025",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -16051,7 +16051,7 @@
             "second": 199
         },
         {
-            "id": "0c6805aa-4628-4e7a-aab0-60e60bbfcd86",
+            "id": "28a6ccb4-17b6-48a5-a93d-c7539359191a",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -16059,7 +16059,7 @@
             "second": 210
         },
         {
-            "id": "bbe137e3-da3b-4084-805f-31fb41df2853",
+            "id": "0767fe99-7ec2-42f9-a7db-84dab7e1ce57",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -16067,7 +16067,7 @@
             "second": 211
         },
         {
-            "id": "3238b71d-8541-4894-9b61-a7c5ff31a830",
+            "id": "feac31b0-4064-4d9c-98c4-af748c3c40e4",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -16075,7 +16075,7 @@
             "second": 212
         },
         {
-            "id": "e8aa18b6-e5dc-40ef-ac03-1ca64b198a40",
+            "id": "5acdeb31-f485-4d2e-9fba-d73a1bbcbf24",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -16083,7 +16083,7 @@
             "second": 213
         },
         {
-            "id": "91b0e064-f5d7-4484-bf33-d0020b56b306",
+            "id": "acb983c4-eba1-4d84-8ac6-e94dbcae574b",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -16091,7 +16091,7 @@
             "second": 214
         },
         {
-            "id": "c4d8318d-5fcb-4e17-855c-d863d5ffec1e",
+            "id": "9124fde0-c022-49f7-8f95-7860a7ab8c5b",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -16099,7 +16099,7 @@
             "second": 216
         },
         {
-            "id": "8a238574-628e-4444-b47a-89f743e7767b",
+            "id": "6b9799cc-f215-4725-9be6-77df6ab7ddd9",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -16107,7 +16107,7 @@
             "second": 262
         },
         {
-            "id": "99f47fff-53b3-49f0-a542-d95e22828c0f",
+            "id": "599804fc-77f1-4c5d-b143-bfac0d7b7836",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -16115,7 +16115,7 @@
             "second": 264
         },
         {
-            "id": "50e32767-fc61-4342-b5ea-446ae4befcdc",
+            "id": "492d28e2-bbb4-4d5a-8d0c-09f249611b25",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -16123,7 +16123,7 @@
             "second": 266
         },
         {
-            "id": "69511208-e34a-4a31-b22d-ffa3f7d6ed95",
+            "id": "e36ce6c8-93e0-4526-b8db-fe285ee577fd",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -16131,7 +16131,7 @@
             "second": 268
         },
         {
-            "id": "6eecf75a-c0ff-4824-b3d2-e5137bae91cc",
+            "id": "66e90e76-817c-4194-9a39-5dd39b3247b2",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -16139,7 +16139,7 @@
             "second": 284
         },
         {
-            "id": "86c2d209-4b13-4375-a4c1-ee53af909ba2",
+            "id": "1c8fa390-4a26-4baa-bfd7-eb7bbc04c041",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -16147,7 +16147,7 @@
             "second": 286
         },
         {
-            "id": "37dbc6b3-d769-4914-a6bd-dce7ebf5de7d",
+            "id": "b09e3339-97a2-41fe-982b-5e7551fcfc2e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -16155,7 +16155,7 @@
             "second": 288
         },
         {
-            "id": "47561e83-d48b-4d30-818b-c82d72d83769",
+            "id": "fe3cbad8-4708-47af-b1e0-82f52c4706c6",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -16163,7 +16163,7 @@
             "second": 290
         },
         {
-            "id": "3317f8d2-2bbd-453d-a5cd-cbb442d7e7d4",
+            "id": "79fbd0a6-32cb-4f5b-b76c-26add2fd5014",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -16171,7 +16171,7 @@
             "second": 332
         },
         {
-            "id": "4189a242-d017-4248-9ae1-530a8e3d7e25",
+            "id": "ff2787c5-e4fa-4b37-b79c-077beb61ae78",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -16179,7 +16179,7 @@
             "second": 334
         },
         {
-            "id": "e247dc98-211a-456d-8044-e5598561cfc7",
+            "id": "2a373cf3-4de5-4bd2-98d8-45836bc34ec2",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -16187,7 +16187,7 @@
             "second": 336
         },
         {
-            "id": "e076181a-45be-4a0e-a780-fc51c6b23cb2",
+            "id": "e5e65f45-8661-4c49-98ea-0ef37d1048d8",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -16195,7 +16195,7 @@
             "second": 338
         },
         {
-            "id": "664bdd7d-26c7-4aa7-9a53-ac08377b11fe",
+            "id": "0c9edc51-f050-4a00-a3d6-68c89c6a2c0e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -16203,7 +16203,7 @@
             "second": 416
         },
         {
-            "id": "658d3e50-f37b-4c23-97ae-b384534bc87a",
+            "id": "85d58f92-ccaf-4326-8738-acd24c715165",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -16211,7 +16211,7 @@
             "second": 510
         },
         {
-            "id": "dec59442-a950-47a7-aab6-7537483ca88e",
+            "id": "ae2b9a82-3327-49e4-bb40-a1c6435bc9b1",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -16219,7 +16219,7 @@
             "second": 7884
         },
         {
-            "id": "0da630d1-d337-4112-88cd-f4d23ae791cf",
+            "id": "341b83b7-0bf0-40ec-9bb4-852cf0846a06",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -16227,7 +16227,7 @@
             "second": 7886
         },
         {
-            "id": "98cdeed6-e392-4ad8-b042-32754de3245d",
+            "id": "69d89bbe-1bd3-431d-a6f0-769a957e2594",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -16235,7 +16235,7 @@
             "second": 7888
         },
         {
-            "id": "06dd1148-6bd7-4549-940d-4f0e5c7fa245",
+            "id": "daf9d23d-789a-425e-a017-4d1c7ba75dba",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -16243,7 +16243,7 @@
             "second": 7890
         },
         {
-            "id": "da49b0c6-3e9c-464b-b5f0-c895b8b6fae0",
+            "id": "90948d3c-8390-46cf-9075-c6b25a03e1f0",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -16251,7 +16251,7 @@
             "second": 7892
         },
         {
-            "id": "ac34bb7e-64f2-49f6-a792-2270149cdc84",
+            "id": "746fcb4f-5277-49ff-a45a-c5b9f69311ca",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -16259,7 +16259,7 @@
             "second": 7894
         },
         {
-            "id": "14b8c129-e28c-42ed-bb51-c79b4cc215ec",
+            "id": "ba64e9ff-6ca8-4316-a07a-f35a2cd23d42",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -16267,7 +16267,7 @@
             "second": 7896
         },
         {
-            "id": "702b320f-f85a-4267-a31e-96f4badd98e4",
+            "id": "ede99a4e-023c-438d-9eb8-6b8b8d73e26a",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -16275,7 +16275,7 @@
             "second": 7898
         },
         {
-            "id": "603e0b1b-d113-4301-899a-646d8495d24a",
+            "id": "3f09c642-aad8-445e-aeb5-85db3cc98a34",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -16283,7 +16283,7 @@
             "second": 7900
         },
         {
-            "id": "c466e438-b17f-40a5-9d22-0314f9ac6cd6",
+            "id": "ae604c56-1536-4ed9-a059-dadd00dcda75",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -16291,7 +16291,7 @@
             "second": 7902
         },
         {
-            "id": "f2dce3c4-f7f4-43fa-83dd-2068a1abee69",
+            "id": "a2205cf9-78b8-4c0c-948d-e858a49ccc8f",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -16299,7 +16299,7 @@
             "second": 7904
         },
         {
-            "id": "4ae45324-3cc5-4dc8-b7be-2105071dd6c7",
+            "id": "d6979b97-b595-40d7-9acd-ea835b33bd80",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -16307,23 +16307,23 @@
             "second": 7906
         },
         {
-            "id": "3681536a-5ccc-4ede-a5d3-4de261368362",
+            "id": "1bd388e6-6d43-4a84-832c-4d4d03b566ce",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 89,
             "second": 44
         },
         {
-            "id": "49201123-8ed2-487a-ae1d-02a82a11dc4f",
+            "id": "12c14547-7384-47dc-8f7e-13c034fece3d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 89,
             "second": 46
         },
         {
-            "id": "ccd4d46a-9bae-4407-842e-37580660435f",
+            "id": "4cfcec1c-e318-4156-9c53-c5e39a9bec37",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": 1,
@@ -16331,15 +16331,15 @@
             "second": 63
         },
         {
-            "id": "147288e5-a0ce-4d06-a785-d88abfdfc1cd",
+            "id": "6300980c-01b9-4bfe-ba48-8a171d6690a6",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 89,
             "second": 65
         },
         {
-            "id": "653b1e0f-a95f-4e4f-b7fd-65b0f9ec1cf1",
+            "id": "0b57b31d-db32-4731-afeb-c53b2dd7d12a",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -16347,7 +16347,7 @@
             "second": 67
         },
         {
-            "id": "8ba05bc7-f9c3-47c2-b237-e0837e876869",
+            "id": "37e7bf00-39e5-4907-bc2c-f3c7fc2db258",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -16355,7 +16355,7 @@
             "second": 71
         },
         {
-            "id": "4c9705dc-582a-4e96-94e7-4b7b45793855",
+            "id": "ee202674-b502-4afb-8ac3-22d9e5160d47",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -16363,7 +16363,7 @@
             "second": 79
         },
         {
-            "id": "bf926235-8d54-42ea-a550-0df57fb85b6f",
+            "id": "300896f4-e271-4685-b1d7-9088615c72a0",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -16371,7 +16371,7 @@
             "second": 81
         },
         {
-            "id": "ca725686-f9e2-4cf8-9bf4-99ea979faa5f",
+            "id": "35a30796-daf1-4767-b726-4ad30f5a5201",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -16379,7 +16379,7 @@
             "second": 97
         },
         {
-            "id": "23f00343-b7de-4963-b06e-3a57bd1dc93f",
+            "id": "b6774ff2-eafc-43d7-9627-193f89739e18",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -16387,7 +16387,7 @@
             "second": 99
         },
         {
-            "id": "50601636-cf78-4bee-9081-3945e9d53795",
+            "id": "e27cd67f-f9e2-4d0f-acfa-55867b83fd93",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -16395,7 +16395,7 @@
             "second": 100
         },
         {
-            "id": "f48e0229-56d5-4866-b396-2df0e7556499",
+            "id": "814984ef-7365-4832-9837-17e92adec699",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -16403,7 +16403,7 @@
             "second": 101
         },
         {
-            "id": "4bc1f8fc-5c05-44fc-8948-1549d6642d33",
+            "id": "a5f62621-bb5d-4ca4-883b-caeaf22b7c2b",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -16411,7 +16411,7 @@
             "second": 103
         },
         {
-            "id": "a4d06fa3-837a-4bcb-b274-46fb0a774cbc",
+            "id": "1e12724d-f44c-4fab-b617-d3f8aa56f2e0",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -16419,7 +16419,7 @@
             "second": 109
         },
         {
-            "id": "a6b35757-4ee7-4ebe-95de-8308f78d902f",
+            "id": "ae820318-c699-4757-8152-56a2d5ba03fd",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -16427,7 +16427,7 @@
             "second": 110
         },
         {
-            "id": "64725a34-7193-407c-95f5-880ad637fe08",
+            "id": "e82695d8-c90e-4c50-84f9-50945d1e0e17",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -16435,7 +16435,7 @@
             "second": 111
         },
         {
-            "id": "1f1e26e4-a623-4b29-820e-d380029241d5",
+            "id": "2084f53f-8ed8-4621-9a90-0f9d46e37eb5",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -16443,7 +16443,7 @@
             "second": 112
         },
         {
-            "id": "334c15aa-609f-4a45-958b-ae65dc5ce769",
+            "id": "5f49d011-00b3-4e24-b61e-c5514a0d8e69",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -16451,7 +16451,7 @@
             "second": 113
         },
         {
-            "id": "254ae446-cbb4-449f-8f9c-ba92f4793fce",
+            "id": "f4ff7fbb-7575-4a40-bf5c-28530658843d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -16459,7 +16459,7 @@
             "second": 114
         },
         {
-            "id": "cfb25a21-77b4-4974-b452-dc5ce75a0b6f",
+            "id": "8b5ce792-09fd-4112-b57c-b1bc761106bf",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -16467,7 +16467,7 @@
             "second": 115
         },
         {
-            "id": "d833dff3-e9b1-4620-a143-c1e498848683",
+            "id": "46ead99c-b290-4b3b-af41-160a571b710f",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -16475,7 +16475,7 @@
             "second": 117
         },
         {
-            "id": "c7413eed-dea2-49b8-9e80-b5ce96ac7f3b",
+            "id": "a85abc9b-3f9e-4cbb-bd44-db767fadb309",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -16483,55 +16483,55 @@
             "second": 122
         },
         {
-            "id": "d1380073-728a-43cf-bc3e-2320e77a0c03",
+            "id": "c6d1df89-0a55-4f33-b843-5602a5957f1b",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 89,
             "second": 192
         },
         {
-            "id": "2900fcf1-f858-42ed-b6d2-1db15366eaef",
+            "id": "6b3c0dcd-2037-421e-a6d6-b5591e92ead1",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 89,
             "second": 193
         },
         {
-            "id": "1034d0ab-5e20-405f-8f72-756cd5c924ef",
+            "id": "4632b2e4-0ab1-4fb5-b386-d20866bb3f21",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 89,
             "second": 194
         },
         {
-            "id": "c194261d-c9a7-4094-bb3c-a38725d60a0f",
+            "id": "4b7fd636-a32b-4a04-b99b-cd64feb5e539",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 89,
             "second": 195
         },
         {
-            "id": "26d60716-cd05-46a2-b88a-9923f86e1813",
+            "id": "7ddc5611-b2a2-4cb5-9111-fec239b3776e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 89,
             "second": 196
         },
         {
-            "id": "4669733f-22b7-4922-93fa-38ddd501c391",
+            "id": "7c89ba38-cc4a-4f77-a488-a8975eed0f4a",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 89,
             "second": 197
         },
         {
-            "id": "bb51044d-7508-439c-83cd-ba654d1e2ff7",
+            "id": "c6ebec93-ed07-49aa-9657-d24b1ee60948",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -16539,7 +16539,7 @@
             "second": 199
         },
         {
-            "id": "dd544137-6ef1-4511-b204-e133b7f02eaf",
+            "id": "547da873-eff0-4066-a133-74cb0967aabb",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -16547,7 +16547,7 @@
             "second": 210
         },
         {
-            "id": "1f7d7ca0-9b4a-4612-bd8b-8d0e319a82a2",
+            "id": "a3baa5ca-e048-438e-b518-684a4d8d7c49",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -16555,7 +16555,7 @@
             "second": 211
         },
         {
-            "id": "0d1f180f-70db-4089-bfaa-058b430e54ef",
+            "id": "48643cf0-ea68-4bef-9957-44fe244d2098",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -16563,7 +16563,7 @@
             "second": 212
         },
         {
-            "id": "63a5fc06-cffe-4487-942c-8caed9f39f0e",
+            "id": "839f3f4c-c778-426f-bc42-d19b17a6fa5d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -16571,7 +16571,7 @@
             "second": 213
         },
         {
-            "id": "4a69de8e-3ced-4980-adf4-b49d36d656ea",
+            "id": "537f7e4e-0ab9-4205-b2b5-0f0f237cb376",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -16579,7 +16579,7 @@
             "second": 214
         },
         {
-            "id": "b8bd6048-1300-40fb-82cc-e890391ce6c4",
+            "id": "763ce068-9c2a-487a-ba61-f5b83e5eafdf",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -16587,7 +16587,7 @@
             "second": 216
         },
         {
-            "id": "c36c8ff9-c106-479f-bbaa-478079b3983b",
+            "id": "b384beed-6624-416e-9784-c810f555c7c1",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -16595,7 +16595,7 @@
             "second": 224
         },
         {
-            "id": "2b5dd73c-adeb-489f-a91e-47ba622d58a2",
+            "id": "118e9a5a-0859-463d-a0c7-5c9c5b9fa78e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -16603,7 +16603,7 @@
             "second": 225
         },
         {
-            "id": "e970fa61-4f7c-472a-97e8-aa72caa4f6b3",
+            "id": "40c57c29-3a87-4823-b16c-66a2085a09a2",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -16611,7 +16611,7 @@
             "second": 226
         },
         {
-            "id": "154f337f-d4ad-4a4f-99e2-75e5fce0c827",
+            "id": "8e1ac67c-ae0f-4939-9073-4de5f7046dae",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -16619,7 +16619,7 @@
             "second": 227
         },
         {
-            "id": "038b8453-a82f-4ebe-a6de-b42f6963c646",
+            "id": "0d671bfc-8021-4fdb-a236-7db69b189e7f",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -16627,7 +16627,7 @@
             "second": 228
         },
         {
-            "id": "f928ee39-0015-4647-bf3f-5f09504603e0",
+            "id": "d987f694-e2ea-48ce-a8e3-4732ad50ef15",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -16635,7 +16635,7 @@
             "second": 229
         },
         {
-            "id": "e05e23d8-55e3-47ad-b852-71610a6a186c",
+            "id": "44dbd8e3-2366-4b33-8a6b-e8a91c371f7b",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -16643,7 +16643,7 @@
             "second": 230
         },
         {
-            "id": "e86077ac-0537-4312-b1cd-45f170dcdecd",
+            "id": "2474ffdf-7b92-421f-93b0-e1e13d4684d5",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -16651,7 +16651,7 @@
             "second": 231
         },
         {
-            "id": "7a1f9657-cbd5-435b-8244-ca77c73109f1",
+            "id": "17662157-de0a-49e0-80dc-c8e430cfd59a",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -16659,7 +16659,7 @@
             "second": 232
         },
         {
-            "id": "635d1b59-39ea-416b-9e6d-b2696f50f667",
+            "id": "639c4044-86f9-4d10-a234-c52d5074c9e8",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -16667,7 +16667,7 @@
             "second": 233
         },
         {
-            "id": "73039636-d0b6-4199-b7d5-b0260db26e13",
+            "id": "9aad24bf-5e34-47bd-9b39-89f7680cab0f",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -16675,7 +16675,7 @@
             "second": 234
         },
         {
-            "id": "a6d8c54b-4f4f-449a-89af-daf683b3db95",
+            "id": "d7e4baf9-f992-496b-b744-1987f7d4c12a",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -16683,7 +16683,7 @@
             "second": 235
         },
         {
-            "id": "f23ddd42-3156-4da8-b60b-18e4477940f3",
+            "id": "d48c36fa-c447-4bd4-b60b-0e7a8746961f",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -16691,7 +16691,7 @@
             "second": 242
         },
         {
-            "id": "bb9bf558-3401-465c-9f1f-fb1d06b8d64e",
+            "id": "e0e15e80-87fa-42e6-848f-876975f82a43",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -16699,7 +16699,7 @@
             "second": 243
         },
         {
-            "id": "db114b2d-0080-4f38-83db-368b340af580",
+            "id": "dac55f00-f5d1-4a21-8094-99427e502800",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -16707,7 +16707,7 @@
             "second": 244
         },
         {
-            "id": "d5dd33aa-5213-4688-a063-5ee5abd77ecc",
+            "id": "72cfb2d2-0bca-4716-ae55-7cb7d600f47b",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -16715,7 +16715,7 @@
             "second": 245
         },
         {
-            "id": "9efa7b26-2b5b-4b58-91de-d32c872056ef",
+            "id": "094d9a64-ba6d-4150-b3e4-75070376fa3b",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -16723,7 +16723,7 @@
             "second": 246
         },
         {
-            "id": "82e8619c-7547-4859-8dbf-d66bfc5231f8",
+            "id": "e8143711-378c-4172-abe9-6b5391c85c7f",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -16731,7 +16731,7 @@
             "second": 248
         },
         {
-            "id": "9a3ebbbb-5e68-49ff-8827-e717cd882e3f",
+            "id": "9b97dd51-273b-406f-9d75-a6b7720c6341",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -16739,7 +16739,7 @@
             "second": 249
         },
         {
-            "id": "ff737cb1-76c7-47e4-97d9-0cdcd772ffd9",
+            "id": "936888e5-af48-4c58-838b-d6bb03d5b9fa",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -16747,7 +16747,7 @@
             "second": 250
         },
         {
-            "id": "2a667024-b808-4cd9-8629-1d4c25568b73",
+            "id": "9e3463cf-9f75-4b6f-8abd-496db6e00759",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -16755,7 +16755,7 @@
             "second": 251
         },
         {
-            "id": "dc52f15a-b8f9-4904-a730-08a58b90fbfc",
+            "id": "db3e3cc4-dc1b-4cfd-b9a4-1f9e97078810",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -16763,15 +16763,15 @@
             "second": 252
         },
         {
-            "id": "3768656d-d7a3-4973-8206-962ade2a9152",
+            "id": "6336b62b-c96c-4b34-8e0a-d96e4081e301",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 89,
             "second": 256
         },
         {
-            "id": "c9a5fef3-665b-4dfc-81d4-e0e5d02fc0a8",
+            "id": "be32538a-e370-44d6-900a-d24d7f201da7",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -16779,15 +16779,15 @@
             "second": 257
         },
         {
-            "id": "17e8c281-cd74-46a1-b5b8-c763936916c1",
+            "id": "4483a726-74f6-45c8-aa52-db4e410eacca",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 89,
             "second": 258
         },
         {
-            "id": "00b75edb-5eac-4a8b-bd9d-143bbc71c63d",
+            "id": "72481854-38f2-400a-9da4-5a24cf308355",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -16795,15 +16795,15 @@
             "second": 259
         },
         {
-            "id": "0b4b1878-2619-4d5f-99d0-e7e6e2af2d57",
+            "id": "359e9707-eb00-4cdb-b87c-f4d0d098068f",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 89,
             "second": 260
         },
         {
-            "id": "546967be-2d3b-4219-9989-8987b8ffd420",
+            "id": "a0001beb-5160-45fc-aea1-07bf1589060b",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -16811,7 +16811,7 @@
             "second": 261
         },
         {
-            "id": "8d33d0f6-a204-480f-93bf-7a6c2dc32540",
+            "id": "6998436c-d70e-4066-bc89-e0b6a9e6fdee",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -16819,7 +16819,7 @@
             "second": 262
         },
         {
-            "id": "b448cdff-a181-4cc7-84f7-95c1f550286c",
+            "id": "1717e8b8-5651-4833-a9a0-7f671a72dfcb",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -16827,7 +16827,7 @@
             "second": 263
         },
         {
-            "id": "42889a49-1cb0-4a86-9dc0-c4b47b95ed51",
+            "id": "0b94ab69-77d0-4792-93da-b0eea4f0f5bb",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -16835,7 +16835,7 @@
             "second": 264
         },
         {
-            "id": "c16c7026-145c-4fd4-906c-66b84c365b5d",
+            "id": "26643628-1b4f-4592-924a-bb04422e35fe",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -16843,7 +16843,7 @@
             "second": 265
         },
         {
-            "id": "2a498e03-c09a-4fa6-af00-d28e604c61f5",
+            "id": "1b5dfcd6-0f37-40ae-bc99-444b47dddf76",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -16851,7 +16851,7 @@
             "second": 266
         },
         {
-            "id": "99a9b092-a1bd-48d1-9923-231c54fbda02",
+            "id": "eb0ee32c-2614-4ce5-9347-e1c1c5331962",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -16859,7 +16859,7 @@
             "second": 267
         },
         {
-            "id": "0e363acb-ba69-49ab-aa97-e4b5ad104d8a",
+            "id": "a314543f-b622-48dd-ac13-dbb6f3883dea",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -16867,7 +16867,7 @@
             "second": 268
         },
         {
-            "id": "6294791e-2e73-4cf6-81df-a822e58e3985",
+            "id": "7229d5a4-b1e9-488d-b0ae-a0f3ba3992f1",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -16875,7 +16875,7 @@
             "second": 269
         },
         {
-            "id": "4d1160e4-dba5-42b4-b80b-5945a90b5e66",
+            "id": "57c413b9-81af-4bdb-8b1f-f0cf9c8ef1e3",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -16883,7 +16883,7 @@
             "second": 271
         },
         {
-            "id": "e0add14e-bb08-4f3b-af9b-e6dc97019d2a",
+            "id": "7d2f326e-5eb5-4418-a58d-ea993df758e9",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -16891,7 +16891,7 @@
             "second": 273
         },
         {
-            "id": "41613298-b035-4d58-a508-085f0a7e49d4",
+            "id": "6aaa520a-b789-4c6b-8476-0e058b826479",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -16899,7 +16899,7 @@
             "second": 275
         },
         {
-            "id": "86314ae4-bae2-435e-a668-0a5416a59a9c",
+            "id": "786dc87e-d27d-43f4-a7ce-34c0929c9265",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -16907,7 +16907,7 @@
             "second": 277
         },
         {
-            "id": "7edd8ede-5157-4a36-ba63-59df7d9b8272",
+            "id": "5364ebfd-0533-4760-8c4e-8d8951b64a67",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -16915,7 +16915,7 @@
             "second": 279
         },
         {
-            "id": "8d9e8e4a-9315-4bdc-af91-7c2fda75e5c8",
+            "id": "1bad91c6-a4b3-4612-a02c-d34ac3967b4b",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -16923,7 +16923,7 @@
             "second": 281
         },
         {
-            "id": "31745a6a-2acf-4767-adec-057437650f9e",
+            "id": "8f05564f-dfc7-43fe-bdc2-16a3fc542668",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -16931,7 +16931,7 @@
             "second": 283
         },
         {
-            "id": "624daa84-86df-492e-ac6e-801651a5f1cf",
+            "id": "f56f2be9-57cd-4750-a238-48910b32502f",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -16939,7 +16939,7 @@
             "second": 284
         },
         {
-            "id": "713f5589-d43d-47fc-8ad3-a2762810b628",
+            "id": "eec35482-f95b-400a-9654-6a2e393eaf19",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -16947,7 +16947,7 @@
             "second": 285
         },
         {
-            "id": "da47d374-4c08-4607-934d-b4b266405184",
+            "id": "e27b854c-0ea2-4fc5-962c-20c8b83c4f72",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -16955,7 +16955,7 @@
             "second": 286
         },
         {
-            "id": "95e448a9-0a19-45bf-b572-3ab621b0e26c",
+            "id": "33fc9af3-48ba-4e95-a591-68a8eb6adaa2",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -16963,7 +16963,7 @@
             "second": 287
         },
         {
-            "id": "ad93f97b-1598-442c-aef2-35288b43c9cb",
+            "id": "6b8af9ab-a9dd-41e4-8a23-e02e4179dbe4",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -16971,7 +16971,7 @@
             "second": 288
         },
         {
-            "id": "c43a3130-b7a3-4a05-9e0f-8abaee67884c",
+            "id": "de53746c-e363-401e-ae32-97e23ae808e3",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -16979,7 +16979,7 @@
             "second": 289
         },
         {
-            "id": "0bb0dd52-b126-4ace-9bff-49c1b1668f61",
+            "id": "cab283cd-98e2-4a06-bd2a-452d5113b9ba",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -16987,7 +16987,7 @@
             "second": 290
         },
         {
-            "id": "43bff6cc-f663-44e3-aa3e-db8c370248f5",
+            "id": "d98980ba-0594-4298-a281-4396c671b96f",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -16995,7 +16995,7 @@
             "second": 291
         },
         {
-            "id": "c9ba6336-6559-40b1-aaf5-3e3cc33fd154",
+            "id": "7337be5e-69bd-47e3-b6c3-1ca4cab61a1a",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -17003,7 +17003,7 @@
             "second": 312
         },
         {
-            "id": "b1d693b4-ca29-4c76-8c9a-a3bf6f7fb011",
+            "id": "d8965707-279e-49e3-b243-b56c9e1ce728",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -17011,7 +17011,7 @@
             "second": 324
         },
         {
-            "id": "5aabcbd7-221c-4c84-9798-1a90ddaa3d7d",
+            "id": "796f4f54-66fc-48f7-88f1-f452813d9cf6",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -17019,7 +17019,7 @@
             "second": 326
         },
         {
-            "id": "787abecc-f840-4512-9cf8-f612a781436a",
+            "id": "640d4754-424e-4490-894b-f5f9a09e2cf3",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -17027,7 +17027,7 @@
             "second": 331
         },
         {
-            "id": "d0bb788f-2098-4370-acd0-fe7dd289e913",
+            "id": "642946ef-c23e-46f5-bf89-7ee689c3b7f2",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -17035,7 +17035,7 @@
             "second": 332
         },
         {
-            "id": "96b3e488-964a-42e8-8f8d-14cbe9fba6bf",
+            "id": "75491de0-a91a-44d2-888b-5b23a848c1ab",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -17043,7 +17043,7 @@
             "second": 333
         },
         {
-            "id": "a089ccef-f093-43c8-8b49-27e81a7f7f64",
+            "id": "d3c9776e-efce-43c5-b011-b9ce8f3bedd9",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -17051,7 +17051,7 @@
             "second": 334
         },
         {
-            "id": "ae475070-235e-43d9-91cb-7ba46fb6173d",
+            "id": "48ede62b-8d41-402e-abaa-9107884f400b",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -17059,7 +17059,7 @@
             "second": 335
         },
         {
-            "id": "b4c66ae1-94dc-4271-8ed3-bb3ba99c2fd8",
+            "id": "3350ad6b-70f9-4487-8cea-3e02daa87322",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -17067,7 +17067,7 @@
             "second": 336
         },
         {
-            "id": "93482800-a509-41c1-bf3e-77c3eccf8f44",
+            "id": "48efc2bf-08dc-4d8b-8f85-147a992bbb41",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -17075,7 +17075,7 @@
             "second": 337
         },
         {
-            "id": "d9c174e4-ebac-43d0-8409-c40ca1da8c89",
+            "id": "8df82915-95f2-4d9e-9743-1bc71104e097",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -17083,7 +17083,7 @@
             "second": 338
         },
         {
-            "id": "6ba4e509-d431-41a3-a8ef-ed262dae0253",
+            "id": "b7d885ae-30b5-4813-9792-540fa55d8d20",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -17091,7 +17091,7 @@
             "second": 339
         },
         {
-            "id": "5c3855f8-f177-43c0-8fcb-87facae4a9b9",
+            "id": "c0b7f313-6fab-40a0-91a1-ec45cbb809e2",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -17099,7 +17099,7 @@
             "second": 341
         },
         {
-            "id": "829bc867-9e57-45f8-810f-8e3d1aa38808",
+            "id": "cc907d3e-1e1d-43ce-9bce-03fca6044a97",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -17107,7 +17107,7 @@
             "second": 343
         },
         {
-            "id": "f46571bd-d388-46dd-b859-cb7ae16e0c21",
+            "id": "c6043163-bba0-47e8-bcde-60c374c7775a",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -17115,7 +17115,7 @@
             "second": 347
         },
         {
-            "id": "504a766a-dcda-433f-989f-6c4eeaa7e209",
+            "id": "18d41d61-ba96-4e56-b164-3e0c40914f88",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -17123,7 +17123,7 @@
             "second": 351
         },
         {
-            "id": "5f42569c-b1ba-43c0-b0bd-c745c98329db",
+            "id": "91cb2bdd-3fd9-4090-9aee-523e9b4bc63b",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -17131,7 +17131,7 @@
             "second": 361
         },
         {
-            "id": "9ce4fb2a-fb17-4723-9fa8-404690e94033",
+            "id": "3a57fa4a-c60a-4ef8-8ab0-6e401c3151bc",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -17139,7 +17139,7 @@
             "second": 363
         },
         {
-            "id": "1f91c071-2eca-48d9-a5c9-7338e5d4afb3",
+            "id": "2472f7cb-2f10-4304-877d-4f2b6aadd667",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -17147,7 +17147,7 @@
             "second": 365
         },
         {
-            "id": "93cea585-0e88-4863-ad9c-958a947d2924",
+            "id": "eab58816-799c-47c0-850a-4cef654a6270",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -17155,7 +17155,7 @@
             "second": 367
         },
         {
-            "id": "1eb7c9ce-1c9f-4ebc-9f29-17267d8463ef",
+            "id": "e0559fa1-d8cf-4e41-acb9-f89289734827",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -17163,7 +17163,7 @@
             "second": 369
         },
         {
-            "id": "94a6435d-d8fb-49ae-bd95-bc18bdf0a4e7",
+            "id": "aad76f7c-4e5d-402f-a895-9daff8e63f7d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -17171,7 +17171,7 @@
             "second": 371
         },
         {
-            "id": "f8d286c4-a224-40f7-bf72-81e52a18993d",
+            "id": "d19b2976-05e3-472a-9f77-ea58b018c1cd",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -17179,7 +17179,7 @@
             "second": 378
         },
         {
-            "id": "244a1ab6-d486-4b5c-8f97-b535002576be",
+            "id": "32fb0dab-d9bb-4951-9222-5f629fdbdd30",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -17187,7 +17187,7 @@
             "second": 380
         },
         {
-            "id": "16abd699-1422-4549-a2d8-34e810717fad",
+            "id": "4f4a4b14-f058-4d72-bfa4-782f715598be",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -17195,7 +17195,7 @@
             "second": 382
         },
         {
-            "id": "ee4480a9-ccbc-43ef-aee6-2befa7520120",
+            "id": "e05bc2f7-fc95-4cde-9af2-7d0de8b41e2b",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -17203,7 +17203,7 @@
             "second": 416
         },
         {
-            "id": "e5e22f2c-919b-4d89-b4d5-f3ef642951d7",
+            "id": "a3e6289d-4cf7-4fee-9e5f-b1ef8c04c580",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -17211,7 +17211,7 @@
             "second": 417
         },
         {
-            "id": "0536c7c3-2e60-4346-a1b1-f1133082b879",
+            "id": "2aa6089c-721b-4dbe-a97e-81d721e0a2c2",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -17219,15 +17219,15 @@
             "second": 432
         },
         {
-            "id": "a7fc2335-be5c-4240-b4f1-0dea98449f20",
+            "id": "39c01f42-a3fc-48b1-a92d-8273321a70aa",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 89,
             "second": 506
         },
         {
-            "id": "9e6dd9a5-c720-45af-94f5-e149024dbcb8",
+            "id": "d669ada6-c40e-4483-b439-2a2d96710fa0",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -17235,7 +17235,7 @@
             "second": 507
         },
         {
-            "id": "0566b01e-5fce-4fcb-96b0-1f6a7b0f2039",
+            "id": "7fade048-43db-433a-837d-5dcee87ba280",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -17243,7 +17243,7 @@
             "second": 509
         },
         {
-            "id": "bbb16b38-257b-48bf-880b-a77ac8ee76b3",
+            "id": "92f18f52-675e-48a3-92e9-1efa29c9a767",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -17251,7 +17251,7 @@
             "second": 510
         },
         {
-            "id": "660ed88d-d7d2-4d01-8eaa-17921165f03a",
+            "id": "60e754ff-cf93-4ed1-a1a5-748c348743fc",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -17259,7 +17259,7 @@
             "second": 511
         },
         {
-            "id": "28e53abe-2510-4a73-82f4-edb4ddda7e42",
+            "id": "70d0ad0f-0de5-4ceb-9505-98da78c6a07f",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -17267,15 +17267,15 @@
             "second": 537
         },
         {
-            "id": "947c7cec-4c3c-4aa5-b469-f894b75d1866",
+            "id": "0c0b6f17-bf9d-49b9-a1aa-e5f00f356bb7",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 89,
             "second": 7680
         },
         {
-            "id": "075cfae2-1d3c-4849-b234-9ecc7e6765bb",
+            "id": "085b2375-ad22-4451-81b6-0b68d6b7de07",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -17283,7 +17283,7 @@
             "second": 7681
         },
         {
-            "id": "4089de73-6f8a-4e24-831c-58db93857ce7",
+            "id": "1b5831e1-5380-48d2-8ab5-a29255a8b23e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -17291,15 +17291,15 @@
             "second": 7743
         },
         {
-            "id": "25cd174f-32c2-4679-aa84-6970de93f2da",
+            "id": "a66506c2-42c9-4ca9-a2bc-e1600f84a494",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 89,
             "second": 7840
         },
         {
-            "id": "53ac144c-87a1-41f6-bf1c-35e5e03c74e8",
+            "id": "c124c0e6-69b2-4630-bd43-6932c7b911e6",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -17307,15 +17307,15 @@
             "second": 7841
         },
         {
-            "id": "cdb8fed6-ec4b-4738-9ac0-409e97ea4f78",
+            "id": "c8429701-b389-42ef-8ada-8510824f06fb",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 89,
             "second": 7842
         },
         {
-            "id": "89040291-7060-4ad1-97e3-234d47af5433",
+            "id": "2fac6a6e-ee73-453c-a2fd-c6eb82818353",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -17323,15 +17323,15 @@
             "second": 7843
         },
         {
-            "id": "9bed3b12-e369-40f5-b020-4f96b70f34e0",
+            "id": "8faa7681-3561-472c-af29-dee023cb7b1f",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 89,
             "second": 7844
         },
         {
-            "id": "c91534a5-14b2-4e92-abd6-617fd39331d4",
+            "id": "cc201626-ce94-4dae-bdb8-d59b8b9e7d02",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -17339,23 +17339,23 @@
             "second": 7845
         },
         {
-            "id": "baed3dd1-24d2-4e93-bc41-03fecd37e681",
+            "id": "5362834b-2070-46fd-bccb-7f1c7661f42a",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 89,
             "second": 7846
         },
         {
-            "id": "3d344b8e-8ce9-4085-9a85-002e3e465224",
+            "id": "de096420-0882-4c5b-9dae-533074ef011a",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 89,
             "second": 7848
         },
         {
-            "id": "a25bc238-2cc5-43d1-b84a-b3b09e4600ab",
+            "id": "2a1cbc36-20c2-4251-9ab4-6433cfb0c2ba",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -17363,15 +17363,15 @@
             "second": 7849
         },
         {
-            "id": "dc1d3dd4-0820-40a5-8df3-bacb434f9ee4",
+            "id": "3f68af56-de9f-4eaf-a5da-5480da601f56",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 89,
             "second": 7850
         },
         {
-            "id": "216a95f5-1a5e-4de0-aabf-03852b748669",
+            "id": "aff94407-ee38-4b4e-bd51-6bcec74f97ab",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -17379,15 +17379,15 @@
             "second": 7851
         },
         {
-            "id": "7a53aa1b-8af1-41e5-b727-0f7173a067a3",
+            "id": "b3541b39-cd41-4824-a5c1-72be8f6e0fb5",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 89,
             "second": 7852
         },
         {
-            "id": "bc6f627a-a8eb-46bb-a718-124e3e46f23a",
+            "id": "5fe99b3d-26f8-4fbf-8688-f211fc8944cc",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -17395,15 +17395,15 @@
             "second": 7853
         },
         {
-            "id": "733e9052-7a09-4411-9314-f0acdd326d8a",
+            "id": "ad0391bf-8cc2-4988-ad81-bf44c55f08d3",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 89,
             "second": 7854
         },
         {
-            "id": "352b45e0-c473-4d43-916b-c204ab78de88",
+            "id": "d68a190a-77d0-430c-9775-12a05e7356f0",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -17411,15 +17411,15 @@
             "second": 7855
         },
         {
-            "id": "dc52415c-109e-42ab-869d-bbd9d1720658",
+            "id": "b3e05373-3b5d-4ed7-b40b-f36197abcada",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 89,
             "second": 7856
         },
         {
-            "id": "cbd6bde5-6b60-4e81-be95-f9793d2dcc61",
+            "id": "e7ebb524-244b-4e33-8b83-22926fbbc3f4",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -17427,15 +17427,15 @@
             "second": 7857
         },
         {
-            "id": "d6328a10-9222-48ea-9030-16aaa2fdba1b",
+            "id": "5162ebaf-113b-4f62-b474-b7656606acda",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 89,
             "second": 7858
         },
         {
-            "id": "d8c5b22b-28a7-4c19-98c4-c25db99e1745",
+            "id": "6eee4457-b4c6-4530-9637-2dcd6050311e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -17443,15 +17443,15 @@
             "second": 7859
         },
         {
-            "id": "5f5f2e07-d31c-44d6-b2a0-6d3aa1f4522e",
+            "id": "004f069a-f326-4540-bfe3-41094318f309",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 89,
             "second": 7860
         },
         {
-            "id": "baee21de-0341-4685-88b3-ed70b3b7f12a",
+            "id": "ac422268-b423-4e78-962c-ad101a289e58",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -17459,15 +17459,15 @@
             "second": 7861
         },
         {
-            "id": "e6b6cf69-a6c7-4965-83fc-c6343ebc5f29",
+            "id": "e9f3b174-7bce-4c8c-addd-c80169403a3b",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 89,
             "second": 7862
         },
         {
-            "id": "7047a1a6-a3ec-40a0-b7cc-3c62ad1792c1",
+            "id": "86213734-cca4-408a-af95-33e235c59f53",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -17475,7 +17475,7 @@
             "second": 7863
         },
         {
-            "id": "3f98ed28-82e7-4dbf-ae0c-11ca8bf1da1c",
+            "id": "85c9d304-abdf-4cc1-8f6c-ab16781bbc1a",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -17483,7 +17483,7 @@
             "second": 7865
         },
         {
-            "id": "47b9dd2c-788c-44cb-a173-2e25c6ec14f6",
+            "id": "73c4d116-0511-4405-a3da-57d81a32c410",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -17491,7 +17491,7 @@
             "second": 7867
         },
         {
-            "id": "66269f54-cd3f-43bb-96cb-07bc6b6213dd",
+            "id": "b7972f9a-29e1-42d4-a491-9f42b08d7c0c",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -17499,7 +17499,7 @@
             "second": 7869
         },
         {
-            "id": "de2e7eeb-38f9-418a-87a2-aa96c8f3f120",
+            "id": "563e2d23-1eaa-42c6-8097-5de5697a834b",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -17507,7 +17507,7 @@
             "second": 7871
         },
         {
-            "id": "9746ae3d-6112-42c7-afd6-17f458d06b6f",
+            "id": "7479a3bc-179c-4fe8-86d4-7201d7683607",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -17515,7 +17515,7 @@
             "second": 7875
         },
         {
-            "id": "49fb665d-31cc-4335-b2fc-e4a09a712abe",
+            "id": "66729696-e67c-4070-8bf5-2d3963530d27",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -17523,7 +17523,7 @@
             "second": 7877
         },
         {
-            "id": "c3db49d3-d720-4ede-bd96-d96215d5c69f",
+            "id": "108a3868-4aa9-4b82-a4d9-6980cdbe7c5f",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -17531,7 +17531,7 @@
             "second": 7879
         },
         {
-            "id": "0b5c4557-bd25-48e5-bd5d-8d3087d557d6",
+            "id": "4c0d75b1-bb82-49c6-aa7b-0fa95b149e1d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -17539,7 +17539,7 @@
             "second": 7884
         },
         {
-            "id": "9f1aaafe-7839-428e-a53f-770e3dc21367",
+            "id": "daa27cdb-9a28-422c-907d-b46ec9e0d74b",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -17547,7 +17547,7 @@
             "second": 7885
         },
         {
-            "id": "011cc727-fa2c-4a26-8ead-eb5ad78779c3",
+            "id": "b99b813f-a59f-4f70-b16a-a41779254ffd",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -17555,7 +17555,7 @@
             "second": 7886
         },
         {
-            "id": "dbfd9542-5046-4ef6-a42d-8e7a0e78f218",
+            "id": "1442b667-d97c-4abe-a96f-9388177a94e1",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -17563,7 +17563,7 @@
             "second": 7887
         },
         {
-            "id": "b79aa680-49ea-42e0-b6b4-fa688c5c4d24",
+            "id": "4f748781-24a2-4c77-9e6e-dcc3bd35c963",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -17571,7 +17571,7 @@
             "second": 7888
         },
         {
-            "id": "2f085dce-e0a2-4cc6-8357-e64b7ce0bf92",
+            "id": "d9efd628-9c43-49ad-aa65-d41a7ab6e3dc",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -17579,7 +17579,7 @@
             "second": 7889
         },
         {
-            "id": "d523c0c6-3e8e-48a5-84a2-ca684a3dc618",
+            "id": "4ae89112-d35b-4d29-a682-b18091c098ea",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -17587,7 +17587,7 @@
             "second": 7890
         },
         {
-            "id": "782f0a11-2151-4bb8-8e1d-f8eef5d3ad77",
+            "id": "d181b053-7716-45a7-8eb1-751438baa214",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -17595,7 +17595,7 @@
             "second": 7892
         },
         {
-            "id": "ef14e885-d085-44cd-9884-299158115ef3",
+            "id": "30be2c29-517f-458a-84c4-9e18c6cca6a1",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -17603,7 +17603,7 @@
             "second": 7893
         },
         {
-            "id": "b9c26cd9-a9fa-47f2-b03d-9da4e092052e",
+            "id": "74718648-8524-4033-b221-5953a80e5f92",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -17611,7 +17611,7 @@
             "second": 7894
         },
         {
-            "id": "af7b6851-c652-44d7-bdc1-4a456b09bf35",
+            "id": "76c77245-4730-4340-b143-e229a3bcff44",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -17619,7 +17619,7 @@
             "second": 7895
         },
         {
-            "id": "3e428a8b-bf98-47fb-914d-b5d301c4fadd",
+            "id": "e064cdca-54e4-43dd-8051-1b72c70de900",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -17627,7 +17627,7 @@
             "second": 7896
         },
         {
-            "id": "9139cf32-b931-492a-a752-1a496c60196e",
+            "id": "17dfb004-dd4f-4099-990d-73a94dd006db",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -17635,7 +17635,7 @@
             "second": 7897
         },
         {
-            "id": "1a9dcc62-1fd3-4bc0-9f96-8b00b05d5658",
+            "id": "83ea9f48-92e5-4ca6-a483-50bdd01ef579",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -17643,7 +17643,7 @@
             "second": 7898
         },
         {
-            "id": "430ede63-6f9e-46c2-981e-73c50526b731",
+            "id": "b708e104-e673-49cc-9487-5d3c613cd6d7",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -17651,7 +17651,7 @@
             "second": 7899
         },
         {
-            "id": "44efa663-9611-4af2-9ba8-a0abdcf5432b",
+            "id": "eeb0ec0e-a947-4fa0-9cc1-e40f11399207",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -17659,7 +17659,7 @@
             "second": 7900
         },
         {
-            "id": "ec40e5e2-f79a-4462-a4f2-56eca8174c80",
+            "id": "b12c8696-2a49-4119-bae8-524f72a4197a",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -17667,7 +17667,7 @@
             "second": 7901
         },
         {
-            "id": "b6c1656c-43b6-4d29-9a7c-7f9e9559ce1c",
+            "id": "8677fdf6-e2f0-4337-be21-025636667a0f",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -17675,7 +17675,7 @@
             "second": 7902
         },
         {
-            "id": "5aa78708-a7e1-4555-8f92-47bb9e096647",
+            "id": "f2aa7145-2131-4a59-b316-22ff7c90ad64",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -17683,7 +17683,7 @@
             "second": 7903
         },
         {
-            "id": "dc5c9ed8-6c8e-47b7-b9b6-f20a3334fa03",
+            "id": "9c96ef76-102b-4b40-90ab-803894b01f62",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -17691,7 +17691,7 @@
             "second": 7904
         },
         {
-            "id": "144d2c82-aad8-407f-9b1d-8c1894768d2c",
+            "id": "f3ea1ac5-f0fd-4dda-9e2c-f6853bcf8eed",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -17699,7 +17699,7 @@
             "second": 7905
         },
         {
-            "id": "d71c4d52-5a2a-4e8b-b047-f442cdc4f57e",
+            "id": "a219671a-6820-4cc2-b45d-3e6ccf718c2a",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -17707,7 +17707,7 @@
             "second": 7906
         },
         {
-            "id": "77478561-b271-4ff8-89cd-d78b404f779d",
+            "id": "00ceb29f-f83d-4720-8d58-e464edf9192e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -3,
@@ -17715,7 +17715,7 @@
             "second": 7907
         },
         {
-            "id": "ec6b83f1-4fc3-426b-88a1-0e10146677ac",
+            "id": "59a31735-7e9c-4daf-a5ae-dfd15a005812",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -17723,7 +17723,7 @@
             "second": 7909
         },
         {
-            "id": "a2f94532-50e7-4a13-8679-b79dbc6afdb9",
+            "id": "61688663-579e-4e3d-8965-16f9052cc82a",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -17731,7 +17731,7 @@
             "second": 7911
         },
         {
-            "id": "18daa271-64b4-4aa8-a8b4-6f3becc5e503",
+            "id": "3c473590-c388-456a-b2ff-8747328ff7c9",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -17739,7 +17739,7 @@
             "second": 7913
         },
         {
-            "id": "594c2112-9c7b-48a8-9826-dbb2d205b6fe",
+            "id": "f0b53677-de5b-4acd-b54d-20bec9eb1765",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -17747,7 +17747,7 @@
             "second": 7915
         },
         {
-            "id": "2d1b00f0-ad00-45af-8c75-f342251c3215",
+            "id": "c87d9b47-0bb0-4386-8fff-0675e02c2671",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -17755,7 +17755,7 @@
             "second": 7917
         },
         {
-            "id": "8fe3bde6-fa1a-4204-8d76-cc109569e113",
+            "id": "cce26cfd-66d5-4a60-92d7-604328976595",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -17763,7 +17763,7 @@
             "second": 7919
         },
         {
-            "id": "10bd7108-ae58-4552-ba7f-b50c1275b3e5",
+            "id": "24bd8401-6749-47bb-822a-c708cc04932d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -17771,23 +17771,23 @@
             "second": 7921
         },
         {
-            "id": "8a59e1f9-0fb9-4689-aba8-9ed9347a7099",
+            "id": "ceef57b8-2cff-454e-9f56-583c088b662d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 89,
             "second": 8218
         },
         {
-            "id": "044d73e7-5d58-40a5-a94e-aad35181b210",
+            "id": "b4ef932e-d993-4079-a193-720febf54a02",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": -3,
+            "amount": -4,
             "first": 89,
             "second": 8222
         },
         {
-            "id": "ce7f7017-3609-42a3-a062-fa48628150da",
+            "id": "2bb13974-c828-4d9a-9734-1610f77dbbf6",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -17795,7 +17795,7 @@
             "second": 67
         },
         {
-            "id": "e92ebb3a-1b4f-42b5-8c2b-b7d6c4123b2c",
+            "id": "799b7ba4-5bc8-497e-b07c-693482569ea9",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -17803,7 +17803,7 @@
             "second": 71
         },
         {
-            "id": "ab52be0f-17de-4f02-b36d-4c31c73690cc",
+            "id": "d9939b4a-c9f1-4987-818e-41828d8ae551",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -17811,7 +17811,7 @@
             "second": 79
         },
         {
-            "id": "8d4a1f75-0bd8-4730-8fd8-527891cb99c5",
+            "id": "bc172e52-e7d5-4b57-a81b-15e3bf85fa18",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -17819,7 +17819,7 @@
             "second": 81
         },
         {
-            "id": "4db1bf77-9695-42b4-9b9d-e051a866ea56",
+            "id": "7806ceea-e4d3-47f2-9844-e58d90639aa7",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -17827,7 +17827,7 @@
             "second": 199
         },
         {
-            "id": "6e18f3af-2a0d-45ad-9a1c-01e75a7a7f96",
+            "id": "14e2a5e1-3473-4e38-9700-a7b9f623f6d6",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -17835,7 +17835,7 @@
             "second": 210
         },
         {
-            "id": "3ab1c619-264f-4458-869f-fc5709ad4c77",
+            "id": "0a737839-1b87-4328-829a-826eb4f62478",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -17843,7 +17843,7 @@
             "second": 211
         },
         {
-            "id": "f1f83807-edb5-41bd-a1ce-9338d78717f3",
+            "id": "40c3fe76-7ac5-4dd6-a125-d5bd449bb8f7",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -17851,7 +17851,7 @@
             "second": 212
         },
         {
-            "id": "a16f1e54-655a-43ed-a430-7f54f2b0f2f1",
+            "id": "bea8b7fd-804b-484a-84ee-49fb5c83e584",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -17859,7 +17859,7 @@
             "second": 213
         },
         {
-            "id": "98132c19-c774-4fa6-b340-69d0c03e96b0",
+            "id": "031c18cd-f403-4f9b-b623-0c2121858874",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -17867,7 +17867,7 @@
             "second": 214
         },
         {
-            "id": "68817b73-8b23-440a-b711-600d07482a76",
+            "id": "4ad53df2-5ecb-407b-9245-9210d49fdf47",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -17875,7 +17875,7 @@
             "second": 216
         },
         {
-            "id": "bbdef01d-7541-47e3-883b-d13b9466a3a8",
+            "id": "6bdf737f-2a62-445b-ae6f-ac92c31c878e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -17883,7 +17883,7 @@
             "second": 262
         },
         {
-            "id": "054189f8-fcc7-4c4e-b9a6-6194850e6932",
+            "id": "bf275439-98a5-4b5d-925c-ca81486f4890",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -17891,7 +17891,7 @@
             "second": 264
         },
         {
-            "id": "397baed1-273b-4405-a509-b39593801a65",
+            "id": "240b6c8b-d8d3-4b31-8f57-5031b797decb",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -17899,7 +17899,7 @@
             "second": 266
         },
         {
-            "id": "aee8ffdc-58f1-4da6-a176-7e6bf1729f06",
+            "id": "3d6a7bac-dbeb-4e7c-8859-51fd77cae7b0",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -17907,7 +17907,7 @@
             "second": 268
         },
         {
-            "id": "96c4de1c-9412-4460-9a2b-88aa3e719548",
+            "id": "ea02b66b-e64b-4b01-9de1-628066fae126",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -17915,7 +17915,7 @@
             "second": 284
         },
         {
-            "id": "73e64dd5-c23d-4fda-860d-1ca2018aec50",
+            "id": "111d669b-8597-4d8e-8f8c-d4107a3b714e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -17923,7 +17923,7 @@
             "second": 286
         },
         {
-            "id": "b70cfdb6-eacd-4543-9586-5d112a645f4d",
+            "id": "1126c49d-46ad-4f25-9c56-17c19023cf2c",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -17931,7 +17931,7 @@
             "second": 288
         },
         {
-            "id": "fc719d54-c566-4a33-bcc4-12eec15f68d4",
+            "id": "4ae44dd1-5ba0-4475-9ff7-181d82da4d12",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -17939,7 +17939,7 @@
             "second": 290
         },
         {
-            "id": "86876e2b-f461-4437-8972-f42cb0186949",
+            "id": "2f8cd03a-543d-49ab-baaa-5e30eee4242b",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -17947,7 +17947,7 @@
             "second": 332
         },
         {
-            "id": "ef807627-083a-4437-aebe-fb41e800ff83",
+            "id": "81c99a6c-8731-4657-a27f-d0e46312d4c1",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -17955,7 +17955,7 @@
             "second": 334
         },
         {
-            "id": "125930c8-8cea-4f6c-ba4a-52e4cba2b2b8",
+            "id": "2c46c7fd-db00-4c4b-984d-517435f4dc0a",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -17963,7 +17963,7 @@
             "second": 336
         },
         {
-            "id": "25a5fac5-0ee0-4adf-8ba4-e811452bb4ff",
+            "id": "29e96b2a-076f-4845-9cd2-d828de7206da",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -17971,7 +17971,7 @@
             "second": 338
         },
         {
-            "id": "6ef2b8e3-3bcc-461a-b61a-11d92c5890b3",
+            "id": "af051e45-86a3-4144-8a51-8c0f8f7e4f40",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -17979,7 +17979,7 @@
             "second": 416
         },
         {
-            "id": "0cdc3d54-03db-42f3-9652-764622dd788c",
+            "id": "165910f9-b7c2-406f-9bce-d6f9b01666bd",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -17987,7 +17987,7 @@
             "second": 510
         },
         {
-            "id": "9432c773-bb3f-4dec-bb3c-804f344dbf25",
+            "id": "7ac1670d-6c7e-4846-a085-7c61820a366f",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -17995,7 +17995,7 @@
             "second": 7884
         },
         {
-            "id": "098491db-0728-4f1a-bb8f-20a1bdb6f7bb",
+            "id": "5ef41f89-15fb-47c9-a2ad-78c02ee8d483",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18003,7 +18003,7 @@
             "second": 7886
         },
         {
-            "id": "0b9b5e52-9c93-4b0b-a3ef-9c8817fe4d0b",
+            "id": "bc976b64-ce56-4a85-a6df-c57b5144a54e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18011,7 +18011,7 @@
             "second": 7888
         },
         {
-            "id": "dec36d58-aede-443b-a8f9-e6dd209082e8",
+            "id": "48e9bb63-4ba7-4927-a4c4-d90efbb406b9",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18019,7 +18019,7 @@
             "second": 7890
         },
         {
-            "id": "543c7728-227e-4844-b53f-c61c8ab9f78e",
+            "id": "b2c52dad-e318-418c-8a04-78202c832257",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18027,7 +18027,7 @@
             "second": 7892
         },
         {
-            "id": "ada6c71f-e3b8-42e6-b26a-70ff1b2f4089",
+            "id": "b59967bf-5dd5-4b53-81fb-d84e19f65440",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18035,7 +18035,7 @@
             "second": 7894
         },
         {
-            "id": "f525f3e9-ecae-44f6-9a13-9b4543106471",
+            "id": "bf79fa19-1854-4ad8-b6b4-98dfc61a5184",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18043,7 +18043,7 @@
             "second": 7896
         },
         {
-            "id": "4645b647-5374-41aa-bf27-2d516fd152eb",
+            "id": "9eb7ead2-9d16-487b-bdb3-b5c5748e3955",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18051,7 +18051,7 @@
             "second": 7898
         },
         {
-            "id": "9b604f13-7d89-4924-991e-378b68173e48",
+            "id": "887cd17f-3bae-4345-98ed-3304ccf39b6b",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18059,7 +18059,7 @@
             "second": 7900
         },
         {
-            "id": "c9fef36c-c491-42f8-a60c-24e069fd980d",
+            "id": "85e01084-4048-4820-8d7a-9bf69a595e31",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18067,7 +18067,7 @@
             "second": 7902
         },
         {
-            "id": "64bb5143-9720-4dd4-b5c8-312f5a2782f1",
+            "id": "7176f888-734c-4a3d-addf-31a655b3ae17",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18075,7 +18075,7 @@
             "second": 7904
         },
         {
-            "id": "8801f514-e2b4-498a-82c4-7d88711d9248",
+            "id": "1e3e3be4-63d1-49c6-879f-24067a21a3b2",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18083,7 +18083,7 @@
             "second": 7906
         },
         {
-            "id": "37f31d50-2ae0-44e5-85c9-aa9ac12c4164",
+            "id": "09d6a1f8-9cfc-401b-864b-a27ced9c85cb",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": 5,
@@ -18091,7 +18091,7 @@
             "second": 74
         },
         {
-            "id": "d6f3f777-9da6-4cfa-9abc-be31f1a3f0f4",
+            "id": "96961c86-fcc4-43bf-833e-07e3cc26de66",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18099,7 +18099,7 @@
             "second": 34
         },
         {
-            "id": "ffabb79a-0181-43eb-9dda-bb540bc4746f",
+            "id": "cb649931-9126-4460-bcbe-b4ac61031a16",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18107,7 +18107,7 @@
             "second": 39
         },
         {
-            "id": "e4cb0693-8d11-4342-b10f-3663df41c218",
+            "id": "f1ce9fe0-9d91-41ee-a5ca-edb373a8dbff",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18115,7 +18115,7 @@
             "second": 8217
         },
         {
-            "id": "cdc656a5-261d-4ba5-8552-e79af99bbbcc",
+            "id": "6cf5d5dc-d92e-446a-9b92-1c929961857c",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18123,7 +18123,7 @@
             "second": 8221
         },
         {
-            "id": "2746b290-4915-4042-801e-1d4a8e6d73f1",
+            "id": "d6891c40-995a-4a0e-8c22-af2fb641481b",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18131,7 +18131,7 @@
             "second": 34
         },
         {
-            "id": "90aace6b-feec-45b5-852a-9de343c97354",
+            "id": "fe40685a-4087-46a6-9fde-58f4fa9521c2",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18139,7 +18139,7 @@
             "second": 39
         },
         {
-            "id": "5d0a871f-9d1b-4c9a-8ced-8a71a1d572d7",
+            "id": "3e07d147-2126-4531-915f-b109ca18b019",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18147,7 +18147,7 @@
             "second": 118
         },
         {
-            "id": "fcb32fb4-f38c-4343-8ebd-1b98866daad7",
+            "id": "154ea29c-b428-41b2-a6ef-1fe52047f534",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18155,7 +18155,7 @@
             "second": 119
         },
         {
-            "id": "b61a4123-f25e-4f03-935a-3f2e1f5a8e86",
+            "id": "7b626fb7-e9bd-42a7-aac9-244ed49c576e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18163,7 +18163,7 @@
             "second": 120
         },
         {
-            "id": "5f0d4c8a-a864-4231-b661-73874f294756",
+            "id": "f0d4ff5c-1d13-40a7-ab70-65d1f709c8f1",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18171,7 +18171,7 @@
             "second": 121
         },
         {
-            "id": "ce09b48a-f44d-4191-9783-d509bf66f377",
+            "id": "df709fa1-adf9-4d22-9d3d-5f7352e1a988",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18179,7 +18179,7 @@
             "second": 122
         },
         {
-            "id": "b680dab6-4b36-4945-8b8c-1e6c4f0e7b65",
+            "id": "77441716-cd34-4a3f-87be-8db400f74ddc",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18187,7 +18187,7 @@
             "second": 253
         },
         {
-            "id": "2a933c98-c865-4c46-8a5a-16755e3f7c18",
+            "id": "3eab512c-c670-4feb-8468-791f8c3bccf5",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18195,7 +18195,7 @@
             "second": 373
         },
         {
-            "id": "1875479d-20a2-4da9-8b70-ee5f2bee8bdc",
+            "id": "ea68ecb4-dacb-4a60-b72c-2408da9c2545",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18203,7 +18203,7 @@
             "second": 378
         },
         {
-            "id": "5bccd939-5611-4a49-81c2-8b17bcc2279b",
+            "id": "db2e44b8-1f5c-4edb-b0d4-b21eb9e1e7d5",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18211,7 +18211,7 @@
             "second": 380
         },
         {
-            "id": "90bd6e0f-254f-415f-8ceb-bc1d0a6d31fc",
+            "id": "dd2e1b71-b1f9-4b64-a7ea-796b18db80bc",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18219,7 +18219,7 @@
             "second": 382
         },
         {
-            "id": "44d6acfd-3869-4de0-bb78-1530ea35764f",
+            "id": "d3c0636a-560e-4efb-ae08-770d8995ca2e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18227,7 +18227,7 @@
             "second": 7809
         },
         {
-            "id": "0e3ef3df-a238-4155-b009-6aa17ceafddd",
+            "id": "c24ee59b-688b-4815-99c6-a226631b3f24",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18235,7 +18235,7 @@
             "second": 7811
         },
         {
-            "id": "81dacc3a-ee99-49a3-87f9-4799219f2c34",
+            "id": "4c1f60b4-dec7-4269-9a51-1b6d6699ccfc",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18243,7 +18243,7 @@
             "second": 7925
         },
         {
-            "id": "a77f1cc7-9067-4659-a4c7-f7055db4a71d",
+            "id": "43ff8823-1c7b-42b2-b7f8-49c0b9e78426",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18251,7 +18251,7 @@
             "second": 8217
         },
         {
-            "id": "daef9da6-ce26-4abb-a504-c10745a0aa19",
+            "id": "e85ffd3f-0b22-411f-aab0-6f5cc22bf9e8",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18259,7 +18259,7 @@
             "second": 8221
         },
         {
-            "id": "f7882a49-589c-4b55-95f9-c8a55fe43961",
+            "id": "f1e31028-556e-4a68-a4ab-5d592d98f76b",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": 1,
@@ -18267,7 +18267,7 @@
             "second": 34
         },
         {
-            "id": "79567f8d-becd-4c5c-b6f4-d5c83d4cebe8",
+            "id": "2cdb4ea0-90f1-42ad-9b06-09bdfdeced1e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": 1,
@@ -18275,7 +18275,7 @@
             "second": 39
         },
         {
-            "id": "43e64345-2ea1-4ab8-b273-4de43f81a3ef",
+            "id": "d2773953-7c76-4c76-866e-528dc1b52626",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": 1,
@@ -18283,7 +18283,7 @@
             "second": 8217
         },
         {
-            "id": "5f463915-7013-44bd-8f57-b5d7e14f09c6",
+            "id": "6cb8a414-4e2b-425e-b023-cf5f3bd93d71",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": 1,
@@ -18291,7 +18291,7 @@
             "second": 8221
         },
         {
-            "id": "de6eba05-b1c3-48bc-95c5-0677e71a753b",
+            "id": "6900e5a4-76e9-4a2d-973d-c7a7e016cb1e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18299,7 +18299,7 @@
             "second": 34
         },
         {
-            "id": "76e67023-126f-4170-bb87-2475720ffd56",
+            "id": "c4ec5c2b-c46b-4d72-b642-34d17375c552",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18307,7 +18307,7 @@
             "second": 39
         },
         {
-            "id": "0e2aaa29-46d2-4f30-be29-f8b0d1112256",
+            "id": "582063b2-44fa-4e64-bfd6-3d7a3aa9039a",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18315,7 +18315,7 @@
             "second": 118
         },
         {
-            "id": "657e964e-a6e1-44b3-99c6-288ef8217e2c",
+            "id": "74f68aad-5828-4592-8709-161fcc53e93d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18323,7 +18323,7 @@
             "second": 119
         },
         {
-            "id": "fcce7080-dc56-4127-9c4b-c00346dcc417",
+            "id": "8af70e48-24d9-4033-98c3-7fe0a6ec2c31",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18331,7 +18331,7 @@
             "second": 120
         },
         {
-            "id": "8f6984aa-f59f-49cc-86a8-8fbcd46563b9",
+            "id": "451e3c46-7900-4e58-92e9-617a8bedb8dc",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18339,7 +18339,7 @@
             "second": 121
         },
         {
-            "id": "d92f78c4-0cbf-40ff-a7ff-0d1c99d63664",
+            "id": "6f65e60b-c50b-4127-8ed1-80ea3717c367",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18347,7 +18347,7 @@
             "second": 122
         },
         {
-            "id": "3fc1d93f-7724-4e45-a19c-f621d28658d6",
+            "id": "60b53ea4-2023-4a8b-a9cb-4c66a4bdb32f",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18355,7 +18355,7 @@
             "second": 253
         },
         {
-            "id": "689cc05b-f5d3-4302-b396-9c919128c809",
+            "id": "b0e8f1c2-ebe2-4dc5-8fc9-ae47fd459bbf",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18363,7 +18363,7 @@
             "second": 373
         },
         {
-            "id": "f4de90d1-cb04-4382-a3be-f15ece7f9b02",
+            "id": "21b06019-f699-455a-b94a-d7bfdb9a386b",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18371,7 +18371,7 @@
             "second": 378
         },
         {
-            "id": "ce99e3e0-f5d0-454e-8c6e-620d07ee2042",
+            "id": "08c5de07-4e7d-461a-b520-ba8287fe2bb1",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18379,7 +18379,7 @@
             "second": 380
         },
         {
-            "id": "245e223e-60a9-4a6c-9b50-21c0ca155ee4",
+            "id": "cfba0eb6-3309-42eb-8c19-33c7e6dfd5d0",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18387,7 +18387,7 @@
             "second": 382
         },
         {
-            "id": "a8a1198d-b861-4232-a5b7-fb0f0f14b5aa",
+            "id": "74de8135-bfd7-48ff-a88b-0360b0d52238",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18395,7 +18395,7 @@
             "second": 7809
         },
         {
-            "id": "f745eeab-c75c-4d86-90d4-6bc05a687c81",
+            "id": "ed347f44-bb64-4545-bcc3-e2764b7d3e17",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18403,7 +18403,7 @@
             "second": 7811
         },
         {
-            "id": "eb754999-c266-4e7d-a711-fcda17188722",
+            "id": "d5801f8b-db6a-4255-8a40-ae27e923b175",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18411,7 +18411,7 @@
             "second": 7925
         },
         {
-            "id": "8834b7a1-d207-4db6-8b02-fe5cef058701",
+            "id": "3063c4fd-8e4c-42c0-91d4-cb7a46aa05cd",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18419,7 +18419,7 @@
             "second": 8217
         },
         {
-            "id": "4fd8b6f9-fe40-48da-b3ff-4f5d73727369",
+            "id": "279a8a0e-a066-4e5c-8277-aa45538b0393",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18427,39 +18427,39 @@
             "second": 8221
         },
         {
-            "id": "1cdfeddf-11a3-4bc4-b3a9-0faa22095369",
+            "id": "ec07d6ce-3930-4776-be19-33b42201b1f0",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": 3,
+            "amount": 4,
             "first": 102,
             "second": 34
         },
         {
-            "id": "3a468189-3fa1-4239-8df8-b9605912c446",
+            "id": "0fbf81d3-c6c0-47c6-acd0-67580f93df6d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": 3,
+            "amount": 4,
             "first": 102,
             "second": 39
         },
         {
-            "id": "fa3aac3e-fdd8-4535-ade6-9ca5a5125dda",
+            "id": "442d0b2e-7bae-4400-9951-e36a7d7b0a34",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": 3,
+            "amount": 4,
             "first": 102,
             "second": 8217
         },
         {
-            "id": "610ee51f-bda5-4d55-946b-37a02d462ef8",
+            "id": "e092f3f6-9894-427f-bbd5-3504a9dd4dbb",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
-            "amount": 3,
+            "amount": 4,
             "first": 102,
             "second": 8221
         },
         {
-            "id": "e7e05632-7b68-41fb-89a3-b0bddd0a00f4",
+            "id": "280869d3-1ec9-414e-a397-1ca7a2851c43",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18467,7 +18467,7 @@
             "second": 34
         },
         {
-            "id": "706d30d3-bb24-4f67-a6dd-d3b9704cf49b",
+            "id": "0a9b548b-eac3-430d-8eba-f217e8373873",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18475,7 +18475,7 @@
             "second": 39
         },
         {
-            "id": "7784ed43-0603-44c6-857f-e57f9e4708a0",
+            "id": "d5aaa340-fead-4970-b580-8f6d5f78a231",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18483,7 +18483,7 @@
             "second": 8217
         },
         {
-            "id": "ae7d6a4e-df50-4dc0-bb74-cc014b32fa1b",
+            "id": "7e250ddd-00d5-4fa9-802f-bcfc2d26cffd",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18491,7 +18491,7 @@
             "second": 8221
         },
         {
-            "id": "9f762b51-6b0b-4ba7-932a-c67d0a115ebd",
+            "id": "11eb1c3a-67f3-471c-a552-f4f569d8fc30",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18499,7 +18499,7 @@
             "second": 99
         },
         {
-            "id": "7944f9cb-3b9a-4641-8721-05e599d2635e",
+            "id": "616af7ca-2399-4124-891d-84b3d67a084e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18507,7 +18507,7 @@
             "second": 100
         },
         {
-            "id": "6a4dc719-20d1-487c-b058-55e2f95c8613",
+            "id": "2146facd-6351-4233-ad59-382616064c1a",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18515,7 +18515,7 @@
             "second": 101
         },
         {
-            "id": "eba43d5e-41ae-4d88-ac2f-4dcf5b8a0beb",
+            "id": "1c8e4d8d-7924-45c8-8906-c91e952b2331",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18523,7 +18523,7 @@
             "second": 111
         },
         {
-            "id": "ce273921-dd5b-42ed-8b25-11307ffc96ac",
+            "id": "f4250030-18bd-482b-bf67-db29751d998e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18531,7 +18531,7 @@
             "second": 113
         },
         {
-            "id": "fa4622f5-ef8f-4b4d-a795-98b9b73dd93f",
+            "id": "c01c6088-e9ac-4657-b92f-46595ffb31df",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18539,7 +18539,7 @@
             "second": 224
         },
         {
-            "id": "f3876445-6750-44e1-938f-d95154e99b26",
+            "id": "bb0c431c-3b47-4de9-8c64-782e40f55a1d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18547,7 +18547,7 @@
             "second": 231
         },
         {
-            "id": "9cb4ff89-5658-441b-9f8e-ba23471c0b7a",
+            "id": "c78fa0b9-7f33-4fba-bc00-2f7a65d09aff",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18555,7 +18555,7 @@
             "second": 232
         },
         {
-            "id": "65fa853d-2553-457f-b417-ca259606382f",
+            "id": "3e38017c-0407-4a07-a151-b08effa2dda9",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18563,7 +18563,7 @@
             "second": 233
         },
         {
-            "id": "94ee6665-3bfb-4ac2-8d5d-7c9ae3a6532c",
+            "id": "eb6fe078-e727-4f32-9b5f-2e65d8291ec8",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18571,7 +18571,7 @@
             "second": 234
         },
         {
-            "id": "6834ee92-e6ac-4556-af64-52bf2a9f1e96",
+            "id": "99f8eded-d923-4d53-8a43-7c39111fc414",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18579,7 +18579,7 @@
             "second": 235
         },
         {
-            "id": "0be7db9b-3b34-4d7b-b549-6bd7250dce01",
+            "id": "b703384f-c7eb-4eb0-82e8-92af37f4ca7e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18587,7 +18587,7 @@
             "second": 242
         },
         {
-            "id": "1346b5be-d4fb-4e4a-8f88-a81209157541",
+            "id": "f5f38437-220f-473c-ac13-4847131b6d3b",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18595,7 +18595,7 @@
             "second": 243
         },
         {
-            "id": "a0e71590-2667-469c-bf33-3499fc70ea3e",
+            "id": "c65bbd92-7b95-4784-ba6c-327ca5ea6312",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18603,7 +18603,7 @@
             "second": 244
         },
         {
-            "id": "f37d6cfe-435c-420a-b95b-7eadc3e84ae8",
+            "id": "3aada350-fb87-4336-a403-c896de0e18b5",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18611,7 +18611,7 @@
             "second": 245
         },
         {
-            "id": "52ef648f-14b5-48cb-9a67-5a02444cd2ec",
+            "id": "fdd8efce-2cd6-4e5d-a4de-e890c6c6e5ce",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18619,7 +18619,7 @@
             "second": 246
         },
         {
-            "id": "dac78789-272f-4212-a82f-77e17074f45b",
+            "id": "01055e7a-50c2-46a0-807c-30ac68b49aa8",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18627,7 +18627,7 @@
             "second": 248
         },
         {
-            "id": "01126b4f-c876-4071-9c98-0aeabe1395a5",
+            "id": "65b4d103-cfab-457d-9c59-e4c8a52cc41d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18635,7 +18635,7 @@
             "second": 263
         },
         {
-            "id": "c7844b58-b42d-4e54-a9eb-2ba2462fc254",
+            "id": "1797a789-2bfc-4b1a-916d-98756ece06e3",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18643,7 +18643,7 @@
             "second": 265
         },
         {
-            "id": "3d7572ad-e966-4b67-a7ec-89b1f0a1e93f",
+            "id": "13201255-bd75-4f0f-9fa9-81c833004610",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18651,7 +18651,7 @@
             "second": 267
         },
         {
-            "id": "d6442cf1-335a-4ff3-82ab-04415a00afdf",
+            "id": "cf761409-c003-4379-a928-a592b807451c",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18659,7 +18659,7 @@
             "second": 269
         },
         {
-            "id": "400f5176-e1e8-46d6-869d-7427ef6530d0",
+            "id": "15f6665d-e454-4fda-8c13-f75cbfdf8ea3",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18667,7 +18667,7 @@
             "second": 271
         },
         {
-            "id": "fa1f94f6-be0b-4adb-a2be-c0ae9a23efa5",
+            "id": "8a9bde90-2866-450c-b29f-d1a9b113d2a5",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18675,7 +18675,7 @@
             "second": 273
         },
         {
-            "id": "c7b77fc5-d1e6-4952-a992-0d60468acf37",
+            "id": "9417635b-196d-4766-9561-03a0e0e94acc",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18683,7 +18683,7 @@
             "second": 275
         },
         {
-            "id": "da9d5715-edf7-4078-a49a-ccc48e5452a8",
+            "id": "6c9fd5db-12c8-493e-9239-56b88fec2107",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18691,7 +18691,7 @@
             "second": 277
         },
         {
-            "id": "dde41a53-b194-4d70-aa39-f7fe4105931d",
+            "id": "90c33ee9-8e01-417d-9407-8dec4f94981b",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18699,7 +18699,7 @@
             "second": 279
         },
         {
-            "id": "01abb59a-af6d-4b81-92eb-efe120ed2bcd",
+            "id": "99956637-a240-4666-93c5-ac9e0b6b6f9b",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18707,7 +18707,7 @@
             "second": 281
         },
         {
-            "id": "bb2d533b-7fb8-4215-9526-3691e50b0dc0",
+            "id": "e951a52d-ca7f-4e65-a7d3-890966cd1be2",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18715,7 +18715,7 @@
             "second": 283
         },
         {
-            "id": "7775822d-7af7-4b75-974f-8beb6c016462",
+            "id": "6108c344-3cf2-444a-a5d0-6c1c1ea10bd1",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18723,7 +18723,7 @@
             "second": 333
         },
         {
-            "id": "83506658-1de2-4059-8a8b-b30b1a30292b",
+            "id": "f8dd10bf-7169-4162-a69e-363b0df57b66",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18731,7 +18731,7 @@
             "second": 335
         },
         {
-            "id": "54cb51e7-d685-4e64-8323-0aaf8e34dca3",
+            "id": "c4e04a0e-1ca0-4992-b7bb-68f3136fc3cb",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18739,7 +18739,7 @@
             "second": 337
         },
         {
-            "id": "7fd884f2-c4af-4609-9d84-691876a5fbb2",
+            "id": "729735dd-4abd-4512-b1d3-e3a38b10cfc1",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18747,7 +18747,7 @@
             "second": 339
         },
         {
-            "id": "726accdf-273b-4957-8d70-603ca4a27ea2",
+            "id": "376ac79c-0358-4acd-b7d2-8578e2420fa5",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18755,7 +18755,7 @@
             "second": 417
         },
         {
-            "id": "bd5c0114-8bf9-4f8e-a858-1530815e72ab",
+            "id": "a2dcc3ef-9060-40f4-a833-ac4b24b066b4",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18763,7 +18763,7 @@
             "second": 511
         },
         {
-            "id": "fcf265c7-fa41-4eb9-9db5-d4c2ffa00bff",
+            "id": "19196e2c-f543-4b7c-85a6-40de3bf18274",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18771,7 +18771,7 @@
             "second": 7865
         },
         {
-            "id": "3fcbfeb4-d852-443a-8bd0-9f2c2391dbe7",
+            "id": "865706fe-c3ba-4825-84f9-39a991c1cf03",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18779,7 +18779,7 @@
             "second": 7867
         },
         {
-            "id": "63862fa3-74b5-42c3-8f4f-3150c60c1dcc",
+            "id": "a3405986-2411-4808-b61d-207fc004db81",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18787,7 +18787,7 @@
             "second": 7869
         },
         {
-            "id": "42bf509c-3263-4a48-aa9e-eb78eabdfbc7",
+            "id": "fbe8c968-ebf6-4886-8339-bc03b017d4af",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18795,7 +18795,7 @@
             "second": 7871
         },
         {
-            "id": "8caa22ab-4622-446e-8dad-6793b32e7083",
+            "id": "10566646-12ef-4a9b-8f00-7001864f5918",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18803,7 +18803,7 @@
             "second": 7875
         },
         {
-            "id": "9cbcd376-5684-41c4-9f98-63a3039cf743",
+            "id": "c5bf6434-b69b-4724-b780-579f228cf76d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18811,7 +18811,7 @@
             "second": 7877
         },
         {
-            "id": "f5678cf4-d7f9-4c35-9d58-ced5a7284eb5",
+            "id": "402b9d71-2ceb-4d03-92f6-9df96732da2b",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18819,7 +18819,7 @@
             "second": 7879
         },
         {
-            "id": "76567d66-7c25-4074-a910-ad2568d6a005",
+            "id": "d95e62a1-8889-4f43-9cc0-f5e71b59e460",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18827,7 +18827,7 @@
             "second": 7885
         },
         {
-            "id": "ff623675-262e-47dd-8d78-aec1ba80781f",
+            "id": "16acb40c-bb05-4638-99c4-ae870f70b4a8",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18835,7 +18835,7 @@
             "second": 7887
         },
         {
-            "id": "4db2af04-04d8-4542-b7f0-4b0fac3644f0",
+            "id": "06e4bb52-1cf5-4303-b51e-02cc37a54e09",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18843,7 +18843,7 @@
             "second": 7889
         },
         {
-            "id": "e8480050-28f7-41dc-b5df-52015115ad2b",
+            "id": "6772addb-08d0-4e31-9c0e-59ac0098e8d5",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18851,7 +18851,7 @@
             "second": 7893
         },
         {
-            "id": "8f92a00b-a916-41e6-b8a2-db4745992bb4",
+            "id": "e12c89c6-5339-410d-8f79-04b964d2671b",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18859,7 +18859,7 @@
             "second": 7895
         },
         {
-            "id": "3456881b-e8ee-4cea-a3ac-71562173e123",
+            "id": "52a039c8-8a7e-4400-9cd6-6bfd6cdb9e69",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18867,7 +18867,7 @@
             "second": 7897
         },
         {
-            "id": "cb1533f1-aa4e-40ff-b987-683133104d3f",
+            "id": "19659a63-4ec2-4de1-8da4-0a13e7cfb582",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18875,7 +18875,7 @@
             "second": 7899
         },
         {
-            "id": "e938ca26-2946-4130-95d9-287fce202128",
+            "id": "87f468f9-0a99-461b-87b1-8c6f7fe29960",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18883,7 +18883,7 @@
             "second": 7901
         },
         {
-            "id": "0492760d-fc0d-4405-b715-c9dd50c8df4a",
+            "id": "eb3f4ae1-f391-428e-93aa-565ec64a7373",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18891,7 +18891,7 @@
             "second": 7903
         },
         {
-            "id": "0f88ea5e-5fbc-4bb6-9cb5-418c8fa047fc",
+            "id": "13f50eb2-706e-4519-9fa3-526bbef8968b",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18899,7 +18899,7 @@
             "second": 7905
         },
         {
-            "id": "7e9ace79-0eae-4afa-803f-f5dab35c67d9",
+            "id": "34e278f1-09a1-4d38-ac2b-fcf852552408",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18907,7 +18907,7 @@
             "second": 7907
         },
         {
-            "id": "3857d54c-babb-4d9c-bebe-0b8f0c3687e4",
+            "id": "80ed96fb-6fd2-4e2d-8f35-95f606b35399",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18915,7 +18915,7 @@
             "second": 34
         },
         {
-            "id": "33cd062c-4468-4194-ac5c-33f993a28623",
+            "id": "6427e458-027f-4a61-9a1f-992f28c336a5",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18923,7 +18923,7 @@
             "second": 39
         },
         {
-            "id": "d6480e7f-56a4-4e2c-9142-ce5aea6f60cb",
+            "id": "c611ccce-2911-4ddd-a641-adb48cfa836c",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18931,7 +18931,7 @@
             "second": 8217
         },
         {
-            "id": "d69f87ab-d0e2-48f4-9079-e66a03b95c6e",
+            "id": "51e0dca6-abfc-4858-8638-f214f3a3b75f",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18939,7 +18939,7 @@
             "second": 8221
         },
         {
-            "id": "341dba00-a04c-4c5d-b352-81a54d224265",
+            "id": "e241f930-e963-4b60-bef7-d93b7ebda59a",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18947,7 +18947,7 @@
             "second": 34
         },
         {
-            "id": "b68892d1-379b-486f-98cf-6fbb37e93328",
+            "id": "b28a2272-f960-4512-9253-193f4e343f20",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18955,7 +18955,7 @@
             "second": 39
         },
         {
-            "id": "52cd369d-44d2-4398-92d1-faa4b75fa595",
+            "id": "72e766f7-c7d9-4aec-b562-9ba83867d19d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18963,7 +18963,7 @@
             "second": 8217
         },
         {
-            "id": "f99e3cfa-e967-4958-b113-d26b2430d640",
+            "id": "c50b8d53-97d2-442c-b4e0-9353c6883cbc",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18971,7 +18971,7 @@
             "second": 8221
         },
         {
-            "id": "5249bc77-1084-4fe2-9708-fd0221fc6f00",
+            "id": "cdb981e9-b555-4e53-b41a-741dc60f8ed0",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18979,7 +18979,7 @@
             "second": 34
         },
         {
-            "id": "7f3ae86f-388c-4204-b53f-f95886cea695",
+            "id": "0c6f3849-2e41-4174-8541-043b77f8662f",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18987,7 +18987,7 @@
             "second": 39
         },
         {
-            "id": "17c2786a-379f-4a7a-8428-b5e96881f4e2",
+            "id": "982fa34c-d8c6-4a2d-8742-bac7c91d5d16",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -18995,7 +18995,7 @@
             "second": 118
         },
         {
-            "id": "e843021c-4e3a-478e-9f63-a7834202ac11",
+            "id": "2d3f292d-a4ac-447e-b764-c8ce2cf8d24c",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19003,7 +19003,7 @@
             "second": 119
         },
         {
-            "id": "1f2bac1d-0c9f-4b98-b79c-5725ef7c325d",
+            "id": "bc99622a-b04f-4eaa-8d2d-6b7bf7768cb5",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19011,7 +19011,7 @@
             "second": 120
         },
         {
-            "id": "460c597a-15bf-414f-be91-1ff58d7f8e5d",
+            "id": "72f4ec5e-0635-4d59-96c1-d374bbd868b0",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19019,7 +19019,7 @@
             "second": 121
         },
         {
-            "id": "fee488af-25aa-4841-95bc-f9a279812606",
+            "id": "6a354f41-ce78-460f-abff-4fad3bbf0f69",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19027,7 +19027,7 @@
             "second": 122
         },
         {
-            "id": "7ed3a5e9-25a7-4069-8505-e6ff1bc70630",
+            "id": "604d28d2-b9e0-4a03-a907-9a3614038665",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19035,7 +19035,7 @@
             "second": 253
         },
         {
-            "id": "9e9318de-5bbe-445c-b946-aecc0f4b5b6f",
+            "id": "cac88a32-72dd-4873-8c69-fe32d81dd6c8",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19043,7 +19043,7 @@
             "second": 373
         },
         {
-            "id": "e840f333-da2f-44bf-9656-95be2e1737e2",
+            "id": "4a8bdcce-e65a-472e-9b2c-bd23ce07ce5c",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19051,7 +19051,7 @@
             "second": 378
         },
         {
-            "id": "21cb4bbf-dc6e-431e-a574-5a9b409ec934",
+            "id": "8b838f26-92c5-46d8-8b02-fcccd9f1d7ae",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19059,7 +19059,7 @@
             "second": 380
         },
         {
-            "id": "8909fd71-6cb2-43f2-8fb2-1b8bb95e898f",
+            "id": "c4f6a302-a4df-4a56-a925-c9cc054e019d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19067,7 +19067,7 @@
             "second": 382
         },
         {
-            "id": "8f436afa-0b93-4f4f-8c16-1bd32ac62c55",
+            "id": "e973d0ef-9a19-401b-9420-0416f8fe6f17",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19075,7 +19075,7 @@
             "second": 7809
         },
         {
-            "id": "bb49c6e1-3a36-4d94-8f0d-064cdf24be45",
+            "id": "b5cafecb-fe2e-426e-bdac-8c6306e95e41",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19083,7 +19083,7 @@
             "second": 7811
         },
         {
-            "id": "0f32cd31-34c9-426e-bf78-5c75b91cc6ba",
+            "id": "398e88c3-a68e-42e7-b8bc-c8ca47f13776",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19091,7 +19091,7 @@
             "second": 7925
         },
         {
-            "id": "c24e72ba-1d82-42ae-9b28-ede6ac917e8b",
+            "id": "c685af61-8c5e-481e-b511-ca267c37717b",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19099,7 +19099,7 @@
             "second": 8217
         },
         {
-            "id": "cc40ef38-7334-4b30-a46c-4eb968e25dc2",
+            "id": "2394a287-0c2a-426c-abb0-7471f1d327e5",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19107,7 +19107,7 @@
             "second": 8221
         },
         {
-            "id": "49d3517e-7600-45c3-a1e1-55c5cf685f43",
+            "id": "7291a61c-6851-4861-915b-da480c193802",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19115,7 +19115,7 @@
             "second": 34
         },
         {
-            "id": "e4dd401a-9bd0-49bc-bda9-a81fec5f8631",
+            "id": "f5028538-6eae-4dee-b7f5-eea767f342c9",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19123,7 +19123,7 @@
             "second": 39
         },
         {
-            "id": "edb5ac49-f40b-4fcd-854f-866da6338665",
+            "id": "867ece47-ab5b-44cd-9ab7-ace11e76384a",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19131,7 +19131,7 @@
             "second": 118
         },
         {
-            "id": "078d884c-6623-4a86-970a-d63eeec0991b",
+            "id": "88314044-9570-4f56-83d1-c9bef791a1ef",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19139,7 +19139,7 @@
             "second": 119
         },
         {
-            "id": "47385460-8520-49c5-abaa-e79903027d54",
+            "id": "2e334964-231c-49ee-aaad-3361abfaefbd",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19147,7 +19147,7 @@
             "second": 120
         },
         {
-            "id": "0962973b-4073-4236-b055-34b11acc15fb",
+            "id": "ab79e98a-ce92-4f7e-84ef-5a2040b7ab31",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19155,7 +19155,7 @@
             "second": 121
         },
         {
-            "id": "149d4648-fa07-4c49-b2bc-9ededf616085",
+            "id": "2e6156bd-6c75-43d1-b13f-a11497e1b76a",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19163,7 +19163,7 @@
             "second": 122
         },
         {
-            "id": "0df6487d-4a36-4b04-a0d2-493a2cd43c67",
+            "id": "8a55f0d2-89d5-4f3a-8fad-39f7558f59f7",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19171,7 +19171,7 @@
             "second": 253
         },
         {
-            "id": "50fafe5c-f3bd-40a7-b0d6-bb15db0d6939",
+            "id": "801f6a3f-368e-49c5-9e3e-f821ff70909f",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19179,7 +19179,7 @@
             "second": 373
         },
         {
-            "id": "04c0f659-3cf0-4e9c-b5ce-cbf5daa9051a",
+            "id": "e2bac65d-3601-4249-a83b-ef3c20a17f5a",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19187,7 +19187,7 @@
             "second": 378
         },
         {
-            "id": "5df8e2d6-ba4c-448e-97b1-da4952d1b625",
+            "id": "b3f213a5-c0ef-4860-b6d0-fbbc6f7750f1",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19195,7 +19195,7 @@
             "second": 380
         },
         {
-            "id": "2c51ee80-be81-4f39-8a02-47df7d7981cb",
+            "id": "41e8d864-a799-4c7f-8166-38a85e906ddf",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19203,7 +19203,7 @@
             "second": 382
         },
         {
-            "id": "3902a5f4-c3d0-4e33-8396-20f6bd31f026",
+            "id": "0a264899-9af0-4016-ad46-fca98b526b35",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19211,7 +19211,7 @@
             "second": 7809
         },
         {
-            "id": "37f58a90-066b-46f1-bf30-1c81a2c6fc6b",
+            "id": "6a0b1644-b547-49fe-bb4e-400895038416",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19219,7 +19219,7 @@
             "second": 7811
         },
         {
-            "id": "d1b2aeaf-61b0-4ec3-890b-ebe28b4e58c6",
+            "id": "50b7426c-fca3-4622-8bd4-a75bb78fb644",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19227,7 +19227,7 @@
             "second": 7925
         },
         {
-            "id": "575c34d1-96ba-4f26-a106-79c75c0fc4ca",
+            "id": "025835af-7e34-48d7-8c30-47686b5f0def",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19235,7 +19235,7 @@
             "second": 8217
         },
         {
-            "id": "33bc2cb9-4c52-457a-b112-5dd9f60ba8f5",
+            "id": "b77ef237-eddb-4f1d-9d03-24729eb7c81e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19243,7 +19243,7 @@
             "second": 8221
         },
         {
-            "id": "18c8767f-2cf1-45df-8fab-877f788de1bd",
+            "id": "22ae394b-33c8-40e1-9a64-cbc05ca38395",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": 2,
@@ -19251,7 +19251,7 @@
             "second": 34
         },
         {
-            "id": "6037b860-6c92-4622-9ae3-9d543943fd3b",
+            "id": "f08a1b9c-84e1-4433-9976-eb192ec0bbc4",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": 2,
@@ -19259,7 +19259,7 @@
             "second": 39
         },
         {
-            "id": "5c8cc41d-a283-4075-9e6c-391ebfacf2d1",
+            "id": "813831d3-ece4-4614-8c4d-382f30ef3fe5",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19267,7 +19267,7 @@
             "second": 97
         },
         {
-            "id": "9ba43236-fc2e-4454-850d-9ba05af7a3c6",
+            "id": "8ab3d925-ac4d-4d11-b1c0-8db4075f82af",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19275,7 +19275,7 @@
             "second": 99
         },
         {
-            "id": "d722d9d9-e373-4b96-af1b-9b5ddbebbc44",
+            "id": "0939e3a5-c30b-43ab-9084-9e8339d6bae3",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19283,7 +19283,7 @@
             "second": 100
         },
         {
-            "id": "b79b5f76-de3f-4a0e-8d5f-646d589944a5",
+            "id": "1a404761-273f-463b-81a9-c0211be2abaa",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19291,7 +19291,7 @@
             "second": 101
         },
         {
-            "id": "0555f208-8abf-40e4-9901-8d89ece58545",
+            "id": "68581b7d-cb08-4e62-8ff1-2955b82862c3",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19299,7 +19299,7 @@
             "second": 103
         },
         {
-            "id": "e5f620f0-0f37-4781-97b7-3f51581cee56",
+            "id": "7947f5b6-4d82-446b-a968-d7d8c9d8d1f2",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19307,7 +19307,7 @@
             "second": 111
         },
         {
-            "id": "c5d269ed-6ec1-41f1-aabf-d9420d6073c6",
+            "id": "62ced8d3-2eeb-4947-958d-a0674b122275",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19315,7 +19315,7 @@
             "second": 113
         },
         {
-            "id": "9d07fe06-011c-4ee3-8b10-cff3700ae844",
+            "id": "f432dc42-9623-4ee1-9c78-32ed20707c18",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19323,7 +19323,7 @@
             "second": 224
         },
         {
-            "id": "fd8d4454-be3e-4b9c-bc09-5ecd83bb56c4",
+            "id": "674d5833-59b5-49eb-a684-a2fd2440e1d8",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19331,7 +19331,7 @@
             "second": 225
         },
         {
-            "id": "80b8e560-a2fb-49b7-92b6-0c6bab476d2b",
+            "id": "4047cf5a-bac1-4a58-a628-ce6626d71518",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19339,7 +19339,7 @@
             "second": 226
         },
         {
-            "id": "1903834e-bd08-4be0-aa2f-c63142475397",
+            "id": "4687b9a2-c4c4-4d94-8ed3-16c051e20788",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19347,7 +19347,7 @@
             "second": 227
         },
         {
-            "id": "64b43440-40e4-406f-a041-ac4765ed5e95",
+            "id": "b0e91440-5fc2-4df5-a8af-59a1f3037188",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19355,7 +19355,7 @@
             "second": 228
         },
         {
-            "id": "91941956-25a3-4224-9e72-2ef299d9a5da",
+            "id": "4b7d6e7e-7386-419c-8832-f1011db11ad9",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19363,7 +19363,7 @@
             "second": 229
         },
         {
-            "id": "0958b7a1-3887-41b1-8b03-7a42aae877e0",
+            "id": "e7600a81-75e6-4c3e-8263-ab83bd68f873",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19371,7 +19371,7 @@
             "second": 230
         },
         {
-            "id": "2a27368a-77b8-4686-9d5c-a467a960a470",
+            "id": "12859a11-0796-4983-88d6-069d0efaf347",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19379,7 +19379,7 @@
             "second": 231
         },
         {
-            "id": "2474cda3-1e34-493f-a2b2-a239e34801ea",
+            "id": "46caa7b9-aed7-4a29-b257-845a6a46f376",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19387,7 +19387,7 @@
             "second": 232
         },
         {
-            "id": "187bfc46-6177-4fcb-831e-7ed6828d97fd",
+            "id": "f68aa5ac-da5e-4134-afd7-34363cce3169",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19395,7 +19395,7 @@
             "second": 233
         },
         {
-            "id": "4b704bac-9139-4c13-8ced-30b9a7b861f9",
+            "id": "4e531667-e59a-4eb7-b655-a599a983e944",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19403,7 +19403,7 @@
             "second": 234
         },
         {
-            "id": "ccf93fc2-6027-4b9b-98f4-02ef443b293f",
+            "id": "96dc8ce3-5bb1-461d-a3f4-2a23f8ddf3d1",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19411,7 +19411,7 @@
             "second": 235
         },
         {
-            "id": "3456bd4a-7644-4dc5-8a5c-6508b251ed84",
+            "id": "7939dd6d-6a06-4c71-a8b8-ea4b5bd3025c",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19419,7 +19419,7 @@
             "second": 242
         },
         {
-            "id": "a77adc61-cc4d-467c-ae9e-3a3e7a428db1",
+            "id": "d655b8ff-a171-4c87-8e9b-3c981d61e11f",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19427,7 +19427,7 @@
             "second": 243
         },
         {
-            "id": "23563bb6-508a-47df-9d24-e7bfd6b95a43",
+            "id": "47e17360-0fc9-4b9f-88d9-62838c28933c",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19435,7 +19435,7 @@
             "second": 244
         },
         {
-            "id": "b9928b30-6877-4178-beba-41daffff3615",
+            "id": "773539fe-d174-47ed-9d12-c7770069def7",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19443,7 +19443,7 @@
             "second": 245
         },
         {
-            "id": "53686533-aa60-42d6-bbf5-d21edc54223c",
+            "id": "5fa8f98d-3cda-49f4-b79c-1a367c72c0d8",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19451,7 +19451,7 @@
             "second": 246
         },
         {
-            "id": "fcc2e3b4-9990-4921-b96d-14de3588ef0b",
+            "id": "f9955b89-8edb-454f-a3e8-d584d2ad7833",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19459,7 +19459,7 @@
             "second": 248
         },
         {
-            "id": "9a733968-0397-4c6b-93fe-551a037e2edd",
+            "id": "0eb8fb96-0c7f-4666-a525-4379dcee13c8",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19467,7 +19467,7 @@
             "second": 257
         },
         {
-            "id": "3dda95aa-2906-42d3-9748-428ed3291b0c",
+            "id": "3ee14e7f-9f16-4d78-bce6-83fcd4228ddb",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19475,7 +19475,7 @@
             "second": 259
         },
         {
-            "id": "5e26a683-bece-400b-a82f-9d5eb8bef732",
+            "id": "4ab28056-0740-4905-96f4-1a066be65f56",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19483,7 +19483,7 @@
             "second": 261
         },
         {
-            "id": "0fa038db-9886-417b-9ec0-7e4df12c4e4b",
+            "id": "419cd018-0df0-45e0-ad08-059cd3ea4ab8",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19491,7 +19491,7 @@
             "second": 263
         },
         {
-            "id": "d530c40a-4cbc-43d8-a834-edb943903f96",
+            "id": "239a2411-8dcd-4bd4-8c22-64fff41393be",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19499,7 +19499,7 @@
             "second": 265
         },
         {
-            "id": "34f08ad9-2a2b-45dd-adde-a1310abe7596",
+            "id": "60eca019-ee37-4760-931c-9a536700c70a",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19507,7 +19507,7 @@
             "second": 267
         },
         {
-            "id": "1820f333-a134-463c-b274-3dc11793a1ac",
+            "id": "cebd7dcc-8570-4df5-9a0a-e7792848f804",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19515,7 +19515,7 @@
             "second": 269
         },
         {
-            "id": "94427844-fc84-4e6b-bc29-d2d4dc21ed7b",
+            "id": "9a7d1423-e0cd-487f-ae5e-fdb39cfc1e6c",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19523,7 +19523,7 @@
             "second": 271
         },
         {
-            "id": "fd1d24b3-1eb1-4412-945c-61de0007b2d1",
+            "id": "77800c2d-b3a5-42f8-906e-40d6ab54659f",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19531,7 +19531,7 @@
             "second": 273
         },
         {
-            "id": "da09a33e-f1c3-40c1-b19a-cd9e20073e7c",
+            "id": "7be928a9-ff38-48b5-b30e-9e8bd9b01cbc",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19539,7 +19539,7 @@
             "second": 275
         },
         {
-            "id": "aa5ad505-3fa6-49a2-a118-e062cea634be",
+            "id": "355589ac-7b0b-4f19-a285-3f6328e3a6fb",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19547,7 +19547,7 @@
             "second": 277
         },
         {
-            "id": "7bfeeb2f-c784-426b-b919-d03d3fd173a9",
+            "id": "af6e1e06-f09a-463d-b8c5-5dc9e4573cf7",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19555,7 +19555,7 @@
             "second": 279
         },
         {
-            "id": "fa22527b-fc5a-4e56-b184-50267b9550f7",
+            "id": "7d3cd400-6ee2-4a2c-a3b5-de4edb45b233",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19563,7 +19563,7 @@
             "second": 281
         },
         {
-            "id": "fd005cf1-e31c-4b5e-89e4-cabe4aef592d",
+            "id": "4eba4311-0131-4967-92bb-318c641e8871",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19571,7 +19571,7 @@
             "second": 283
         },
         {
-            "id": "caa27558-4b2d-4a18-8025-a37feee61d17",
+            "id": "4f0e69e2-4ddc-41cf-94f8-c53d7c22152a",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19579,7 +19579,7 @@
             "second": 285
         },
         {
-            "id": "0980c356-1833-46e0-9a4f-87f16a330335",
+            "id": "989e12c1-68dd-4dbe-a486-f661e498afc1",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19587,7 +19587,7 @@
             "second": 287
         },
         {
-            "id": "b6387238-3df5-47d1-a17a-6ec2c4131053",
+            "id": "609ae195-9a4f-4bb1-bcb0-dc3f18d57ccb",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19595,7 +19595,7 @@
             "second": 289
         },
         {
-            "id": "7cb42627-2ccd-4239-9d01-89ec829c1c70",
+            "id": "41d127cc-23d4-4609-9349-39bd00958be5",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19603,7 +19603,7 @@
             "second": 291
         },
         {
-            "id": "9d29c0e1-e7e2-4e6e-bf1d-207675f9d802",
+            "id": "c471ac8b-67b0-48c1-89a6-06c6aeddc48e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19611,7 +19611,7 @@
             "second": 333
         },
         {
-            "id": "580718d7-03b1-49a5-b843-724ef35621be",
+            "id": "126fa81b-ed8d-43a5-8cd7-f5df8dbbf738",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19619,7 +19619,7 @@
             "second": 335
         },
         {
-            "id": "d5792234-9778-46ed-8d83-b7ecda19150b",
+            "id": "940a503d-8e4b-494d-9804-6fe11f209c47",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19627,7 +19627,7 @@
             "second": 337
         },
         {
-            "id": "74f7cf95-8da5-48e9-b920-a7702f6703b6",
+            "id": "fc3e35a5-d4a5-4b86-afd0-2b2f33c720d3",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19635,7 +19635,7 @@
             "second": 339
         },
         {
-            "id": "8f12bf58-8dbb-4b99-944c-99e469053853",
+            "id": "d8962e08-7c46-465b-ae1e-68745e6daae5",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19643,7 +19643,7 @@
             "second": 417
         },
         {
-            "id": "a07a5434-711e-443d-badc-c283ba7fa85e",
+            "id": "7cf1b379-bc8f-4fcd-8f91-b6048d076577",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19651,7 +19651,7 @@
             "second": 507
         },
         {
-            "id": "d12bd371-da7e-4b45-9126-84f765c8dd54",
+            "id": "132f87e5-06a4-4dc8-b77d-f9fc80138597",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19659,7 +19659,7 @@
             "second": 509
         },
         {
-            "id": "d5bc4da6-f1f6-4e86-9f06-ce2bafd874cb",
+            "id": "dc553c17-3598-4e65-9a2f-2656021b2100",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19667,7 +19667,7 @@
             "second": 511
         },
         {
-            "id": "29653720-1111-47a7-bc45-2e32f1304d8a",
+            "id": "379d9482-65c5-4e61-bd23-69f8952c0b04",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19675,7 +19675,7 @@
             "second": 7681
         },
         {
-            "id": "51174b07-3895-40db-9ea0-1928d1a0b02f",
+            "id": "79525841-244a-4e40-9658-11c5ef7f154b",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19683,7 +19683,7 @@
             "second": 7841
         },
         {
-            "id": "182b17d8-2b44-4111-bd40-8fe5f31272dc",
+            "id": "ee220e1f-3228-4b77-b9f4-b7521e71cdcc",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19691,7 +19691,7 @@
             "second": 7843
         },
         {
-            "id": "84c3bc41-2597-46cc-971c-6f7caffd6b33",
+            "id": "253f9e52-d38a-4a45-8bd0-36c3b5450fab",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19699,7 +19699,7 @@
             "second": 7845
         },
         {
-            "id": "2f445cc0-06f1-47a1-8a7b-665caf391cd6",
+            "id": "da03cbda-1bb4-4cad-bd49-5564247b08c9",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19707,7 +19707,7 @@
             "second": 7849
         },
         {
-            "id": "d97d3c55-87f3-40e3-87a7-541ff1752a97",
+            "id": "b349297a-fa10-4038-828d-79ec4e6a5930",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19715,7 +19715,7 @@
             "second": 7851
         },
         {
-            "id": "09c9a433-0860-4260-b2c2-28022dce8369",
+            "id": "a23444a2-b217-401f-9cd4-4ecb88bd3587",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19723,7 +19723,7 @@
             "second": 7853
         },
         {
-            "id": "62fee4d1-93a9-4fe8-8326-964334187b34",
+            "id": "d369c771-ade5-4f3b-9de3-e2146b256638",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19731,7 +19731,7 @@
             "second": 7855
         },
         {
-            "id": "488d7913-12a8-437b-8f25-d6b519b198e7",
+            "id": "4452efcd-bafa-4f3e-abd7-55847b27f86c",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19739,7 +19739,7 @@
             "second": 7857
         },
         {
-            "id": "c12ce197-cad1-4137-a861-fa47322953de",
+            "id": "52474b16-69cd-4744-8dfc-a68974d071a6",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19747,7 +19747,7 @@
             "second": 7859
         },
         {
-            "id": "02906676-f65d-46d1-9d1c-3952f5a56841",
+            "id": "e19c06e5-fa3c-47ea-b459-ceb5aa24617f",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19755,7 +19755,7 @@
             "second": 7861
         },
         {
-            "id": "4abfabc8-c35e-44b6-887d-e2a5dbaedbf6",
+            "id": "56083900-60d5-4ad2-821f-d58bb63058c6",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19763,7 +19763,7 @@
             "second": 7863
         },
         {
-            "id": "0e6d823f-e0cd-4487-8dcf-916375a045a2",
+            "id": "cda221e1-eed8-46e8-84f0-62181bd0ac01",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19771,7 +19771,7 @@
             "second": 7865
         },
         {
-            "id": "0c853eac-9f73-47df-a09f-73334cefa313",
+            "id": "f035ecf2-f487-4254-a376-13ed6518ca77",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19779,7 +19779,7 @@
             "second": 7867
         },
         {
-            "id": "a2ded49f-8ac1-4fb7-a651-810ddeb954fc",
+            "id": "1ee8ff42-5585-4806-8c15-7e0aef62a82a",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19787,7 +19787,7 @@
             "second": 7869
         },
         {
-            "id": "3769f179-a3ec-456f-a0f4-4663317469c3",
+            "id": "2ea63c16-2f2c-46bc-8dae-b339510be289",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19795,7 +19795,7 @@
             "second": 7871
         },
         {
-            "id": "e6e515d3-d3a6-4a06-89bb-2a4c32138a44",
+            "id": "4cd410f4-61da-4ce0-bff3-7e006fdb4024",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19803,7 +19803,7 @@
             "second": 7875
         },
         {
-            "id": "53cc3758-3da8-48ab-aae6-040c06d7095a",
+            "id": "8d8ebfeb-be8f-433e-bff3-4e73ee3f805b",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19811,7 +19811,7 @@
             "second": 7877
         },
         {
-            "id": "144372ba-1c60-4bcd-a92c-037da3d465d7",
+            "id": "093c1db2-4588-4ec0-b9d3-457e76a32fc8",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19819,7 +19819,7 @@
             "second": 7879
         },
         {
-            "id": "ddd4e42e-063e-4ae8-a94f-ba22e323f8e7",
+            "id": "fab877a7-30fb-4236-bc3f-969225b955ae",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19827,7 +19827,7 @@
             "second": 7885
         },
         {
-            "id": "c977f2e9-ffea-4c39-9cfa-0570462d267b",
+            "id": "da59fc9c-1748-492f-aeee-7dae5e48e8af",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19835,7 +19835,7 @@
             "second": 7887
         },
         {
-            "id": "b42f4991-53a2-47a5-a2fb-f61638e94926",
+            "id": "52d1ed08-181b-4bbd-a2da-8b0cfcdc8fa8",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19843,7 +19843,7 @@
             "second": 7889
         },
         {
-            "id": "89885b99-0dd8-4a70-9df2-18c42785e6b7",
+            "id": "cd978720-edee-4148-9c74-4e6ed40522db",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19851,7 +19851,7 @@
             "second": 7893
         },
         {
-            "id": "0f6d6004-8d86-47c2-893f-fe321c2b3601",
+            "id": "10f3c974-d236-4985-bd64-6ac31af3b19b",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19859,7 +19859,7 @@
             "second": 7895
         },
         {
-            "id": "9f76672d-2031-437b-88fc-aa6d0459ff87",
+            "id": "111714b1-34fb-42c8-9d7b-e26c8400b525",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19867,7 +19867,7 @@
             "second": 7897
         },
         {
-            "id": "8a92b2a2-9518-4e77-b9ab-54d80ec5b7b7",
+            "id": "bb80b380-6b81-4976-a7aa-edb91ee05f96",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19875,7 +19875,7 @@
             "second": 7899
         },
         {
-            "id": "7d704682-1f88-47b8-9dc9-488774bdaf4a",
+            "id": "2e6e9bef-f762-4bf7-bb7f-0d6f1a5d00b7",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19883,7 +19883,7 @@
             "second": 7901
         },
         {
-            "id": "6a2c8251-e2a7-4304-beb8-ed4b7b433df7",
+            "id": "2cbf3d9f-ed8e-45dd-891b-4471ad0401e8",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19891,7 +19891,7 @@
             "second": 7903
         },
         {
-            "id": "99ba7019-ec03-4f34-98c8-ed1568d96011",
+            "id": "58c2829b-a9c7-4e10-be18-5727b0f3ea98",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19899,7 +19899,7 @@
             "second": 7905
         },
         {
-            "id": "dc3b0b7c-088e-463f-a621-acd41cba43d4",
+            "id": "29e2394d-9a29-48d9-8b8b-fbeb240351eb",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -19907,7 +19907,7 @@
             "second": 7907
         },
         {
-            "id": "0e04bb10-fe6b-4124-948a-b0de34bd410f",
+            "id": "f8a33c49-de45-49a7-a604-d814755ed862",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": 2,
@@ -19915,7 +19915,7 @@
             "second": 8217
         },
         {
-            "id": "00416de3-b49f-49df-a418-3a5c8aa33663",
+            "id": "12010b1e-e9ab-49ef-bd41-1677d31bed07",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": 2,
@@ -19923,7 +19923,7 @@
             "second": 8221
         },
         {
-            "id": "1534c53c-6f93-4510-8b8e-0513f9bc05fb",
+            "id": "25e4c4b8-bdf8-4931-bc53-dd286ce9dfe1",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": 1,
@@ -19931,7 +19931,7 @@
             "second": 34
         },
         {
-            "id": "7af3dfa9-5901-4dbc-97ff-050432f826b6",
+            "id": "1a2e556b-a405-4a56-a2a6-5a4220991aed",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": 1,
@@ -19939,7 +19939,7 @@
             "second": 39
         },
         {
-            "id": "1e82211f-252f-4844-b221-e5559fc863f2",
+            "id": "4b9a3ac5-045c-4574-a7e5-f986c33868aa",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": 1,
@@ -19947,7 +19947,7 @@
             "second": 8217
         },
         {
-            "id": "34a61476-8371-470b-93d6-829b6a56b55a",
+            "id": "6ca084bc-7294-47fe-9739-60e099a255e2",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": 1,
@@ -19955,7 +19955,7 @@
             "second": 8221
         },
         {
-            "id": "f4ffa4d1-4f36-439d-bb22-4d2b2a7e7c15",
+            "id": "0a443902-8a60-4e8b-8d00-907b8ce1e4d6",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": 2,
@@ -19963,7 +19963,7 @@
             "second": 34
         },
         {
-            "id": "4df536d3-9f21-4658-92a2-4b3b27f3f0a4",
+            "id": "32eef898-6a73-405f-8e39-55b94ddccd05",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": 2,
@@ -19971,7 +19971,7 @@
             "second": 39
         },
         {
-            "id": "e028b8de-73db-4ce2-984b-d4810460f91a",
+            "id": "99f84017-2f07-4a37-a8da-6b3e0f937c12",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -19979,7 +19979,7 @@
             "second": 44
         },
         {
-            "id": "c79057b5-9422-4541-9493-2f2d1b39c339",
+            "id": "f80d4af0-af6d-4a85-9bb3-e964ac444348",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -19987,7 +19987,7 @@
             "second": 46
         },
         {
-            "id": "86c8c875-08fc-4a3e-b52c-a8093e388f43",
+            "id": "1e80c797-f20e-4435-9f85-0a208597c655",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": 1,
@@ -19995,7 +19995,7 @@
             "second": 63
         },
         {
-            "id": "a8cc0dc8-8634-4d26-8120-ef08ea15ab0f",
+            "id": "3e5e9b15-4623-46f0-96af-8716035e402e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": 2,
@@ -20003,7 +20003,7 @@
             "second": 8217
         },
         {
-            "id": "271fe5cf-e5a4-4d1c-b9c9-94c0e283c743",
+            "id": "917ac9d6-63a3-48fa-af21-9cd6433a5959",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -20011,7 +20011,7 @@
             "second": 8218
         },
         {
-            "id": "3090afa4-f1bc-462d-81a7-8ebc2a29458a",
+            "id": "c2e50cd1-a67e-4936-8623-3f7fadb299b1",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": 2,
@@ -20019,7 +20019,7 @@
             "second": 8221
         },
         {
-            "id": "9ea2c498-1731-4e9c-b032-93ec0d352d9f",
+            "id": "7d53721e-68da-40e4-92f8-c533ae55e7e0",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -20027,7 +20027,7 @@
             "second": 8222
         },
         {
-            "id": "8fba499f-b37d-40ec-97a7-e7517106aff4",
+            "id": "baddeea3-0e92-47f9-ac69-f93650824fca",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": 2,
@@ -20035,7 +20035,7 @@
             "second": 34
         },
         {
-            "id": "cbb049ce-3e7b-4540-a45c-b238dea9ee5b",
+            "id": "e9943599-d767-4d12-bc9f-383ab5dea340",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": 2,
@@ -20043,7 +20043,7 @@
             "second": 39
         },
         {
-            "id": "06665743-d29a-475d-b9a4-d03354d4d299",
+            "id": "9ab4ff4c-4974-466e-8631-46bb45bb7606",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -20051,7 +20051,7 @@
             "second": 44
         },
         {
-            "id": "bda7f17d-ec5d-4a46-ba56-f1aa9855d97f",
+            "id": "591668e3-47b9-40c0-801b-ea9649c39ae5",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -20059,7 +20059,7 @@
             "second": 46
         },
         {
-            "id": "882969a8-eed4-4a84-800d-800bd9b3be5d",
+            "id": "da273f0e-0c50-410e-b71c-5379aeefaafd",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": 1,
@@ -20067,7 +20067,7 @@
             "second": 63
         },
         {
-            "id": "9fdf9e6c-a853-47be-991e-6ff8f5e93f12",
+            "id": "d8b439d2-ef70-44e1-9848-e674ec39d578",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": 2,
@@ -20075,7 +20075,7 @@
             "second": 8217
         },
         {
-            "id": "56063e6c-f0ec-434d-96c2-fceffdefd48e",
+            "id": "c04ed87e-15dd-45e5-9a63-34a21e8b71bf",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -20083,7 +20083,7 @@
             "second": 8218
         },
         {
-            "id": "bd51052a-b948-4653-9732-858fd6e930d6",
+            "id": "57512454-7e1a-4d26-8bae-8c9ede0202d9",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": 2,
@@ -20091,7 +20091,7 @@
             "second": 8221
         },
         {
-            "id": "f71dfd0f-e38f-47fe-8ef6-f0c029bb4be7",
+            "id": "3eac0ceb-0c69-4236-b00a-f72780f60eca",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -20099,7 +20099,7 @@
             "second": 8222
         },
         {
-            "id": "a8a5b944-ef0b-492e-aef1-df476bbb7c8d",
+            "id": "32b5510f-eb28-437a-91dc-55f6372e1ffe",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -20107,7 +20107,7 @@
             "second": 99
         },
         {
-            "id": "4d68be2e-ab69-45aa-9c1a-6bcf4ba710ad",
+            "id": "214e12a7-9663-49fb-b657-44b0ac619cdf",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -20115,7 +20115,7 @@
             "second": 100
         },
         {
-            "id": "2c33570d-82e1-4e43-8bb6-2cfdc8885ead",
+            "id": "d9e3136c-c682-4d58-8f14-9f4db27cf439",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -20123,7 +20123,7 @@
             "second": 101
         },
         {
-            "id": "cc36e780-14af-46e3-a622-e9f42e9c162d",
+            "id": "4c50a9b7-837a-4485-a10e-faad8b6bd847",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -20131,7 +20131,7 @@
             "second": 111
         },
         {
-            "id": "e7c39892-9d4c-4907-86d6-04cb2a6a03ac",
+            "id": "4627ca93-ce16-4385-9cd2-71df47c3b08f",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -20139,7 +20139,7 @@
             "second": 113
         },
         {
-            "id": "f9b7ed05-7a1d-495d-b9cd-1c1949bdd8eb",
+            "id": "0ba3dac4-f86a-458b-9df4-c93a715f9871",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -20147,7 +20147,7 @@
             "second": 224
         },
         {
-            "id": "56e1e805-fde2-4c63-82c9-739a4caaaeda",
+            "id": "85503ef9-3f31-48f8-b207-98d336bc4733",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -20155,7 +20155,7 @@
             "second": 231
         },
         {
-            "id": "d1c3d4ba-1634-4adc-a278-180b9bb8eb6f",
+            "id": "070921c5-4f85-4246-8e1b-21e60636d741",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -20163,7 +20163,7 @@
             "second": 232
         },
         {
-            "id": "7d41ea59-bb79-413b-b211-e3983fc4a770",
+            "id": "0becc895-da00-4bcd-a7aa-863ee6f0f2b1",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -20171,7 +20171,7 @@
             "second": 233
         },
         {
-            "id": "fd28869c-1ba4-492b-aaf0-80798285e235",
+            "id": "e78042bb-da23-4eae-b402-bd627fe0d13e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -20179,7 +20179,7 @@
             "second": 234
         },
         {
-            "id": "815c1086-95b7-448d-9572-8f05dd71bbeb",
+            "id": "fe6de63f-0e03-4232-a509-bb4d4f582641",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -20187,7 +20187,7 @@
             "second": 235
         },
         {
-            "id": "7c1e35d8-97d7-4344-af7e-6ff0fc5d14f2",
+            "id": "0a4979ac-e0d8-47da-bd1d-08996132c1d0",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -20195,7 +20195,7 @@
             "second": 242
         },
         {
-            "id": "c4457d1e-ebda-461c-a531-a6a1b0e1b720",
+            "id": "f5c978a7-c2eb-44de-8faa-64bfd04cadd7",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -20203,7 +20203,7 @@
             "second": 243
         },
         {
-            "id": "ad00ac1a-2842-4043-9291-442423d05252",
+            "id": "4f629f64-923c-4085-ae2b-3af11b1b7225",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -20211,7 +20211,7 @@
             "second": 244
         },
         {
-            "id": "8a810dff-b677-4591-a536-0d339b307845",
+            "id": "ee5d7853-8ec0-4689-a025-6a13552da747",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -20219,7 +20219,7 @@
             "second": 245
         },
         {
-            "id": "ed80fab6-7d33-4d10-82ea-cf90231cdb5a",
+            "id": "2c7e3113-3d4b-4fc4-931e-ea3c225a126c",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -20227,7 +20227,7 @@
             "second": 246
         },
         {
-            "id": "ed3839e0-fd6d-4761-a45f-81a7b4d0a998",
+            "id": "e76e9c54-431e-426c-b0f6-45a29d93fc76",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -20235,7 +20235,7 @@
             "second": 248
         },
         {
-            "id": "fdea5a7e-66f1-421c-a5a5-243602249c72",
+            "id": "2f22b055-9026-46e7-8452-f42bf62868a8",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -20243,7 +20243,7 @@
             "second": 263
         },
         {
-            "id": "4c0c441a-22e7-4177-8a3c-53cc5ef9066d",
+            "id": "96c7c742-d366-4c99-a6e9-35b3fb5aa598",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -20251,7 +20251,7 @@
             "second": 265
         },
         {
-            "id": "4fae416b-a2f7-4987-b46f-3bed449b9848",
+            "id": "cecdbd01-b126-4288-83f0-e49c0be2253a",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -20259,7 +20259,7 @@
             "second": 267
         },
         {
-            "id": "5fde9e44-2445-412f-8057-588e870c1947",
+            "id": "1972111e-bb61-47f4-afd2-5c915b7907f4",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -20267,7 +20267,7 @@
             "second": 269
         },
         {
-            "id": "cc06503b-c6ec-493b-a548-23c7e60423bf",
+            "id": "c18cc0f8-2cfb-412a-88d2-f824b1090103",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -20275,7 +20275,7 @@
             "second": 271
         },
         {
-            "id": "aeaad3fe-ed22-4cc5-8a86-fc0b787debdc",
+            "id": "6cec3291-4bb8-460e-8dcd-4c5eafa518b3",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -20283,7 +20283,7 @@
             "second": 273
         },
         {
-            "id": "f2151599-bcb5-4340-9a07-8f8cf1c22ec5",
+            "id": "dafec3ee-36ab-4fcd-82ab-edaaa530a040",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -20291,7 +20291,7 @@
             "second": 275
         },
         {
-            "id": "0e16bfe0-0019-4323-a1e0-a217751cdfc3",
+            "id": "88d05043-7200-404d-a62d-ea03a921d190",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -20299,7 +20299,7 @@
             "second": 277
         },
         {
-            "id": "88ee25fa-73be-4ca3-b597-b0ec49466585",
+            "id": "c21ed406-1242-48fa-83b0-d774b5f425bd",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -20307,7 +20307,7 @@
             "second": 279
         },
         {
-            "id": "80374908-320d-4b3a-a0c6-9049b36ab64e",
+            "id": "b142b33a-9231-442c-a008-67f6bb2910a1",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -20315,7 +20315,7 @@
             "second": 281
         },
         {
-            "id": "0f0ea0e7-ea66-455d-a843-63056d21f7b4",
+            "id": "0734c0fe-f05d-45a3-8e88-f7fdf6b2bbce",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -20323,7 +20323,7 @@
             "second": 283
         },
         {
-            "id": "17afcace-072d-421e-aaf3-ace6dda16f57",
+            "id": "15c43d61-6aac-40c6-9c14-837d765c96f0",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -20331,7 +20331,7 @@
             "second": 333
         },
         {
-            "id": "015c4ea4-cced-4308-927e-282ce1352148",
+            "id": "5804fe71-ef58-4946-98c0-86e46439d824",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -20339,7 +20339,7 @@
             "second": 335
         },
         {
-            "id": "6851981a-0d7e-44d1-9a37-118a01c4ac6f",
+            "id": "c7078b3f-a9e1-4d9f-ae83-1355299c2f6b",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -20347,7 +20347,7 @@
             "second": 337
         },
         {
-            "id": "e392be13-a914-4660-b60d-5718499501bc",
+            "id": "bc0d7866-a4c5-461a-b6c0-095713062681",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -20355,7 +20355,7 @@
             "second": 339
         },
         {
-            "id": "50242f1f-567a-461b-93be-87d6197c2c4c",
+            "id": "628a3b0d-15e3-41ba-b2e8-3ae641bf65d8",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -20363,7 +20363,7 @@
             "second": 417
         },
         {
-            "id": "0ccf7f4d-a514-403c-9a66-872f4cee25df",
+            "id": "4d0b191e-dadb-4dd1-9e79-88f1f3f9cfda",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -20371,7 +20371,7 @@
             "second": 511
         },
         {
-            "id": "e47915cf-7dfb-41f6-a968-a9bc4f854d32",
+            "id": "9dc88bba-37e6-4332-a6af-ef829d89d495",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -20379,7 +20379,7 @@
             "second": 7865
         },
         {
-            "id": "536f877a-21af-4f01-a858-c4c78a17a169",
+            "id": "08678bb7-77e6-4289-84be-3a1c1099bd5a",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -20387,7 +20387,7 @@
             "second": 7867
         },
         {
-            "id": "a00e8c0d-6443-4b1e-a6f5-ac990d922aa6",
+            "id": "3bc6853e-ffa6-4eb7-add6-49a79310575b",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -20395,7 +20395,7 @@
             "second": 7869
         },
         {
-            "id": "20cf9283-ed1d-4b0c-8f1e-07eb3b7d6097",
+            "id": "3ffefa65-d108-4f42-9ba9-cfb0b75cd0ad",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -20403,7 +20403,7 @@
             "second": 7871
         },
         {
-            "id": "8f722817-47e3-4e41-93d2-dc0bee1ccba8",
+            "id": "0c9d053b-c199-4505-b6dd-03fc9b07c694",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -20411,7 +20411,7 @@
             "second": 7875
         },
         {
-            "id": "93648e87-38e1-43e6-97f1-4b87f33d245f",
+            "id": "5000a14e-55e0-4712-b6c0-fcb3839af764",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -20419,7 +20419,7 @@
             "second": 7877
         },
         {
-            "id": "a96dc234-1c21-4e0a-bcb2-7255f8c6514c",
+            "id": "0468bb08-abad-4717-a79a-617f981da40e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -20427,7 +20427,7 @@
             "second": 7879
         },
         {
-            "id": "108117ca-df0a-4a5a-8b06-7fba5722466c",
+            "id": "edf1c204-d11d-487a-88b6-88656abb27ec",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -20435,7 +20435,7 @@
             "second": 7885
         },
         {
-            "id": "e3767f8b-2a4d-4d51-bf47-8b27ff48f796",
+            "id": "2bcfedc2-934b-4cb6-884f-e23256ddaa6d",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -20443,7 +20443,7 @@
             "second": 7887
         },
         {
-            "id": "69198ac6-79da-45df-bf51-7e4fad1b7e74",
+            "id": "1436ff35-2d2d-45b8-92ea-2cf60782aab5",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -20451,7 +20451,7 @@
             "second": 7889
         },
         {
-            "id": "a3e90997-a22d-464c-afd4-f0e671018f43",
+            "id": "cdbf2774-7f67-4afc-88be-9a253848a8bb",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -20459,7 +20459,7 @@
             "second": 7893
         },
         {
-            "id": "b965423c-bfe0-4791-add5-4b23534b6ba7",
+            "id": "e5718552-3005-4b5b-a702-20185ca93271",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -20467,7 +20467,7 @@
             "second": 7895
         },
         {
-            "id": "1d818295-3a5a-4f31-896b-ce5382cbd94a",
+            "id": "cb911cf4-c592-4c37-8e2d-14cfe55cf40c",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -20475,7 +20475,7 @@
             "second": 7897
         },
         {
-            "id": "37e7269f-eadd-45df-a5b5-fb98a8efe580",
+            "id": "92215a0b-a7c1-4ef3-9167-59ebd3b6ef74",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -20483,7 +20483,7 @@
             "second": 7899
         },
         {
-            "id": "876f968f-1f43-4ef0-ac2e-9b3393c58115",
+            "id": "01915d93-4b49-4535-8667-e6e87424c407",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -20491,7 +20491,7 @@
             "second": 7901
         },
         {
-            "id": "19f239e6-3f98-4a67-bcce-90e751f1552a",
+            "id": "67139203-2bd9-4db0-9864-ad25adf1613e",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -20499,7 +20499,7 @@
             "second": 7903
         },
         {
-            "id": "1c36c6d6-52b0-40cd-9908-e194fc237193",
+            "id": "42716856-1f24-49ad-8345-e8f36bcb784c",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -20507,7 +20507,7 @@
             "second": 7905
         },
         {
-            "id": "6fcbbf30-4a3d-46bd-9cb8-9012aa1d9cb7",
+            "id": "3bdd8f22-dab9-4450-9a26-f081b90843de",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -1,
@@ -20515,7 +20515,7 @@
             "second": 7907
         },
         {
-            "id": "019b4c4a-d957-4206-a9c1-03815f5ab992",
+            "id": "f082322d-6c07-4ec2-8db4-e33ec90084e2",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": 2,
@@ -20523,7 +20523,7 @@
             "second": 34
         },
         {
-            "id": "93820912-2c6e-48f7-8239-9229fa7b53a6",
+            "id": "08253ec9-c340-42be-9ed9-0fa89fdd875a",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": 2,
@@ -20531,7 +20531,7 @@
             "second": 39
         },
         {
-            "id": "282070c4-909b-42fa-9666-17a4b84dcc77",
+            "id": "ebc375e9-d857-4b76-83be-5bef7a36e433",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -20539,7 +20539,7 @@
             "second": 44
         },
         {
-            "id": "1e58c496-e0cc-4cbb-9322-c321b92ba243",
+            "id": "c175ece5-379d-48e1-a022-26ac8ea1ce03",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -20547,7 +20547,7 @@
             "second": 46
         },
         {
-            "id": "01cf27ef-8aa8-43f9-9815-47264cf85328",
+            "id": "d91d0714-27af-4296-aced-e2ec06e0a7e2",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": 1,
@@ -20555,7 +20555,7 @@
             "second": 63
         },
         {
-            "id": "8d84e7f7-d014-4b50-92e9-7ed1dcadd416",
+            "id": "cf24243a-ddb1-4ff3-a2fc-27b3aebf69e9",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": 2,
@@ -20563,7 +20563,7 @@
             "second": 8217
         },
         {
-            "id": "2c175eb7-23c1-49fc-bdb2-64aa77260dfe",
+            "id": "410d9712-ff82-4f20-bf06-8f3dff6f0204",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -20571,7 +20571,7 @@
             "second": 8218
         },
         {
-            "id": "6697795c-1acc-4957-a03f-f487751078dd",
+            "id": "ee29f9df-9c0f-49f0-88a0-0f1ca3b46ef8",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": 2,
@@ -20579,7 +20579,7 @@
             "second": 8221
         },
         {
-            "id": "cf08f1fc-d6be-444e-99e0-75468e879b81",
+            "id": "70ac739d-2fe2-4ee7-a38d-2d856113dca0",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": -2,
@@ -20587,7 +20587,7 @@
             "second": 8222
         },
         {
-            "id": "a5a34846-b625-406e-8c81-bf6c8d5aea85",
+            "id": "6e5cc8ac-abd5-44b4-8246-185a2d5f0f24",
             "modelName": "GMKerningPair",
             "mvc": "1.0",
             "amount": 5,
@@ -20609,7 +20609,7 @@
         }
     ],
     "sampleText": "abcdef ABCDEF\\u000a0123456789 .,<>\"'&!?\\u000athe quick brown fox jumps over the lazy dog\\u000aTHE QUICK BROWN FOX JUMPS OVER THE LAZY DOG\\u000aDefault character: ▯ (9647)",
-    "size": 40,
+    "size": 44,
     "styleName": "Semibold",
     "textureGroupId": "1225f6b0-ac20-43bd-a82e-be73fa0b6f4f"
 }

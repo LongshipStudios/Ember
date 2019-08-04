@@ -1,0 +1,17 @@
+draw_set_font(credit_font_header);
+draw_set_color(c_white);
+draw_text(x,y,"Thanks for Playing.");
+draw_text(x,y+100,"Team Longship");
+draw_set_font(credit_font_body);
+draw_text(x,y+180,"Alexander \"ASPePeX\" Scheurer - Stuff");
+draw_text(x,y+210,"Bobby Frazier - Designer");
+draw_text(x,y+240,"Brian Edwards - Sound");
+draw_text(x,y+270,"Erin Fitzmorris - Artist");
+draw_text(x,y+300,"Firelizard135 - Artist");
+draw_text(x,y+330,"Gmandev - Programmer");
+draw_text(x,y+360,"Narsis - Programmer");
+draw_set_font(credit_font_header);
+draw_text(x,y+450,"Special Thanks");
+draw_set_font(credit_font_body);
+draw_text(x,y+530,"Mark Brown (GMTK)");
+draw_text(x,y+560,"Tarlicus (Best Mod)");
