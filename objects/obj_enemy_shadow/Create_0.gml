@@ -35,5 +35,5 @@ do_flee = true;
 emitter = audio_emitter_create();
 audio_emitter_position(emitter,x,y,0);
 audio_emitter_falloff(emitter,150,350,1);
-moveSound = audio_play_sound_on(emitter,snd_slime_move,true,150);
+moveSound = audio_play_sound_on(emitter,snd_slime_move,true,80);
 isAttacking = false;

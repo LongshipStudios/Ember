@@ -1522,7 +1522,7 @@
             "Key": "fd4f2623-f36d-4412-a33f-37b117bac8ad",
             "Value": {
                 "id": "cf2a384f-a940-42f3-ac05-e3edc2754cfc",
-                "resourcePath": "sounds\\sound17\\sound17.yy",
+                "resourcePath": "sounds\\snd_footsteps_water\\snd_footsteps_water.yy",
                 "resourceType": "GMSound"
             }
         }

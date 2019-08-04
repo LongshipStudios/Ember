@@ -54,7 +54,7 @@ if(movementInput)
 	if(!moveAudioEdge)
 	{
 		//turn on footsteps
-		footstepSound = audio_play_sound(snd_footstep_normal,120,true);
+		footstepSound = audio_play_sound(snd_footstep_normal,10,true);
 	}
 	spdRampTimer = clamp(spdRampTimer + delta_time_sec, 0, spdRampUpSpd);
 	var actualspeed = lerp(0, spd, spdRampTimer/spdRampUpSpd);
