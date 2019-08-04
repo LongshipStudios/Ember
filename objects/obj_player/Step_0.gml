@@ -51,15 +51,24 @@ if (rightKeyPressed || leftKeyPressed || downKeyPressed || upKeyPressed)
 //If we have inputs
 if(movementInput)
 {
+	if(!moveAudioEdge)
+	{
+		//turn on footsteps
+		footstepSound = audio_play_sound(snd_footstep_normal,120,true);
+	}
 	spdRampTimer = clamp(spdRampTimer + delta_time_sec, 0, spdRampUpSpd);
 	var actualspeed = lerp(0, spd, spdRampTimer/spdRampUpSpd);
 	
 	lightOn = false;
 	
-	audio_sound_gain(footstepSound, 1, 200);
+//	audio_sound_gain(footstepSound, 1, 200);
 }
 else
 {
+	if(moveAudioEdge)
+	{
+		audio_stop_sound(footstepSound);
+	}
 	spdRampTimer = clamp(spdRampTimer - delta_time_sec, 0, spdRampDownSpd);
 	var actualspeed = lerp(0, spd, spdRampTimer/spdRampDownSpd);
 	
@@ -72,7 +81,7 @@ else
 		lightOn = true;
 	}
 	
-	audio_sound_gain(footstepSound, 0, 100);
+//	audio_sound_gain(footstepSound, 0, 100);
 }
 
 moveDir = point_direction(0,0,xDir,yDir);
