@@ -12,5 +12,5 @@ if(overlay_alpha == 1)
 }
 else
 {
-	alarm[1] = 1; //Keep fading
+	alarm[1] = 2; //Keep fading
 }
