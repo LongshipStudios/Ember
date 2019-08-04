@@ -27,7 +27,7 @@ void main()
 		else
 		{      
 	        gl_FragColor = col;
-	    }      
+	    }
 	    // now LERP from the shadow volume shape to total shadow
 	    gl_FragColor = mix( gl_FragColor, vec4(0.0,0.0,0.0,1.0), falloff);          
 	}
