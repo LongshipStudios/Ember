@@ -91,3 +91,158 @@ yMove = round(lengthdir_y(actualspeed,moveDir) * delta_time_sec);
 //Do move*/
 scr_move_collide();
 scr_player_senses_controller(); //Light on/off stuff i.e. sound
+
+//Anims
+//walk anim mod 4 isn't correct I dont think but not sure of correct fix....ZZZZZZ.....
+
+switch(sprite_index)
+{
+	case spr_player_walk_front: //Add other walks here
+	if(!lightOn && movementInput)
+	{
+		 sprite_index = walk_anim_array[round(moveDir) mod 4]; //Gets the correct walk anim for the move direction
+	}
+	else
+	{
+		if(lightOn)
+		{
+			sprite_index = spr_player_idle_start; //Transition to fire ele being out and about
+		}
+		else
+		{
+			sprite_index = spr_player_idle_dark; //Play idle anim with fire ele hiding
+		}
+	}
+	break;
+	
+	case spr_player_walk_up: //Add other walks here
+	if(!lightOn && movementInput)
+	{
+		 sprite_index = walk_anim_array[round(moveDir) mod 4]; //Gets the correct walk anim for the move direction
+	}
+	else
+	{
+		if(lightOn)
+		{
+			sprite_index = spr_player_idle_start; //Transition to fire ele being out and about
+		}
+		else
+		{
+			sprite_index = spr_player_idle_dark; //Play idle anim with fire ele hiding
+		}
+	}
+	break;
+	
+	case spr_player_walk_left: //Add other walks here
+	if(!lightOn && movementInput)
+	{
+		 sprite_index = walk_anim_array[round(moveDir) mod 4]; //Gets the correct walk anim for the move direction
+	}
+	else
+	{
+		if(lightOn)
+		{
+			sprite_index = spr_player_idle_start; //Transition to fire ele being out and about
+		}
+		else
+		{
+			sprite_index = spr_player_idle_dark; //Play idle anim with fire ele hiding
+		}
+	}
+	break;
+	
+	case spr_player_walk_right: //Add other walks here
+	if(!lightOn && movementInput)
+	{
+		 sprite_index = walk_anim_array[round(moveDir) mod 4]; //Gets the correct walk anim for the move direction
+	}
+	else
+	{
+		if(lightOn)
+		{
+			sprite_index = spr_player_idle_start; //Transition to fire ele being out and about
+		}
+		else
+		{
+			sprite_index = spr_player_idle_dark; //Play idle anim with fire ele hiding
+		}
+	}
+	break;
+	
+	
+	
+	case spr_player_idle_loop:
+	if(!lightOn && movementInput)
+	{
+		sprite_index = spr_player_idle_exit; //Gets the correct walk anim for the move direction
+	}
+	else
+	{
+		if(lightOn)
+		{
+			sprite_index = spr_player_idle_loop; //Fire ele is now fully out and about
+		}
+		else
+		{
+			sprite_index = spr_player_idle_exit; //Play idle anim with fire ele hiding
+		}
+	}
+	break;
+	
+	
+	case spr_player_idle_start:
+	if(!lightOn && movementInput)
+	{
+		sprite_index = spr_player_idle_exit; //Gets the correct walk anim for the move direction
+	}
+	else
+	{
+		if(lightOn)
+		{
+			sprite_index = spr_player_idle_loop; //Fire ele is now fully out and about
+		}
+		else
+		{
+			sprite_index = spr_player_idle_dark; //Play idle anim with fire ele hiding
+		}
+	}
+	break;
+	
+	
+	case spr_player_idle_exit:
+	if(!lightOn && movementInput)
+	{
+		sprite_index = walk_anim_array[round(moveDir) mod 4]; //Gets the correct walk anim for the move direction
+	}
+	else
+	{
+		if(lightOn)
+		{
+			sprite_index = spr_player_idle_start; //Fire ele is coming out
+		}
+		else
+		{
+			sprite_index = spr_player_idle_dark; //Play idle anim with fire ele hiding
+		}
+	}
+	break;
+	
+	
+	case spr_player_idle_dark:
+	if(!lightOn && movementInput)
+	{
+		sprite_index = walk_anim_array[round(moveDir) mod 4]; //Gets the correct walk anim for the move direction
+	}
+	else
+	{
+		if(lightOn)
+		{
+			sprite_index = spr_player_idle_start; //Bring back out fire ele
+		}
+		else
+		{
+			sprite_index = spr_player_idle_dark; //Keep fire ele away
+		}
+	}
+	break;
+}
