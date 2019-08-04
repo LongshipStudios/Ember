@@ -20,6 +20,10 @@ APPROACH -> FLEE (3)
 switch(enemy_state)
 {
 	case states.idle:
+		if (!audio_is_playing(snd_slime_move))
+		{
+			moveSound = audio_play_sound_on(emitter,snd_slime_move,true,80);
+		}
 		image_speed = 1;
 		sprite_index = spr_shadow_idle;
 		var tasty = collision_circle(x,y,tasty_rad,par_lightsource,false,false)
