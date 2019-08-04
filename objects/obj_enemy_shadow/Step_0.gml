@@ -51,10 +51,8 @@ switch(enemy_state)
 				image_index = 0;
 			}
 		}
-		else
-		{
-			break;
-		}
+		break;
+		
 	case states.attack:
 		image_speed = 1;
 		sprite_index = spr_shadow_attack;
@@ -62,7 +60,7 @@ switch(enemy_state)
 		var nearest_torch = instance_nearest(x,y,obj_torch);
 		if(instance_exists(nearest_torch))
 		{
-			if(point_distance(x,y,nearest_torch.x,nearest_torch.y) < 20)
+			if(point_distance(x,y,nearest_torch.x,nearest_torch.y) < attack_rad)
 			{
 				with(nearest_torch)
 				{
@@ -75,15 +73,21 @@ switch(enemy_state)
 		
 		break;
 	case states.flee:
-		image_speed = -1;
-		sprite_index = spr_shadow_flee;
+		image_speed = 1;
 		break;
 }
 
-if(obj_player.lightOn && distance_to_object(obj_player) < obj_player.rad*0.6)
+if(obj_player.lightOn && distance_to_object(obj_player) < obj_player.rad*0.6 || do_flee == false)
 {
+	if(do_flee)
+	{
+		alarm[0] = room_speed * 2;
+		do_flee = false;
+		image_index = 0;
+		sprite_index = spr_shadow_flee;
+	}
+	
 	enemy_state = states.flee;
-	image_index = 0;
 	moveDir = point_direction(x,y,obj_player.x,obj_player.y);
 	
 	xMove = lengthdir_x(spd*-1,moveDir);
@@ -113,3 +117,5 @@ else
 	}
 //move_towards_point(obj_player.x,obj_player.y,spd);
 }	
+
+image_xscale = -1 * sign(xMove);

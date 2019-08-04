@@ -27,3 +27,6 @@ sprBBoxTop = sprite_get_bbox_top(sprite_index) - sprite_get_yoffset(sprite_index
 //Grab the id for the collision tile layer
 var l = layer_get_id("Tiles_Collision");
 tilemap_collision = layer_tilemap_get_id(l);
+
+//Whether we can do a flee or not
+do_flee = true;

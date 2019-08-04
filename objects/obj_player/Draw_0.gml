@@ -17,7 +17,7 @@ scr_render_light_rad();
 
 draw_set_alpha(1);
 //shader_set(shd_new_light);
-//draw_surface(surf,0,0);
+draw_surface(surf,0,0);
 //shader_reset();
 //draw_surface_ext(surf,0,0,1,1,0,0,1);
 
@@ -77,3 +77,4 @@ draw_surface_ext(surf,0,0,1,1,0,0,0.0000001);
 shader_reset();
 
 draw_self();
+*/
