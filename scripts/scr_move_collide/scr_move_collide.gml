@@ -1,5 +1,16 @@
 //The object that runs this script MUST have xMove and yMove
 
+if(instance_exists(obj_controller_death))
+{
+	//If the game is ending
+	if(obj_controller_death.flag_game_end)
+	{
+		sprite_index = spr_player_idle_exit;
+		image_index = 0; 
+		exit;
+	}
+}
+
 y += yMove;
 
 //vertical motion

@@ -6,10 +6,8 @@ if(instance_exists(obj_controller_death))
 		{
 			alarm[1] = 2;
 			flag_game_end = true;
+			audio_stop_all();
+			audio_play_sound(snd_death_tone,200,false);
 		}
 	}
-	//Audio0
-	audio_stop_all();
-	audio_play_sound(snd_death_tone,200,false);
 }
-
