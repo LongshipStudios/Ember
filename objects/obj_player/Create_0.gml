@@ -42,7 +42,6 @@ surf = -1;
 
 //LightPosRadius = shader_get_uniform(shd_light,"u_fLightPositionRadius");
 
-fireSound = audio_play_sound(snd_roaring_fire,120,true);
 
 if (gamepad_is_supported() && gamepad_is_connected(0))
 {
@@ -50,3 +49,8 @@ if (gamepad_is_supported() && gamepad_is_connected(0))
 }
 
 draw_set_circle_precision(32);
+
+//Audio stuffs
+moveAudioEdge = false;
+fireSound = audio_play_sound(snd_roaring_fire,120,true);
+footstepSound = audio_play_sound(snd_footstep_normal,120,true);

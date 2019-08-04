@@ -1,5 +1,15 @@
 //// Movement
 delta_time_sec = delta_time/1000000;
+
+if (movementInput)
+{
+	moveAudioEdge = true;
+}
+else
+{
+	moveAudioEdge = false;
+}
+
 movementInput = false;
 
 xMove = 0;
@@ -45,6 +55,8 @@ if(movementInput)
 	var actualspeed = lerp(0, spd, spdRampTimer/spdRampUpSpd);
 	
 	lightOn = false;
+	
+	audio_sound_gain(footstepSound, 1, 200);
 }
 else
 {
@@ -59,6 +71,8 @@ else
 	{
 		lightOn = true;
 	}
+	
+	audio_sound_gain(footstepSound, 0, 100);
 }
 
 moveDir = point_direction(0,0,xDir,yDir);
@@ -67,4 +81,4 @@ yMove = round(lengthdir_y(actualspeed,moveDir) * delta_time_sec);
 
 //Do move*/
 scr_move_collide();
-scr_player_senses_controller();
+scr_player_senses_controller(); //Light on/off stuff i.e. sound
