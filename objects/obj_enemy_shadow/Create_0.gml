@@ -8,6 +8,8 @@ spd = 0.8;
 moveDir = 0;
 xMove = 0;
 yMove = 0;
+canMove = false;
+alarm[1] = 240;
 
 //Default state
 enemy_state = states.idle;
@@ -33,7 +35,8 @@ do_flee = true;
 
 //Audio
 emitter = audio_emitter_create();
+audio_falloff_set_model(audio_falloff_inverse_distance);
 audio_emitter_position(emitter,x,y,0);
-audio_emitter_falloff(emitter,150,350,1);
+audio_emitter_falloff(emitter,50,1,1);
 moveSound = audio_play_sound_on(emitter,snd_slime_move,true,80);
 isAttacking = false;

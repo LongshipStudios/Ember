@@ -69,49 +69,59 @@ switch(enemy_state)
 		image_speed = 1;
 		break;
 }
-
-if(obj_player.lightOn && distance_to_object(obj_player) < obj_player.rad*0.6 || do_flee == false)
+if (canMove)
 {
-	if(do_flee)
+	if(obj_player.lightOn && distance_to_object(obj_player) < obj_player.rad*0.6 || do_flee == false)
 	{
-		alarm[0] = room_speed * 2;
-		do_flee = false;
-		image_index = 0;
-		sprite_index = spr_shadow_flee;
-	}
+		if(do_flee)
+		{
+			alarm[0] = room_speed * 2;
+			do_flee = false;
+			image_index = 0;
+			sprite_index = spr_shadow_flee;
+		}
 	
-	enemy_state = states.flee;
-	moveDir = point_direction(x,y,obj_player.x,obj_player.y);
+		enemy_state = states.flee;
+		moveDir = point_direction(x,y,obj_player.x,obj_player.y);
 	
-	xMove = lengthdir_x(spd*-1,moveDir);
-	yMove = lengthdir_y(spd*-1,moveDir);
-	
-	scr_move_collide();
-}
-else
-{
-	
-	closest_nom = instance_nearest(x,y,par_lightsource);
-	
-	if(!closest_nom.rad > 0)
-	{
-		closest_nom = instance_nearest(x,y,obj_player);
-	}
-		
-	if(closest_nom != noone)
-	{
-		//Track player
-		moveDir = point_direction(x,y,closest_nom.x,closest_nom.y);
-	
-		xMove = lengthdir_x(spd,moveDir);
-		yMove = lengthdir_y(spd,moveDir);
+		xMove = lengthdir_x(spd*-1,moveDir);
+		yMove = lengthdir_y(spd*-1,moveDir);
 	
 		scr_move_collide();
-		
 	}
-//move_towards_point(obj_player.x,obj_player.y,spd);
-}	
-
+	else
+	{
+	
+		closest_nom = instance_nearest(x,y,par_lightsource);
+	
+		if(!closest_nom.rad > 0)
+		{
+			closest_nom = instance_nearest(x,y,obj_player);
+		}
+		
+		if(closest_nom != noone)
+		{
+			//Track player
+			moveDir = point_direction(x,y,closest_nom.x,closest_nom.y);
+	
+			xMove = lengthdir_x(spd,moveDir);
+			yMove = lengthdir_y(spd,moveDir);
+	
+			scr_move_collide();
+		
+		}
+	//move_towards_point(obj_player.x,obj_player.y,spd);
+	}	
+}
 image_xscale = -1 * sign(xMove);
 
 audio_emitter_position(emitter,x,y,0);
+
+if(obj_player.lightOn)
+{
+	audio_emitter_gain(emitter,0.1);
+}
+else
+{
+	audio_emitter_gain(emitter,1);
+}
