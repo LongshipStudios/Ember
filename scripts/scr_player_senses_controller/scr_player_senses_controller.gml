@@ -5,7 +5,7 @@
 if (lightOn == false)
 {
 	obj_player.rad  = max(min_light_rad,rad-50);
-	audio_sound_gain(fireSound, 0.2, 150);
+	audio_sound_gain(fireSound, 0.1, 150);
 //	audio_sound_gain(footstepSound, 1, 200);
 	
 	//Increases volume of all directional/binaural sounds
@@ -16,7 +16,7 @@ if (lightOn == false)
 else
 {
 	obj_player.rad = min(max_light_rad,rad+10);
-	audio_sound_gain(fireSound, 1, 200);
+	audio_sound_gain(fireSound, 0.8, 200);
 //	audio_sound_gain(footstepSound, 0, 100);
 	
 	//Decreases volume of all directional/binaural sounds

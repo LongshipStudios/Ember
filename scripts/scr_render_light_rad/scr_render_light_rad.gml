@@ -1,3 +1,4 @@
+var col = $eb814c;
 surface_set_target(obj_player.surf);
 
 gpu_set_blendmode(bm_max);
