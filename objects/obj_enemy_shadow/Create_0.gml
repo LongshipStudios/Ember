@@ -2,7 +2,7 @@
 // You can write your code in this editor
 
 //Stats
-spd = 1;
+spd = 0.8;
 
 //Movement variables
 moveDir = 0;
