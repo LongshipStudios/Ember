@@ -5,11 +5,13 @@
 if (lightOn == false)
 {
 	obj_player.rad  = max(min_light_rad,rad-50);
-	audio_sound_gain(fireSound, 0, 100);
+	audio_sound_gain(fireSound, 0.2, 150);
 //	audio_sound_gain(footstepSound, 1, 200);
 	
 	//Increases volume of all directional/binaural sounds
 	if(instance_exists(obj_manager_audio)) { obj_manager_audio.fade = clamp(obj_manager_audio.fade-100000, 0, 1000000) }
+	
+	
 }
 else
 {
@@ -19,4 +21,6 @@ else
 	
 	//Decreases volume of all directional/binaural sounds
     if(instance_exists(obj_manager_audio)) { obj_manager_audio.fade = clamp(obj_manager_audio.fade+100000, 0, 1000000) }
+	
+	
 }
