@@ -11,12 +11,14 @@ draw_set_color(c_black);
 draw_rectangle(0,0,room_width,room_height,false);
 surface_reset_target();
 
-scr_render_light_rad(x,y,rad);
+scr_render_light_rad();
+//scr_render_light_rad(50,50,100);
 
-scr_render_light_rad(50,50,100);
 
 draw_set_alpha(1);
+//shader_set(shd_new_light);
 draw_surface(surf,0,0);
+//shader_reset();
 //draw_surface_ext(surf,0,0,1,1,0,0,1);
 
 /**
@@ -75,3 +77,4 @@ draw_surface_ext(surf,0,0,1,1,0,0,0.0000001);
 shader_reset();
 
 draw_self();
+*/

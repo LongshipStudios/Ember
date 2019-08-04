@@ -1,7 +1,7 @@
 //Default light radius
 rad = 250;
 min_light_rad = 50;
-max_light_rad = 250;
+max_light_rad = 150;
 //Movement variables
 spd = 200;
 spdRampUpSpd = 0.7; //time in seconds to max speed
@@ -42,7 +42,6 @@ surf = -1;
 
 //LightPosRadius = shader_get_uniform(shd_light,"u_fLightPositionRadius");
 
-fireSound = audio_play_sound(snd_roaring_fire,120,true);
 
 if (gamepad_is_supported() && gamepad_is_connected(0))
 {
@@ -50,3 +49,15 @@ if (gamepad_is_supported() && gamepad_is_connected(0))
 }
 
 draw_set_circle_precision(32);
+
+//Audio stuffs
+moveAudioEdge = false;
+fireSound = audio_play_sound(snd_roaring_fire,120,true);
+footstepSound = noone;
+
+//footstepSound = audio_play_sound(snd_footstep_normal,120,true);
+
+walk_anim_array[0] = spr_player_walk_right; //Right
+walk_anim_array[1] = spr_player_walk_up; //Up
+walk_anim_array[2] = spr_player_walk_left; //Left
+walk_anim_array[3] = spr_player_walk_front; //Down

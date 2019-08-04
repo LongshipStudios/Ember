@@ -6,9 +6,29 @@ if (enemy_state = states.grow)
 	enemy_state = states.appraoch;
 	image_index = 0;
 }
-else if (enemy_state = states.flee)
+
+if( sprite_index = spr_shadow_flee)
 {
+	sprite_index = spr_shadow_idle;
+}
+
+if(enemy_state = states.attack)
+{
+	//kill the torch
+	var nearest_torch = instance_nearest(x,y,obj_torch);
+		if(instance_exists(nearest_torch))
+		{
+			if(point_distance(x,y,nearest_torch.x,nearest_torch.y) < attack_rad)
+			{
+				with(nearest_torch)
+				{
+					lit = false;
+					sprite_index = spr_torch_unlit;
+					rad = 0;
+				}
+			}
+		}
+		
 	enemy_state = states.idle;
-	image_speed = 1;
-	image_index = 0;
+	isAttacking = false;
 }

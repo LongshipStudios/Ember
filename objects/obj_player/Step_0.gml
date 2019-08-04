@@ -1,5 +1,15 @@
 //// Movement
 delta_time_sec = delta_time/1000000;
+
+if (movementInput)
+{
+	moveAudioEdge = true;
+}
+else
+{
+	moveAudioEdge = false;
+}
+
 movementInput = false;
 
 xMove = 0;
@@ -19,7 +29,7 @@ if (gamepad_is_supported() && gamepad_is_connected(0))
 	leftKeyPressed = leftKeyPressed || gamepad_button_check(0, gp_padl);
 	downKeyPressed = downKeyPressed || gamepad_button_check(0, gp_padd);
 	rightKeyPressed = rightKeyPressed || gamepad_button_check(0, gp_padr);
-	lanternDimPressed = lanternDimPressed || gamepad_button_check(0, gp_face1);
+	lanternDimPressed = lanternDimPressed || gamepad_button_check(0, gp_face1) || gamepad_button_check(0, gp_face2) || gamepad_button_check(0, gp_face3) || gamepad_button_check(0, gp_face4);
 }
 
 //set xMove yMove if gamepad sticks are used
@@ -41,13 +51,24 @@ if (rightKeyPressed || leftKeyPressed || downKeyPressed || upKeyPressed)
 //If we have inputs
 if(movementInput)
 {
+	if(!moveAudioEdge)
+	{
+		//turn on footsteps
+		footstepSound = audio_play_sound(snd_footstep_normal,120,true);
+	}
 	spdRampTimer = clamp(spdRampTimer + delta_time_sec, 0, spdRampUpSpd);
 	var actualspeed = lerp(0, spd, spdRampTimer/spdRampUpSpd);
 	
 	lightOn = false;
+	
+//	audio_sound_gain(footstepSound, 1, 200);
 }
 else
 {
+	if(moveAudioEdge)
+	{
+		audio_stop_sound(footstepSound);
+	}
 	spdRampTimer = clamp(spdRampTimer - delta_time_sec, 0, spdRampDownSpd);
 	var actualspeed = lerp(0, spd, spdRampTimer/spdRampDownSpd);
 	
@@ -59,6 +80,8 @@ else
 	{
 		lightOn = true;
 	}
+	
+//	audio_sound_gain(footstepSound, 0, 100);
 }
 
 moveDir = point_direction(0,0,xDir,yDir);
@@ -67,4 +90,159 @@ yMove = round(lengthdir_y(actualspeed,moveDir) * delta_time_sec);
 
 //Do move*/
 scr_move_collide();
-scr_player_senses_controller();
+scr_player_senses_controller(); //Light on/off stuff i.e. sound
+
+//Anims
+//walk anim mod 4 isn't correct I dont think but not sure of correct fix....ZZZZZZ.....
+
+switch(sprite_index)
+{
+	case spr_player_walk_front: //Add other walks here
+	if(!lightOn && movementInput)
+	{
+		 sprite_index = walk_anim_array[clamp(round(moveDir/90),0,3)]; //Gets the correct walk anim for the move direction
+	}
+	else
+	{
+		if(lightOn)
+		{
+			sprite_index = spr_player_idle_start; //Transition to fire ele being out and about
+		}
+		else
+		{
+			sprite_index = spr_player_idle_dark; //Play idle anim with fire ele hiding
+		}
+	}
+	break;
+	
+	case spr_player_walk_up: //Add other walks here
+	if(!lightOn && movementInput)
+	{
+		 sprite_index = walk_anim_array[clamp(round(moveDir/90),0,3)]; //Gets the correct walk anim for the move direction
+	}
+	else
+	{
+		if(lightOn)
+		{
+			sprite_index = spr_player_idle_start; //Transition to fire ele being out and about
+		}
+		else
+		{
+			sprite_index = spr_player_idle_dark; //Play idle anim with fire ele hiding
+		}
+	}
+	break;
+	
+	case spr_player_walk_left: //Add other walks here
+	if(!lightOn && movementInput)
+	{
+		 sprite_index = walk_anim_array[clamp(round(moveDir/90),0,3)]; //Gets the correct walk anim for the move direction
+	}
+	else
+	{
+		if(lightOn)
+		{
+			sprite_index = spr_player_idle_start; //Transition to fire ele being out and about
+		}
+		else
+		{
+			sprite_index = spr_player_idle_dark; //Play idle anim with fire ele hiding
+		}
+	}
+	break;
+	
+	case spr_player_walk_right: //Add other walks here
+	if(!lightOn && movementInput)
+	{
+		 sprite_index = walk_anim_array[clamp(round(moveDir/90),0,3)]; //Gets the correct walk anim for the move direction
+	}
+	else
+	{
+		if(lightOn)
+		{
+			sprite_index = spr_player_idle_start; //Transition to fire ele being out and about
+		}
+		else
+		{
+			sprite_index = spr_player_idle_dark; //Play idle anim with fire ele hiding
+		}
+	}
+	break;
+	
+	
+	
+	case spr_player_idle_loop:
+	if(!lightOn && movementInput)
+	{
+		sprite_index = spr_player_idle_exit; //Gets the correct walk anim for the move direction
+	}
+	else
+	{
+		if(lightOn)
+		{
+			sprite_index = spr_player_idle_loop; //Fire ele is now fully out and about
+		}
+		else
+		{
+			sprite_index = spr_player_idle_exit; //Play idle anim with fire ele hiding
+		}
+	}
+	break;
+	
+	
+	case spr_player_idle_start:
+	if(!lightOn && movementInput)
+	{
+		sprite_index = spr_player_idle_exit; //Gets the correct walk anim for the move direction
+	}
+	else
+	{
+		if(lightOn)
+		{
+			sprite_index = spr_player_idle_loop; //Fire ele is now fully out and about
+		}
+		else
+		{
+			sprite_index = spr_player_idle_dark; //Play idle anim with fire ele hiding
+		}
+	}
+	break;
+	
+	
+	case spr_player_idle_exit:
+	if(!lightOn && movementInput)
+	{
+		sprite_index = walk_anim_array[clamp(round(moveDir/90),0,3)]; //Gets the correct walk anim for the move direction
+	}
+	else
+	{
+		if(lightOn)
+		{
+			sprite_index = spr_player_idle_start; //Fire ele is coming out
+		}
+		else
+		{
+			sprite_index = spr_player_idle_dark; //Play idle anim with fire ele hiding
+		}
+	}
+	break;
+	
+	
+	case spr_player_idle_dark:
+	if(!lightOn && movementInput)
+	{
+		sprite_index = walk_anim_array[clamp(round(moveDir/90),0,3)]; //Gets the correct walk anim for the move direction
+	}
+	else
+	{
+		if(lightOn)
+		{
+			sprite_index = spr_player_idle_start; //Bring back out fire ele
+		}
+		else
+		{
+			sprite_index = spr_player_idle_dark; //Keep fire ele away
+		}
+	}
+	break;
+}

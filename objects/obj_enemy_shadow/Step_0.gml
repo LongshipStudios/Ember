@@ -22,10 +22,14 @@ switch(enemy_state)
 	case states.idle:
 		image_speed = 1;
 		sprite_index = spr_shadow_idle;
-		if (collision_circle(x,y,tasty_rad,par_lightsource,false,false))
+		var tasty = collision_circle(x,y,tasty_rad,par_lightsource,false,false)
+		if(instance_exists(tasty))
 		{
-			enemy_state = states.grow;
-			image_index = 0;
+			if(tasty.rad > 0)
+			{
+				enemy_state = states.grow;
+				image_index = 0;
+			}
 		}
 		else
 		{
@@ -38,29 +42,45 @@ switch(enemy_state)
 	case states.appraoch:
 		image_speed = 1;
 		sprite_index = spr_shadow_proximity;
-		if (collision_circle(x,y,attack_rad,par_lightsource,false,false))
+		var potential_nom = collision_circle(x,y,attack_rad,par_lightsource,false,false)
+		if(instance_exists(potential_nom))
 		{
-			enemy_state = states.attack;
-			image_index = 0;
+			if(potential_nom.rad > 0)
+			{
+				enemy_state = states.attack;
+				image_index = 0;
+			}
 		}
-		else
-		{
-			break;
-		}
+		break;
+		
 	case states.attack:
 		image_speed = 1;
 		sprite_index = spr_shadow_attack;
+		
+		//Audio
+		if(!isAttacking)
+		{
+			audio_stop_sound(moveSound);
+			audio_play_sound_on(emitter,snd_slime_attack,false,150);
+			isAttacking = true;
+		}
 		break;
 	case states.flee:
-		image_speed = -1;
-		sprite_index = spr_shadow_flee;
+		image_speed = 1;
 		break;
 }
 
-if(obj_player.lightOn && distance_to_object(obj_player) < obj_player.rad*0.6)
+if(obj_player.lightOn && distance_to_object(obj_player) < obj_player.rad*0.6 || do_flee == false)
 {
+	if(do_flee)
+	{
+		alarm[0] = room_speed * 2;
+		do_flee = false;
+		image_index = 0;
+		sprite_index = spr_shadow_flee;
+	}
+	
 	enemy_state = states.flee;
-	image_index = 0;
 	moveDir = point_direction(x,y,obj_player.x,obj_player.y);
 	
 	xMove = lengthdir_x(spd*-1,moveDir);
@@ -70,12 +90,28 @@ if(obj_player.lightOn && distance_to_object(obj_player) < obj_player.rad*0.6)
 }
 else
 {
-	//Track player
-	moveDir = point_direction(x,y,obj_player.x,obj_player.y);
 	
-	xMove = lengthdir_x(spd,moveDir);
-	yMove = lengthdir_y(spd,moveDir);
+	closest_nom = instance_nearest(x,y,par_lightsource);
 	
-	scr_move_collide();
+	if(!closest_nom.rad > 0)
+	{
+		closest_nom = instance_nearest(x,y,obj_player);
+	}
+		
+	if(closest_nom != noone)
+	{
+		//Track player
+		moveDir = point_direction(x,y,closest_nom.x,closest_nom.y);
+	
+		xMove = lengthdir_x(spd,moveDir);
+		yMove = lengthdir_y(spd,moveDir);
+	
+		scr_move_collide();
+		
+	}
 //move_towards_point(obj_player.x,obj_player.y,spd);
 }	
+
+image_xscale = -1 * sign(xMove);
+
+audio_emitter_position(emitter,x,y,0);
