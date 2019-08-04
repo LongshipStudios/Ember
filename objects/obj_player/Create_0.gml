@@ -53,6 +53,7 @@ draw_set_circle_precision(32);
 //Audio stuffs
 moveAudioEdge = false;
 fireSound = audio_play_sound(snd_roaring_fire,120,true);
+footstepSound = noone;
 
 //footstepSound = audio_play_sound(snd_footstep_normal,120,true);
 

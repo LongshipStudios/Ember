@@ -57,20 +57,13 @@ switch(enemy_state)
 		image_speed = 1;
 		sprite_index = spr_shadow_attack;
 		
-		var nearest_torch = instance_nearest(x,y,obj_torch);
-		if(instance_exists(nearest_torch))
+		//Audio
+		if(!isAttacking)
 		{
-			if(point_distance(x,y,nearest_torch.x,nearest_torch.y) < attack_rad)
-			{
-				with(nearest_torch)
-				{
-					lit = false;
-					sprite_index = spr_torch_unlit;
-					rad = 0;
-				}
-			}
+			audio_stop_sound(moveSound);
+			audio_play_sound_on(emitter,snd_slime_attack,false,150);
+			isAttacking = true;
 		}
-		
 		break;
 	case states.flee:
 		image_speed = 1;
@@ -114,8 +107,11 @@ else
 		yMove = lengthdir_y(spd,moveDir);
 	
 		scr_move_collide();
+		
 	}
 //move_towards_point(obj_player.x,obj_player.y,spd);
 }	
 
 image_xscale = -1 * sign(xMove);
+
+audio_emitter_position(emitter,x,y,0);

@@ -12,7 +12,7 @@ else
 {
 	self.visible = false;
 }
-if(obj_player.movementInput)
+if(obj_player.movementInput || obj_player.lanternDimPressed)
 {
 	self.visible = true;
 }
