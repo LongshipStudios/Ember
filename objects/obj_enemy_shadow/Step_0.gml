@@ -61,7 +61,7 @@ switch(enemy_state)
 		if(!isAttacking)
 		{
 			audio_stop_sound(moveSound);
-			audio_play_sound_on(emitter,snd_slime_attack,false,150);
+			audio_play_sound_on(emitter,snd_slime_attack,false,100);
 			isAttacking = true;
 		}
 		break;
