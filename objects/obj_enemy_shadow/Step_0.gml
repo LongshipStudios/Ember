@@ -22,10 +22,14 @@ switch(enemy_state)
 	case states.idle:
 		image_speed = 1;
 		sprite_index = spr_shadow_idle;
-		if (collision_circle(x,y,tasty_rad,par_lightsource,false,false))
+		var tasty = collision_circle(x,y,tasty_rad,par_lightsource,false,false)
+		if(instance_exists(tasty))
 		{
-			enemy_state = states.grow;
-			image_index = 0;
+			if(tasty.rad > 0)
+			{
+				enemy_state = states.grow;
+				image_index = 0;
+			}
 		}
 		else
 		{
@@ -38,10 +42,14 @@ switch(enemy_state)
 	case states.appraoch:
 		image_speed = 1;
 		sprite_index = spr_shadow_proximity;
-		if (collision_circle(x,y,attack_rad,par_lightsource,false,false))
+		var potential_nom = collision_circle(x,y,attack_rad,par_lightsource,false,false)
+		if(instance_exists(potential_nom))
 		{
-			enemy_state = states.attack;
-			image_index = 0;
+			if(potential_nom.rad > 0)
+			{
+				enemy_state = states.attack;
+				image_index = 0;
+			}
 		}
 		else
 		{
@@ -50,6 +58,21 @@ switch(enemy_state)
 	case states.attack:
 		image_speed = 1;
 		sprite_index = spr_shadow_attack;
+		
+		var nearest_torch = instance_nearest(x,y,obj_torch);
+		if(instance_exists(nearest_torch))
+		{
+			if(point_distance(x,y,nearest_torch.x,nearest_torch.y) < 20)
+			{
+				with(nearest_torch)
+				{
+					lit = false;
+					sprite_index = spr_torch_unlit;
+					rad = 0;
+				}
+			}
+		}
+		
 		break;
 	case states.flee:
 		image_speed = -1;
@@ -70,12 +93,23 @@ if(obj_player.lightOn && distance_to_object(obj_player) < obj_player.rad*0.6)
 }
 else
 {
-	//Track player
-	moveDir = point_direction(x,y,obj_player.x,obj_player.y);
 	
-	xMove = lengthdir_x(spd,moveDir);
-	yMove = lengthdir_y(spd,moveDir);
+	closest_nom = instance_nearest(x,y,par_lightsource);
 	
-	scr_move_collide();
+	if(!closest_nom.rad > 0)
+	{
+		closest_nom = instance_nearest(x,y,obj_player);
+	}
+		
+	if(closest_nom != noone)
+	{
+		//Track player
+		moveDir = point_direction(x,y,closest_nom.x,closest_nom.y);
+	
+		xMove = lengthdir_x(spd,moveDir);
+		yMove = lengthdir_y(spd,moveDir);
+	
+		scr_move_collide();
+	}
 //move_towards_point(obj_player.x,obj_player.y,spd);
 }	

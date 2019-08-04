@@ -5,4 +5,4 @@ emitter = audio_emitter_create();
 audio_emitter_position(emitter,x,y,0)
 audio_emitter_falloff(emitter,100,250,1);
 
-audio_play_sound_on(emitter, snd_firefly, false, 100);
+audio_play_sound_on(emitter, snd_firefly, true, 100);
