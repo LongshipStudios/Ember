@@ -1,1 +1,9 @@
 audio_emitter_position(emitter,x,y,0);
+if(obj_player.lightOn)
+{
+	audio_emitter_gain(emitter,0.1);
+}
+else
+{
+	audio_emitter_gain(emitter,1);
+}

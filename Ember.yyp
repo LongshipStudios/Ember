@@ -58,7 +58,7 @@
             "Key": "0256a0ef-5a63-4cac-a300-e1d5e037bb52",
             "Value": {
                 "id": "7cbcc039-a219-4c17-8293-c2e40f866247",
-                "resourcePath": "tilesets\\tileset4\\tileset4.yy",
+                "resourcePath": "tilesets\\ts_floor4\\ts_floor4.yy",
                 "resourceType": "GMTileSet"
             }
         },
@@ -1490,7 +1490,7 @@
             "Key": "fa8fb773-f0c6-43d1-9c58-e5c465dc64b2",
             "Value": {
                 "id": "562213f7-2312-4005-a441-a5618c2485ba",
-                "resourcePath": "sprites\\sprite37\\sprite37.yy",
+                "resourcePath": "sprites\\spr_tile_terrain4\\spr_tile_terrain4.yy",
                 "resourceType": "GMSprite"
             }
         },
