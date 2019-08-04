@@ -746,7 +746,7 @@
             "Key": "83ed5783-da5b-4f81-ba66-75e340f298e7",
             "Value": {
                 "id": "0fbfcd75-8006-4329-b951-b85cc7ffa38a",
-                "resourcePath": "sprites\\sprite33\\sprite33.yy",
+                "resourcePath": "sprites\\spr_bgcredits\\spr_bgcredits.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1122,7 +1122,7 @@
             "Key": "c2d09876-0c0b-4e0a-a640-9dbb5424b00f",
             "Value": {
                 "id": "c36344d9-ce67-4abc-b12c-51a791205aaf",
-                "resourcePath": "sprites\\sprite36\\sprite36.yy",
+                "resourcePath": "sprites\\spr_bgtitle\\spr_bgtitle.yy",
                 "resourceType": "GMSprite"
             }
         },
